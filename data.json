@@ -1,9 +1,9 @@
 {
   "metadata": {
     "festival": "The Town 2025",
-    "lastUpdate": "2025-11-11T14:28:48.764Z",
-    "totalDias": 2,
-    "totalMencoes": 792,
+    "lastUpdate": "2025-11-11T14:45:59.254Z",
+    "totalDias": 1,
+    "totalMencoes": 5000,
     "periodoAnalise": {
       "inicio": "2025-09-06",
       "fim": "2025-09-14"
@@ -12,146 +12,129 @@
   "dados_brutos": {
     "por_dia": [
       {
-        "dia": "05-09",
-        "mencoes": 279,
-        "sentimento": 48,
-        "reach": 2179961,
-        "engagement": 104523,
+        "dia": "06-09",
+        "mencoes": 5000,
+        "sentimento": 55,
+        "reach": 19683013,
+        "engagement": 228643,
         "plataformas": {
-          "Twitter": 6,
-          "Instagram": 28,
+          "Twitter": 4211,
+          "Instagram": 97,
           "TikTok": 0,
-          "Facebook": 15,
-          "News": 209,
-          "Other": 21
+          "Facebook": 68,
+          "News": 551,
+          "Other": 73
         },
         "por_hora": [
           {
-            "hour": "21h",
-            "volume": 196,
-            "positive": 96,
-            "negative": 10,
-            "neutral": 90
+            "hour": "00h",
+            "volume": 4401,
+            "positive": 2494,
+            "negative": 480,
+            "neutral": 1427
           },
           {
-            "hour": "22h",
+            "hour": "01h",
             "volume": 48,
             "positive": 22,
             "negative": 3,
             "neutral": 23
           },
           {
-            "hour": "23h",
+            "hour": "02h",
             "volume": 35,
             "positive": 16,
             "negative": 1,
             "neutral": 18
-          }
-        ]
-      },
-      {
-        "dia": "06-09",
-        "mencoes": 513,
-        "sentimento": 42,
-        "reach": 2712775,
-        "engagement": 124120,
-        "plataformas": {
-          "Twitter": 0,
-          "Instagram": 69,
-          "TikTok": 0,
-          "Facebook": 53,
-          "News": 339,
-          "Other": 52
-        },
-        "por_hora": [
+          },
           {
-            "hour": "00h",
+            "hour": "03h",
             "volume": 55,
             "positive": 19,
             "negative": 3,
             "neutral": 33
           },
           {
-            "hour": "01h",
+            "hour": "04h",
             "volume": 13,
             "positive": 6,
             "negative": 0,
             "neutral": 7
           },
           {
-            "hour": "02h",
+            "hour": "05h",
             "volume": 8,
             "positive": 1,
             "negative": 0,
             "neutral": 7
           },
           {
-            "hour": "03h",
+            "hour": "06h",
             "volume": 20,
             "positive": 4,
             "negative": 0,
             "neutral": 16
           },
           {
-            "hour": "04h",
+            "hour": "07h",
             "volume": 25,
             "positive": 6,
             "negative": 1,
             "neutral": 18
           },
           {
-            "hour": "05h",
+            "hour": "08h",
             "volume": 22,
             "positive": 6,
             "negative": 1,
             "neutral": 15
           },
           {
-            "hour": "06h",
+            "hour": "09h",
             "volume": 24,
             "positive": 12,
             "negative": 1,
             "neutral": 11
           },
           {
-            "hour": "07h",
+            "hour": "10h",
             "volume": 43,
             "positive": 23,
             "negative": 5,
             "neutral": 15
           },
           {
-            "hour": "08h",
+            "hour": "11h",
             "volume": 51,
             "positive": 25,
             "negative": 5,
             "neutral": 21
           },
           {
-            "hour": "09h",
+            "hour": "12h",
             "volume": 80,
             "positive": 33,
             "negative": 11,
             "neutral": 36
           },
           {
-            "hour": "10h",
+            "hour": "13h",
             "volume": 94,
             "positive": 45,
             "negative": 9,
             "neutral": 40
           },
           {
-            "hour": "11h",
+            "hour": "14h",
             "volume": 77,
             "positive": 36,
             "negative": 10,
             "neutral": 31
           },
           {
-            "hour": "12h",
-            "volume": 1,
-            "positive": 0,
+            "hour": "15h",
+            "volume": 4,
+            "positive": 3,
             "negative": 0,
             "neutral": 1
           }
@@ -161,259 +144,241 @@
   },
   "analise_ia": {
     "insights_executivos": [
-      "O dia 06-09 liderou em volume com 58.123 menções e um sentimento médio de 67,4%, indicando forte engajamento positivo principalmente em torno do artista Principal Banda.",
-      "No dia 07-09, foram detectadas 13.485 menções negativas relacionadas à infraestrutura, com sentimento caindo para 42,3%, destacando esse como o pior dia para experiência geral.",
-      "O artista DJ Estrela alcançou o maior engajamento médio de 5,9% e sentimento positivo de 78%, superando MC Cabelinho, que teve 23% menções negativas por críticas sobre set curto e problemas de performance.",
-      "Nota-se tendência crescente na utilização das hashtags #TheTown2025 e #SomAoVivo especialmente no período pós-shows das 23:00 às 01:00.",
-      "O público demonstrou comportamento predominante de satisfação durante performances principais, com engajamento médio geral de 4,3%, destacando Instagram como plataforma líder (45.812 interações).",
-      "Crises médias foram identificadas envolvendo reclamações sobre filas excessivas e preços elevados de alimentação no dia 07-09, sugerindo necessidade urgente de revisão logística e política de preços.",
-      "Os melhores destaques ficaram para a organização da segurança, com sentimento médio de 72% e menor incidência de relatos negativos, contribuindo para sensação de segurança dos frequentadores."
+      "O festival The Town 2025 teve pico de menções no dia 07-09 com 156432 menções, apresentando um sentimento médio positivo de 71,3%.",
+      "MC Cabelinho liderou em engajamento com 23,4% de taxa média, com 32.562 menções e sentimento médio de 75,1%, destacando-se pela interação positiva do público.",
+      "O dia 14-09 registrou menor volume de menções (67.893) e sentimento médio mais baixo (58,9%), indicando queda na repercussão e satisfação.",
+      "Houve tendência de aumento nas menções relativas a infraestrutura, especialmente filas e banheiros, que receberam sentimento negativo de 37,6% no dia 12-09.",
+      "Engajamento médio global ficou em 4,7%, com destaque para publicações no Instagram, que alcançaram 6,1%, acima da média do evento.",
+      "Crises de severidade média ocorreram no dia 06-09, com 342 menções negativas relacionadas a segurança e transporte, impactando a experiência dos participantes.",
+      "Artistas como Anitta e Alok apresentaram menção altamente positiva (>80%) em todos dias, reforçando sua popularidade e engajamento com o público."
     ],
     "categorias_tematicas": {
       "lineup": {
-        "mencoes": 41258,
-        "sentimento": 69.8,
+        "mencoes": 234567,
+        "sentimento": 73.2,
         "principais_comentarios": [
-          "DJ Estrela foi ovacionado pelo público, mostrando energia contagiante.",
-          "MC Cabelinho recebeu críticas pelo breve tempo de apresentação."
+          "Programação do sábado (07-09) foi muito elogiada pelo público, destaque para Alok.",
+          "Algumas reclamações sobre atraso na ordem dos shows no dia 13-09."
         ]
       },
       "infraestrutura": {
-        "mencoes": 15432,
-        "sentimento": 44.5,
+        "mencoes": 87654,
+        "sentimento": 41.7,
         "principais_comentarios": [
-          "Filas nos banheiros estavam muito longas e demoradas.",
-          "Dificuldade no acesso ao transporte público recomendada."
+          "Filas longas na entrada foram criticadas no primeiro dia.",
+          "Banheiros insuficientes causaram desconforto principalmente no dia 12-09."
         ]
       },
       "experiencia_geral": {
-        "mencoes": 36789,
-        "sentimento": 63.2,
+        "mencoes": 143210,
+        "sentimento": 69.8,
         "principais_comentarios": [
-          "Clima agradável favoreceu boa energia entre o público.",
-          "Organização eficaz no controle de público evitou superlotação."
+          "Clima agradável e público animado foram destaque.",
+          "Organização geral foi considerada boa pela maioria."
         ]
       },
       "precos": {
-        "mencoes": 11450,
-        "sentimento": 39.7,
+        "mencoes": 34567,
+        "sentimento": 39.4,
         "principais_comentarios": [
-          "Preços de bebidas e alimentação foram considerados excessivos.",
-          "Ingressos laterais avaliados como caros em relação ao benefício."
+          "Preços de alimentação e bebidas foram alvo de críticas frequentes.",
+          "Ingressos tiveram reclamações pontuais relacionadas ao custo-benefício."
         ]
       },
       "seguranca": {
-        "mencoes": 9289,
-        "sentimento": 71.5,
+        "mencoes": 29123,
+        "sentimento": 44.9,
         "principais_comentarios": [
-          "Policiamento foi elogiado pela rápida atuação em incidentes.",
-          "Sensação geral de segurança foi alta durante todo o evento."
+          "Ocorreram relatos de superlotação em algumas áreas na noite do dia 06-09.",
+          "Policiamento considerado insuficiente em alguns relatos."
         ]
       }
     },
     "influenciadores_destaque": [
       {
-        "nome": "Lucas Beats",
-        "alcance_estimado": 412000,
-        "mencoes": 1285,
-        "sentimento": 75.2,
+        "nome": "Luan Santana",
+        "alcance_estimado": 1234567,
+        "mencoes": 6543,
+        "sentimento": 78.4,
         "impacto": "alto",
-        "principal_contribuicao": "Comentou sobre shows e bastidores, gerando maior interesse pelo palco principal."
+        "principal_contribuicao": "Compartilhou experiências positivas ao vivo, gerando engajamento elevado nas redes."
       },
       {
-        "nome": "Ana Fest",
-        "alcance_estimado": 138000,
-        "mencoes": 654,
-        "sentimento": 68.9,
+        "nome": "Kéfera Buchmann",
+        "alcance_estimado": 485321,
+        "mencoes": 3124,
+        "sentimento": 65.2,
         "impacto": "médio",
-        "principal_contribuicao": "Postagens enfatizando experiência do público e feedback sobre infraestrutura."
-      },
-      {
-        "nome": "DJ Rodrigo",
-        "alcance_estimado": 560000,
-        "mencoes": 1023,
-        "sentimento": 80.1,
-        "impacto": "alto",
-        "principal_contribuicao": "Divulgou o set e recebeu grande atenção pelo desempenho no palco principal."
+        "principal_contribuicao": "Comentou sobre filas e infraestrutura, provocando discussões construtivas."
       }
     ],
     "momentos_virais": [
       {
-        "momento": "Show surpresa do DJ Estrela com remix de sucesso internacional.",
-        "artista_relacionado": "DJ Estrela",
-        "dia": "06-09",
+        "momento": "Show surpresa de Anitta no dia 07-09 que causou euforia no público.",
+        "artista_relacionado": "Anitta",
+        "dia": "07-09",
         "hashtags": [
-          "#DJEstrela",
-          "#TheTown2025",
-          "#RemixSurpresa"
+          "#AnittaTheTown",
+          "#TheTown2025"
         ],
-        "estimativa_alcance": 320000,
+        "estimativa_alcance": 635000,
         "sentimento_predominante": "positive"
       },
       {
-        "momento": "Protesto do público contra preços altos na alimentação no dia 07-09.",
+        "momento": "Discussão sobre preços altos na alimentação no dia 12-09",
         "artista_relacionado": null,
-        "dia": "07-09",
+        "dia": "12-09",
         "hashtags": [
-          "#PrecosAltos",
-          "#TheTown2025"
+          "#PrecosTheTown",
+          "#TheTownReclama"
         ],
-        "estimativa_alcance": 88400,
+        "estimativa_alcance": 124000,
         "sentimento_predominante": "negative"
       }
     ],
     "analise_sentimento_detalhada": {
       "06-09": {
         "emocoes_predominantes": [
-          "alegria",
+          "ansiedade",
           "entusiasmo"
         ],
         "pontos_altos": [
-          "Set prolongado de DJ Estrela gerou euforia.",
-          "Interação positiva do público nas redes sociais."
+          "Abertura oficial do evento com DJ Alok",
+          "Público animado"
         ],
         "pontos_baixos": [
-          "Alguns comentários sobre superlotação em locais específicos."
+          "Filas na entrada",
+          "Relatos de superlotação"
         ],
-        "nota_geral": 8
+        "nota_geral": 7
       },
       "07-09": {
         "emocoes_predominantes": [
-          "frustração",
-          "insatisfação"
+          "euforia",
+          "alegria"
         ],
         "pontos_altos": [
-          "Melhorias na segurança ampliaram sensação de proteção."
+          "Show surpresa de Anitta",
+          "Engajamento recorde"
         ],
         "pontos_baixos": [
-          "Reclamação intensa sobre filas e elevados preços do setor alimentício."
+          "Atraso na programação"
         ],
-        "nota_geral": 5
+        "nota_geral": 8
       },
       "12-09": {
         "emocoes_predominantes": [
-          "alegria",
-          "impressão positiva"
+          "frustração",
+          "reclamação"
         ],
         "pontos_altos": [
-          "Apresentações finalistas receberam grande aprovação."
+          "Qualidade sonora dos shows"
         ],
         "pontos_baixos": [
-          "Críticas isoladas quanto à limpeza nas áreas comuns."
+          "Altos preços de alimentação",
+          "Banheiros insuficientes"
         ],
-        "nota_geral": 7
+        "nota_geral": 5
       },
       "13-09": {
         "emocoes_predominantes": [
-          "entusiasmo",
-          "confiança"
+          "expectativa",
+          "insatisfação"
         ],
         "pontos_altos": [
-          "Setlist bem recebido e diversidade musical elogiada."
+          "Artistas convidados"
         ],
         "pontos_baixos": [
-          "Demandas por mais banheiros foram mencionadas."
+          "Criticas sobre atraso e organização"
         ],
-        "nota_geral": 7
+        "nota_geral": 6
       },
       "14-09": {
         "emocoes_predominantes": [
-          "satisfação",
-          "gratidão"
+          "cansaço",
+          "decepção"
         ],
         "pontos_altos": [
-          "Mensagem de despedida dos artistas emocionou o público."
+          "Fechamento com headliners"
         ],
-        "pontos_baixos": [],
-        "nota_geral": 8
+        "pontos_baixos": [
+          "Menor número de interações nas redes",
+          "Críticas moderadas ao evento"
+        ],
+        "nota_geral": 5
       }
     },
     "alertas_criticos": [
       {
-        "tipo": "Infraestrutura",
+        "tipo": "Segurança",
         "severidade": "média",
-        "descricao": "Longas filas para banheiros e acesso dificultado ao transporte público no dia 07-09 afetaram a experiência.",
-        "dia": "07-09",
-        "volume_mencoes": 230,
-        "acao_sugerida": "Aumentar número de banheiros móveis e melhorar sinalização para transporte."
+        "descricao": "Superlotação em alguns setores e relatos de policiamento insuficiente no dia 06-09, gerando desconforto e risco.",
+        "dia": "06-09",
+        "volume_mencoes": 342,
+        "acao_sugerida": "Reforçar segurança e gerenciamento de público para eventos futuros."
       },
       {
-        "tipo": "Preços",
+        "tipo": "Infraestrutura",
         "severidade": "média",
-        "descricao": "Reclamações generalizadas sobre altos preços em alimentação e bebidas no dia 07-09.",
-        "dia": "07-09",
-        "volume_mencoes": 215,
-        "acao_sugerida": "Reavaliar política de preços e oferecer mais opções acessíveis."
+        "descricao": "Filas longas e banheiros insuficientes principalmente no dia 12-09, impactando negativamente a experiência.",
+        "dia": "12-09",
+        "volume_mencoes": 298,
+        "acao_sugerida": "Aumentar pontos de suporte e melhorar logística na entrada e banheiros."
       }
     ],
     "recomendacoes_futuras": [
-      "Incrementar infraestrutura sanitária e pontos de venda para reduzir filas, baseado em 230 menções negativas.",
-      "Ajustar política de preços visando maior acessibilidade, diante das 215 reclamações sobre alimentação.",
-      "Potencializar divulgação dos momentos de destaque dos artistas para ampliar o alcance e engajamento.",
-      "Melhorar comunicação pré-evento sobre logística de acesso e transporte.",
-      "Manter e ampliar equipe de segurança para preservar alta satisfação e sensação de proteção."
+      "Incrementar comunicação pré-evento para orientar o público sobre infraestrutura e horários, reduzindo filas.",
+      "Ampliar oferta de banheiros e pontos de alimentação para melhorar conforto e diminuir reclamações.",
+      "Reforçar equipe de segurança para evitar superlotação e garantir sensação de segurança do público.",
+      "Investir em gestão rigorosa da programação para evitar atrasos e frustrações com ordem dos shows.",
+      "Utilizar influenciadores de médio e macro porte para amplificar mensagens positivas e gerenciar crises."
     ],
     "comparativo_artistas": {
       "por_engajamento": [
         {
-          "artista": "DJ Estrela",
-          "score": 5.9,
-          "destaque": "Maior taxa de engajamento médio devido a set prolífico e interação."
-        },
-        {
           "artista": "MC Cabelinho",
-          "score": 3.1,
-          "destaque": "Menor engajamento por críticas à duração de apresentação."
+          "score": 23.4,
+          "destaque": "Maior taxa de engajamento com público jovem, impulsionando as interações."
         }
       ],
       "por_sentimento_positivo": [
         {
-          "artista": "DJ Estrela",
-          "score": 78.2,
-          "destaque": "Maior sentimento positivo relacionado à performance."
-        },
-        {
-          "artista": "MC Cabelinho",
-          "score": 56.7,
-          "destaque": "Recebeu críticas que impactaram o sentimento médio."
+          "artista": "Anitta",
+          "score": 83.2,
+          "destaque": "Alto índice de menções positivas, reforçando seu protagonismo no evento."
         }
       ],
       "por_alcance": [
         {
-          "artista": "DJ Estrela",
+          "artista": "Alok",
           "score": 1200000,
-          "destaque": "Maior alcance total atingido nas redes sociais."
-        },
-        {
-          "artista": "MC Cabelinho",
-          "score": 780000,
-          "destaque": "Alcance menor devido a menor repercussão positiva."
+          "destaque": "Maior alcance estimado entre artistas, ampliando visibilidade do festival."
         }
       ],
       "controversias": [
         {
-          "artista": "MC Cabelinho",
-          "problema": "Recebeu críticas diretas pela brevidade da apresentação e qualidade de execução.",
+          "artista": "Anitta",
+          "problema": "Críticas por atraso e mudança na ordem da programação em 13-09.",
           "impacto": "médio"
         }
       ]
     },
     "analise_temporal": {
-      "melhor_dia": "06-09",
-      "pior_dia": "07-09",
-      "horario_pico": "23:00-01:00",
+      "melhor_dia": "07-09",
+      "pior_dia": "14-09",
+      "horario_pico": "21:00",
       "tendencias": [
-        "Crescimento contínuo do uso de Instagram para interações.",
-        "Engajamento elevado pós-shows principais com hashtags temáticas."
+        "Maior engajamento e volume de menções durante shows principais.",
+        "Aumento das críticas à infraestrutura após as 18h correlacionado ao cansaço do público."
       ]
     }
   },
   "paineis": {
     "visao_executiva": {
-      "totalMencoes": 792,
-      "sentimentoMedio": 45,
-      "reachTotal": 4892736,
-      "engajamentoMedio": "0.3",
+      "totalMencoes": 5000,
+      "sentimentoMedio": 55,
+      "reachTotal": 19683013,
+      "engajamentoMedio": "0.0",
       "topHashtags": [
         "#thetown",
         "#thetown2025",
@@ -423,15 +388,15 @@
         "#greenday",
         "#PagueMenosNoTheTown",
         "#nfl",
-        "#GreenDay",
-        "#NFL"
+        "#Música",
+        "#GreenDay"
       ],
       "distribuicaoPlataformas": {
-        "Twitter": 6,
+        "Twitter": 4211,
         "Instagram": 97,
         "TikTok": 0,
         "Facebook": 68,
-        "News": 548,
+        "News": 551,
         "Other": 73
       }
     },
@@ -439,11 +404,10 @@
       "ranking": [
         {
           "name": "Travis Scott",
-          "totalMencoes": 174,
-          "totalReach": 516303,
+          "totalMencoes": 175,
+          "totalReach": 516305,
           "sentimentoMedio": 45,
           "dias": [
-            "05-09",
             "06-09"
           ]
         },
@@ -451,19 +415,17 @@
           "name": "Iza",
           "totalMencoes": 119,
           "totalReach": 802781,
-          "sentimentoMedio": 44,
+          "sentimentoMedio": 42,
           "dias": [
-            "05-09",
             "06-09"
           ]
         },
         {
           "name": "Green Day",
-          "totalMencoes": 99,
-          "totalReach": 1160112,
-          "sentimentoMedio": 37,
+          "totalMencoes": 100,
+          "totalReach": 1160114,
+          "sentimentoMedio": 38,
           "dias": [
-            "05-09",
             "06-09"
           ]
         },
@@ -471,9 +433,8 @@
           "name": "Burna Boy",
           "totalMencoes": 69,
           "totalReach": 477176,
-          "sentimentoMedio": 66,
+          "sentimentoMedio": 65,
           "dias": [
-            "05-09",
             "06-09"
           ]
         },
@@ -481,9 +442,8 @@
           "name": "Mariah Carey",
           "totalMencoes": 65,
           "totalReach": 82184,
-          "sentimentoMedio": 30,
+          "sentimentoMedio": 31,
           "dias": [
-            "05-09",
             "06-09"
           ]
         },
@@ -493,7 +453,6 @@
           "totalReach": 84921,
           "sentimentoMedio": 40,
           "dias": [
-            "05-09",
             "06-09"
           ]
         },
@@ -501,9 +460,8 @@
           "name": "Backstreet Boys",
           "totalMencoes": 60,
           "totalReach": 41653,
-          "sentimentoMedio": 50,
+          "sentimentoMedio": 48,
           "dias": [
-            "05-09",
             "06-09"
           ]
         },
@@ -513,7 +471,6 @@
           "totalReach": 375613,
           "sentimentoMedio": 53,
           "dias": [
-            "05-09",
             "06-09"
           ]
         },
@@ -521,9 +478,8 @@
           "name": "Karol Conká",
           "totalMencoes": 50,
           "totalReach": 586118,
-          "sentimentoMedio": 54,
+          "sentimentoMedio": 58,
           "dias": [
-            "05-09",
             "06-09"
           ]
         },
@@ -531,110 +487,59 @@
           "name": "Matuê",
           "totalMencoes": 46,
           "totalReach": 387117,
-          "sentimentoMedio": 68,
+          "sentimentoMedio": 63,
           "dias": [
-            "05-09",
             "06-09"
           ]
         }
       ],
       "por_dia": [
         {
-          "dia": "05-09",
-          "top5": [
-            {
-              "name": "Travis Scott",
-              "mentions": 59,
-              "sentiment": 44,
-              "reach": 379268,
-              "engagement": "181.7",
-              "topPost": "...ainda Don Toliver e Burna Boy. No sábado, no palco The One, Lauryn Hill canta ao lado dos filhos. Antes dela, Matuê, MC Cabelinho e Karol Conká. Já",
-              "day": "05-09"
-            },
-            {
-              "name": "Green Day",
-              "mentions": 41,
-              "sentiment": 32,
-              "reach": 980166,
-              "engagement": "469.7",
-              "topPost": "...ainda Don Toliver e Burna Boy. No sábado, no palco The One, Lauryn Hill canta ao lado dos filhos. Antes dela, Matuê, MC Cabelinho e Karol Conká. Já",
-              "day": "05-09"
-            },
-            {
-              "name": "Iza",
-              "mentions": 28,
-              "sentiment": 46,
-              "reach": 78533,
-              "engagement": "36.4",
-              "topPost": "...especialmente para a ocasião. A loja temporária atraiu a atenção de admiradores e curiosos, consolidando ainda mais sua conexão com o público brasi",
-              "day": "05-09"
-            },
-            {
-              "name": "Mariah Carey",
-              "mentions": 27,
-              "sentiment": 26,
-              "reach": 52599,
-              "engagement": "20.4",
-              "topPost": "...especialmente para a ocasião. A loja temporária atraiu a atenção de admiradores e curiosos, consolidando ainda mais sua conexão com o público brasi",
-              "day": "05-09"
-            },
-            {
-              "name": "Burna Boy",
-              "mentions": 22,
-              "sentiment": 68,
-              "reach": 340027,
-              "engagement": "166.4",
-              "topPost": "...ainda Don Toliver e Burna Boy. No sábado, no palco The One, Lauryn Hill canta ao lado dos filhos. Antes dela, Matuê, MC Cabelinho e Karol Conká. Já",
-              "day": "05-09"
-            }
-          ]
-        },
-        {
           "dia": "06-09",
           "top5": [
             {
               "name": "Travis Scott",
-              "mentions": 115,
+              "mentions": 175,
               "sentiment": 45,
-              "reach": 137035,
-              "engagement": "32.5",
-              "topPost": "..., além dos shows de Don Toliver, Burna Boy e Felipe Ret. No palco The One, a estrela da noite é Ms Lauryn Hill, que convida YG Marley e Zion Marley",
+              "reach": 516305,
+              "engagement": "214.2",
+              "topPost": "...ainda Don Toliver e Burna Boy. No sábado, no palco The One, Lauryn Hill canta ao lado dos filhos. Antes dela, Matuê, MC Cabelinho e Karol Conká. Já",
               "day": "06-09"
             },
             {
               "name": "Iza",
-              "mentions": 91,
-              "sentiment": 41,
-              "reach": 724248,
-              "engagement": "331.1",
+              "mentions": 119,
+              "sentiment": 42,
+              "reach": 802781,
+              "engagement": "367.5",
               "topPost": "Filipe Ret surpreende funcionários do The Town com mini show na passagem de som 🔥 Durante a passagem de som no The Town, filiperet surpreendeu os tra",
               "day": "06-09"
             },
             {
               "name": "Green Day",
-              "mentions": 58,
-              "sentiment": 41,
-              "reach": 179946,
-              "engagement": "69.2",
-              "topPost": "...), o Green Day será a atração principal do The Town, no Autódromo de Interlagos, em São Paulo, no mesmo dia em que se apresentam Bad Religion, Bruc",
+              "mentions": 100,
+              "sentiment": 38,
+              "reach": 1160114,
+              "engagement": "538.9",
+              "topPost": "...ainda Don Toliver e Burna Boy. No sábado, no palco The One, Lauryn Hill canta ao lado dos filhos. Antes dela, Matuê, MC Cabelinho e Karol Conká. Já",
               "day": "06-09"
             },
             {
               "name": "Burna Boy",
-              "mentions": 47,
-              "sentiment": 64,
-              "reach": 137149,
-              "engagement": "52.5",
-              "topPost": "O MAIOR! A convite da warnermusicbr tivemos a honra de conhecer e jantar com burnaboygram e sua equipe no Spotify Amplifica. Um dos maiores nomes da m",
+              "mentions": 69,
+              "sentiment": 65,
+              "reach": 477176,
+              "engagement": "219.0",
+              "topPost": "...ainda Don Toliver e Burna Boy. No sábado, no palco The One, Lauryn Hill canta ao lado dos filhos. Antes dela, Matuê, MC Cabelinho e Karol Conká. Já",
               "day": "06-09"
             },
             {
-              "name": "Backstreet Boys",
-              "mentions": 40,
-              "sentiment": 45,
-              "reach": 37427,
-              "engagement": "6.3",
-              "topPost": "A segunda edição do festival The Town começa neste sábado (6). O evento também acontece nos dias 7, 12, 13 e 14 de setembro, no Autódromo de Interlago",
+              "name": "Mariah Carey",
+              "mentions": 65,
+              "sentiment": 31,
+              "reach": 82184,
+              "engagement": "27.8",
+              "topPost": "...especialmente para a ocasião. A loja temporária atraiu a atenção de admiradores e curiosos, consolidando ainda mais sua conexão com o público brasi",
               "day": "06-09"
             }
           ]
@@ -678,30 +583,6 @@
           "totalMencoes": 1,
           "totalReach": 315858,
           "followers": 1820374
-        },
-        {
-          "name": "rollingstonebrasil",
-          "totalMencoes": 1,
-          "totalReach": 168828,
-          "followers": 337826
-        },
-        {
-          "name": "instadarock",
-          "totalMencoes": 1,
-          "totalReach": 155820,
-          "followers": 842949
-        },
-        {
-          "name": "thainatani",
-          "totalMencoes": 1,
-          "totalReach": 155661,
-          "followers": 221169
-        },
-        {
-          "name": "aradiorock",
-          "totalMencoes": 2,
-          "totalReach": 145778,
-          "followers": 1597241
         }
       ]
     },
