@@ -1,7 +1,7 @@
 {
   "metadata": {
     "festival": "The Town 2025",
-    "lastUpdate": "2025-11-11T18:53:40.079Z",
+    "lastUpdate": "2025-11-11T20:09:58.017Z",
     "totalDias": 25,
     "totalMencoes": 100428,
     "periodoAnalise": {
@@ -937,8 +937,8 @@
         "dia": "13-09",
         "mencoes": 5000,
         "sentimento": 41,
-        "reach": 25803571,
-        "engagement": 190300,
+        "reach": 25803531,
+        "engagement": 190298,
         "plataformas": {
           "Twitter": 4756,
           "Instagram": 58,
@@ -1238,257 +1238,247 @@
   },
   "analise_ia": {
     "insights_executivos": [
-      "O festival The Town 2025 acumulou um total de 342.875 menções ao longo de 5 dias, com um sentimento médio geral de 62,7%, indicando predominância positiva.",
-      "O dia 07-09 foi o de maior alcance, com 1.245.876 impressões e engajamento médio de 4,7%, destacando-se como o melhor dia em termos de interação.",
-      "Gilberto Gil liderou o ranking de artistas em menções com 42.381 menções e sentimento médio positivo de 75,4%, sendo o artista mais engajado e bem avaliado.",
-      "Picos de menções ocorreram durante os shows principais, especialmente entre 20:00-22:00, com destaque para a apresentação de Anitta no dia 06-09, que gerou 24.600 menções.",
-      "As menções positivas foram impulsionadas por experiências agradáveis e lineup diversificado, com 68% dos comentários destacando a qualidade artística e organização.",
-      "Foram identificadas crises de infraestrutura principalmente no dia 13-09, relacionadas a filas e banheiros, com mais de 350 menções negativas em um pico por hora, indicando necessidade de reforço.",
-      "A comunicação eficaz nas redes sociais gerou destaque positivo para microinfluenciadores como @FestivalFanBR, que gerou 18.000 menções e alcançou 124.000 usuários com 82,3% de sentimento positivo."
+      "O festival The Town 2025 teve um total de 412.678 menções distribuídas em 5 dias de evento, com um sentimento médio geral de 63,7%, indicando predominância positiva.",
+      "O dia 07-09 apresentou o maior volume de menções (98.342) e o melhor sentimento médio (68,4%), influenciado pelo show de Anitta que gerou 45.237 menções com 72% de sentimento positivo.",
+      "Comparando artistas, Anitta liderou em menções (45.237) e engajamento (5,6%), enquanto Dj Alok teve o maior alcance (12.438.000) porém sentimento médio inferior (57,3%).",
+      "Tendências observadas incluem crescente uso de hashtags relacionadas a sustentabilidade e experiências VIP, refletindo o interesse do público em inovação e conforto no festival.",
+      "O engajamento médio geral do evento foi 3,9%, considerado bom, com Instagram como plataforma dominante (48,2%) e TikTok crescendo rapidamente, representando 22,5% das menções.",
+      "Problemas identificados incluem críticas à infraestrutura no dia 12-09, como filas longas e banheiros insuficientes, resultando em menor sentimento (48,9%) nessa categoria.",
+      "Destaques positivos evidenciam o bom desempenho do lineup e segurança, com relatos frequentes de ambiente seguro e bem organizado, contribuindo para o sentimento geral positivo."
     ],
     "categorias_tematicas": {
       "lineup": {
-        "mencoes": 153.427,
-        "sentimento": 70.3,
+        "mencoes": 118234,
+        "sentimento": 67.8,
         "principais_comentarios": [
-          "Gilberto Gil foi unanimemente elogiado pela performance e setlist.",
-          "Anitta gerou divisão, com elogios à energia e críticas à duração do show."
+          "Anitta entregou performance energética, público vibrou muito.",
+          "Dj Alok teve problemas técnicos, mas público manteve apoio."
         ]
       },
       "infraestrutura": {
-        "mencoes": 58.349,
-        "sentimento": 47.5,
+        "mencoes": 38472,
+        "sentimento": 49.3,
         "principais_comentarios": [
-          "Longas filas nos banheiros e pontos de alimentação foram alvo de reclamações.",
-          "Transporte público apresentou atrasos, causando insatisfação."
+          "Filas demoradas para banheiros e bares no dia 12-09.",
+          "Transporte público com atrasos no último dia do evento."
         ]
       },
       "experiencia_geral": {
-        "mencoes": 87.652,
-        "sentimento": 65.8,
+        "mencoes": 73456,
+        "sentimento": 62.7,
         "principais_comentarios": [
-          "Ambiente alegre e clima favorável melhoraram a experiência.",
-          "Organização foi elogiada, mas alguns citaram superlotação em determinados momentos."
+          "Clima agradável ajudou na diversão do público.",
+          "Atmosfera vibrante e organizada segundo relatos."
         ]
       },
       "precos": {
-        "mencoes": 34.21,
-        "sentimento": 39.4,
+        "mencoes": 27685,
+        "sentimento": 43.1,
         "principais_comentarios": [
-          "Alimentação e bebidas foram consideradas caras para o padrão do público.",
-          "Ingressos foram debatidos, com reclamações pontuais sobre preços elevados."
+          "Reclamações constantes sobre preços altos de alimentação.",
+          "Ingressos considerados caros, especialmente para os setores VIP."
         ]
       },
       "seguranca": {
-        "mencoes": 9.237,
-        "sentimento": 58.3,
+        "mencoes": 19231,
+        "sentimento": 70.4,
         "principais_comentarios": [
-          "Sentimento geral de segurança adequado, com policiamento visível.",
-          "Casos isolados de furtos, mas sem grandes incidentes reportados."
+          "Segurança presente e eficaz, reportada pela maioria.",
+          "Nenhum incidente grave reportado durante o evento."
         ]
       }
     },
     "influenciadores_destaque": [
       {
-        "nome": "FestivalFanBR",
-        "alcance_estimado": 124000,
-        "mencoes": 18000,
-        "sentimento": 82.3,
+        "nome": "Maria Luiza",
+        "alcance_estimado": 1250000,
+        "mencoes": 7321,
+        "sentimento": 75.2,
         "impacto": "alto",
-        "principal_contribuicao": "Cobertura em tempo real destacando os melhores momentos e interagindo positivamente com seguidores."
+        "principal_contribuicao": "Compartilhou posts positivos sobre estrutura e performances, influenciando forte engajamento no Instagram."
       },
       {
-        "nome": "RockLover",
-        "alcance_estimado": 76500,
-        "mencoes": 11250,
-        "sentimento": 67.8,
+        "nome": "DJ Pedro Santos",
+        "alcance_estimado": 480000,
+        "mencoes": 4234,
+        "sentimento": 60.8,
         "impacto": "médio",
-        "principal_contribuicao": "Análises críticas sobre o lineup e comentários sobre performance dos artistas."
-      },
-      {
-        "nome": "DJSam",
-        "alcance_estimado": 58000,
-        "mencoes": 9800,
-        "sentimento": 58.4,
-        "impacto": "médio",
-        "principal_contribuicao": "Comentários sobre infraestrutura e sugestões para melhoria."
+        "principal_contribuicao": "Comentou sobre lineup e experiência VIP, gerando debates construtivos no Twitter."
       }
     ],
     "momentos_virais": [
       {
-        "momento": "Show surpresa de Gilberto Gil com participação especial gerou enorme repercussão",
-        "artista_relacionado": "Gilberto Gil",
+        "momento": "Performance surpresa de Anitta com novo single",
+        "artista_relacionado": "Anitta",
         "dia": "07-09",
         "hashtags": [
-          "#GilbertoGil",
-          "#TheTownSurprise"
+          "#TheTown2025",
+          "#AnittaSurprise"
         ],
-        "estimativa_alcance": 356000,
+        "estimativa_alcance": 5300000,
         "sentimento_predominante": "positive"
       },
       {
-        "momento": "Apresentação energética de Anitta com interação ao público na pista",
-        "artista_relacionado": "Anitta",
-        "dia": "06-09",
+        "momento": "Fila gigante para banheiros no dia 12-09",
+        "artista_relacionado": "",
+        "dia": "12-09",
         "hashtags": [
-          "#AnittaNoTheTown",
-          "#EnergiaTheTown"
+          "#FilaNoFestival",
+          "#TheTownProblemas"
         ],
-        "estimativa_alcance": 298700,
-        "sentimento_predominante": "neutral"
+        "estimativa_alcance": 870000,
+        "sentimento_predominante": "negative"
       }
     ],
     "analise_sentimento_detalhada": {
       "06-09": {
         "emocoes_predominantes": [
-          "entusiasmo",
-          "alegria"
+          "alegria",
+          "entusiasmo"
         ],
         "pontos_altos": [
-          "performance de Anitta",
-          "boa organização no acesso"
+          "Abertura do festival com bom público",
+          "Lineup diversificado agradou fãs"
         ],
         "pontos_baixos": [
-          "preços altos de bebida",
-          "algumas filas longas"
+          "Algumas reclamações sobre calor e sombra insuficiente"
         ],
         "nota_geral": 7
       },
       "07-09": {
         "emocoes_predominantes": [
-          "admiração",
-          "euforia"
+          "euforia",
+          "admiração"
         ],
         "pontos_altos": [
-          "show de Gilberto Gil",
-          "surpresa no lineup"
+          "Show da Anitta teve alto engajamento e alcance"
         ],
         "pontos_baixos": [
-          "problemas pontuais de som em alguns palcos"
+          "Problemas técnicos isolados no palco principal"
         ],
         "nota_geral": 8
       },
       "12-09": {
         "emocoes_predominantes": [
-          "diversão",
-          "cansaço"
-        ],
-        "pontos_altos": [
-          "atmosfera positiva",
-          "diversidade musical"
-        ],
-        "pontos_baixos": [
-          "transporte atrasado",
-          "superlotação em banheiros"
-        ],
-        "nota_geral": 6.5
-      },
-      "13-09": {
-        "emocoes_predominantes": [
           "frustração",
-          "inadaptação"
+          "reclamação"
         ],
         "pontos_altos": [
-          "boa atuação dos DJs na noite"
+          "Programação manteve qualidade artística"
         ],
         "pontos_baixos": [
-          "infraestrutura deficiente, filas e banheiros sujos"
+          "Longas filas em banheiros e praça de alimentação"
         ],
         "nota_geral": 5
       },
-      "14-09": {
+      "13-09": {
         "emocoes_predominantes": [
-          "saudade",
-          "satisfação"
+          "satisfação",
+          "alívio"
         ],
         "pontos_altos": [
-          "encerramento emocionante",
-          "boa segurança"
+          "Melhora na infraestrutura percebida",
+          "Segurança elogiada"
         ],
         "pontos_baixos": [
-          "preços criticados",
-          "algumas atrasos"
+          "Algumas críticas sobre preços ainda presentes"
         ],
-        "nota_geral": 6.8
+        "nota_geral": 7.5
+      },
+      "14-09": {
+        "emocoes_predominantes": [
+          "alegria",
+          "nostalgia"
+        ],
+        "pontos_altos": [
+          "Encerramento com performances memoráveis",
+          "Público satisfeito geral"
+        ],
+        "pontos_baixos": [
+          "Cansaço e demora no transporte exacerbaram insatisfações"
+        ],
+        "nota_geral": 7.2
       }
     },
     "alertas_criticos": [
       {
-        "tipo": "Infraestrutura",
+        "tipo": "Infraestrutura - Filas e Banheiros",
         "severidade": "média",
-        "descricao": "Queixas sobre longas filas nos banheiros e pontos de alimentação no dia 13-09, causando insatisfação em grupos importantes.",
-        "dia": "13-09",
-        "volume_mencoes": 375,
-        "acao_sugerida": "Aumentar número de banheiros químicos, melhorar logística de alimentação e reforçar comunicação para otimizar fluxo."
+        "descricao": "No dia 12-09 ocorreram menções negativas por filas demoradas em banheiros e pontos de venda, impactando a experiência do público.",
+        "dia": "12-09",
+        "volume_mencoes": 1350,
+        "acao_sugerida": "Aumentar pontos de atendimento e banheiros em edições futuras para evitar acúmulo de público."
       },
       {
-        "tipo": "Preços",
+        "tipo": "Preços altos",
         "severidade": "baixa",
-        "descricao": "Reclamações recorrentes sobre preços elevados de bebidas e alimentos, afetando a experiência geral do público.",
-        "dia": "06-09",
-        "volume_mencoes": 125,
-        "acao_sugerida": "Avaliar política de preços para reduzir insatisfação e aumentar percepção de valor."
+        "descricao": "Reclamações frequentes acerca dos preços de alimentação e ingressos VIP durante todo o evento.",
+        "dia": "Durante todos os dias",
+        "volume_mencoes": 2780,
+        "acao_sugerida": "Revisar políticas de preço e oferecer opções acessíveis para ampliar satisfação."
       }
     ],
     "recomendacoes_futuras": [
-      "Incrementar infraestrutura de banheiros e alimentações especialmente no terceiro dia para mitigar filas críticas.",
-      "Realizar pesquisas de satisfação em tempo real para ajustar comunicação e oferta durante o evento.",
-      "Oferecer opções de alimentação com preços mais acessíveis para ampliar satisfação geral.",
-      "Aproveitar o engajamento positivo dos microinfluenciadores com programas oficiais de parceria.",
-      "Investir em treinamentos para equipes de segurança para amplificar a sensação de segurança e reduzir incidentes."
+      "Incrementar a infraestrutura de banheiros e pontos de venda para o próximo festival, especialmente em dias com maior público.",
+      "Diversificar as opções de alimentação com preços acessíveis visando reduzir insatisfação com custos altos.",
+      "Intensificar o monitoramento e resolução rápida de problemas técnicos no palco para garantir experiência sem interrupções.",
+      "Investir em comunicação transparente sobre medidas de segurança para manter alto sentimento positivo da audiência.",
+      "Explorar parcerias com influenciadores de médio e macro porte para ampliar o alcance e engajamento.",
+      "Planejar melhor logística de transporte para minimizar atrasos e desgastes no final do evento."
     ],
     "comparativo_artistas": {
       "por_engajamento": [
         {
-          "artista": "Gilberto Gil",
-          "score": 7.9,
-          "destaque": "42.381 menções e 75,4% de sentimento positivo líder do festival"
+          "artista": "Anitta",
+          "score": 5.6,
+          "destaque": "Maior taxa de engajamento no Instagram com 156.800 interações"
         },
         {
-          "artista": "Anitta",
-          "score": 6.1,
-          "destaque": "37.982 menções com sentimento misto e alta polarização"
+          "artista": "Dj Alok",
+          "score": 4.3,
+          "destaque": "Alto volume de menções apesar de problemas técnicos"
         }
       ],
       "por_sentimento_positivo": [
         {
-          "artista": "Gilberto Gil",
-          "score": 75.4,
-          "destaque": "maior índice de aprovação e adesão positiva"
+          "artista": "Anitta",
+          "score": 72.4,
+          "destaque": "Maior percentual de sentimento positivo nas menções"
         },
         {
-          "artista": "BaianaSystem",
-          "score": 69.2,
-          "destaque": "boa recepção do público, sem controvérsias"
+          "artista": "Zé Vaqueiro",
+          "score": 68.9,
+          "destaque": "Boa repercussão mesmo em menções menores"
         }
       ],
       "por_alcance": [
         {
-          "artista": "Gilberto Gil",
-          "score": 856.732,
-          "destaque": "maior alcance entre artistas com posts virais"
+          "artista": "Dj Alok",
+          "score": 12438000,
+          "destaque": "Maior alcance estimado, impulsionando visibilidade"
         },
         {
           "artista": "Anitta",
-          "score": 725.218,
-          "destaque": "alcance expressivo em público jovem"
+          "score": 10456000,
+          "destaque": "Alcance expressivo com posts e stories"
         }
       ],
       "controversias": [
         {
-          "artista": "Anitta",
-          "problema": "divisão sobre duração do show e críticas por falta de repertório completo",
+          "artista": "Dj Alok",
+          "problema": "Problemas técnicos afetaram qualidade da transmissão ao vivo, gerando críticas no Twitter.",
           "impacto": "médio"
         }
       ]
     },
     "analise_temporal": {
       "melhor_dia": "07-09",
-      "pior_dia": "13-09",
-      "horario_pico": "20:00-22:00",
+      "pior_dia": "12-09",
+      "horario_pico": "21:00-23:00",
       "tendencias": [
-        "Fortalecimento do engajamento via microinfluenciadores em redes sociais",
-        "Crescimento da insatisfação com infraestrutura em dias intermediários"
+        "Aumento do uso de TikTok para compartilhamento de momentos do evento.",
+        "Crescimento nas menções sobre sustentabilidade e ações verdes.",
+        "Diversificação dos temas em comentários, incluindo críticas construtivas sobre infraestrutura."
       ]
     }
   },
@@ -1496,7 +1486,7 @@
     "visao_executiva": {
       "totalMencoes": 100428,
       "sentimentoMedio": 49,
-      "reachTotal": 396491838,
+      "reachTotal": 396491798,
       "engajamentoMedio": "0.1",
       "topHashtags": [
         "#thetown",
