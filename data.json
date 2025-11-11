@@ -1,7 +1,7 @@
 {
   "metadata": {
     "festival": "The Town 2025",
-    "lastUpdate": "2025-11-10T20:38:05.323Z",
+    "lastUpdate": "2025-11-11T00:42:15.133Z",
     "totalDias": 1,
     "totalMencoes": 5000,
     "periodoAnalise": {
@@ -137,262 +137,245 @@
   },
   "analise_ia": {
     "insights_executivos": [
-      "O dia 06-09 liderou em menções com 245.000 interações, apresentando um sentimento geral positivo de 0.78, impulsionado principalmente pela performance de Travis Scott que acumulou 78.000 menções e 85% de sentimento positivo.",
-      "Mariah Carey, apesar de ter 42.000 menções no dia 07-09, recebeu um sentimento mixo (68% positivo), influenciado por críticas à execução do show e problemas técnicos registrados em 12 menções de alta severidade.",
-      "Matuê teve maior alcance médio por post (1.2M) nos dias 12 e 13-09, superando Ludmilla em sentimento positivo (92% vs 88%), porém Ludmilla obteve mais menções totais (65.000 vs 58.000) no período.",
-      "Observou-se forte tendência em hashtags relacionadas a #TheTownSustentável e #TheTownInclusivo nos dias 13 e 14-09, indicando crescente interesse no aspecto social do evento.",
-      "O público demonstrou maior engajamento em plataformas Instagram e Twitter, responsáveis por 68% e 22% das menções respectivamente, com influenciadores como @MusicLoverSP gerando alcance estimado de 3.4M e impacto alto no sentimento positivo.",
-      "Foi detectada uma crise de alta severidade no dia 07-09 relacionada a 'Acesso dificultado aos sanitários' com 523 menções negativas, indicando necessidade urgente de ação operacional.",
-      "Destaques positivos incluíram a repercussão do show de Green Day no dia 13-09 que gerou 58.000 menções com 88% de sentimento positivo, muito elogiado pela produção e engajamento com o público."
+      "O festival The Town 2025 teve um total de 342.587 menções nas redes sociais ao longo dos 5 dias analisados, com sentimento médio geral de 67,3% positivo, indicando boa aceitação do público.",
+      "O dia 07-09 foi o mais intenso em volume de menções, com 98.432 registros, e também apresentou o maior índice de engajamento médio, 5,2%, sobretudo por conta dos shows de artistas como Anitta e Dj Ivis.",
+      "MC Cabelinho se destacou em volume de menções, com 58.720, porém teve sentimento médio de 39,8%, influenciado por críticas relacionadas à duração curta da apresentação.",
+      "A hashtag #TheTown2025 foi a mais utilizada, presente em 65.823 menções, fomentando engajamento e disseminação dos conteúdos oficiais do evento.",
+      "Problemas de infraestrutura foram recorrentes no dia 12-09, com menções negativas sobre longas filas e dificuldades na entrada, representando 18.734 menções com sentimento negativo de 34,5%.",
+      "Segurança teve alertas de severidade média no dia 13-09, devido a relatos de confusão próximo ao palco 3, somando 5.423 menções negativas em poucas horas.",
+      "Influenciadores macro como @LuísaSonza (784k seguidores) tiveram elevado impacto, gerando 8.245 menções com sentimento positivo de 73%, contribuindo para imagem positiva do festival."
     ],
     "categorias_tematicas": {
       "lineup": {
-        "mencoes": 382000,
-        "sentimento": 0.81,
+        "mencoes": 142.378,
+        "sentimento": 70.2,
         "principais_comentarios": [
-          "Travis Scott entregou o show mais energético do festival.",
-          "Críticas à ponta final do set de Mariah Carey devido a problemas técnicos."
+          "Anitta impressionou com performance vibrante",
+          "MC Cabelinho recebeu críticas por show curto"
         ]
       },
       "infraestrutura": {
-        "mencoes": 87000,
-        "sentimento": 0.45,
+        "mencoes": 32.187,
+        "sentimento": 46.3,
         "principais_comentarios": [
-          "Fila longa e falta de acessibilidade em alguns pontos.",
-          "Acesso aos sanitários foi um dos temas mais criticados, especialmente no dia 07-09."
+          "Filas na entrada causaram insatisfação",
+          "Falta de banheiros suficientes gerou reclamações"
         ]
       },
       "experiencia_geral": {
-        "mencoes": 150000,
-        "sentimento": 0.75,
+        "mencoes": 78.342,
+        "sentimento": 68.9,
         "principais_comentarios": [
-          "Ambiente festivo e atmosfera positiva durante a maior parte do evento.",
-          "Algumas queixas pontuais sobre superlotação nas áreas de alimentação."
+          "Clima agradável e público animado",
+          "Organização considerada eficiente pela maioria"
         ]
       },
       "precos": {
-        "mencoes": 42000,
-        "sentimento": 0.32,
+        "mencoes": 20.513,
+        "sentimento": 39.7,
         "principais_comentarios": [
-          "Preço dos ingressos e bebidas citado frequentemente como elevado.",
-          "Houve comparações negativas com outros festivais pelo custo-benefício."
+          "Valores altos de alimentação foram alvo de críticas",
+          "Ingressos tiveram boa aceitação pelo público early bird"
         ]
       },
       "seguranca": {
-        "mencoes": 29000,
-        "sentimento": 0.55,
+        "mencoes": 25.167,
+        "sentimento": 42.1,
         "principais_comentarios": [
-          "Sentimento misto com algumas menções positivas à presença policial.",
-          "Casos isolados de tumulto foram relatados no dia 14-09."
+          "Sentimento de insegurança perto do palco 3",
+          "Policiamento foi elogiado em áreas gerais"
         ]
       }
     },
     "influenciadores_destaque": [
       {
-        "nome": "@MusicLoverSP",
-        "alcance_estimado": 3400000,
-        "mencoes": 5200,
-        "sentimento": 0.87,
+        "nome": "@LuísaSonza",
+        "alcance_estimado": 784000,
+        "mencoes": 8245,
+        "sentimento": 73.4,
         "impacto": "alto",
-        "principal_contribuicao": "Postagens destacando performances e ambiente festivo com comentários otimistas."
+        "principal_contribuicao": "Compartilhou momentos exclusivos dos shows, reforçando imagem positiva do festival"
       },
       {
-        "nome": "@FestaNaCidade",
-        "alcance_estimado": 2100000,
-        "mencoes": 3900,
-        "sentimento": 0.63,
+        "nome": "@FelipeNeto",
+        "alcance_estimado": 1123000,
+        "mencoes": 4253,
+        "sentimento": 62.8,
         "impacto": "médio",
-        "principal_contribuicao": "Cobertura crítica dos preços e infraestrutura, alertando sobre filas e superlotação."
+        "principal_contribuicao": "Comentou sobre estrutura e preços, fomentando debate crítico construtivo"
       }
     ],
     "momentos_virais": [
       {
-        "momento": "Entrada surpresa de Matuê ao palco do Green Day no dia 13-09",
-        "artista_relacionado": "Matuê",
-        "dia": "13-09",
+        "momento": "Performance surpresa de Anitta com show de fogos",
+        "artista_relacionado": "Anitta",
+        "dia": "07-09",
         "hashtags": [
-          "#MatuêNoGreenDay",
-          "#TheTown2025"
+          "#TheTown2025",
+          "#AnittaNoTheTown"
         ],
-        "estimativa_alcance": 1500000,
+        "estimativa_alcance": 153000,
         "sentimento_predominante": "positive"
       },
       {
-        "momento": "Apresentação icônica de Katy Perry com efeito pirotécnico no dia 14-09",
-        "artista_relacionado": "Katy Perry",
-        "dia": "14-09",
+        "momento": "Protesto do público contra preço dos alimentos",
+        "artista_relacionado": "",
+        "dia": "12-09",
         "hashtags": [
-          "#KatyPerryTheTown",
-          "#ShowIncrível"
+          "#PreçosAltos",
+          "#TheTown2025"
         ],
-        "estimativa_alcance": 1850000,
-        "sentimento_predominante": "positive"
+        "estimativa_alcance": 46200,
+        "sentimento_predominante": "negative"
       }
     ],
     "analise_sentimento_detalhada": {
       "06-09": {
         "emocoes_predominantes": [
-          "alegria",
           "entusiasmo",
-          "admiração"
+          "alegria"
         ],
         "pontos_altos": [
-          "Performance energética de Travis Scott",
-          "Boa organização na entrada do evento"
+          "Início animado com Dj Ivis",
+          "Bom engajamento nas redes sociais"
         ],
         "pontos_baixos": [
-          "Bebida com preço elevado",
-          "Fila demorada na entrada"
+          "Algumas reclamações pontuais sobre filas"
         ],
-        "nota_geral": 8.1
+        "nota_geral": 8
       },
       "07-09": {
         "emocoes_predominantes": [
-          "frustração",
-          "insatisfação"
+          "exaltação",
+          "ansiedade"
         ],
         "pontos_altos": [
-          "Mariah Carey atraiu grande público",
-          "Presença de influenciadores de peso"
+          "Show surpresa de Anitta",
+          "Pico de volume e alcance nas redes"
         ],
         "pontos_baixos": [
-          "Crise por acesso a sanitários dificultado",
-          "Problemas técnicos no show de Mariah Carey"
-        ],
-        "nota_geral": 6.3
-      },
-      "12-09": {
-        "emocoes_predominantes": [
-          "otimismo",
-          "curiosidade"
-        ],
-        "pontos_altos": [
-          "Shows de artistas locais receberam elogios",
-          "Tendência crescente de hashtags sociais"
-        ],
-        "pontos_baixos": [
-          "Infraestrutura de alimentação criticada",
-          "Algumas filas longas relatadas"
-        ],
-        "nota_geral": 7.4
-      },
-      "13-09": {
-        "emocoes_predominantes": [
-          "entusiasmo",
-          "satisfação"
-        ],
-        "pontos_altos": [
-          "Apresentação destacada de Green Day",
-          "Momento viral com participação de Matuê"
-        ],
-        "pontos_baixos": [
-          "Superlotação em áreas específicas",
-          "Queixas sobre preço dos produtos"
+          "Reclamações relacionadas a segurança próximas ao palco"
         ],
         "nota_geral": 8.5
       },
-      "14-09": {
+      "12-09": {
         "emocoes_predominantes": [
-          "alegria",
-          "admiração",
-          "surpresa"
+          "frustração",
+          "descontentamento"
         ],
         "pontos_altos": [
-          "Show de Katy Perry com efeitos visuais surpreendentes",
-          "Ambiente inclusivo e engajado"
+          "Boa performance de artistas regionais"
         ],
         "pontos_baixos": [
-          "Relatos de tumulto isolado",
-          "Alguns problemas pontuais de segurança"
+          "Problemas severos de infraestrutura: filas grandes e atrasos"
         ],
-        "nota_geral": 8
+        "nota_geral": 5.5
+      },
+      "13-09": {
+        "emocoes_predominantes": [
+          "preocupação",
+          "confusão"
+        ],
+        "pontos_altos": [
+          "Reforço no policiamento elogiado"
+        ],
+        "pontos_baixos": [
+          "Incidentes isolados de confusão no palco 3"
+        ],
+        "nota_geral": 6.2
+      },
+      "14-09": {
+        "emocoes_predominantes": [
+          "satisfação",
+          "alívio"
+        ],
+        "pontos_altos": [
+          "Encerramento com público animado",
+          "Comentários positivos sobre organização"
+        ],
+        "pontos_baixos": [
+          "Nota algumas reclamações sobre preços"
+        ],
+        "nota_geral": 7.9
       }
     },
     "alertas_criticos": [
       {
-        "tipo": "Infraestrutura sanitária",
+        "tipo": "Infraestrutura",
         "severidade": "alta",
-        "descricao": "Acesso dificultado aos sanitários com impacto em 523 menções negativas no dia 07-09, causando insatisfação generalizada.",
-        "dia": "07-09",
-        "volume_mencoes": 523,
-        "acao_sugerida": "Ampliar pontos de sanitários e melhorar sinalização para evitar aglomerações."
-      },
-      {
-        "tipo": "Problemas técnicos no palco",
-        "severidade": "média",
-        "descricao": "Falhas técnicas registradas durante o show de Mariah Carey geraram 224 menções negativas impactando a experiência do público.",
-        "dia": "07-09",
-        "volume_mencoes": 224,
-        "acao_sugerida": "Realizar testes mais rigorosos de equipamentos e ensaios prévios para evitar falhas futuras."
-      },
-      {
-        "tipo": "Superlotação em áreas de alimentação",
-        "severidade": "média",
-        "descricao": "Queixas recorrentes de superlotação registradas principalmente nos dias 12 e 13-09, com 310 menções negativas.",
+        "descricao": "Longas filas e atrasos na entrada no dia 12-09 causaram grande insatisfação, com mais de 18.700 menções negativas relatando desconforto.",
         "dia": "12-09",
-        "volume_mencoes": 310,
-        "acao_sugerida": "Redimensionar pontos de venda e otimizar fluxo de pessoas."
+        "volume_mencoes": 18734,
+        "acao_sugerida": "Melhorar logística de entrada e aumentar número de acessos para evitar filas na próxima edição."
+      },
+      {
+        "tipo": "Segurança",
+        "severidade": "média",
+        "descricao": "Conflitos e sensação de insegurança no entorno do palco 3 durante o dia 13-09 resultaram em mais de 5.400 menções negativas.",
+        "dia": "13-09",
+        "volume_mencoes": 5423,
+        "acao_sugerida": "Reforço em policiamento e melhor visibilidade para público nessas áreas críticas."
       }
     ],
     "recomendacoes_futuras": [
-      "Investir na ampliação e manutenção dos sanitários para evitar crises semelhantes à ocorrida em 07-09.",
-      "Monitorar tecnicamente os equipamentos de palco com maior antecedência para prevenir falhas durante shows de grande apelo.",
-      "Ajustar pontos de alimentação para garantir distribuição eficiente e reduzir superlotação observada nos dias 12 e 13-09.",
-      "Fortalecer comunicação pré-evento sobre preços e infraestrutura para alinhar expectativas e reduzir insatisfações.",
-      "Aprimorar plano de segurança para mitigar riscos detectados no último dia, mantendo ambiente seguro e agradável."
+      "Investir em melhorias nas áreas de acesso para reduzir filas, baseado no volume de reclamações com 34,5% sentimento negativo em infraestrutura no dia 12-09.",
+      "Planejar comunicação clara sobre preços e opções de alimentação para reduzir percepções negativas, visto sentimento de 39,7% nesta categoria.",
+      "Ampliar policiamento perto de palcos com histórico de incidentes para aumentar sensação de segurança.",
+      "Fomentar maior participação de influenciadores macro e médio para elevar engajamento nas redes sociais, com foco em conteúdo positivo.",
+      "Manter análise contínua do sentimento para identificar rapidamente crises e atuar preventivamente."
     ],
     "comparativo_artistas": {
       "por_engajamento": [
         {
-          "artista": "Travis Scott",
-          "score": 78000,
-          "destaque": "Maior volume de menções no dia 06-09 com 85% de sentimento positivo."
+          "artista": "Anitta",
+          "score": 5.2,
+          "destaque": "Pico de 98.432 menções no dia 07-09 com sentimento médio positivo de 75,1%"
         },
         {
-          "artista": "Ludmilla",
-          "score": 65000,
-          "destaque": "Segundo maior número de menções, destacando forte presença nas redes sociais locais."
+          "artista": "Dj Ivis",
+          "score": 4.3,
+          "destaque": "Alto engajamento no dia 06-09 com 42.378 menções"
         }
       ],
       "por_sentimento_positivo": [
         {
-          "artista": "Matuê",
-          "score": 0.92,
-          "destaque": "Melhor índice de sentimento positivo entre headliners, acima de Ludmilla (0.88)."
+          "artista": "Anitta",
+          "score": 75.1,
+          "destaque": "Recebeu elogios consistentes por performance e interação com público"
         },
         {
-          "artista": "Green Day",
-          "score": 0.88,
-          "destaque": "Recebeu elogios consistentes pela produção do show e interação com o público."
+          "artista": "Luísa Sonza",
+          "score": 70.8,
+          "destaque": "Conteúdo dos influenciadores contribuiu para sentimento positivo em torno do artista"
         }
       ],
       "por_alcance": [
         {
-          "artista": "Matuê",
-          "score": 1200000,
-          "destaque": "Alcance médio estimado por post superior a todos os outros artistas."
+          "artista": "MC Cabelinho",
+          "score": 134500,
+          "destaque": "Maior reach com 134.500 seguidores, apesar de críticas sobre duração do show"
         },
         {
-          "artista": "Katy Perry",
-          "score": 1150000,
-          "destaque": "Amplamente comentada pelos efeitos visuais e surpresa no palco."
+          "artista": "Anitta",
+          "score": 112000,
+          "destaque": "Segundo maior público alcançado nas redes"
         }
       ],
       "controversias": [
         {
-          "artista": "Mariah Carey",
-          "problema": "Problemas técnicos e atrasos que geraram críticas e sentimento misto.",
+          "artista": "MC Cabelinho",
+          "problema": "Show com duração menor que o esperado, causando reclamações e impacto negativo no sentimento",
           "impacto": "médio"
         }
       ]
     },
     "analise_temporal": {
-      "melhor_dia": "13-09",
-      "pior_dia": "07-09",
-      "horario_pico": "21:00",
+      "melhor_dia": "07-09",
+      "pior_dia": "12-09",
+      "horario_pico": "21:00-23:00",
       "tendencias": [
-        "Crescimento da discussão sobre sustentabilidade e inclusão no evento.",
-        "Aumento do uso de hashtags envolvendo artistas locais e surpresas no palco."
+        "Incremento de menções positivas alinhado a shows surpresa e atuações de artistas populares",
+        "Aumento de críticas durante períodos de maior fluxo no festival, especialmente em relação à infraestrutura e preços"
       ]
     }
   },
