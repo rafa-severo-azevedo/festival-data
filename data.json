@@ -1,7 +1,7 @@
 {
   "metadata": {
     "festival": "The Town 2025",
-    "lastUpdate": "2025-11-11T20:52:33.199Z",
+    "lastUpdate": "2025-11-11T21:19:00.930Z",
     "totalDias": 25,
     "totalMencoes": 100428,
     "periodoAnalise": {
@@ -185,8 +185,8 @@
         "dia": "unknown",
         "mencoes": 5000,
         "sentimento": 53,
-        "reach": 40959555,
-        "engagement": 559720,
+        "reach": 40959535,
+        "engagement": 559719,
         "plataformas": {
           "Twitter": 4521,
           "Instagram": 58,
@@ -1200,8 +1200,8 @@
         "dia": "14-09",
         "mencoes": 5000,
         "sentimento": 39,
-        "reach": 23538688,
-        "engagement": 633357,
+        "reach": 23538668,
+        "engagement": 633356,
         "plataformas": {
           "Twitter": 4675,
           "Instagram": 111,
@@ -1238,257 +1238,22 @@
   },
   "analise_ia": {
     "insights_executivos": [
-      "O festival The Town 2025 acumulou um total de 734.528 menções ao longo dos 5 dias, com um sentimento médio geral de 67,4%, indicando uma percepção positiva consistente.",
-      "Nos dias 12-09 e 13-09, o engajamento médio alcançou 4,8% e 5,1%, respectivamente, superando a média do evento (3,9%), impulsionado pelo desempenho dos artistas Alok e Anitta.",
-      "Alok liderou o ranking de menções com 143.287, alcançando 71,6% de sentimento positivo e 312.548 de alcance total, contrastando com MC Cabelinho, que teve 76.435 menções com 52,3% de sentimento, evidenciando críticas sobre performance.",
-      "Foi identificado um pico viral em 13-09 às 21:00, durante o show de Anitta, com hashtags #AnittaLive e #TheTownBomb, alcançando 98.456 menções em 1 hora, principalmente positivas (74%).",
-      "Apesar do alto volume, 263 reclamações sobre infraestrutura, especialmente filas nos banheiros e no acesso, foram detectadas com sentimento negativo médio de 38%, configurando uma crise baixa em 12-09 às 20:00 com 198 menções negativas/hora.",
-      "A segurança foi relatada com sentimento predominantemente neutro (55,2%), porém houve 3 incidentes de pequenas brigas reportados no dia 14-09, criando alertas baixos com impacto controlado.",
-      "Principais influenciadores como @LucasInfluencer (450K seguidores) e @MariaBlogger (1.2M seguidores) contribuíram para engajamento alto, destacando comentários positivos sobre a organização e performances dos artistas principais."
+      "Erro ao processar análise da IA"
     ],
-    "categorias_tematicas": {
-      "lineup": {
-        "mencoes": 225.439,
-        "sentimento": 68.3,
-        "principais_comentarios": [
-          "Alok foi o artista mais comentado e elogiado, especialmente pelo set animado no dia 12-09.",
-          "MC Cabelinho recebeu críticas por baixa interação com público e repertório limitado."
-        ]
-      },
-      "infraestrutura": {
-        "mencoes": 48.723,
-        "sentimento": 39.8,
-        "principais_comentarios": [
-          "Longas filas nos banheiros geraram insatisfação generalizada, principalmente no segundo dia.",
-          "Dificuldades no acesso e transporte público foram relatadas pela manhã do dia 13-09."
-        ]
-      },
-      "experiencia_geral": {
-        "mencoes": 144.582,
-        "sentimento": 70.2,
-        "principais_comentarios": [
-          "Clima positivo entre o público, com destaque para a diversidade do festival e atmosfera vibrante.",
-          "Reclamações pontuais sobre falta de sinalização em áreas internas."
-        ]
-      },
-      "precos": {
-        "mencoes": 37.815,
-        "sentimento": 42.7,
-        "principais_comentarios": [
-          "Preços dos alimentos foram considerados altos por 33% das menções nessa categoria.",
-          "Ingressos tiveram reclamações relacionadas a dificuldades na compra e gargalos em pontos físicos."
-        ]
-      },
-      "seguranca": {
-        "mencoes": 16.97,
-        "sentimento": 55.2,
-        "principais_comentarios": [
-          "Sensação geral de segurança adequada, apesar de três incidentes pontuais no último dia.",
-          "A presença policial intensificada foi elogiada em 14-09."
-        ]
-      }
-    },
-    "influenciadores_destaque": [
-      {
-        "nome": "@MariaBlogger",
-        "alcance_estimado": 765438,
-        "mencoes": 1345,
-        "sentimento": 72.6,
-        "impacto": "alto",
-        "principal_contribuicao": "Compartilhou vídeos com destaque da Anitta e conteúdos positivos sobre estrutura."
-      },
-      {
-        "nome": "@LucasInfluencer",
-        "alcance_estimado": 450123,
-        "mencoes": 987,
-        "sentimento": 68.9,
-        "impacto": "médio",
-        "principal_contribuicao": "Postagens analisando o setlist e interação de Alok com o público."
-      }
-    ],
-    "momentos_virais": [
-      {
-        "momento": "Show surpresa de Anitta com estreia de música inédita.",
-        "artista_relacionado": "Anitta",
-        "dia": "13-09",
-        "hashtags": [
-          "#AnittaLive",
-          "#TheTownBomb"
-        ],
-        "estimativa_alcance": 98456,
-        "sentimento_predominante": "positive"
-      },
-      {
-        "momento": "Debate público sobre filas e estrutura nos banheiros no segundo dia.",
-        "artista_relacionado": null,
-        "dia": "12-09",
-        "hashtags": [
-          "#FilaTheTown",
-          "#TheTownInfra"
-        ],
-        "estimativa_alcance": 48723,
-        "sentimento_predominante": "negative"
-      }
-    ],
-    "analise_sentimento_detalhada": {
-      "06-09": {
-        "emocoes_predominantes": [
-          "entusiasmo",
-          "alegria"
-        ],
-        "pontos_altos": [
-          "Recepção calorosa do público ao lineup inicial.",
-          "Boa organização na entrada do evento."
-        ],
-        "pontos_baixos": [
-          "Algumas reclamações sobre preços de alimentos."
-        ],
-        "nota_geral": 8
-      },
-      "07-09": {
-        "emocoes_predominantes": [
-          "alegria",
-          "surpresa"
-        ],
-        "pontos_altos": [
-          "Alta interação do público com shows de destaque.",
-          "Sinalização melhorada em relação ao dia anterior."
-        ],
-        "pontos_baixos": [
-          "Transporte apresentado como ponto crítico pela manhã."
-        ],
-        "nota_geral": 7.5
-      },
-      "12-09": {
-        "emocoes_predominantes": [
-          "frustração",
-          "insatisfação",
-          "alegria"
-        ],
-        "pontos_altos": [
-          "Performance de Alok muito elogiada.",
-          "Ambiente de festa animado no período noturno."
-        ],
-        "pontos_baixos": [
-          "Filas extensas e reclamações de infraestrutura geraram insatisfação generalizada."
-        ],
-        "nota_geral": 6.2
-      },
-      "13-09": {
-        "emocoes_predominantes": [
-          "entusiasmo",
-          "admiração"
-        ],
-        "pontos_altos": [
-          "Apresentação surpresa de Anitta foi destaque extremo.",
-          "Alta adesão do público nas redes sociais."
-        ],
-        "pontos_baixos": [
-          "Incidentes pontuais de segurança no final do dia."
-        ],
-        "nota_geral": 7.8
-      },
-      "14-09": {
-        "emocoes_predominantes": [
-          "tranquilidade",
-          "contentamento"
-        ],
-        "pontos_altos": [
-          "Sensação de segurança reforçada e encerramento positivo.",
-          "Boa organização do transporte para saída."
-        ],
-        "pontos_baixos": [
-          "Menor volume de menções comparado a outros dias."
-        ],
-        "nota_geral": 7.3
-      }
-    },
-    "alertas_criticos": [
-      {
-        "tipo": "Infraestrutura",
-        "severidade": "baixa",
-        "descricao": "Longas filas nos banheiros e pontos de alimentação no dia 12-09 com volume médio de 198 menções negativas por hora às 20:00.",
-        "dia": "12-09",
-        "volume_mencoes": 198,
-        "acao_sugerida": "Aumentar número de pontos de banheiros e agilizar operações de alimentação para melhorar a experiência."
-      },
-      {
-        "tipo": "Segurança",
-        "severidade": "baixa",
-        "descricao": "Incidentes isolados de brigas relatadas no dia 14-09 no período final do evento.",
-        "dia": "14-09",
-        "volume_mencoes": 45,
-        "acao_sugerida": "Reforçar policiamento em horários finais e pontos específicos para prevenção."
-      }
-    ],
-    "recomendacoes_futuras": [
-      "Implementar mais banheiros portáteis e aumentar equipe de limpeza para reduzir filas e melhorar experiência.",
-      "Melhorar comunicação pré-evento sobre transporte e acesso para evitar congestionamentos e insatisfações matinais.",
-      "Incluir atrações com maior interação com o público para artistas com menor engajamento, como MC Cabelinho.",
-      "Aprimorar sinalização interna do evento para facilitar deslocamento e reduzir reclamações.",
-      "Intensificar monitoramento de segurança em horários críticos para antecipar e mitigar incidentes."
-    ],
-    "comparativo_artistas": {
-      "por_engajamento": [
-        {
-          "artista": "Alok",
-          "score": 5.1,
-          "destaque": "Maior engajamento do festival no dia 13-09 com 143.287 menções e 312.548 de alcance."
-        },
-        {
-          "artista": "Anitta",
-          "score": 4.8,
-          "destaque": "Pico viral às 21:00 em 13-09 com lançamento de música inédita."
-        }
-      ],
-      "por_sentimento_positivo": [
-        {
-          "artista": "Alok",
-          "score": 71.6,
-          "destaque": "Mais alto sentimento positivo entre os top artistas."
-        },
-        {
-          "artista": "Anitta",
-          "score": 69.3,
-          "destaque": "Recebeu elogios significativos nas redes durante e após shows."
-        }
-      ],
-      "por_alcance": [
-        {
-          "artista": "Alok",
-          "score": 312548,
-          "destaque": "Maior alcance total entre artistas do evento."
-        },
-        {
-          "artista": "Anitta",
-          "score": 298735,
-          "destaque": "Alcance secundário mas muito expressivo com posts virais."
-        }
-      ],
-      "controversias": [
-        {
-          "artista": "MC Cabelinho",
-          "problema": "Recebeu críticas por performance repetitiva e pouca interação, impactando sentimento médio (52,3%).",
-          "impacto": "médio"
-        }
-      ]
-    },
-    "analise_temporal": {
-      "melhor_dia": "13-09",
-      "pior_dia": "12-09",
-      "horario_pico": "21:00",
-      "tendencias": [
-        "Alta interação em shows com surpresas e lançamentos como Anitta 13-09.",
-        "Reclamações consistentes sobre infraestrutura no dia 12-09.",
-        "Picos de engajamento noturnos coincidem com atrações principais."
-      ]
-    }
+    "categorias_tematicas": {},
+    "influenciadores_destaque": [],
+    "momentos_virais": [],
+    "analise_sentimento_detalhada": {},
+    "alertas_criticos": [],
+    "recomendacoes_futuras": [],
+    "comparativo_artistas": {},
+    "analise_temporal": {}
   },
   "paineis": {
     "visao_executiva": {
       "totalMencoes": 100428,
       "sentimentoMedio": 49,
-      "reachTotal": 396278154,
+      "reachTotal": 396278114,
       "engajamentoMedio": "0.1",
       "topHashtags": [
         "#thetown",
@@ -1516,7 +1281,7 @@
         {
           "name": "Iza",
           "totalMencoes": 1118,
-          "totalReach": 8758632,
+          "totalReach": 8758612,
           "sentimentoMedio": 46,
           "dias": [
             "06-09",
@@ -1681,7 +1446,7 @@
         {
           "name": "Green Day",
           "totalMencoes": 464,
-          "totalReach": 2059346,
+          "totalReach": 2059326,
           "sentimentoMedio": 44,
           "dias": [
             "06-09",
@@ -2016,7 +1781,7 @@
               "name": "Green Day",
               "mentions": 67,
               "sentiment": 42,
-              "reach": 81383,
+              "reach": 81363,
               "engagement": "30.3",
               "topPost": "ROCK E (MUITO) DINHEIRO Atração do festival The Town, o Green Day volta pela quinta vez ao Brasil neste domingo (7). Além dos sucessos, a banda americ",
               "day": "unknown"
@@ -3048,7 +2813,7 @@
               "name": "Iza",
               "mentions": 91,
               "sentiment": 64,
-              "reach": 1841540,
+              "reach": 1841520,
               "engagement": "783.3",
               "topPost": "SKYLINE 🏙️ iza Trouxe esse momento histórico para a música brasileira no palco do The Town! ME ARREPIEI! 🤩😍🔥 #IZANoMultishow",
               "day": "14-09"
