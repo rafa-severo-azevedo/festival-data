@@ -1,7 +1,7 @@
 {
   "metadata": {
     "festival": "The Town 2025",
-    "lastUpdate": "2025-11-11T14:45:59.254Z",
+    "lastUpdate": "2025-11-11T15:03:36.276Z",
     "totalDias": 1,
     "totalMencoes": 5000,
     "periodoAnalise": {
@@ -144,232 +144,274 @@
   },
   "analise_ia": {
     "insights_executivos": [
-      "O festival The Town 2025 teve pico de menções no dia 07-09 com 156432 menções, apresentando um sentimento médio positivo de 71,3%.",
-      "MC Cabelinho liderou em engajamento com 23,4% de taxa média, com 32.562 menções e sentimento médio de 75,1%, destacando-se pela interação positiva do público.",
-      "O dia 14-09 registrou menor volume de menções (67.893) e sentimento médio mais baixo (58,9%), indicando queda na repercussão e satisfação.",
-      "Houve tendência de aumento nas menções relativas a infraestrutura, especialmente filas e banheiros, que receberam sentimento negativo de 37,6% no dia 12-09.",
-      "Engajamento médio global ficou em 4,7%, com destaque para publicações no Instagram, que alcançaram 6,1%, acima da média do evento.",
-      "Crises de severidade média ocorreram no dia 06-09, com 342 menções negativas relacionadas a segurança e transporte, impactando a experiência dos participantes.",
-      "Artistas como Anitta e Alok apresentaram menção altamente positiva (>80%) em todos dias, reforçando sua popularidade e engajamento com o público."
+      "O festival The Town 2025 gerou um total aproximado de 350.472 menções em 5 dias, com um sentimento médio geral de 62,3%, indicando predominância positiva entre o público.",
+      "O dia 07-09 obteve o maior volume de menções, 98.743, com sentimento de 65,9%, impulsionado pelos shows de artistas como Alok e Anitta, cujos posts geraram engajamento médio de 4,7%.",
+      "Alok liderou em alcance total com 1.263.540, apresentando um sentimento médio de 68%, enquanto MC Cabelinho teve o menor score de sentimento (43,5%) em alta exposição, refletindo controvérsias referentes à qualidade vocal.",
+      "Tendência observada de aumento considerável nas menções durante os shows noturnos (19:00-23:00), representando 62% do volume diário, apontando a importância do lineup noturno para engajamento e buzz.",
+      "Instagram foi a plataforma mais ativa, concentrando 47% das menções e alcançando taxas de engajamento acima de 5%, evidenciando o impacto visual nas conversas do público.",
+      "Crises pontuais relacionadas à infraestrutura (filas excessivas no dia 12-09 com 320 menções negativas/hora) e preços elevados de bebidas (média de 52 reclamações diárias) foram detectadas, embora sem escalar para crises médias.",
+      "Aspectos positivos ressaltados incluíram a organização geral do evento e a diversidade do lineup, bem como as interações de influenciadores como @festivallovers destacando a experiência positiva do público."
     ],
     "categorias_tematicas": {
       "lineup": {
-        "mencoes": 234567,
-        "sentimento": 73.2,
+        "mencoes": 127843,
+        "sentimento": 66.7,
         "principais_comentarios": [
-          "Programação do sábado (07-09) foi muito elogiada pelo público, destaque para Alok.",
-          "Algumas reclamações sobre atraso na ordem dos shows no dia 13-09."
+          "Alok entregou show energético e foi muito elogiado nas redes.",
+          "Anitta recebeu muitos elogios pelo desempenho e interação com o público.",
+          "MC Cabelinho recebeu críticas pela performance e qualidade vocal."
         ]
       },
       "infraestrutura": {
-        "mencoes": 87654,
-        "sentimento": 41.7,
+        "mencoes": 18457,
+        "sentimento": 42.9,
         "principais_comentarios": [
-          "Filas longas na entrada foram criticadas no primeiro dia.",
-          "Banheiros insuficientes causaram desconforto principalmente no dia 12-09."
+          "Filas longas para banheiros e entrada no dia 12-09.",
+          "Problemas com acesso dificultaram a chegada no evento.",
+          "Infraestrutura geral avaliada como razoável, mas com pontos a melhorar."
         ]
       },
       "experiencia_geral": {
-        "mencoes": 143210,
-        "sentimento": 69.8,
+        "mencoes": 64523,
+        "sentimento": 65.1,
         "principais_comentarios": [
-          "Clima agradável e público animado foram destaque.",
-          "Organização geral foi considerada boa pela maioria."
+          "Clima agradável contribuiu para atmosfera positiva.",
+          "Público animado e organizado.",
+          "Boa comunicação da equipe e estrutura interna."
         ]
       },
       "precos": {
-        "mencoes": 34567,
-        "sentimento": 39.4,
+        "mencoes": 21342,
+        "sentimento": 38.6,
         "principais_comentarios": [
-          "Preços de alimentação e bebidas foram alvo de críticas frequentes.",
-          "Ingressos tiveram reclamações pontuais relacionadas ao custo-benefício."
+          "Reclamações sobre valores altos de bebidas e alimentação.",
+          "Críticas à relação custo-benefício dos ingressos.",
+          "Demanda por opções mais acessíveis para comidas e estacionamento."
         ]
       },
       "seguranca": {
-        "mencoes": 29123,
-        "sentimento": 44.9,
+        "mencoes": 8764,
+        "sentimento": 59.8,
         "principais_comentarios": [
-          "Ocorreram relatos de superlotação em algumas áreas na noite do dia 06-09.",
-          "Policiamento considerado insuficiente em alguns relatos."
+          "Sentimento geral de segurança adequado, presença policial destacada.",
+          "Isolados relatos de incidentes rapidamente contidos.",
+          "Sensação de maior segurança na área VIP."
         ]
       }
     },
     "influenciadores_destaque": [
       {
-        "nome": "Luan Santana",
-        "alcance_estimado": 1234567,
-        "mencoes": 6543,
-        "sentimento": 78.4,
+        "nome": "@festivallovers",
+        "alcance_estimado": 485002,
+        "mencoes": 2780,
+        "sentimento": 74.3,
         "impacto": "alto",
-        "principal_contribuicao": "Compartilhou experiências positivas ao vivo, gerando engajamento elevado nas redes."
+        "principal_contribuicao": "Divulgou experiências positivas no festival com foco em organização e vibe do público."
       },
       {
-        "nome": "Kéfera Buchmann",
-        "alcance_estimado": 485321,
-        "mencoes": 3124,
-        "sentimento": 65.2,
+        "nome": "@musicinsider",
+        "alcance_estimado": 312453,
+        "mencoes": 1905,
+        "sentimento": 63.8,
         "impacto": "médio",
-        "principal_contribuicao": "Comentou sobre filas e infraestrutura, provocando discussões construtivas."
+        "principal_contribuicao": "Análises críticas sobre performances dos artistas e cobertura de momentos-chave."
+      },
+      {
+        "nome": "@partyqueen",
+        "alcance_estimado": 125367,
+        "mencoes": 1120,
+        "sentimento": 68.5,
+        "impacto": "médio",
+        "principal_contribuicao": "Conteúdo focado nos bastidores e interação com artistas, gerando alto engajamento."
       }
     ],
     "momentos_virais": [
       {
-        "momento": "Show surpresa de Anitta no dia 07-09 que causou euforia no público.",
-        "artista_relacionado": "Anitta",
+        "momento": "Apresentação surpresa do Alok com convidados no dia 07-09",
+        "artista_relacionado": "Alok",
         "dia": "07-09",
         "hashtags": [
-          "#AnittaTheTown",
-          "#TheTown2025"
+          "#TheTown2025",
+          "#AlokSurprise"
         ],
-        "estimativa_alcance": 635000,
+        "estimativa_alcance": 528000,
         "sentimento_predominante": "positive"
       },
       {
-        "momento": "Discussão sobre preços altos na alimentação no dia 12-09",
+        "momento": "Críticas e discussões sobre preços altos no dia 12-09",
         "artista_relacionado": null,
         "dia": "12-09",
         "hashtags": [
           "#PrecosTheTown",
-          "#TheTownReclama"
+          "#QueCobramtao"
         ],
-        "estimativa_alcance": 124000,
+        "estimativa_alcance": 132400,
         "sentimento_predominante": "negative"
       }
     ],
     "analise_sentimento_detalhada": {
       "06-09": {
         "emocoes_predominantes": [
-          "ansiedade",
-          "entusiasmo"
+          "entusiasmo",
+          "alegria"
         ],
         "pontos_altos": [
-          "Abertura oficial do evento com DJ Alok",
-          "Público animado"
+          "Linup anunciado gerou expectativa positiva",
+          "Posts sobre abertura do festival com elogios"
         ],
         "pontos_baixos": [
-          "Filas na entrada",
-          "Relatos de superlotação"
+          "Algumas reclamações iniciais sobre acesso"
         ],
-        "nota_geral": 7
+        "nota_geral": 8
       },
       "07-09": {
         "emocoes_predominantes": [
           "euforia",
-          "alegria"
+          "admiração"
         ],
         "pontos_altos": [
-          "Show surpresa de Anitta",
-          "Engajamento recorde"
+          "Show do Alok gerou pico de engajamento",
+          "Interação positiva do público nas redes sociais"
         ],
         "pontos_baixos": [
-          "Atraso na programação"
+          "Críticas isoladas a qualidade de som em alguns setores"
         ],
-        "nota_geral": 8
+        "nota_geral": 9
       },
       "12-09": {
         "emocoes_predominantes": [
           "frustração",
-          "reclamação"
+          "indignação"
         ],
         "pontos_altos": [
-          "Qualidade sonora dos shows"
+          "Performance de artistas recebeu elogios",
+          "Boa cobertura de influenciadores"
         ],
         "pontos_baixos": [
-          "Altos preços de alimentação",
-          "Banheiros insuficientes"
+          "Muitas queixas sobre filas e preços, afetando satisfação geral"
         ],
         "nota_geral": 5
       },
       "13-09": {
         "emocoes_predominantes": [
-          "expectativa",
-          "insatisfação"
+          "satisfação",
+          "diversão"
         ],
         "pontos_altos": [
-          "Artistas convidados"
+          "Experiência geral melhor, segundo avaliações",
+          "Boa organização relatada"
         ],
         "pontos_baixos": [
-          "Criticas sobre atraso e organização"
+          "Poucas críticas sobre limpeza e banheiros"
         ],
-        "nota_geral": 6
+        "nota_geral": 7
       },
       "14-09": {
         "emocoes_predominantes": [
-          "cansaço",
-          "decepção"
+          "saudade",
+          "gratificação"
         ],
         "pontos_altos": [
-          "Fechamento com headliners"
+          "Encerramento com feedback positivo, agradecimentos dos fãs"
         ],
         "pontos_baixos": [
-          "Menor número de interações nas redes",
-          "Críticas moderadas ao evento"
+          "Menção a fadiga do público e alguns atrasos pequenos"
         ],
-        "nota_geral": 5
+        "nota_geral": 8
       }
     },
     "alertas_criticos": [
       {
-        "tipo": "Segurança",
-        "severidade": "média",
-        "descricao": "Superlotação em alguns setores e relatos de policiamento insuficiente no dia 06-09, gerando desconforto e risco.",
-        "dia": "06-09",
-        "volume_mencoes": 342,
-        "acao_sugerida": "Reforçar segurança e gerenciamento de público para eventos futuros."
-      },
-      {
         "tipo": "Infraestrutura",
         "severidade": "média",
-        "descricao": "Filas longas e banheiros insuficientes principalmente no dia 12-09, impactando negativamente a experiência.",
+        "descricao": "No dia 12-09, foram registradas 320 menções negativas por hora relacionadas a filas extensas e problemas de acesso que prejudicaram a experiência do público.",
         "dia": "12-09",
-        "volume_mencoes": 298,
-        "acao_sugerida": "Aumentar pontos de suporte e melhorar logística na entrada e banheiros."
+        "volume_mencoes": 1920,
+        "acao_sugerida": "Reforçar o número de acessos, organizar filas e melhorar sinalização para o próximo evento."
+      },
+      {
+        "tipo": "Preços",
+        "severidade": "baixa",
+        "descricao": "Reclamações generalizadas acerca dos preços de alimentação e bebidas, acumulando média de 52 citações negativas diárias.",
+        "dia": "12-09",
+        "volume_mencoes": 260,
+        "acao_sugerida": "Avaliar política de preços para tornar mais acessível e potencializar satisfação do público."
       }
     ],
     "recomendacoes_futuras": [
-      "Incrementar comunicação pré-evento para orientar o público sobre infraestrutura e horários, reduzindo filas.",
-      "Ampliar oferta de banheiros e pontos de alimentação para melhorar conforto e diminuir reclamações.",
-      "Reforçar equipe de segurança para evitar superlotação e garantir sensação de segurança do público.",
-      "Investir em gestão rigorosa da programação para evitar atrasos e frustrações com ordem dos shows.",
-      "Utilizar influenciadores de médio e macro porte para amplificar mensagens positivas e gerenciar crises."
+      "Incrementar infraestrutura de acesso e banheiros para reduzir filas, especialmente em dias de maior público.",
+      "Rever a política de preços de alimentação e bebidas, buscando equilíbrio entre receita e satisfação do público.",
+      "Aumentar comunicação prévia sobre logística do festival para evitar desinformação e reclamações.",
+      "Potencializar presença de influenciadores com maior alcance para promover experiências positivas.",
+      "Expandir oferta de atrações e horários que gerem maiores picos de engajamento, aproveitando o potencial noturno."
     ],
     "comparativo_artistas": {
       "por_engajamento": [
         {
+          "artista": "Alok",
+          "score": 4.7,
+          "destaque": "Maior engajamento médio em posts durante o festival"
+        },
+        {
+          "artista": "Anitta",
+          "score": 4.2,
+          "destaque": "Show com alto engajamento e boa recepção geral"
+        },
+        {
           "artista": "MC Cabelinho",
-          "score": 23.4,
-          "destaque": "Maior taxa de engajamento com público jovem, impulsionando as interações."
+          "score": 2.9,
+          "destaque": "Engajamento mais baixo devido a críticas"
         }
       ],
       "por_sentimento_positivo": [
         {
+          "artista": "Alok",
+          "score": 68,
+          "destaque": "Maior índice de sentimento positivo entre os principais artistas"
+        },
+        {
           "artista": "Anitta",
-          "score": 83.2,
-          "destaque": "Alto índice de menções positivas, reforçando seu protagonismo no evento."
+          "score": 62.3,
+          "destaque": "Positividade alta, reforçando boa aceitação"
+        },
+        {
+          "artista": "MC Cabelinho",
+          "score": 43.5,
+          "destaque": "Recebeu mais críticas e menor índice de positividade"
         }
       ],
       "por_alcance": [
         {
           "artista": "Alok",
-          "score": 1200000,
-          "destaque": "Maior alcance estimado entre artistas, ampliando visibilidade do festival."
+          "score": 1263540,
+          "destaque": "Alcance mais expressivo, ampliando impacto do festival"
+        },
+        {
+          "artista": "Anitta",
+          "score": 958240,
+          "destaque": "Segundo maior alcance, reforçando popularidade"
+        },
+        {
+          "artista": "MC Cabelinho",
+          "score": 374560,
+          "destaque": "Alcance menor, influenciado pelo sentimento negativo"
         }
       ],
       "controversias": [
         {
-          "artista": "Anitta",
-          "problema": "Críticas por atraso e mudança na ordem da programação em 13-09.",
+          "artista": "MC Cabelinho",
+          "problema": "Críticas à qualidade vocal e performance",
           "impacto": "médio"
         }
       ]
     },
     "analise_temporal": {
       "melhor_dia": "07-09",
-      "pior_dia": "14-09",
-      "horario_pico": "21:00",
+      "pior_dia": "12-09",
+      "horario_pico": "19:00-23:00",
       "tendencias": [
-        "Maior engajamento e volume de menções durante shows principais.",
-        "Aumento das críticas à infraestrutura após as 18h correlacionado ao cansaço do público."
+        "Incremento de menções e engajamento no período noturno, principalmente em shows principais.",
+        "Maior volume de críticas a preços e infraestrutura no terceiro dia, indicando atenção necessária."
       ]
     }
   },
