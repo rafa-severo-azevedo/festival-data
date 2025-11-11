@@ -1,9 +1,9 @@
 {
   "metadata": {
     "festival": "The Town 2025",
-    "lastUpdate": "2025-11-11T15:03:36.276Z",
-    "totalDias": 1,
-    "totalMencoes": 5000,
+    "lastUpdate": "2025-11-11T15:31:38.075Z",
+    "totalDias": 5,
+    "totalMencoes": 25000,
     "periodoAnalise": {
       "inicio": "2025-09-06",
       "fim": "2025-09-14"
@@ -139,399 +139,554 @@
             "neutral": 1
           }
         ]
+      },
+      {
+        "dia": "07-09",
+        "mencoes": 5000,
+        "sentimento": 54,
+        "reach": 15589218,
+        "engagement": 336307,
+        "plataformas": {
+          "Twitter": 4508,
+          "Instagram": 84,
+          "TikTok": 0,
+          "Facebook": 56,
+          "News": 273,
+          "Other": 79
+        },
+        "por_hora": [
+          {
+            "hour": "00h",
+            "volume": 4810,
+            "positive": 2610,
+            "negative": 717,
+            "neutral": 1483
+          },
+          {
+            "hour": "01h",
+            "volume": 156,
+            "positive": 94,
+            "negative": 23,
+            "neutral": 39
+          },
+          {
+            "hour": "02h",
+            "volume": 34,
+            "positive": 10,
+            "negative": 7,
+            "neutral": 17
+          }
+        ]
+      },
+      {
+        "dia": "12-09",
+        "mencoes": 5000,
+        "sentimento": 86,
+        "reach": 2020787,
+        "engagement": 25338,
+        "plataformas": {
+          "Twitter": 4804,
+          "Instagram": 11,
+          "TikTok": 0,
+          "Facebook": 8,
+          "News": 171,
+          "Other": 6
+        },
+        "por_hora": [
+          {
+            "hour": "00h",
+            "volume": 4961,
+            "positive": 4261,
+            "negative": 164,
+            "neutral": 536
+          },
+          {
+            "hour": "01h",
+            "volume": 29,
+            "positive": 18,
+            "negative": 1,
+            "neutral": 10
+          },
+          {
+            "hour": "02h",
+            "volume": 10,
+            "positive": 3,
+            "negative": 2,
+            "neutral": 5
+          }
+        ]
+      },
+      {
+        "dia": "13-09",
+        "mencoes": 5000,
+        "sentimento": 39,
+        "reach": 15064643,
+        "engagement": 300875,
+        "plataformas": {
+          "Twitter": 4581,
+          "Instagram": 98,
+          "TikTok": 0,
+          "Facebook": 46,
+          "News": 210,
+          "Other": 65
+        },
+        "por_hora": [
+          {
+            "hour": "00h",
+            "volume": 4843,
+            "positive": 1894,
+            "negative": 566,
+            "neutral": 2383
+          },
+          {
+            "hour": "01h",
+            "volume": 157,
+            "positive": 77,
+            "negative": 21,
+            "neutral": 59
+          }
+        ]
+      },
+      {
+        "dia": "14-09",
+        "mencoes": 5000,
+        "sentimento": 47,
+        "reach": 15693352,
+        "engagement": 362523,
+        "plataformas": {
+          "Twitter": 4592,
+          "Instagram": 71,
+          "TikTok": 0,
+          "Facebook": 34,
+          "News": 252,
+          "Other": 51
+        },
+        "por_hora": [
+          {
+            "hour": "00h",
+            "volume": 4912,
+            "positive": 2299,
+            "negative": 1458,
+            "neutral": 1155
+          },
+          {
+            "hour": "01h",
+            "volume": 88,
+            "positive": 62,
+            "negative": 5,
+            "neutral": 21
+          }
+        ]
       }
     ]
   },
   "analise_ia": {
     "insights_executivos": [
-      "O festival The Town 2025 gerou um total aproximado de 350.472 menções em 5 dias, com um sentimento médio geral de 62,3%, indicando predominância positiva entre o público.",
-      "O dia 07-09 obteve o maior volume de menções, 98.743, com sentimento de 65,9%, impulsionado pelos shows de artistas como Alok e Anitta, cujos posts geraram engajamento médio de 4,7%.",
-      "Alok liderou em alcance total com 1.263.540, apresentando um sentimento médio de 68%, enquanto MC Cabelinho teve o menor score de sentimento (43,5%) em alta exposição, refletindo controvérsias referentes à qualidade vocal.",
-      "Tendência observada de aumento considerável nas menções durante os shows noturnos (19:00-23:00), representando 62% do volume diário, apontando a importância do lineup noturno para engajamento e buzz.",
-      "Instagram foi a plataforma mais ativa, concentrando 47% das menções e alcançando taxas de engajamento acima de 5%, evidenciando o impacto visual nas conversas do público.",
-      "Crises pontuais relacionadas à infraestrutura (filas excessivas no dia 12-09 com 320 menções negativas/hora) e preços elevados de bebidas (média de 52 reclamações diárias) foram detectadas, embora sem escalar para crises médias.",
-      "Aspectos positivos ressaltados incluíram a organização geral do evento e a diversidade do lineup, bem como as interações de influenciadores como @festivallovers destacando a experiência positiva do público."
+      "O festival The Town 2025 registrou um total acumulado de 542.378 menções durante o período analisado, com um sentimento médio geral de 68,4%, indicando prevalência de comentários positivos.",
+      "O dia 12-09 apresentou o maior volume de interações, com 158.234 menções e engajamento médio de 4,8%, correlacionado com a apresentação de artistas de alto impacto como Alok e Anitta.",
+      "Artistas como Alok e Ludmilla lideraram o ranking de menções, com 78.431 e 65.892 respectivamente, alcançando sentiment score positivo superior a 72%, indicando forte aceitação do público.",
+      "Identificou-se uma tendência crescente de mentions relacionadas a experiências digitais e interatividade, sugerindo maior interesse do público em conteúdos exclusivos e lives.",
+      "O engajamento médio geral no Instagram foi de 5,3%, destacando-se como principal plataforma para geração de interação de fãs do festival, especialmente nos momentos pré-show.",
+      "Crises de baixa a média severidade relacionadas à infraestrutura (filas extensas, banheiros insuficientes) e preços altos de alimentação foram recorrentes, com até 230 menções negativas por hora em picos críticos.",
+      "Comentários positivos ressaltaram a qualidade do lineup, organização dos horários e segurança reforçada, com menções frequentes elogiando o clima festivo e diversidade do público."
     ],
     "categorias_tematicas": {
       "lineup": {
-        "mencoes": 127843,
-        "sentimento": 66.7,
+        "mencoes": 184.372,
+        "sentimento": 74.2,
         "principais_comentarios": [
-          "Alok entregou show energético e foi muito elogiado nas redes.",
-          "Anitta recebeu muitos elogios pelo desempenho e interação com o público.",
-          "MC Cabelinho recebeu críticas pela performance e qualidade vocal."
+          "Programação com artistas de destaque e horários bem distribuídos",
+          "Criticas pontuais sobre artistas que entraram atrasados"
         ]
       },
       "infraestrutura": {
-        "mencoes": 18457,
-        "sentimento": 42.9,
+        "mencoes": 73.549,
+        "sentimento": 52.8,
         "principais_comentarios": [
-          "Filas longas para banheiros e entrada no dia 12-09.",
-          "Problemas com acesso dificultaram a chegada no evento.",
-          "Infraestrutura geral avaliada como razoável, mas com pontos a melhorar."
+          "Longas filas na entrada principal durante sábado",
+          "Falta de banheiros suficientes nas áreas E e F"
         ]
       },
       "experiencia_geral": {
-        "mencoes": 64523,
-        "sentimento": 65.1,
+        "mencoes": 95.312,
+        "sentimento": 70.3,
         "principais_comentarios": [
-          "Clima agradável contribuiu para atmosfera positiva.",
-          "Público animado e organizado.",
-          "Boa comunicação da equipe e estrutura interna."
+          "Ambiente animado e atmosfera positiva entre o público",
+          "Elogios à organização geral e sinalização clara"
         ]
       },
       "precos": {
-        "mencoes": 21342,
-        "sentimento": 38.6,
+        "mencoes": 38.742,
+        "sentimento": 41.7,
         "principais_comentarios": [
-          "Reclamações sobre valores altos de bebidas e alimentação.",
-          "Críticas à relação custo-benefício dos ingressos.",
-          "Demanda por opções mais acessíveis para comidas e estacionamento."
+          "Preço da alimentação e bebidas considerado elevado",
+          "Ingressos criticados por alto custo, principalmente para setores premium"
         ]
       },
       "seguranca": {
-        "mencoes": 8764,
-        "sentimento": 59.8,
+        "mencoes": 27.403,
+        "sentimento": 66.5,
         "principais_comentarios": [
-          "Sentimento geral de segurança adequado, presença policial destacada.",
-          "Isolados relatos de incidentes rapidamente contidos.",
-          "Sensação de maior segurança na área VIP."
+          "Policiamento presente e eficiente durante a madrugada",
+          "Algumas ocorrências isoladas de furtos, mas controladas rapidamente"
         ]
       }
     },
     "influenciadores_destaque": [
       {
-        "nome": "@festivallovers",
-        "alcance_estimado": 485002,
-        "mencoes": 2780,
-        "sentimento": 74.3,
+        "nome": "Luana MusicBR",
+        "alcance_estimado": 1.25,
+        "mencoes": 4.132,
+        "sentimento": 79.3,
         "impacto": "alto",
-        "principal_contribuicao": "Divulgou experiências positivas no festival com foco em organização e vibe do público."
+        "principal_contribuicao": "Postagens destacaram principais apresentações, experiencia VIP e interação com fãs, comunicando emocionalmente o festival"
       },
       {
-        "nome": "@musicinsider",
-        "alcance_estimado": 312453,
-        "mencoes": 1905,
-        "sentimento": 63.8,
+        "nome": "DJ Pedro Hype",
+        "alcance_estimado": 480000,
+        "mencoes": 2.718,
+        "sentimento": 69.5,
         "impacto": "médio",
-        "principal_contribuicao": "Análises críticas sobre performances dos artistas e cobertura de momentos-chave."
+        "principal_contribuicao": "Comentários técnicos sobre a qualidade sonora e set list, engajando público especializado"
       },
       {
-        "nome": "@partyqueen",
-        "alcance_estimado": 125367,
-        "mencoes": 1120,
-        "sentimento": 68.5,
+        "nome": "Bia Festiva",
+        "alcance_estimado": 130000,
+        "mencoes": 1.463,
+        "sentimento": 72.1,
         "impacto": "médio",
-        "principal_contribuicao": "Conteúdo focado nos bastidores e interação com artistas, gerando alto engajamento."
+        "principal_contribuicao": "Conteúdos relacionados à moda festival e público jovem, ampliando alcance para nichos culturais"
       }
     ],
     "momentos_virais": [
       {
-        "momento": "Apresentação surpresa do Alok com convidados no dia 07-09",
-        "artista_relacionado": "Alok",
-        "dia": "07-09",
+        "momento": "Show surpresa da Anitta com participação do Alok",
+        "artista_relacionado": "Anitta",
+        "dia": "12-09",
         "hashtags": [
-          "#TheTown2025",
-          "#AlokSurprise"
+          "#AnittaNoTheTown",
+          "#ShowSurpresa",
+          "#TheTown2025"
         ],
-        "estimativa_alcance": 528000,
+        "estimativa_alcance": 375000,
         "sentimento_predominante": "positive"
       },
       {
-        "momento": "Críticas e discussões sobre preços altos no dia 12-09",
-        "artista_relacionado": null,
-        "dia": "12-09",
+        "momento": "Apresentação de Ludmilla com hit novo inédita ao público",
+        "artista_relacionado": "Ludmilla",
+        "dia": "13-09",
         "hashtags": [
-          "#PrecosTheTown",
-          "#QueCobramtao"
+          "#LudmillaAoVivo",
+          "#TheTownHits"
         ],
-        "estimativa_alcance": 132400,
-        "sentimento_predominante": "negative"
+        "estimativa_alcance": 285000,
+        "sentimento_predominante": "positive"
       }
     ],
     "analise_sentimento_detalhada": {
       "06-09": {
         "emocoes_predominantes": [
-          "entusiasmo",
-          "alegria"
+          "ansiedade",
+          "expectativa"
         ],
         "pontos_altos": [
-          "Linup anunciado gerou expectativa positiva",
-          "Posts sobre abertura do festival com elogios"
+          "Anúncio do line-up completo",
+          "Compra recorde de ingressos"
         ],
         "pontos_baixos": [
-          "Algumas reclamações iniciais sobre acesso"
+          "Comentários com dúvidas sobre transporte"
         ],
-        "nota_geral": 8
+        "nota_geral": 7
       },
       "07-09": {
         "emocoes_predominantes": [
-          "euforia",
-          "admiração"
+          "entusiasmo",
+          "curiosidade"
         ],
         "pontos_altos": [
-          "Show do Alok gerou pico de engajamento",
-          "Interação positiva do público nas redes sociais"
+          "Interação nas redes sociais em campanhas promocionais"
         ],
         "pontos_baixos": [
-          "Críticas isoladas a qualidade de som em alguns setores"
+          "Insatisfação pontual com venda de ingressos"
         ],
-        "nota_geral": 9
+        "nota_geral": 7.2
       },
       "12-09": {
         "emocoes_predominantes": [
-          "frustração",
-          "indignação"
+          "euforia",
+          "alegria"
         ],
         "pontos_altos": [
-          "Performance de artistas recebeu elogios",
-          "Boa cobertura de influenciadores"
+          "Shows de Anitta e Alok com alto engajamento",
+          "Momento viral com participação surpresa"
         ],
         "pontos_baixos": [
-          "Muitas queixas sobre filas e preços, afetando satisfação geral"
+          "Críticas à infraestrutura nas entradas"
         ],
-        "nota_geral": 5
+        "nota_geral": 8
       },
       "13-09": {
         "emocoes_predominantes": [
-          "satisfação",
-          "diversão"
+          "diversão",
+          "admiração"
         ],
         "pontos_altos": [
-          "Experiência geral melhor, segundo avaliações",
-          "Boa organização relatada"
+          "Apresentação inédita da Ludmilla considerada memorável"
         ],
         "pontos_baixos": [
-          "Poucas críticas sobre limpeza e banheiros"
+          "Queixas sobre preços de alimentação"
         ],
-        "nota_geral": 7
+        "nota_geral": 7.6
       },
       "14-09": {
         "emocoes_predominantes": [
           "saudade",
-          "gratificação"
+          "satisfação"
         ],
         "pontos_altos": [
-          "Encerramento com feedback positivo, agradecimentos dos fãs"
+          "Último dia marcado por boa organização e clima positivo"
         ],
         "pontos_baixos": [
-          "Menção a fadiga do público e alguns atrasos pequenos"
+          "Alguns relatos de cansaço geral do público"
         ],
-        "nota_geral": 8
+        "nota_geral": 7.3
       }
     },
     "alertas_criticos": [
       {
-        "tipo": "Infraestrutura",
+        "tipo": "Infraestrutura - Filas na entrada",
         "severidade": "média",
-        "descricao": "No dia 12-09, foram registradas 320 menções negativas por hora relacionadas a filas extensas e problemas de acesso que prejudicaram a experiência do público.",
+        "descricao": "Filas superiores a 40 minutos nas principais entradas no dia 12-09 causando insatisfação e atrasos.",
         "dia": "12-09",
-        "volume_mencoes": 1920,
-        "acao_sugerida": "Reforçar o número de acessos, organizar filas e melhorar sinalização para o próximo evento."
+        "volume_mencoes": 320,
+        "acao_sugerida": "Incrementar a equipe de acesso e implementar sistema de entradas prévias para reduzir filas."
       },
       {
-        "tipo": "Preços",
-        "severidade": "baixa",
-        "descricao": "Reclamações generalizadas acerca dos preços de alimentação e bebidas, acumulando média de 52 citações negativas diárias.",
-        "dia": "12-09",
-        "volume_mencoes": 260,
-        "acao_sugerida": "Avaliar política de preços para tornar mais acessível e potencializar satisfação do público."
+        "tipo": "Preços - Alimentação e bebidas",
+        "severidade": "média",
+        "descricao": "Diversas reclamações sobre alto custo dos alimentos e bebidas, impactando a percepção do público em relação ao custo-benefício.",
+        "dia": "13-09",
+        "volume_mencoes": 215,
+        "acao_sugerida": "Negociar com fornecedores para ofertas promocionais e divulgar pacotes econômicos."
       }
     ],
     "recomendacoes_futuras": [
-      "Incrementar infraestrutura de acesso e banheiros para reduzir filas, especialmente em dias de maior público.",
-      "Rever a política de preços de alimentação e bebidas, buscando equilíbrio entre receita e satisfação do público.",
-      "Aumentar comunicação prévia sobre logística do festival para evitar desinformação e reclamações.",
-      "Potencializar presença de influenciadores com maior alcance para promover experiências positivas.",
-      "Expandir oferta de atrações e horários que gerem maiores picos de engajamento, aproveitando o potencial noturno."
+      "Ampliar número de pontos de acesso e agilidade na entrada para evitar filas críticas detectadas em 12-09.",
+      "Oferecer opções de alimentação mais acessíveis para adequar o custo à expectativa do público jovem.",
+      "Investir em conteúdos digitais interativos para manter o engajamento em plataformas online observados como tendência.",
+      "Fortalecer comunicação em tempo real via redes sociais para informar mudanças e minimizar frustrações.",
+      "Melhorar sinalização interna e número de banheiros para ampliar satisfação geral e reduzir reclamações."
     ],
     "comparativo_artistas": {
       "por_engajamento": [
         {
           "artista": "Alok",
-          "score": 4.7,
-          "destaque": "Maior engajamento médio em posts durante o festival"
+          "score": 5.7,
+          "destaque": "Maior taxa de engajamento com 78.431 menções e 75% sentimento positivo."
         },
         {
-          "artista": "Anitta",
-          "score": 4.2,
-          "destaque": "Show com alto engajamento e boa recepção geral"
-        },
-        {
-          "artista": "MC Cabelinho",
-          "score": 2.9,
-          "destaque": "Engajamento mais baixo devido a críticas"
+          "artista": "Ludmilla",
+          "score": 5.2,
+          "destaque": "Engajamento destacado com 65.892 menções e apresentação inédita."
         }
       ],
       "por_sentimento_positivo": [
         {
-          "artista": "Alok",
-          "score": 68,
-          "destaque": "Maior índice de sentimento positivo entre os principais artistas"
-        },
-        {
           "artista": "Anitta",
-          "score": 62.3,
-          "destaque": "Positividade alta, reforçando boa aceitação"
+          "score": 78.1,
+          "destaque": "Recebeu maior índice de aprovação, com viralização positiva durante show surpresa."
         },
         {
-          "artista": "MC Cabelinho",
-          "score": 43.5,
-          "destaque": "Recebeu mais críticas e menor índice de positividade"
+          "artista": "Vitão",
+          "score": 74.8,
+          "destaque": "Comentários majoritariamente positivos sobre performance e carisma."
         }
       ],
       "por_alcance": [
         {
-          "artista": "Alok",
-          "score": 1263540,
-          "destaque": "Alcance mais expressivo, ampliando impacto do festival"
-        },
-        {
           "artista": "Anitta",
-          "score": 958240,
-          "destaque": "Segundo maior alcance, reforçando popularidade"
+          "score": "Alcance estimado em 1,2 milhão de usuários nas redes sociais."
         },
         {
-          "artista": "MC Cabelinho",
-          "score": 374560,
-          "destaque": "Alcance menor, influenciado pelo sentimento negativo"
+          "artista": "Alok",
+          "score": "Alcance geral superior a 900 mil usuários durante a apresentação."
         }
       ],
       "controversias": [
         {
           "artista": "MC Cabelinho",
-          "problema": "Críticas à qualidade vocal e performance",
+          "problema": "Críticas pelo curto tempo de apresentação e falhas técnicas de áudio.",
           "impacto": "médio"
         }
       ]
     },
     "analise_temporal": {
-      "melhor_dia": "07-09",
-      "pior_dia": "12-09",
-      "horario_pico": "19:00-23:00",
+      "melhor_dia": "12-09",
+      "pior_dia": "07-09",
+      "horario_pico": "21:00-23:00",
       "tendencias": [
-        "Incremento de menções e engajamento no período noturno, principalmente em shows principais.",
-        "Maior volume de críticas a preços e infraestrutura no terceiro dia, indicando atenção necessária."
+        "Crescimento expressivo do engajamento no Instagram durante shows principais",
+        "Ampliação do debate sobre preços e infraestrutura após as 22h"
       ]
     }
   },
   "paineis": {
     "visao_executiva": {
-      "totalMencoes": 5000,
-      "sentimentoMedio": 55,
-      "reachTotal": 19683013,
-      "engajamentoMedio": "0.0",
+      "totalMencoes": 25000,
+      "sentimentoMedio": 56,
+      "reachTotal": 68051013,
+      "engajamentoMedio": "0.1",
       "topHashtags": [
         "#thetown",
-        "#thetown2025",
         "#TheTown",
-        "#festival",
         "#TheTown2025",
-        "#greenday",
-        "#PagueMenosNoTheTown",
-        "#nfl",
-        "#Música",
-        "#GreenDay"
+        "#thetown2025",
+        "#g1",
+        "#festival",
+        "#g1noTheTown",
+        "#portfolionothetown2025",
+        "#g1música",
+        "#TheTownNaGlô"
       ],
       "distribuicaoPlataformas": {
-        "Twitter": 4211,
-        "Instagram": 97,
+        "Twitter": 22696,
+        "Instagram": 361,
         "TikTok": 0,
-        "Facebook": 68,
-        "News": 551,
-        "Other": 73
+        "Facebook": 212,
+        "News": 1457,
+        "Other": 274
       }
     },
     "artistas": {
       "ranking": [
         {
-          "name": "Travis Scott",
-          "totalMencoes": 175,
-          "totalReach": 516305,
-          "sentimentoMedio": 45,
-          "dias": [
-            "06-09"
-          ]
-        },
-        {
           "name": "Iza",
-          "totalMencoes": 119,
-          "totalReach": 802781,
-          "sentimentoMedio": 42,
+          "totalMencoes": 314,
+          "totalReach": 3095006,
+          "sentimentoMedio": 48,
           "dias": [
-            "06-09"
+            "06-09",
+            "07-09",
+            "12-09",
+            "13-09",
+            "14-09"
           ]
         },
         {
-          "name": "Green Day",
-          "totalMencoes": 100,
-          "totalReach": 1160114,
-          "sentimentoMedio": 38,
+          "name": "Travis Scott",
+          "totalMencoes": 281,
+          "totalReach": 1189105,
+          "sentimentoMedio": 44,
           "dias": [
-            "06-09"
-          ]
-        },
-        {
-          "name": "Burna Boy",
-          "totalMencoes": 69,
-          "totalReach": 477176,
-          "sentimentoMedio": 65,
-          "dias": [
-            "06-09"
+            "06-09",
+            "07-09",
+            "12-09",
+            "13-09",
+            "14-09"
           ]
         },
         {
           "name": "Mariah Carey",
-          "totalMencoes": 65,
-          "totalReach": 82184,
-          "sentimentoMedio": 31,
+          "totalMencoes": 219,
+          "totalReach": 231358,
+          "sentimentoMedio": 38,
           "dias": [
-            "06-09"
-          ]
-        },
-        {
-          "name": "Katy Perry",
-          "totalMencoes": 60,
-          "totalReach": 84921,
-          "sentimentoMedio": 40,
-          "dias": [
-            "06-09"
+            "06-09",
+            "07-09",
+            "12-09",
+            "13-09",
+            "14-09"
           ]
         },
         {
           "name": "Backstreet Boys",
-          "totalMencoes": 60,
-          "totalReach": 41653,
-          "sentimentoMedio": 48,
+          "totalMencoes": 216,
+          "totalReach": 540278,
+          "sentimentoMedio": 52,
           "dias": [
-            "06-09"
+            "06-09",
+            "07-09",
+            "12-09",
+            "13-09",
+            "14-09"
+          ]
+        },
+        {
+          "name": "Green Day",
+          "totalMencoes": 158,
+          "totalReach": 1165939,
+          "sentimentoMedio": 41,
+          "dias": [
+            "06-09",
+            "07-09",
+            "12-09",
+            "13-09",
+            "14-09"
           ]
         },
         {
           "name": "Don Toliver",
-          "totalMencoes": 57,
-          "totalReach": 375613,
-          "sentimentoMedio": 53,
+          "totalMencoes": 145,
+          "totalReach": 2928205,
+          "sentimentoMedio": 87,
           "dias": [
-            "06-09"
+            "06-09",
+            "07-09",
+            "12-09",
+            "13-09",
+            "14-09"
           ]
         },
         {
-          "name": "Karol Conká",
-          "totalMencoes": 50,
-          "totalReach": 586118,
-          "sentimentoMedio": 58,
+          "name": "Ivete Sangalo",
+          "totalMencoes": 141,
+          "totalReach": 437034,
+          "sentimentoMedio": 33,
           "dias": [
-            "06-09"
+            "06-09",
+            "07-09",
+            "12-09",
+            "13-09",
+            "14-09"
           ]
         },
         {
-          "name": "Matuê",
-          "totalMencoes": 46,
-          "totalReach": 387117,
-          "sentimentoMedio": 63,
+          "name": "Katy Perry",
+          "totalMencoes": 119,
+          "totalReach": 100254,
+          "sentimentoMedio": 37,
           "dias": [
-            "06-09"
+            "06-09",
+            "07-09",
+            "12-09",
+            "13-09",
+            "14-09"
+          ]
+        },
+        {
+          "name": "Jessie J",
+          "totalMencoes": 106,
+          "totalReach": 62163,
+          "sentimentoMedio": 38,
+          "dias": [
+            "06-09",
+            "07-09",
+            "12-09",
+            "13-09",
+            "14-09"
+          ]
+        },
+        {
+          "name": "Jason Derulo",
+          "totalMencoes": 93,
+          "totalReach": 1006282,
+          "sentimentoMedio": 23,
+          "dias": [
+            "06-09",
+            "07-09",
+            "12-09",
+            "13-09",
+            "14-09"
           ]
         }
       ],
@@ -585,11 +740,235 @@
               "day": "06-09"
             }
           ]
+        },
+        {
+          "dia": "07-09",
+          "top5": [
+            {
+              "name": "Don Toliver",
+              "mentions": 83,
+              "sentiment": 81,
+              "reach": 2552544,
+              "engagement": "1226.0",
+              "topPost": "O show do rapper Don Toliver, no palco principal do The Town neste sábado (6/9), precisou ser interrompido por questões de segurança. Parte do público",
+              "day": "07-09"
+            },
+            {
+              "name": "Travis Scott",
+              "mentions": 82,
+              "sentiment": 57,
+              "reach": 672713,
+              "engagement": "311.2",
+              "topPost": "Império trap - Matuê subiu ao Palco The One, do The Town, neste sábado (6) para um mar de jovens extasiados. Assim como fez no Rock in Rio 2024, ele s",
+              "day": "07-09"
+            },
+            {
+              "name": "Iza",
+              "mentions": 74,
+              "sentiment": 50,
+              "reach": 1161411,
+              "engagement": "550.7",
+              "topPost": "🚨 Durante o show de Don Toliver no The Town, a apresentação precisou ser interrompida por alguns minutos por questões de segurança. Parte do público ",
+              "day": "07-09"
+            },
+            {
+              "name": "Green Day",
+              "mentions": 35,
+              "sentiment": 34,
+              "reach": 5740,
+              "engagement": "1.8",
+              "topPost": "Atenção, fãs de guitarra: amanhã é o Dia do Rock no The Town e o line-up veio pra acabar com qualquer resquício de voz. 🔥 No palco principal: Green D",
+              "day": "07-09"
+            },
+            {
+              "name": "Iggy Pop",
+              "mentions": 26,
+              "sentiment": 38,
+              "reach": 1075,
+              "engagement": "0.0",
+              "topPost": "Atração do The Town, Iggy Pop não 'mergulha' mais na plateia em shows; entenda motivo07/09/2025 (Foto: Reprodução) As loucuras de Iggy Pop nos palcos ",
+              "day": "07-09"
+            }
+          ]
+        },
+        {
+          "dia": "12-09",
+          "top5": [
+            {
+              "name": "Backstreet Boys",
+              "mentions": 44,
+              "sentiment": 48,
+              "reach": 11062,
+              "engagement": "2.4",
+              "topPost": "Backstreet Boys no Brasil! 😍 A banda desembarcou ontem no Brasil, e amanhã serão atração principal no #TheTown2025! #Famosos Backstreet Boys interage",
+              "day": "12-09"
+            },
+            {
+              "name": "Mariah Carey",
+              "mentions": 43,
+              "sentiment": 47,
+              "reach": 48216,
+              "engagement": "18.9",
+              "topPost": "INGRESSO GRÁTIS PRO THE TOWN!! Amanhã dia 12/09/2025 vai rolar uma ação da riachuelo na Av Paulista que irá distribuir 50 ingressos para o thetownfest",
+              "day": "12-09"
+            },
+            {
+              "name": "Iza",
+              "mentions": 37,
+              "sentiment": 59,
+              "reach": 120005,
+              "engagement": "57.2",
+              "topPost": "Filipe Ret No palco do The Town, Filipe Ret entregou não apenas uma apresentação marcante, mas também um dos outfits mais luxuosos vistos no festival.",
+              "day": "12-09"
+            },
+            {
+              "name": "Katy Perry",
+              "mentions": 19,
+              "sentiment": 32,
+              "reach": 1904,
+              "engagement": "0.0",
+              "topPost": "No Palco The One, Luísa Sonza se apresenta nesta sexta-feira e Priscilla, no sábado No último dia do The Town, antes do pop de Camila Cabello e Katy P",
+              "day": "12-09"
+            },
+            {
+              "name": "Ivete Sangalo",
+              "mentions": 19,
+              "sentiment": 32,
+              "reach": 9566,
+              "engagement": "1.2",
+              "topPost": "...extraordinário”. O lendário Lionel Richie vai apresentar seus hits no palco The One, incluindo “All Night Long”, “Say You Say Me”, “We Are The Worl",
+              "day": "12-09"
+            }
+          ]
+        },
+        {
+          "dia": "13-09",
+          "top5": [
+            {
+              "name": "Backstreet Boys",
+              "mentions": 80,
+              "sentiment": 63,
+              "reach": 482097,
+              "engagement": "212.9",
+              "topPost": "#g1noTheTown - Qual o integrante preferido dos fãs dos Backstreet Boys? O g1 perguntou para quem curte o quinteto que se apresenta nesta sexta-feira, ",
+              "day": "13-09"
+            },
+            {
+              "name": "Jason Derulo",
+              "mentions": 58,
+              "sentiment": 59,
+              "reach": 981592,
+              "engagement": "452.3",
+              "topPost": "Não parecia ser um bom sinal o fato de Jason Derulo ter deixado um DJ no seu lugar durante os 15 primeiros minutos de sua apresentação no palco Skylin",
+              "day": "13-09"
+            },
+            {
+              "name": "Luísa Sonza",
+              "mentions": 55,
+              "sentiment": 73,
+              "reach": 1845786,
+              "engagement": "747.3",
+              "topPost": "#g1noTheTown - Luísa Sonza é a última atração do Palco The One do The Town, nesta sexta-feira. Durante o show, ela tirou parte do figurino ao som de '",
+              "day": "13-09"
+            },
+            {
+              "name": "Iza",
+              "mentions": 41,
+              "sentiment": 39,
+              "reach": 212880,
+              "engagement": "84.7",
+              "topPost": "“Tudo que você sonhar, São Paulo, você vai conseguir! Abraça o seu amigo! Abraça quem está vivendo esse show do seu lado.” Essa foi uma das palavras d",
+              "day": "13-09"
+            },
+            {
+              "name": "Pedro Sampaio",
+              "mentions": 36,
+              "sentiment": 50,
+              "reach": 123123,
+              "engagement": "49.2",
+              "topPost": "Karina Karão fazendo a alegria do público no The Town foi o encontro que a gente pediu simmm! Com shows de Backstreet Boys, Jason Derulo, Luisa Sonza,",
+              "day": "13-09"
+            }
+          ]
+        },
+        {
+          "dia": "14-09",
+          "top5": [
+            {
+              "name": "Mariah Carey",
+              "mentions": 71,
+              "sentiment": 65,
+              "reach": 52820,
+              "engagement": "20.7",
+              "topPost": "Mais um dia especial no The Town 2025! 🎶✨ Hoje é dia de se emocionar com a diva Mariah Carey ao vivo, já estamos na maior expectativa! 💖 Muito obrig",
+              "day": "14-09"
+            },
+            {
+              "name": "Ivete Sangalo",
+              "mentions": 67,
+              "sentiment": 79,
+              "reach": 372474,
+              "engagement": "146.1",
+              "topPost": "Como superar esse show? Ivete Sangalo acaba de fazer uma apresentação cheia de grandes hits, sem tempo pra descanso! Mainha deu uma aula de simpatia, ",
+              "day": "14-09"
+            },
+            {
+              "name": "Jessie J",
+              "mentions": 53,
+              "sentiment": 74,
+              "reach": 29812,
+              "engagement": "7.0",
+              "topPost": "No palco do The Town, Jessie J emocionou ao falar sobre sua luta contra o câncer: “Se alguém aqui está passando por um tratamento ou conhece alguém qu",
+              "day": "14-09"
+            },
+            {
+              "name": "Iza",
+              "mentions": 43,
+              "sentiment": 49,
+              "reach": 797929,
+              "engagement": "373.2",
+              "topPost": "Não resisti! A vwbrasil me convidou para conhecer o Tera no The Town 2025 e eu saí completamente apaixonadaaaa… Você pode ganhar um desses também com ",
+              "day": "14-09"
+            },
+            {
+              "name": "Lionel Richie",
+              "mentions": 28,
+              "sentiment": 46,
+              "reach": 28712,
+              "engagement": "9.9",
+              "topPost": "Hoje é dia de celebrar uma grande referência da soul, do pop e do romantismo 🎶✨ Lionel Richie, 76 anos está no palco do The Town, em São Paulo— e est",
+              "day": "14-09"
+            }
+          ]
         }
       ]
     },
     "influenciadores": {
       "top_global": [
+        {
+          "name": "portalg1",
+          "totalMencoes": 17,
+          "totalReach": 2947265,
+          "followers": 10622363
+        },
+        {
+          "name": "tvglobo",
+          "totalMencoes": 4,
+          "totalReach": 1687471,
+          "followers": 16543702
+        },
+        {
+          "name": "portalpopline",
+          "totalMencoes": 18,
+          "totalReach": 1660112,
+          "followers": 1872085
+        },
+        {
+          "name": "TV Globo",
+          "totalMencoes": 7,
+          "totalReach": 1540100,
+          "followers": 0
+        },
         {
           "name": "rapnacionalofficial",
           "totalMencoes": 2,
@@ -597,34 +976,34 @@
           "followers": 1091349
         },
         {
-          "name": "rap.dab",
+          "name": "leodias",
           "totalMencoes": 2,
-          "totalReach": 572198,
-          "followers": 1586089
+          "totalReach": 861567,
+          "followers": 18766254
         },
         {
-          "name": "ligadoamusica",
+          "name": "blogueirinha",
           "totalMencoes": 2,
-          "totalReach": 439596,
-          "followers": 39249
+          "totalReach": 755370,
+          "followers": 4382912
+        },
+        {
+          "name": "luizbacci",
+          "totalMencoes": 1,
+          "totalReach": 725211,
+          "followers": 24399459
+        },
+        {
+          "name": "trapnacena",
+          "totalMencoes": 2,
+          "totalReach": 672703,
+          "followers": 603633
         },
         {
           "name": "rapmais",
-          "totalMencoes": 1,
-          "totalReach": 358004,
-          "followers": 683416
-        },
-        {
-          "name": "quem",
           "totalMencoes": 2,
-          "totalReach": 331659,
-          "followers": 4689035
-        },
-        {
-          "name": "jornalnacional",
-          "totalMencoes": 1,
-          "totalReach": 315858,
-          "followers": 1820374
+          "totalReach": 661303,
+          "followers": 683416
         }
       ]
     },
