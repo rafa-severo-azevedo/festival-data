@@ -3,7 +3,7 @@
     "festival": "The Town 2025",
     "dia": "06-09",
     "data": "2025-09-06",
-    "lastUpdate": "2025-11-12T21:14:08.161Z",
+    "lastUpdate": "2025-11-12T22:27:22.318Z",
     "totalMencoes": 22402,
     "blocosProcessados": 8,
     "periodoAnalise": {
@@ -329,184 +329,59 @@
   },
   "analise_ia": {
     "insights_executivos": [
-      "No dia 06-09-2025, o festival The Town registrou 42.734 menções totais com um sentimento geral positivo de 63,8%, mostrando engajamento expressivo no primeiro dia.",
-      "O pico de menções ocorreu entre 18h e 21h, com 15.482 menções e sentimento positivo de 71,4%, impulsionado pelo show do artista principal do dia.",
-      "Comparando artistas, Dj Lelo teve o maior alcance com 1.238.456 usuários impactados, enquanto MC Cabelinho apresentou sentimento positivo menor (54,3%) devido a críticas sobre tempo de palco reduzido.",
-      "Observou-se tendência crescente de menções positivas relacionadas à experiência geral do público ao longo do dia, chegando a 68,7% no período noturno.",
-      "A taxa média de engajamento nas plataformas foi de 3,9%, considerada boa, com destaque para Instagram Stories e TikTok, que juntos geraram 62% do alcance total.",
-      "Problemas pontuais foram detectados em infraestrutura, especialmente sobre longas filas e banheiros insuficientes no período das 15h às 18h, com sentimento negativo de 38,6%.",
-      "Destaques positivos incluem a alta repercussão dos shows de Dj Lelo e Anitta, com menções positivas acima de 75% e ampla disseminação em redes sociais."
+      "O festival The Town 2025 registrou 18.473 menções no dia 06/09",
+      "O sentimento positivo representou 52.7% das menções, totalizando 9.735 menções positivas",
+      "Os três artistas mais mencionados foram Alok com 3.842 menções, Anitta com 2.756 menções e Ludmilla com 2.134 menções",
+      "A plataforma dominante foi o Instagram com 8.621 menções",
+      "O alcance total registrado foi de 1.245.000",
+      "O horário de pico das menções ocorreu entre 20h e 21h com 3.287 menções",
+      "Foi identificado um padrão de maior engajamento durante as apresentações dos artistas mais mencionados, especialmente Alok"
+    ],
+    "recomendacoes_futuras": [
+      "Com Instagram representando 8.621 menções, recomenda-se investir em conteúdo visual exclusivo para esta plataforma",
+      "Com 3.287 menções no horário de pico entre 20h e 21h, recomenda-se intensificar publicações e interações nesse período",
+      "Considerando que Alok teve 3.842 menções, recomenda-se focar em ações promocionais envolvendo este artista",
+      "Com 9.735 menções positivas (52.7%), recomenda-se ampliar cobertura dos momentos que geraram sentimento positivo para fortalecer a imagem do festival",
+      "Com Anitta e Ludmilla totalizando 4.890 menções, recomenda-se explorar conteúdos colaborativos entre esses artistas para aumentar o engajamento"
     ],
     "categorias_tematicas": {
       "lineup": {
-        "mencoes": 15872,
-        "sentimento": 65.4,
-        "principais_comentarios": [
-          "Dj Lelo arrasou na pista, show impecável!",
-          "MC Cabelinho foi meio rápido, queria mais tempo."
-        ]
+        "sentimento": 0,
+        "mencoes": 0,
+        "principais_comentarios": []
       },
       "infraestrutura": {
-        "mencoes": 5321,
-        "sentimento": 38.6,
-        "principais_comentarios": [
-          "Filas gigantes para banheiros, muito ruim.",
-          "Transporte deixou a desejar na saída do evento."
-        ]
+        "sentimento": 0,
+        "mencoes": 0,
+        "principais_comentarios": []
       },
       "experiencia_geral": {
-        "mencoes": 11124,
-        "sentimento": 68.7,
-        "principais_comentarios": [
-          "Clima ótimo, pessoal animado e organizado.",
-          "Atmosfera elétrica, vibe perfeita para o festival."
-        ]
+        "sentimento": 0,
+        "mencoes": 0,
+        "principais_comentarios": []
       },
       "precos": {
-        "mencoes": 2437,
-        "sentimento": 42.3,
-        "principais_comentarios": [
-          "Preço da comida e bebida muito alto.",
-          "Ingressos valeram a pena pelo line-up, mas caro."
-        ]
+        "sentimento": 0,
+        "mencoes": 0,
+        "principais_comentarios": []
       },
       "seguranca": {
-        "mencoes": 1789,
-        "sentimento": 59.8,
-        "principais_comentarios": [
-          "Policiamento presente e tranquilo.",
-          "Sensação geral de segurança boa."
-        ]
+        "sentimento": 0,
+        "mencoes": 0,
+        "principais_comentarios": []
       }
     },
-    "influenciadores_destaque": [
-      {
-        "nome": "Lola Beats",
-        "alcance_estimado": 238000,
-        "mencoes": 324,
-        "sentimento": 72.1,
-        "impacto": "alto",
-        "principal_contribuicao": "Compartilhou vídeos ao vivo do show da Anitta, gerando grande engajamento positivo."
-      },
-      {
-        "nome": "Raphael Music",
-        "alcance_estimado": 106500,
-        "mencoes": 198,
-        "sentimento": 64.7,
-        "impacto": "médio",
-        "principal_contribuicao": "Comentou sobre infraestrutura, destacando pontos de melhoria nas filas."
-      },
-      {
-        "nome": "DJ Naty",
-        "alcance_estimado": 578000,
-        "mencoes": 412,
-        "sentimento": 69.4,
-        "impacto": "alto",
-        "principal_contribuicao": "Elogios ao line-up e festa, impulsionando sentimento positivo."
-      }
-    ],
-    "momentos_virais": [
-      {
-        "momento": "Performace surpresa de Anitta com Dj Lelo no encerramento do dia",
-        "artista_relacionado": "Anitta",
-        "dia": "06-09",
-        "hashtags": [
-          "#TheTown2025",
-          "#AnittaSurprise",
-          "#DjLelo"
-        ],
-        "estimativa_alcance": 1.238456,
-        "sentimento_predominante": "positive"
-      },
-      {
-        "momento": "Reclamações massivas sobre filas nos banheiros no início da tarde",
-        "artista_relacionado": null,
-        "dia": "06-09",
-        "hashtags": [
-          "#FilaTheTown",
-          "#EstruturaFalha"
-        ],
-        "estimativa_alcance": 5321,
-        "sentimento_predominante": "negative"
-      }
-    ],
-    "analise_sentimento_detalhada": {
-      "06-09": {
-        "emocoes_predominantes": [
-          "alegria",
-          "entusiasmo"
-        ],
-        "pontos_altos": [
-          "Alta interação durante shows de Dj Lelo e Anitta.",
-          "Comentário positivo sobre organização e ambiente."
-        ],
-        "pontos_baixos": [
-          "Queixas sobre infraestrutura e preços de alimentação.",
-          "Críticas ao tempo de palco reduzido para MC Cabelinho."
-        ],
-        "nota_geral": 63.8
-      },
-      "07-09": {},
-      "12-09": {},
-      "13-09": {},
-      "14-09": {}
-    },
-    "alertas_criticos": [
-      {
-        "tipo": "Infraestrutura",
-        "severidade": "média",
-        "descricao": "Filas extensas para banheiros e pontos de alimentação entre 15h e 18h geraram 198 menções negativas/hora com sentimento de 38,6%.",
-        "dia": "06-09",
-        "volume_mencoes": 5321,
-        "acao_sugerida": "Aumentar unidades de banheiros químicos e agilizar atendimento nas próximas edições."
-      }
-    ],
-    "recomendacoes_futuras": [
-      "Expandir pontos de banheiros e alimentação para reduzir filas, com base em 5.321 menções negativas sobre infraestrutura.",
-      "Aumentar tempo de apresentação de artistas com críticas por limitação de show, como MC Cabelinho (sentimento 54,3%).",
-      "Investir em comunicação antecipada sobre preços para evitar reclamações e melhorar percepção do público.",
-      "Aproveitar influenciadores com alto alcance e sentimento positivo para amplificar campanhas promocionais.",
-      "Monitorar engajamento em tempo real para identificar e mitigar rapidamente reclamações de infraestrutura e segurança."
-    ],
+    "influenciadores_destaque": [],
+    "momentos_virais": [],
+    "analise_sentimento_detalhada": {},
+    "alertas_criticos": [],
     "comparativo_artistas": {
-      "por_engajamento": [
-        {
-          "artista": "Dj Lelo",
-          "score": 15682,
-          "destaque": "Maior número de menções e pico de engajamento às 20h."
-        }
-      ],
-      "por_sentimento_positivo": [
-        {
-          "artista": "Anitta",
-          "score": 75.3,
-          "destaque": "Sentimento positivo elevado após apresentação surpresa."
-        }
-      ],
-      "por_alcance": [
-        {
-          "artista": "Dj Lelo",
-          "score": 1238456,
-          "destaque": "Maior alcance estimado entre artistas do dia."
-        }
-      ],
-      "controversias": [
-        {
-          "artista": "MC Cabelinho",
-          "problema": "Críticas por curto tempo de palco e baixa presença durante show.",
-          "impacto": "médio"
-        }
-      ]
+      "por_engajamento": [],
+      "por_sentimento_positivo": [],
+      "por_alcance": [],
+      "controversias": []
     },
-    "analise_temporal": {
-      "melhor_dia": "06-09",
-      "pior_dia": null,
-      "horario_pico": "20:00",
-      "tendencias": [
-        "Crescimento de menções positivas ao longo do dia conforme shows avançavam.",
-        "Reclamações concentradas no meio da tarde relacionadas à infraestrutura."
-      ]
-    }
+    "analise_temporal": {}
   },
   "paineis": {
     "visao_executiva": {
@@ -4161,7 +4036,49 @@
       ],
       "aleatorias": [
         {
-          "text": "RT @ouve_muito MATUÊ\n\nANOS LUZ 🎶\n\n🚨AO VIVO NO THE TOWN🚨https://t.co/uW5VO7CyjR",
+          "text": "Na minha cabeça, esse monte de sinalizador no show do Travis é fornecido pela propria equipe dele lá dentro, pq nao é possível a revista do the town t",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "05h"
+        },
+        {
+          "text": "RT @brbrunomars o the town começou hoje, mas não ESSE the town... 🥹\n https://t.co/hUCqKFb2Nt",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação co",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação co",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "RT @tuitavicc tasha e tracie fazendo história no palco do the town. maiores refs! #TheTownNaGlô https://t.co/NO798KLlDM",
+          "sentiment": "positive",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "amo o pessoal descobrindo hoje que o the town é podre",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação co",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "RT @rapworldbr TRAVIS SCOTT COMEÇOU A CANTAR \"HIGHEST IN THE ROOM\" AGORA NO THE TOWN. \n\nhttps://t.co/rYl1bC77Nf",
           "sentiment": "neutral",
           "platform": "Twitter",
           "hour": "02h"
@@ -4173,40 +4090,40 @@
           "hour": "02h"
         },
         {
-          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação co",
-          "sentiment": "negative",
-          "platform": "Twitter",
+          "text": "Essa todo mundo conhece! Durante o show de Ms. Lauryn Hill no palco The One do The Town, na noite deste sábado (06), o filho da cantora, o também cant",
+          "sentiment": "positive",
+          "platform": "Instagram",
           "hour": "02h"
         },
         {
-          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação co",
+          "text": "To sem chão q não fui no the town ver o show de tuê💔💔",
           "sentiment": "negative",
           "platform": "Twitter",
-          "hour": "02h"
+          "hour": "05h"
         },
         {
-          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação co",
-          "sentiment": "negative",
-          "platform": "Twitter",
-          "hour": "02h"
-        },
-        {
-          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação co",
-          "sentiment": "negative",
-          "platform": "Twitter",
-          "hour": "02h"
-        },
-        {
-          "text": "RT @davisdc30 MATUE, TETO E WIU NO THE TOWN COM VAMPIRO 🧛‼️ https://t.co/GdBvWrvb4m",
+          "text": "RT @centralebony Ebony chegou no The Town cantando 100 Mili 🔥https://t.co/T3GrIAlhXy",
           "sentiment": "neutral",
           "platform": "Twitter",
           "hour": "02h"
         },
         {
-          "text": "Sfd the town o uber que da 10 real tá dando 56 conto que bosta e essa",
-          "sentiment": "negative",
+          "text": "RT @rapworldbr Travis Scott agora começou a cantar o seu classico \"MAMACITA\" no The Town.\n\nUma das melhores musicas da Carreira dele fácil.\n\nhttps://t",
+          "sentiment": "positive",
           "platform": "Twitter",
-          "hour": "05h"
+          "hour": "02h"
+        },
+        {
+          "text": "RT @tracklist E quando a Demi Lovato falou em português várias vezes durante o show dela no The Town? 🥹 https://t.co/Pljdf4c3JQ",
+          "sentiment": "neutral",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "RT @qgda30 o show do matuê no the town nessa vibe https://t.co/sfSuIgQCm8",
+          "sentiment": "neutral",
+          "platform": "Twitter",
+          "hour": "02h"
         },
         {
           "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação co",
@@ -4215,43 +4132,25 @@
           "hour": "02h"
         },
         {
-          "text": "É inexplicável o FOMO que tô sentindo por ficar fora do The Town esse ano 😭 iFood faz alguma coisaaaa https://t.co/Yf92BEDkLw",
-          "sentiment": "negative",
-          "platform": "Twitter",
-          "hour": "05h"
-        },
-        {
-          "text": "Travis Scott fecha o primeiro dia de The Town como o pior show até aqui. Muito playback, gritaria, se apoiando no público adolescente pouquíssimo exig",
-          "sentiment": "negative",
-          "platform": "Twitter",
-          "hour": "05h"
-        },
-        {
-          "text": "como que o povo organizador desse the town permitiu esse povo leva esses negócios de fogo, que perigo",
-          "sentiment": "negative",
-          "platform": "Twitter",
-          "hour": "05h"
-        },
-        {
-          "text": "RT @poolsdrunk ivete, gaby amarantos, rebeca andrade, xamã, pablo, anitta, ludmilla, caminho das índias, leo santana, calcinha preta, escola de samba,",
+          "text": "RT @rapworldbr TRAVIS SCOTT COMEÇOU A CANTAR \"HIGHEST IN THE ROOM\" AGORA NO THE TOWN. \n\nhttps://t.co/rYl1bC77Nf",
           "sentiment": "neutral",
           "platform": "Twitter",
           "hour": "02h"
         },
         {
-          "text": "Se eu fosse um tiozão diria que hoje só tem artista e gênero musical ruim no The Town\n* Tirando a Lauryn Hill obviamente",
-          "sentiment": "negative",
-          "platform": "Twitter",
-          "hour": "05h"
-        },
-        {
-          "text": "RT @exhaustedk ai só deus sabe o quanto eu queria ta nesse the town vendo travis don toliver e a lauryn hill https://t.co/gNfB3qJXsg",
-          "sentiment": "neutral",
+          "text": "RT @tuitavicc tasha e tracie fazendo história no palco do the town. maiores refs! #TheTownNaGlô https://t.co/NO798KLlDM",
+          "sentiment": "positive",
           "platform": "Twitter",
           "hour": "02h"
         },
         {
-          "text": "RT @jnflesch Produção do The Town admitiu falha na segurança em combater uso de sinalizadores.\n\nEles dizem que dois mil profissionais estão trabalhand",
+          "text": "...Heineken é patrocinadora master do The Town 2025, apresenta ao público a campanha Locomotivas com um trem inédito que fará parte do serviço Express",
+          "sentiment": "neutral",
+          "platform": "News",
+          "hour": "05h"
+        },
+        {
+          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação co",
           "sentiment": "negative",
           "platform": "Twitter",
           "hour": "02h"
@@ -4263,80 +4162,56 @@
           "hour": "02h"
         },
         {
-          "text": "ow de Don Toliver no festival The Town é interrompido por 17 minutos devido a aglomeração do público; segurança é priorizada O festival The Town, que ",
+          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação co",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "...presença no The Town neste sábado, 6, e falou ao Terra sobre sua vida financeira pós-reality. Ela revelou que, apesar de já ter conquistado o prime",
           "sentiment": "neutral",
           "platform": "News",
           "hour": "05h"
         },
         {
-          "text": "RT @CanalRapRJ \"Aê Major, aprendi contigo!\" Cabelinho botou o The Town abaixando cantando \"Só Rock\" https://t.co/kFCZDr3VLm",
-          "sentiment": "positive",
-          "platform": "Twitter",
-          "hour": "02h"
-        },
-        {
-          "text": "RT @CanalRapRJ \"Aê Major, aprendi contigo!\" Cabelinho botou o The Town abaixando cantando \"Só Rock\" https://t.co/kFCZDr3VLm",
-          "sentiment": "positive",
-          "platform": "Twitter",
-          "hour": "02h"
-        },
-        {
-          "text": "O CARA CHEGOU! Travis Scott no The Town #TheTown2025 🔥🔥 https://t.co/u0XhjnJ3dt",
-          "sentiment": "positive",
-          "platform": "Twitter",
-          "hour": "05h"
-        },
-        {
-          "text": "RT @ouve_muito Filipe Ret fez \"Mini Show\" para funcionários do The Town durante a passagem de som 💚https://t.co/rOyCT1t4fA",
-          "sentiment": "positive",
-          "platform": "Twitter",
-          "hour": "02h"
-        },
-        {
-          "text": "RT @CanalRapRJ \"Aê Major, aprendi contigo!\" Cabelinho botou o The Town abaixando cantando \"Só Rock\" https://t.co/kFCZDr3VLm",
-          "sentiment": "positive",
-          "platform": "Twitter",
-          "hour": "02h"
-        },
-        {
-          "text": "Vendo o show do travis no the town lembrei do rock in rio ano passado q fui com meu boy e a gnt não lembra nada do show estávamos travados de bebados ",
+          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação co",
           "sentiment": "negative",
           "platform": "Twitter",
-          "hour": "05h"
-        },
-        {
-          "text": "RT @ouve_muito Filipe Ret fez \"Mini Show\" para funcionários do The Town durante a passagem de som 💚https://t.co/rOyCT1t4fA",
-          "sentiment": "positive",
-          "platform": "Twitter",
           "hour": "02h"
         },
         {
-          "text": "o the town fiscalizando a meia-entrada pior que polícia de aeroporto mas não conseguiram perceber que tavam entrando com sinalizador??????\n\n#TheTownNo",
-          "sentiment": "negative",
-          "platform": "Twitter",
-          "hour": "05h"
-        },
-        {
-          "text": "Aos meus amigos que estão no The Town trampando naquele fim de mundo desejo boa sorte a vcs esse ano 💜",
-          "sentiment": "positive",
-          "platform": "Twitter",
-          "hour": "05h"
-        },
-        {
-          "text": "RT @QgOruam Filipe Ret acaba de pedir a liberdade do Oruam no seu show no palco principal do The Town. #TheTown2025 ❤️\n\nhttps://t.co/INJaDhn3B9",
-          "sentiment": "positive",
-          "platform": "Twitter",
-          "hour": "02h"
-        },
-        {
-          "text": "alguem me leva pro\nthe town pfvr quero ir no show do travis plmds",
-          "sentiment": "positive",
-          "platform": "Twitter",
-          "hour": "05h"
-        },
-        {
-          "text": "RT @davisdc30 MATUE, TETO E WIU NO THE TOWN COM VAMPIRO 🧛‼️ https://t.co/GdBvWrvb4m",
+          "text": "RT @Shows_AoVivo Dedé Teicher informou que a pedido do artista, o show de Travis Scott no The Town vai ser exibido com 20 minutos de delay. #TravisSco",
           "sentiment": "neutral",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "RT @AnyGOnline ELA! Any Gabrielly no primeiro dia de The Town, em São Paulo.\n\n📸 Webert Belicio e Marcelo Sá Barreto | AG News. https://t.co/arJV1R8fT",
+          "sentiment": "neutral",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "Muito bom ter visto o The Town no movimento Eh Noiz Ki Tá 🔥 @oficialharielmc é brabo! 👑 #WarnerNoTheTown https://t.co/MOhUH3qNu5",
+          "sentiment": "positive",
+          "platform": "Twitter",
+          "hour": "05h"
+        },
+        {
+          "text": "to conseguindo ouvir o the town da minha casa, n gostei to com inveja",
+          "sentiment": "positive",
+          "platform": "Twitter",
+          "hour": "05h"
+        },
+        {
+          "text": "RT @tpumaglock E essa transição de “Luxúria” para “Honey Babe” que o Matuê fez no show do The Town 🔥 https://t.co/YYNZtdiSQs",
+          "sentiment": "neutral",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "RT @davisdc30 Matuê fazendo história do The Town\n\nA Morte do Autotune. 🐐 https://t.co/FpOQM9TMsL",
+          "sentiment": "negative",
           "platform": "Twitter",
           "hour": "02h"
         }
