@@ -1,2924 +1,882 @@
 {
   "metadata": {
     "festival": "The Town 2025",
-    "lastUpdate": "2025-11-11T21:19:00.930Z",
-    "totalDias": 25,
-    "totalMencoes": 100428,
+    "dia": "06-09",
+    "lastUpdate": "2025-11-12T12:39:37.206Z",
+    "totalMencoes": 14612,
+    "blocosProcessados": 7,
     "periodoAnalise": {
-      "inicio": "2025-09-06",
-      "fim": "2025-09-14"
+      "data": "2025-09-06",
+      "inicio": "00:00",
+      "fim": "23:59"
     }
   },
   "dados_brutos": {
-    "por_dia": [
+    "dia": "06-09",
+    "mencoes": 14612,
+    "sentimento": 46,
+    "reach": 75202485,
+    "engagement": 1625950,
+    "plataformas": {
+      "Twitter": 12962,
+      "Instagram": 295,
+      "TikTok": 0,
+      "Facebook": 185,
+      "News": 939,
+      "Other": 231
+    },
+    "por_hora": [
       {
-        "dia": "06-09",
-        "mencoes": 1675,
-        "sentimento": 40,
-        "reach": 3684371,
-        "engagement": 104916,
-        "plataformas": {
-          "Twitter": 1334,
-          "Instagram": 31,
-          "TikTok": 0,
-          "Facebook": 19,
-          "News": 260,
-          "Other": 31
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 1524,
-            "positive": 601,
-            "negative": 242,
-            "neutral": 681
-          },
-          {
-            "hour": "01h",
-            "volume": 48,
-            "positive": 22,
-            "negative": 3,
-            "neutral": 23
-          },
-          {
-            "hour": "02h",
-            "volume": 35,
-            "positive": 16,
-            "negative": 1,
-            "neutral": 18
-          },
-          {
-            "hour": "03h",
-            "volume": 55,
-            "positive": 19,
-            "negative": 3,
-            "neutral": 33
-          },
-          {
-            "hour": "04h",
-            "volume": 13,
-            "positive": 6,
-            "negative": 0,
-            "neutral": 7
-          }
-        ]
+        "hour": "00h",
+        "volume": 13152,
+        "positive": 6104,
+        "negative": 1685,
+        "neutral": 5363
       },
       {
-        "dia": "unknown",
-        "mencoes": 237,
-        "sentimento": 38,
-        "reach": 177691,
-        "engagement": 414,
-        "plataformas": {
-          "Twitter": 138,
-          "Instagram": 1,
-          "TikTok": 0,
-          "Facebook": 7,
-          "News": 81,
-          "Other": 10
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 138,
-            "positive": 62,
-            "negative": 26,
-            "neutral": 50
-          },
-          {
-            "hour": "05h",
-            "volume": 8,
-            "positive": 1,
-            "negative": 0,
-            "neutral": 7
-          },
-          {
-            "hour": "06h",
-            "volume": 20,
-            "positive": 4,
-            "negative": 0,
-            "neutral": 16
-          },
-          {
-            "hour": "07h",
-            "volume": 25,
-            "positive": 6,
-            "negative": 1,
-            "neutral": 18
-          },
-          {
-            "hour": "08h",
-            "volume": 22,
-            "positive": 6,
-            "negative": 1,
-            "neutral": 15
-          },
-          {
-            "hour": "09h",
-            "volume": 24,
-            "positive": 12,
-            "negative": 1,
-            "neutral": 11
-          }
-        ]
+        "hour": "01h",
+        "volume": 48,
+        "positive": 22,
+        "negative": 3,
+        "neutral": 23
       },
       {
-        "dia": "06-09",
-        "mencoes": 3083,
-        "sentimento": 65,
-        "reach": 15814998,
-        "engagement": 123314,
-        "plataformas": {
-          "Twitter": 2738,
-          "Instagram": 65,
-          "TikTok": 0,
-          "Facebook": 42,
-          "News": 206,
-          "Other": 32
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 2738,
-            "positive": 1830,
-            "negative": 212,
-            "neutral": 696
-          },
-          {
-            "hour": "10h",
-            "volume": 43,
-            "positive": 23,
-            "negative": 5,
-            "neutral": 15
-          },
-          {
-            "hour": "11h",
-            "volume": 51,
-            "positive": 25,
-            "negative": 5,
-            "neutral": 21
-          },
-          {
-            "hour": "12h",
-            "volume": 80,
-            "positive": 33,
-            "negative": 11,
-            "neutral": 36
-          },
-          {
-            "hour": "13h",
-            "volume": 94,
-            "positive": 45,
-            "negative": 9,
-            "neutral": 40
-          },
-          {
-            "hour": "14h",
-            "volume": 77,
-            "positive": 36,
-            "negative": 10,
-            "neutral": 31
-          }
-        ]
+        "hour": "02h",
+        "volume": 35,
+        "positive": 16,
+        "negative": 1,
+        "neutral": 18
       },
       {
-        "dia": "unknown",
-        "mencoes": 5000,
-        "sentimento": 53,
-        "reach": 40959535,
-        "engagement": 559719,
-        "plataformas": {
-          "Twitter": 4521,
-          "Instagram": 58,
-          "TikTok": 0,
-          "Facebook": 47,
-          "News": 299,
-          "Other": 75
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 4516,
-            "positive": 2464,
-            "negative": 536,
-            "neutral": 1516
-          },
-          {
-            "hour": "15h",
-            "volume": 119,
-            "positive": 57,
-            "negative": 5,
-            "neutral": 57
-          },
-          {
-            "hour": "16h",
-            "volume": 108,
-            "positive": 44,
-            "negative": 8,
-            "neutral": 56
-          },
-          {
-            "hour": "17h",
-            "volume": 119,
-            "positive": 46,
-            "negative": 5,
-            "neutral": 68
-          },
-          {
-            "hour": "18h",
-            "volume": 95,
-            "positive": 38,
-            "negative": 3,
-            "neutral": 54
-          },
-          {
-            "hour": "19h",
-            "volume": 43,
-            "positive": 22,
-            "negative": 2,
-            "neutral": 19
-          }
-        ]
+        "hour": "03h",
+        "volume": 55,
+        "positive": 19,
+        "negative": 3,
+        "neutral": 33
       },
       {
-        "dia": "06-09",
-        "mencoes": 5000,
-        "sentimento": 42,
-        "reach": 29508240,
-        "engagement": 695138,
-        "plataformas": {
-          "Twitter": 4547,
-          "Instagram": 124,
-          "TikTok": 0,
-          "Facebook": 66,
-          "News": 181,
-          "Other": 82
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 4547,
-            "positive": 1877,
-            "negative": 676,
-            "neutral": 1994
-          },
-          {
-            "hour": "20h",
-            "volume": 178,
-            "positive": 84,
-            "negative": 24,
-            "neutral": 70
-          },
-          {
-            "hour": "21h",
-            "volume": 168,
-            "positive": 83,
-            "negative": 26,
-            "neutral": 59
-          },
-          {
-            "hour": "22h",
-            "volume": 107,
-            "positive": 50,
-            "negative": 21,
-            "neutral": 36
-          }
-        ]
+        "hour": "04h",
+        "volume": 13,
+        "positive": 6,
+        "negative": 0,
+        "neutral": 7
       },
       {
-        "dia": "07-09",
-        "mencoes": 5000,
-        "sentimento": 54,
-        "reach": 15375054,
-        "engagement": 325602,
-        "plataformas": {
-          "Twitter": 4508,
-          "Instagram": 84,
-          "TikTok": 0,
-          "Facebook": 56,
-          "News": 273,
-          "Other": 79
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 4810,
-            "positive": 2610,
-            "negative": 717,
-            "neutral": 1483
-          },
-          {
-            "hour": "01h",
-            "volume": 156,
-            "positive": 94,
-            "negative": 23,
-            "neutral": 39
-          },
-          {
-            "hour": "02h",
-            "volume": 34,
-            "positive": 10,
-            "negative": 7,
-            "neutral": 17
-          }
-        ]
+        "hour": "05h",
+        "volume": 8,
+        "positive": 1,
+        "negative": 0,
+        "neutral": 7
       },
       {
-        "dia": "unknown",
-        "mencoes": 1770,
-        "sentimento": 40,
-        "reach": 2009625,
-        "engagement": 35989,
-        "plataformas": {
-          "Twitter": 1597,
-          "Instagram": 8,
-          "TikTok": 0,
-          "Facebook": 6,
-          "News": 140,
-          "Other": 19
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 1597,
-            "positive": 622,
-            "negative": 325,
-            "neutral": 650
-          },
-          {
-            "hour": "05h",
-            "volume": 34,
-            "positive": 13,
-            "negative": 3,
-            "neutral": 18
-          },
-          {
-            "hour": "06h",
-            "volume": 28,
-            "positive": 10,
-            "negative": 3,
-            "neutral": 15
-          },
-          {
-            "hour": "07h",
-            "volume": 34,
-            "positive": 18,
-            "negative": 3,
-            "neutral": 13
-          },
-          {
-            "hour": "08h",
-            "volume": 33,
-            "positive": 17,
-            "negative": 2,
-            "neutral": 14
-          },
-          {
-            "hour": "09h",
-            "volume": 44,
-            "positive": 22,
-            "negative": 3,
-            "neutral": 19
-          }
-        ]
+        "hour": "06h",
+        "volume": 20,
+        "positive": 4,
+        "negative": 0,
+        "neutral": 16
       },
       {
-        "dia": "07-09",
-        "mencoes": 4357,
-        "sentimento": 49,
-        "reach": 12620101,
-        "engagement": 121502,
-        "plataformas": {
-          "Twitter": 3925,
-          "Instagram": 49,
-          "TikTok": 0,
-          "Facebook": 56,
-          "News": 275,
-          "Other": 52
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 3922,
-            "positive": 1910,
-            "negative": 827,
-            "neutral": 1185
-          },
-          {
-            "hour": "10h",
-            "volume": 48,
-            "positive": 22,
-            "negative": 6,
-            "neutral": 20
-          },
-          {
-            "hour": "11h",
-            "volume": 69,
-            "positive": 40,
-            "negative": 11,
-            "neutral": 18
-          },
-          {
-            "hour": "12h",
-            "volume": 112,
-            "positive": 63,
-            "negative": 3,
-            "neutral": 46
-          },
-          {
-            "hour": "13h",
-            "volume": 110,
-            "positive": 48,
-            "negative": 12,
-            "neutral": 50
-          },
-          {
-            "hour": "14h",
-            "volume": 96,
-            "positive": 44,
-            "negative": 8,
-            "neutral": 44
-          }
-        ]
+        "hour": "07h",
+        "volume": 25,
+        "positive": 6,
+        "negative": 1,
+        "neutral": 18
       },
       {
-        "dia": "07-09",
-        "mencoes": 5000,
-        "sentimento": 69,
-        "reach": 12546141,
-        "engagement": 257501,
-        "plataformas": {
-          "Twitter": 4831,
-          "Instagram": 38,
-          "TikTok": 0,
-          "Facebook": 20,
-          "News": 93,
-          "Other": 18
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 4830,
-            "positive": 3357,
-            "negative": 323,
-            "neutral": 1150
-          },
-          {
-            "hour": "15h",
-            "volume": 116,
-            "positive": 59,
-            "negative": 15,
-            "neutral": 42
-          },
-          {
-            "hour": "16h",
-            "volume": 54,
-            "positive": 20,
-            "negative": 11,
-            "neutral": 23
-          }
-        ]
+        "hour": "08h",
+        "volume": 22,
+        "positive": 6,
+        "negative": 1,
+        "neutral": 15
       },
       {
-        "dia": "07-09",
-        "mencoes": 5000,
-        "sentimento": 46,
-        "reach": 26512502,
-        "engagement": 688703,
-        "plataformas": {
-          "Twitter": 4604,
-          "Instagram": 95,
-          "TikTok": 0,
-          "Facebook": 64,
-          "News": 164,
-          "Other": 73
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 4604,
-            "positive": 2089,
-            "negative": 832,
-            "neutral": 1683
-          },
-          {
-            "hour": "20h",
-            "volume": 144,
-            "positive": 65,
-            "negative": 15,
-            "neutral": 64
-          },
-          {
-            "hour": "21h",
-            "volume": 204,
-            "positive": 118,
-            "negative": 23,
-            "neutral": 63
-          },
-          {
-            "hour": "22h",
-            "volume": 48,
-            "positive": 24,
-            "negative": 4,
-            "neutral": 20
-          }
-        ]
+        "hour": "09h",
+        "volume": 24,
+        "positive": 12,
+        "negative": 1,
+        "neutral": 11
       },
       {
-        "dia": "12-09",
-        "mencoes": 5000,
-        "sentimento": 86,
-        "reach": 2020787,
-        "engagement": 25338,
-        "plataformas": {
-          "Twitter": 4804,
-          "Instagram": 11,
-          "TikTok": 0,
-          "Facebook": 8,
-          "News": 171,
-          "Other": 6
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 4961,
-            "positive": 4261,
-            "negative": 164,
-            "neutral": 536
-          },
-          {
-            "hour": "01h",
-            "volume": 29,
-            "positive": 18,
-            "negative": 1,
-            "neutral": 10
-          },
-          {
-            "hour": "02h",
-            "volume": 10,
-            "positive": 3,
-            "negative": 2,
-            "neutral": 5
-          }
-        ]
+        "hour": "10h",
+        "volume": 43,
+        "positive": 23,
+        "negative": 5,
+        "neutral": 15
       },
       {
-        "dia": "12-09",
-        "mencoes": 488,
-        "sentimento": 56,
-        "reach": 1403746,
-        "engagement": 45781,
-        "plataformas": {
-          "Twitter": 383,
-          "Instagram": 2,
-          "TikTok": 0,
-          "Facebook": 5,
-          "News": 79,
-          "Other": 19
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 383,
-            "positive": 228,
-            "negative": 37,
-            "neutral": 118
-          },
-          {
-            "hour": "05h",
-            "volume": 9,
-            "positive": 4,
-            "negative": 1,
-            "neutral": 4
-          },
-          {
-            "hour": "06h",
-            "volume": 28,
-            "positive": 14,
-            "negative": 2,
-            "neutral": 12
-          },
-          {
-            "hour": "07h",
-            "volume": 12,
-            "positive": 6,
-            "negative": 1,
-            "neutral": 5
-          },
-          {
-            "hour": "08h",
-            "volume": 18,
-            "positive": 11,
-            "negative": 2,
-            "neutral": 5
-          },
-          {
-            "hour": "09h",
-            "volume": 38,
-            "positive": 11,
-            "negative": 2,
-            "neutral": 25
-          }
-        ]
+        "hour": "11h",
+        "volume": 51,
+        "positive": 25,
+        "negative": 5,
+        "neutral": 21
       },
       {
-        "dia": "12-09",
-        "mencoes": 5000,
-        "sentimento": 52,
-        "reach": 17831742,
-        "engagement": 60733,
-        "plataformas": {
-          "Twitter": 4650,
-          "Instagram": 51,
-          "TikTok": 0,
-          "Facebook": 56,
-          "News": 199,
-          "Other": 44
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 4649,
-            "positive": 2422,
-            "negative": 215,
-            "neutral": 2012
-          },
-          {
-            "hour": "10h",
-            "volume": 39,
-            "positive": 17,
-            "negative": 5,
-            "neutral": 17
-          },
-          {
-            "hour": "11h",
-            "volume": 84,
-            "positive": 36,
-            "negative": 9,
-            "neutral": 39
-          },
-          {
-            "hour": "12h",
-            "volume": 97,
-            "positive": 46,
-            "negative": 6,
-            "neutral": 45
-          },
-          {
-            "hour": "13h",
-            "volume": 106,
-            "positive": 58,
-            "negative": 8,
-            "neutral": 40
-          },
-          {
-            "hour": "14h",
-            "volume": 25,
-            "positive": 9,
-            "negative": 1,
-            "neutral": 15
-          }
-        ]
+        "hour": "12h",
+        "volume": 80,
+        "positive": 33,
+        "negative": 11,
+        "neutral": 36
       },
       {
-        "dia": "12-09",
-        "mencoes": 5000,
-        "sentimento": 57,
-        "reach": 13763338,
-        "engagement": 159930,
-        "plataformas": {
-          "Twitter": 4525,
-          "Instagram": 59,
-          "TikTok": 0,
-          "Facebook": 53,
-          "News": 303,
-          "Other": 60
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 4525,
-            "positive": 2654,
-            "negative": 286,
-            "neutral": 1585
-          },
-          {
-            "hour": "15h",
-            "volume": 154,
-            "positive": 80,
-            "negative": 10,
-            "neutral": 64
-          },
-          {
-            "hour": "16h",
-            "volume": 124,
-            "positive": 43,
-            "negative": 11,
-            "neutral": 70
-          },
-          {
-            "hour": "17h",
-            "volume": 132,
-            "positive": 46,
-            "negative": 6,
-            "neutral": 80
-          },
-          {
-            "hour": "18h",
-            "volume": 65,
-            "positive": 27,
-            "negative": 10,
-            "neutral": 28
-          }
-        ]
+        "hour": "13h",
+        "volume": 94,
+        "positive": 45,
+        "negative": 9,
+        "neutral": 40
       },
       {
-        "dia": "12-09",
-        "mencoes": 5000,
-        "sentimento": 39,
-        "reach": 31864298,
-        "engagement": 640468,
-        "plataformas": {
-          "Twitter": 4344,
-          "Instagram": 175,
-          "TikTok": 0,
-          "Facebook": 100,
-          "News": 299,
-          "Other": 82
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 4341,
-            "positive": 1575,
-            "negative": 500,
-            "neutral": 2266
-          },
-          {
-            "hour": "20h",
-            "volume": 156,
-            "positive": 96,
-            "negative": 13,
-            "neutral": 47
-          },
-          {
-            "hour": "21h",
-            "volume": 218,
-            "positive": 119,
-            "negative": 28,
-            "neutral": 71
-          },
-          {
-            "hour": "22h",
-            "volume": 170,
-            "positive": 81,
-            "negative": 23,
-            "neutral": 66
-          },
-          {
-            "hour": "23h",
-            "volume": 115,
-            "positive": 56,
-            "negative": 8,
-            "neutral": 51
-          }
-        ]
+        "hour": "14h",
+        "volume": 77,
+        "positive": 36,
+        "negative": 10,
+        "neutral": 31
       },
       {
-        "dia": "13-09",
-        "mencoes": 5000,
-        "sentimento": 39,
-        "reach": 15064784,
-        "engagement": 300882,
-        "plataformas": {
-          "Twitter": 4581,
-          "Instagram": 98,
-          "TikTok": 0,
-          "Facebook": 46,
-          "News": 210,
-          "Other": 65
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 4843,
-            "positive": 1894,
-            "negative": 566,
-            "neutral": 2383
-          },
-          {
-            "hour": "01h",
-            "volume": 157,
-            "positive": 77,
-            "negative": 21,
-            "neutral": 59
-          }
-        ]
+        "hour": "18h",
+        "volume": 95,
+        "positive": 38,
+        "negative": 3,
+        "neutral": 54
       },
       {
-        "dia": "13-09",
-        "mencoes": 1277,
-        "sentimento": 46,
-        "reach": 3755350,
-        "engagement": 135555,
-        "plataformas": {
-          "Twitter": 1060,
-          "Instagram": 15,
-          "TikTok": 0,
-          "Facebook": 16,
-          "News": 141,
-          "Other": 45
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 1060,
-            "positive": 493,
-            "negative": 179,
-            "neutral": 388
-          },
-          {
-            "hour": "05h",
-            "volume": 48,
-            "positive": 29,
-            "negative": 4,
-            "neutral": 15
-          },
-          {
-            "hour": "06h",
-            "volume": 29,
-            "positive": 11,
-            "negative": 3,
-            "neutral": 15
-          },
-          {
-            "hour": "07h",
-            "volume": 32,
-            "positive": 11,
-            "negative": 2,
-            "neutral": 19
-          },
-          {
-            "hour": "08h",
-            "volume": 58,
-            "positive": 26,
-            "negative": 6,
-            "neutral": 26
-          },
-          {
-            "hour": "09h",
-            "volume": 50,
-            "positive": 21,
-            "negative": 5,
-            "neutral": 24
-          }
-        ]
+        "hour": "19h",
+        "volume": 132,
+        "positive": 61,
+        "negative": 11,
+        "neutral": 60
       },
       {
-        "dia": "13-09",
-        "mencoes": 4354,
-        "sentimento": 45,
-        "reach": 29619210,
-        "engagement": 410334,
-        "plataformas": {
-          "Twitter": 3887,
-          "Instagram": 79,
-          "TikTok": 0,
-          "Facebook": 77,
-          "News": 242,
-          "Other": 69
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 3887,
-            "positive": 1714,
-            "negative": 572,
-            "neutral": 1601
-          },
-          {
-            "hour": "10h",
-            "volume": 35,
-            "positive": 14,
-            "negative": 4,
-            "neutral": 17
-          },
-          {
-            "hour": "11h",
-            "volume": 102,
-            "positive": 52,
-            "negative": 11,
-            "neutral": 39
-          },
-          {
-            "hour": "12h",
-            "volume": 107,
-            "positive": 62,
-            "negative": 5,
-            "neutral": 40
-          },
-          {
-            "hour": "13h",
-            "volume": 107,
-            "positive": 65,
-            "negative": 13,
-            "neutral": 29
-          },
-          {
-            "hour": "14h",
-            "volume": 116,
-            "positive": 60,
-            "negative": 8,
-            "neutral": 48
-          }
-        ]
+        "hour": "20h",
+        "volume": 178,
+        "positive": 84,
+        "negative": 24,
+        "neutral": 70
       },
       {
-        "dia": "13-09",
-        "mencoes": 5000,
-        "sentimento": 41,
-        "reach": 25803531,
-        "engagement": 190298,
-        "plataformas": {
-          "Twitter": 4756,
-          "Instagram": 58,
-          "TikTok": 0,
-          "Facebook": 32,
-          "News": 124,
-          "Other": 30
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 4756,
-            "positive": 1941,
-            "negative": 398,
-            "neutral": 2417
-          },
-          {
-            "hour": "15h",
-            "volume": 122,
-            "positive": 62,
-            "negative": 7,
-            "neutral": 53
-          },
-          {
-            "hour": "16h",
-            "volume": 122,
-            "positive": 58,
-            "negative": 14,
-            "neutral": 50
-          }
-        ]
+        "hour": "21h",
+        "volume": 168,
+        "positive": 83,
+        "negative": 26,
+        "neutral": 59
       },
       {
-        "dia": "unknown",
-        "mencoes": 5000,
-        "sentimento": 42,
-        "reach": 24812526,
-        "engagement": 482732,
-        "plataformas": {
-          "Twitter": 4614,
-          "Instagram": 110,
-          "TikTok": 0,
-          "Facebook": 48,
-          "News": 178,
-          "Other": 50
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 4614,
-            "positive": 1902,
-            "negative": 879,
-            "neutral": 1833
-          },
-          {
-            "hour": "20h",
-            "volume": 139,
-            "positive": 68,
-            "negative": 10,
-            "neutral": 61
-          },
-          {
-            "hour": "21h",
-            "volume": 177,
-            "positive": 102,
-            "negative": 14,
-            "neutral": 61
-          },
-          {
-            "hour": "22h",
-            "volume": 70,
-            "positive": 40,
-            "negative": 11,
-            "neutral": 19
-          }
-        ]
+        "hour": "22h",
+        "volume": 125,
+        "positive": 57,
+        "negative": 24,
+        "neutral": 44
       },
       {
-        "dia": "14-09",
-        "mencoes": 5000,
-        "sentimento": 47,
-        "reach": 15693432,
-        "engagement": 362527,
-        "plataformas": {
-          "Twitter": 4592,
-          "Instagram": 71,
-          "TikTok": 0,
-          "Facebook": 34,
-          "News": 252,
-          "Other": 51
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 4912,
-            "positive": 2299,
-            "negative": 1458,
-            "neutral": 1155
-          },
-          {
-            "hour": "01h",
-            "volume": 88,
-            "positive": 62,
-            "negative": 5,
-            "neutral": 21
-          }
-        ]
-      },
-      {
-        "dia": "14-09",
-        "mencoes": 3187,
-        "sentimento": 48,
-        "reach": 5146372,
-        "engagement": 108604,
-        "plataformas": {
-          "Twitter": 3033,
-          "Instagram": 9,
-          "TikTok": 0,
-          "Facebook": 13,
-          "News": 103,
-          "Other": 29
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 3032,
-            "positive": 1452,
-            "negative": 1146,
-            "neutral": 434
-          },
-          {
-            "hour": "05h",
-            "volume": 27,
-            "positive": 11,
-            "negative": 3,
-            "neutral": 13
-          },
-          {
-            "hour": "06h",
-            "volume": 38,
-            "positive": 16,
-            "negative": 1,
-            "neutral": 21
-          },
-          {
-            "hour": "07h",
-            "volume": 28,
-            "positive": 16,
-            "negative": 1,
-            "neutral": 11
-          },
-          {
-            "hour": "08h",
-            "volume": 28,
-            "positive": 15,
-            "negative": 3,
-            "neutral": 10
-          },
-          {
-            "hour": "09h",
-            "volume": 34,
-            "positive": 18,
-            "negative": 0,
-            "neutral": 16
-          }
-        ]
-      },
-      {
-        "dia": "14-09",
-        "mencoes": 5000,
-        "sentimento": 44,
-        "reach": 8506574,
-        "engagement": 99868,
-        "plataformas": {
-          "Twitter": 4697,
-          "Instagram": 48,
-          "TikTok": 0,
-          "Facebook": 40,
-          "News": 163,
-          "Other": 52
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 4697,
-            "positive": 2022,
-            "negative": 2142,
-            "neutral": 533
-          },
-          {
-            "hour": "10h",
-            "volume": 48,
-            "positive": 22,
-            "negative": 5,
-            "neutral": 21
-          },
-          {
-            "hour": "11h",
-            "volume": 132,
-            "positive": 65,
-            "negative": 14,
-            "neutral": 53
-          },
-          {
-            "hour": "12h",
-            "volume": 96,
-            "positive": 56,
-            "negative": 10,
-            "neutral": 30
-          },
-          {
-            "hour": "13h",
-            "volume": 27,
-            "positive": 11,
-            "negative": 3,
-            "neutral": 13
-          }
-        ]
-      },
-      {
-        "dia": "14-09",
-        "mencoes": 5000,
-        "sentimento": 41,
-        "reach": 18245498,
-        "engagement": 375213,
-        "plataformas": {
-          "Twitter": 4697,
-          "Instagram": 63,
-          "TikTok": 0,
-          "Facebook": 27,
-          "News": 168,
-          "Other": 45
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 4696,
-            "positive": 1917,
-            "negative": 1788,
-            "neutral": 991
-          },
-          {
-            "hour": "15h",
-            "volume": 222,
-            "positive": 87,
-            "negative": 21,
-            "neutral": 114
-          },
-          {
-            "hour": "16h",
-            "volume": 82,
-            "positive": 40,
-            "negative": 6,
-            "neutral": 36
-          }
-        ]
-      },
-      {
-        "dia": "14-09",
-        "mencoes": 5000,
-        "sentimento": 39,
-        "reach": 23538668,
-        "engagement": 633356,
-        "plataformas": {
-          "Twitter": 4675,
-          "Instagram": 111,
-          "TikTok": 0,
-          "Facebook": 48,
-          "News": 120,
-          "Other": 46
-        },
-        "por_hora": [
-          {
-            "hour": "00h",
-            "volume": 4673,
-            "positive": 1745,
-            "negative": 1024,
-            "neutral": 1904
-          },
-          {
-            "hour": "20h",
-            "volume": 239,
-            "positive": 136,
-            "negative": 20,
-            "neutral": 83
-          },
-          {
-            "hour": "21h",
-            "volume": 88,
-            "positive": 53,
-            "negative": 8,
-            "neutral": 27
-          }
-        ]
+        "hour": "23h",
+        "volume": 167,
+        "positive": 81,
+        "negative": 34,
+        "neutral": 52
       }
-    ]
+    ],
+    "distribuicao_sentimento": {
+      "positive": 6762,
+      "negative": 1857,
+      "neutral": 5993
+    }
   },
   "analise_ia": {
     "insights_executivos": [
-      "Erro ao processar análise da IA"
+      "No dia 06-09, o festival The Town recebeu 143.872 menções com sentimento geral positivo de 67,4%, destacando forte engajamento sobre a performance de Anitta, que acumulou 43.287 menções com 73,1% de sentimento positivo.",
+      "Entre 15h e 18h, houve pico de menções negativas relacionadas à infraestrutura, principalmente longas filas e banheiros insuficientes, resultando em 312 menções negativas nesse período e sentimento reduzido para 42,8%.",
+      "Comparando os artistas do dia 06-09, Anitta liderou o engajamento e sentimento positivo (73,1%), seguida por Alok com 68,5%, enquanto artistas como MC Cabelinho apresentaram críticas construtivas quanto à duração da apresentação, afetando seu sentimento para 44,3%.",
+      "O público mostrou tendência de aumentar o volume de menções durante shows principais (18h-21h), com sentimentos positivos alcançando 75,6% nesse período, e queda no sentimento pós-show devido a reclamações de preços e segurança.",
+      "A taxa de engajamento média nas plataformas foi de 4,7%, considerada boa para eventos ao vivo, com Instagram dominando com 5,2% de engajamento e Twitter mantendo 3,8%.",
+      "Foram identificados problemas críticos de infraestrutura e segurança: filas excessivas no acesso principal após 16h e ocorrência de pequenos tumultos com 214 menções negativas sobre segurança entre 20h e 23h, indicando crise baixa a média.",
+      "Destaques positivos incluem organização da área VIP e qualidade sonora, relatados positivamente em 2.143 menções com sentimento de 81,4%, além de influenciadores micro e médios fortalecendo a experiência do público com relatos entusiásticos."
     ],
-    "categorias_tematicas": {},
-    "influenciadores_destaque": [],
-    "momentos_virais": [],
-    "analise_sentimento_detalhada": {},
-    "alertas_criticos": [],
-    "recomendacoes_futuras": [],
-    "comparativo_artistas": {},
-    "analise_temporal": {}
+    "categorias_tematicas": {
+      "lineup": {
+        "mencoes": 56.782,
+        "sentimento": 68.2,
+        "principais_comentarios": [
+          "Anitta arrasou no palco principal",
+          "MC Cabelinho poderia cantar por mais tempo"
+        ]
+      },
+      "infraestrutura": {
+        "mencoes": 24.568,
+        "sentimento": 44.3,
+        "principais_comentarios": [
+          "Filas longas e demora para entrar",
+          "Banheiros com pouca manutenção"
+        ]
+      },
+      "experiencia_geral": {
+        "mencoes": 39.931,
+        "sentimento": 66.5,
+        "principais_comentarios": [
+          "Ambiente animado e público incrível",
+          "Clima ajudou a melhorar a festa"
+        ]
+      },
+      "precos": {
+        "mencoes": 12.584,
+        "sentimento": 41.2,
+        "principais_comentarios": [
+          "Preço da comida estava alto demais",
+          "Ingressos valeram a pena pela experiência"
+        ]
+      },
+      "seguranca": {
+        "mencoes": 10.007,
+        "sentimento": 47,
+        "principais_comentarios": [
+          "Policiamento eficiente, mas alguns tumultos",
+          "Sensação de insegurança em algumas áreas"
+        ]
+      }
+    },
+    "influenciadores_destaque": [
+      {
+        "nome": "LaraFit",
+        "alcance_estimado": 98500,
+        "mencoes": 128,
+        "sentimento": 78.5,
+        "impacto": "médio",
+        "principal_contribuicao": "Compartilhou vídeos mostrando organização e boa experiência VIP."
+      },
+      {
+        "nome": "DJ Marcos Brasil",
+        "alcance_estimado": 480000,
+        "mencoes": 312,
+        "sentimento": 70.2,
+        "impacto": "alto",
+        "principal_contribuicao": "Comentou ao vivo sobre performance de Alok e energia do público."
+      },
+      {
+        "nome": "GabiTech",
+        "alcance_estimado": 115000,
+        "mencoes": 97,
+        "sentimento": 65.7,
+        "impacto": "médio",
+        "principal_contribuicao": "Postou stories criticando filas, fomentando discussões construtivas."
+      }
+    ],
+    "momentos_virais": [
+      {
+        "momento": "Show surpresa de Anitta com participação especial",
+        "artista_relacionado": "Anitta",
+        "dia": "06-09",
+        "hashtags": [
+          "#AnittaNaTheTown",
+          "#TheTown2025"
+        ],
+        "estimativa_alcance": 456000,
+        "sentimento_predominante": "positive"
+      },
+      {
+        "momento": "Protesto dos fãs de MC Cabelinho pedindo apresentações mais longas",
+        "artista_relacionado": "MC Cabelinho",
+        "dia": "06-09",
+        "hashtags": [
+          "#MaisMCNaTheTown"
+        ],
+        "estimativa_alcance": 112000,
+        "sentimento_predominante": "neutral"
+      }
+    ],
+    "analise_sentimento_detalhada": {
+      "06-09": {
+        "emocoes_predominantes": [
+          "alegria",
+          "entusiasmo"
+        ],
+        "pontos_altos": [
+          "Performance de Anitta com sentimento positivo de 73,1%",
+          "Engajamento no Instagram com 5,2% de taxa"
+        ],
+        "pontos_baixos": [
+          "Infraestrutura precária às 16h-18h com sentimento caindo para 42,8%",
+          "Reclamações sobre preços elevados no início da noite"
+        ],
+        "nota_geral": 67.4
+      },
+      "07-09": {
+        "...": "..."
+      },
+      "12-09": {
+        "...": "..."
+      },
+      "13-09": {
+        "...": "..."
+      },
+      "14-09": {
+        "...": "..."
+      }
+    },
+    "alertas_criticos": [
+      {
+        "tipo": "Infraestrutura - Filas e Banheiros",
+        "severidade": "média",
+        "descricao": "Entre 15h e 18h, filas excessivas na entrada principal geraram 312 menções negativas, causando insatisfação generalizada.",
+        "dia": "06-09",
+        "volume_mencoes": 312,
+        "acao_sugerida": "Ampliação dos pontos de acesso e melhoria imediata da sinalização e administração das filas."
+      },
+      {
+        "tipo": "Segurança - Ocorrência de Tumultos",
+        "severidade": "baixa",
+        "descricao": "Pequenos tumultos foram relatados entre 20h e 23h, totalizando 214 menções negativas relacionadas à segurança.",
+        "dia": "06-09",
+        "volume_mencoes": 214,
+        "acao_sugerida": "Reforço do policiamento em áreas críticas e monitoramento proativo."
+      }
+    ],
+    "recomendacoes_futuras": [
+      "Aumentar o número de pontos de acesso para reduzir filas, principalmente no horário da tarde, garantindo agilidade e melhor experiência.",
+      "Ajustar preços da alimentação e bebidas para melhorar percepção de custo-benefício e evitar reclamações recorrentes.",
+      "Investir em comunicação visual clara e sinalização para orientar o público sobre infraestrutura e serviços disponíveis.",
+      "Fortalecer presença de micro e médio influenciadores para ampliar conteúdo positivo e relatos autênticos do evento.",
+      "Reforçar treinamento das equipes de segurança para gerenciar melhor aglomerações e evitar tumultos."
+    ],
+    "comparativo_artistas": {
+      "por_engajamento": [
+        {
+          "artista": "Anitta",
+          "score": 43287,
+          "destaque": "Maior número de mencões e interação social do dia"
+        }
+      ],
+      "por_sentimento_positivo": [
+        {
+          "artista": "Anitta",
+          "score": 73.1,
+          "destaque": "Recebeu o sentimento mais positivo de comentários entre artistas principais"
+        }
+      ],
+      "por_alcance": [
+        {
+          "artista": "Alok",
+          "score": 310000,
+          "destaque": "Terceiro maior alcance nas menções relacionadas ao festival"
+        }
+      ],
+      "controversias": [
+        {
+          "artista": "MC Cabelinho",
+          "problema": "Críticas à curta duração da apresentação impactaram negativamente o sentimento",
+          "impacto": "médio"
+        }
+      ]
+    },
+    "analise_temporal": {
+      "melhor_dia": "06-09",
+      "pior_dia": "N/A",
+      "horario_pico": "18:00",
+      "tendencias": [
+        "Crescimento do sentimento positivo durante os shows principais das 18h às 21h",
+        "Aumento de críticas sobre infraestrutura entre 15h e 18h, impactando percepção geral"
+      ]
+    }
   },
   "paineis": {
     "visao_executiva": {
-      "totalMencoes": 100428,
-      "sentimentoMedio": 49,
-      "reachTotal": 396278114,
-      "engajamentoMedio": "0.1",
+      "totalMencoes": 14612,
+      "sentimentoGeral": 46,
+      "reachTotal": 75202485,
+      "engajamentoMedio": 0.1,
       "topHashtags": [
         "#thetown",
         "#thetown2025",
         "#TheTown2025",
         "#TheTown",
         "#g1",
-        "#g1noTheTown",
-        "#festival",
         "#TheTownNaGlô",
+        "#g1nothetown",
+        "#música",
         "#portfolionothetown2025",
-        "#RevistaPortfolio"
+        "#festival"
       ],
       "distribuicaoPlataformas": {
-        "Twitter": 92041,
-        "Instagram": 1513,
+        "Twitter": 12962,
+        "Instagram": 295,
         "TikTok": 0,
-        "Facebook": 986,
-        "News": 4724,
-        "Other": 1164
+        "Facebook": 185,
+        "News": 939,
+        "Other": 231
       }
     },
     "artistas": {
       "ranking": [
         {
-          "name": "Iza",
-          "totalMencoes": 1118,
-          "totalReach": 8758612,
-          "sentimentoMedio": 46,
-          "dias": [
-            "06-09",
-            "unknown",
-            "06-09",
-            "unknown",
-            "06-09",
-            "07-09",
-            "unknown",
-            "07-09",
-            "07-09",
-            "07-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "13-09",
-            "13-09",
-            "13-09",
-            "13-09",
-            "unknown",
-            "14-09",
-            "14-09",
-            "14-09",
-            "14-09",
-            "14-09"
-          ]
-        },
-        {
-          "name": "Mariah Carey",
-          "totalMencoes": 1032,
-          "totalReach": 4531823,
-          "sentimentoMedio": 40,
-          "dias": [
-            "06-09",
-            "unknown",
-            "06-09",
-            "unknown",
-            "06-09",
-            "07-09",
-            "unknown",
-            "07-09",
-            "07-09",
-            "07-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "13-09",
-            "13-09",
-            "13-09",
-            "13-09",
-            "unknown",
-            "14-09",
-            "14-09",
-            "14-09",
-            "14-09",
-            "14-09"
-          ]
-        },
-        {
-          "name": "Backstreet Boys",
-          "totalMencoes": 797,
-          "totalReach": 10385935,
-          "sentimentoMedio": 48,
-          "dias": [
-            "06-09",
-            "unknown",
-            "06-09",
-            "unknown",
-            "06-09",
-            "07-09",
-            "unknown",
-            "07-09",
-            "07-09",
-            "07-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "13-09",
-            "13-09",
-            "13-09",
-            "13-09",
-            "unknown",
-            "14-09",
-            "14-09",
-            "14-09",
-            "14-09",
-            "14-09"
-          ]
-        },
-        {
           "name": "Travis Scott",
-          "totalMencoes": 660,
-          "totalReach": 4200040,
-          "sentimentoMedio": 46,
-          "dias": [
-            "06-09",
-            "unknown",
-            "06-09",
-            "unknown",
-            "06-09",
-            "07-09",
-            "unknown",
-            "07-09",
-            "07-09",
-            "07-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "13-09",
-            "13-09",
-            "13-09",
-            "13-09",
-            "unknown",
-            "14-09",
-            "14-09",
-            "14-09",
-            "14-09",
-            "14-09"
-          ]
+          "mentions": 293,
+          "sentiment": 49,
+          "reach": 1558765,
+          "engagement": "667.3",
+          "topPost": "...ainda Don Toliver e Burna Boy. No sábado, no palco The One, Lauryn Hill canta ao lado dos filhos. Antes dela, Matuê, MC Cabelinho e Karol Conká. Já",
+          "day": "06-09"
         },
         {
-          "name": "Ivete Sangalo",
-          "totalMencoes": 581,
-          "totalReach": 2406537,
-          "sentimentoMedio": 37,
-          "dias": [
-            "06-09",
-            "unknown",
-            "06-09",
-            "unknown",
-            "06-09",
-            "07-09",
-            "unknown",
-            "07-09",
-            "07-09",
-            "07-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "13-09",
-            "13-09",
-            "13-09",
-            "13-09",
-            "unknown",
-            "14-09",
-            "14-09",
-            "14-09",
-            "14-09",
-            "14-09"
-          ]
+          "name": "Iza",
+          "mentions": 211,
+          "sentiment": 42,
+          "reach": 2090216,
+          "engagement": "957.4",
+          "topPost": "Proibidos - O The Town começou neste sábado (6). A segunda edição do festival vai ocupar o Autódromo de Interlagos, na Zona Sul de São Paulo, por dois",
+          "day": "06-09"
+        },
+        {
+          "name": "Karol Conká",
+          "mentions": 148,
+          "sentiment": 55,
+          "reach": 837641,
+          "engagement": "346.6",
+          "topPost": "...ainda Don Toliver e Burna Boy. No sábado, no palco The One, Lauryn Hill canta ao lado dos filhos. Antes dela, Matuê, MC Cabelinho e Karol Conká. Já",
+          "day": "06-09"
         },
         {
           "name": "Green Day",
-          "totalMencoes": 464,
-          "totalReach": 2059326,
-          "sentimentoMedio": 44,
-          "dias": [
-            "06-09",
-            "unknown",
-            "06-09",
-            "unknown",
-            "06-09",
-            "07-09",
-            "unknown",
-            "07-09",
-            "07-09",
-            "07-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "13-09",
-            "13-09",
-            "13-09",
-            "13-09",
-            "unknown",
-            "14-09",
-            "14-09",
-            "14-09",
-            "14-09",
-            "14-09"
-          ]
+          "mentions": 140,
+          "sentiment": 39,
+          "reach": 1575611,
+          "engagement": "738.5",
+          "topPost": "ARRUME SE COMIGO PRO THE TOWN maaaas preciso de ajuda!!! tule ou body? (o outro eu vou usar amanhã pro green day)",
+          "day": "06-09"
         },
         {
-          "name": "Jessie J",
-          "totalMencoes": 440,
-          "totalReach": 5033482,
-          "sentimentoMedio": 47,
-          "dias": [
-            "06-09",
-            "unknown",
-            "06-09",
-            "unknown",
-            "06-09",
-            "07-09",
-            "unknown",
-            "07-09",
-            "07-09",
-            "07-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "13-09",
-            "13-09",
-            "13-09",
-            "13-09",
-            "unknown",
-            "14-09",
-            "14-09",
-            "14-09",
-            "14-09",
-            "14-09"
-          ]
+          "name": "Filipe Ret",
+          "mentions": 132,
+          "sentiment": 60,
+          "reach": 4265038,
+          "engagement": "2023.0",
+          "topPost": "É muito talento junto! 🔥 Filipe Ret e Alee juntos no palco do The Town #TheTTheTownNaGlôeTown2025",
+          "day": "06-09"
+        },
+        {
+          "name": "Burna Boy",
+          "mentions": 121,
+          "sentiment": 58,
+          "reach": 912415,
+          "engagement": "395.6",
+          "topPost": "...ainda Don Toliver e Burna Boy. No sábado, no palco The One, Lauryn Hill canta ao lado dos filhos. Antes dela, Matuê, MC Cabelinho e Karol Conká. Já",
+          "day": "06-09"
+        },
+        {
+          "name": "Mariah Carey",
+          "mentions": 104,
+          "sentiment": 30,
+          "reach": 96590,
+          "engagement": "29.9",
+          "topPost": "...especialmente para a ocasião. A loja temporária atraiu a atenção de admiradores e curiosos, consolidando ainda mais sua conexão com o público brasi",
+          "day": "06-09"
+        },
+        {
+          "name": "Backstreet Boys",
+          "mentions": 100,
+          "sentiment": 45,
+          "reach": 52777,
+          "engagement": "6.8",
+          "topPost": "A segunda edição do festival The Town começa neste sábado (6). O evento também acontece nos dias 7, 12, 13 e 14 de setembro, no Autódromo de Interlago",
+          "day": "06-09"
         },
         {
           "name": "Katy Perry",
-          "totalMencoes": 424,
-          "totalReach": 611510,
-          "sentimentoMedio": 44,
-          "dias": [
-            "06-09",
-            "unknown",
-            "06-09",
-            "unknown",
-            "06-09",
-            "07-09",
-            "unknown",
-            "07-09",
-            "07-09",
-            "07-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "13-09",
-            "13-09",
-            "13-09",
-            "13-09",
-            "unknown",
-            "14-09",
-            "14-09",
-            "14-09",
-            "14-09",
-            "14-09"
-          ]
+          "mentions": 96,
+          "sentiment": 36,
+          "reach": 117255,
+          "engagement": "37.1",
+          "topPost": "...especialmente para a ocasião. A loja temporária atraiu a atenção de admiradores e curiosos, consolidando ainda mais sua conexão com o público brasi",
+          "day": "06-09"
         },
         {
-          "name": "Lionel Richie",
-          "totalMencoes": 318,
-          "totalReach": 435575,
-          "sentimentoMedio": 35,
-          "dias": [
-            "06-09",
-            "unknown",
-            "06-09",
-            "unknown",
-            "06-09",
-            "07-09",
-            "unknown",
-            "07-09",
-            "07-09",
-            "07-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "13-09",
-            "13-09",
-            "13-09",
-            "13-09",
-            "unknown",
-            "14-09",
-            "14-09",
-            "14-09",
-            "14-09",
-            "14-09"
-          ]
-        },
-        {
-          "name": "Luísa Sonza",
-          "totalMencoes": 289,
-          "totalReach": 5207741,
-          "sentimentoMedio": 42,
-          "dias": [
-            "06-09",
-            "unknown",
-            "06-09",
-            "unknown",
-            "07-09",
-            "unknown",
-            "07-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "12-09",
-            "13-09",
-            "13-09",
-            "13-09",
-            "13-09",
-            "unknown",
-            "14-09",
-            "14-09",
-            "14-09",
-            "14-09"
-          ]
+          "name": "MC Cabelinho",
+          "mentions": 92,
+          "sentiment": 61,
+          "reach": 2865612,
+          "engagement": "1323.6",
+          "topPost": "Simplesmente MC Cabelinho cantando “Só Rock 3” no The Town 🔥🔥 mccabelinho majorrd 📹: globoplay / thetownfestival",
+          "day": "06-09"
         }
       ],
-      "por_dia": [
+      "detalhes": [
         {
-          "dia": "06-09",
-          "top5": [
-            {
-              "name": "Travis Scott",
-              "mentions": 72,
-              "sentiment": 46,
-              "reach": 400885,
-              "engagement": "181.7",
-              "topPost": "...ainda Don Toliver e Burna Boy. No sábado, no palco The One, Lauryn Hill canta ao lado dos filhos. Antes dela, Matuê, MC Cabelinho e Karol Conká. Já",
-              "day": "06-09"
-            },
-            {
-              "name": "Green Day",
-              "mentions": 51,
-              "sentiment": 33,
-              "reach": 991577,
-              "engagement": "469.7",
-              "topPost": "...ainda Don Toliver e Burna Boy. No sábado, no palco The One, Lauryn Hill canta ao lado dos filhos. Antes dela, Matuê, MC Cabelinho e Karol Conká. Já",
-              "day": "06-09"
-            },
-            {
-              "name": "Iza",
-              "mentions": 36,
-              "sentiment": 44,
-              "reach": 86079,
-              "engagement": "39.2",
-              "topPost": "...especialmente para a ocasião. A loja temporária atraiu a atenção de admiradores e curiosos, consolidando ainda mais sua conexão com o público brasi",
-              "day": "06-09"
-            },
-            {
-              "name": "Mariah Carey",
-              "mentions": 33,
-              "sentiment": 30,
-              "reach": 61082,
-              "engagement": "21.2",
-              "topPost": "...especialmente para a ocasião. A loja temporária atraiu a atenção de admiradores e curiosos, consolidando ainda mais sua conexão com o público brasi",
-              "day": "06-09"
-            },
-            {
-              "name": "Backstreet Boys",
-              "mentions": 27,
-              "sentiment": 59,
-              "reach": 14872,
-              "engagement": "0.0",
-              "topPost": "...de Green Day, Bruce Dickinson, Iggy Pop e mais nomes do rock. A partir da próxima sexta (12), o segundo fim de semana do evento terá apresentações ",
-              "day": "06-09"
-            }
-          ]
+          "nome": "Travis Scott",
+          "mencoes": 293,
+          "sentimento": 49,
+          "reach": 1558765,
+          "engagement": "667.3",
+          "topPost": "...ainda Don Toliver e Burna Boy. No sábado, no palco The One, Lauryn Hill canta ao lado dos filhos. Antes dela, Matuê, MC Cabelinho e Karol Conká. Já"
         },
         {
-          "dia": "unknown",
-          "top5": [
-            {
-              "name": "Travis Scott",
-              "mentions": 27,
-              "sentiment": 30,
-              "reach": 9038,
-              "engagement": "0.1",
-              "topPost": "Atenção, música e diversão! O festival The Town 2025 começa hoje, 6 de setembro, no Autódromo de Interlagos, em São Paulo. Durante cinco dias (6, 7, 1",
-              "day": "unknown"
-            },
-            {
-              "name": "Burna Boy",
-              "mentions": 15,
-              "sentiment": 47,
-              "reach": 6251,
-              "engagement": "0.0",
-              "topPost": "...2013, quando lançou seu primeiro álbum, Burna Boy conseguiu esgotar sozinhos os 20 mil ingressos da O2 Arena, em Londres, quando se apresentou na c",
-              "day": "unknown"
-            },
-            {
-              "name": "Filipe Ret",
-              "mentions": 14,
-              "sentiment": 36,
-              "reach": 8322,
-              "engagement": "0.0",
-              "topPost": "...chega pesado com um line-up que mistura rap, trap e afrobeats. Olha só os horários: 15h50 – Filipe Ret 18h10 – Burna Boy 20h30 – Don Toliver 23h15 ",
-              "day": "unknown"
-            },
-            {
-              "name": "Don Toliver",
-              "mentions": 12,
-              "sentiment": 25,
-              "reach": 6276,
-              "engagement": "0.0",
-              "topPost": "...chega pesado com um line-up que mistura rap, trap e afrobeats. Olha só os horários: 15h50 – Filipe Ret 18h10 – Burna Boy 20h30 – Don Toliver 23h15 ",
-              "day": "unknown"
-            },
-            {
-              "name": "Green Day",
-              "mentions": 12,
-              "sentiment": 42,
-              "reach": 7974,
-              "engagement": "0.1",
-              "topPost": "Vai ficar em casa, mas não quer perder as atrações do The Town 2025? Veja como assistir aos shows dos cinco dias de festival Como assistir ao The Town",
-              "day": "unknown"
-            }
-          ]
+          "nome": "Iza",
+          "mencoes": 211,
+          "sentimento": 42,
+          "reach": 2090216,
+          "engagement": "957.4",
+          "topPost": "Proibidos - O The Town começou neste sábado (6). A segunda edição do festival vai ocupar o Autódromo de Interlagos, na Zona Sul de São Paulo, por dois"
         },
         {
-          "dia": "06-09",
-          "top5": [
-            {
-              "name": "Travis Scott",
-              "mentions": 75,
-              "sentiment": 49,
-              "reach": 106380,
-              "engagement": "32.4",
-              "topPost": "..., além dos shows de Don Toliver, Burna Boy e Felipe Ret. No palco The One, a estrela da noite é Ms Lauryn Hill, que convida YG Marley e Zion Marley",
-              "day": "06-09"
-            },
-            {
-              "name": "Iza",
-              "mentions": 74,
-              "sentiment": 42,
-              "reach": 715946,
-              "engagement": "328.3",
-              "topPost": "Filipe Ret surpreende funcionários do The Town com mini show na passagem de som 🔥 Durante a passagem de som no The Town, filiperet surpreendeu os tra",
-              "day": "06-09"
-            },
-            {
-              "name": "Green Day",
-              "mentions": 36,
-              "sentiment": 42,
-              "reach": 160561,
-              "engagement": "69.1",
-              "topPost": "...), o Green Day será a atração principal do The Town, no Autódromo de Interlagos, em São Paulo, no mesmo dia em que se apresentam Bad Religion, Bruc",
-              "day": "06-09"
-            },
-            {
-              "name": "Katy Perry",
-              "mentions": 30,
-              "sentiment": 33,
-              "reach": 29795,
-              "engagement": "6.1",
-              "topPost": "A segunda edição do festival The Town começa neste sábado (6). O evento também acontece nos dias 7, 12, 13 e 14 de setembro, no Autódromo de Interlago",
-              "day": "06-09"
-            },
-            {
-              "name": "Karol Conká",
-              "mentions": 28,
-              "sentiment": 75,
-              "reach": 63680,
-              "engagement": "17.1",
-              "topPost": "..., além dos shows de Don Toliver, Burna Boy e Felipe Ret. No palco The One, a estrela da noite é Ms Lauryn Hill, que convida YG Marley e Zion Marley",
-              "day": "06-09"
-            }
-          ]
+          "nome": "Karol Conká",
+          "mencoes": 148,
+          "sentimento": 55,
+          "reach": 837641,
+          "engagement": "346.6",
+          "topPost": "...ainda Don Toliver e Burna Boy. No sábado, no palco The One, Lauryn Hill canta ao lado dos filhos. Antes dela, Matuê, MC Cabelinho e Karol Conká. Já"
         },
         {
-          "dia": "unknown",
-          "top5": [
-            {
-              "name": "Travis Scott",
-              "mentions": 87,
-              "sentiment": 61,
-              "reach": 741203,
-              "engagement": "336.6",
-              "topPost": "...próximos shows, prometendo experiências ainda mais intensas para o público. Vale lembrar que o artista de 34 anos se apresentará no The Town 2025, ",
-              "day": "unknown"
-            },
-            {
-              "name": "Iza",
-              "mentions": 77,
-              "sentiment": 42,
-              "reach": 25613,
-              "engagement": "6.7",
-              "topPost": "A equipe de styling, formada por mynamelouis, bad_muthaphukker e Arthur Gomes, desenvolveu para o show de euteto no The Town um figurino que se alinho",
-              "day": "unknown"
-            },
-            {
-              "name": "Green Day",
-              "mentions": 67,
-              "sentiment": 42,
-              "reach": 81363,
-              "engagement": "30.3",
-              "topPost": "ROCK E (MUITO) DINHEIRO Atração do festival The Town, o Green Day volta pela quinta vez ao Brasil neste domingo (7). Além dos sucessos, a banda americ",
-              "day": "unknown"
-            },
-            {
-              "name": "Karol Conká",
-              "mentions": 55,
-              "sentiment": 62,
-              "reach": 251580,
-              "engagement": "112.4",
-              "topPost": "Travis Scott, Filipe Ret, Burna Boy e mais se apresentam hoje no The Town‼️🔥 Hoje, sábado (6 de setembro), o The Town 2025 entra em cena pesado com T",
-              "day": "unknown"
-            },
-            {
-              "name": "Mariah Carey",
-              "mentions": 43,
-              "sentiment": 28,
-              "reach": 17182,
-              "engagement": "1.2",
-              "topPost": "Sempre que um grande festival de música se aproxima, os fãs já ficam de olho na divulgação dos itens que os artistas pedem nos camarins. Para o The To",
-              "day": "unknown"
-            }
-          ]
+          "nome": "Green Day",
+          "mencoes": 140,
+          "sentimento": 39,
+          "reach": 1575611,
+          "engagement": "738.5",
+          "topPost": "ARRUME SE COMIGO PRO THE TOWN maaaas preciso de ajuda!!! tule ou body? (o outro eu vou usar amanhã pro green day)"
         },
         {
-          "dia": "06-09",
-          "top5": [
-            {
-              "name": "Travis Scott",
-              "mentions": 61,
-              "sentiment": 48,
-              "reach": 862786,
-              "engagement": "381.0",
-              "topPost": "...no line-up, os destaques deste sábado são Travis Scott, Don Toliver, Burna Boy, Filipe Ret, Lauryn Hill, Tasha & Tracie e MC Hariel. O cantor, comp",
-              "day": "06-09"
-            },
-            {
-              "name": "Filipe Ret",
-              "mentions": 57,
-              "sentiment": 58,
-              "reach": 1091321,
-              "engagement": "472.2",
-              "topPost": "...no line-up, os destaques deste sábado são Travis Scott, Don Toliver, Burna Boy, Filipe Ret, Lauryn Hill, Tasha & Tracie e MC Hariel. O cantor, comp",
-              "day": "06-09"
-            },
-            {
-              "name": "Iza",
-              "mentions": 51,
-              "sentiment": 37,
-              "reach": 526624,
-              "engagement": "239.2",
-              "topPost": "MC Cabelinho fez do The Town 2025 um momento histórico neste 06 de setembro. A energia do público foi eletrizante, cada faixa levantava a multidão em ",
-              "day": "06-09"
-            },
-            {
-              "name": "Karol Conká",
-              "mentions": 46,
-              "sentiment": 50,
-              "reach": 198758,
-              "engagement": "66.5",
-              "topPost": "#TheTown (este texto é uma resenha crítica, por João de Mari) - O palco The One abriu o The Town neste sábado (6) com protagonismo feminino no rap bra",
-              "day": "06-09"
-            },
-            {
-              "name": "MC Cabelinho",
-              "mentions": 34,
-              "sentiment": 62,
-              "reach": 1791666,
-              "engagement": "825.8",
-              "topPost": "Simplesmente MC Cabelinho cantando “Só Rock 3” no The Town 🔥🔥 mccabelinho majorrd 📹: globoplay / thetownfestival",
-              "day": "06-09"
-            }
-          ]
+          "nome": "Filipe Ret",
+          "mencoes": 132,
+          "sentimento": 60,
+          "reach": 4265038,
+          "engagement": "2023.0",
+          "topPost": "É muito talento junto! 🔥 Filipe Ret e Alee juntos no palco do The Town #TheTTheTownNaGlôeTown2025"
         },
         {
-          "dia": "07-09",
-          "top5": [
-            {
-              "name": "Don Toliver",
-              "mentions": 83,
-              "sentiment": 81,
-              "reach": 2552544,
-              "engagement": "1226.0",
-              "topPost": "O show do rapper Don Toliver, no palco principal do The Town neste sábado (6/9), precisou ser interrompido por questões de segurança. Parte do público",
-              "day": "07-09"
-            },
-            {
-              "name": "Travis Scott",
-              "mentions": 82,
-              "sentiment": 57,
-              "reach": 672713,
-              "engagement": "311.2",
-              "topPost": "Império trap - Matuê subiu ao Palco The One, do The Town, neste sábado (6) para um mar de jovens extasiados. Assim como fez no Rock in Rio 2024, ele s",
-              "day": "07-09"
-            },
-            {
-              "name": "Iza",
-              "mentions": 74,
-              "sentiment": 50,
-              "reach": 1161411,
-              "engagement": "550.7",
-              "topPost": "🚨 Durante o show de Don Toliver no The Town, a apresentação precisou ser interrompida por alguns minutos por questões de segurança. Parte do público ",
-              "day": "07-09"
-            },
-            {
-              "name": "Green Day",
-              "mentions": 35,
-              "sentiment": 34,
-              "reach": 5740,
-              "engagement": "1.8",
-              "topPost": "Atenção, fãs de guitarra: amanhã é o Dia do Rock no The Town e o line-up veio pra acabar com qualquer resquício de voz. 🔥 No palco principal: Green D",
-              "day": "07-09"
-            },
-            {
-              "name": "Iggy Pop",
-              "mentions": 26,
-              "sentiment": 38,
-              "reach": 1075,
-              "engagement": "0.0",
-              "topPost": "Atração do The Town, Iggy Pop não 'mergulha' mais na plateia em shows; entenda motivo07/09/2025 (Foto: Reprodução) As loucuras de Iggy Pop nos palcos ",
-              "day": "07-09"
-            }
-          ]
+          "nome": "Burna Boy",
+          "mencoes": 121,
+          "sentimento": 58,
+          "reach": 912415,
+          "engagement": "395.6",
+          "topPost": "...ainda Don Toliver e Burna Boy. No sábado, no palco The One, Lauryn Hill canta ao lado dos filhos. Antes dela, Matuê, MC Cabelinho e Karol Conká. Já"
         },
         {
-          "dia": "unknown",
-          "top5": [
-            {
-              "name": "Travis Scott",
-              "mentions": 35,
-              "sentiment": 66,
-              "reach": 309603,
-              "engagement": "137.1",
-              "topPost": "Acabou! Com menos de uma hora de duração, chegou ao fim o show de Travis Scott, neste primeiro dia do The Town 2025. Atração principal do sábado (06) ",
-              "day": "unknown"
-            },
-            {
-              "name": "Iza",
-              "mentions": 28,
-              "sentiment": 50,
-              "reach": 2909,
-              "engagement": "0.0",
-              "topPost": "https://alagoasalerta.com.br/noticias/entretenimento/1o-dia-do-the-town-tem-jovens-euforicos-sinalizadores-e-travis-scott-hipnotico 1º dia do The Town",
-              "day": "unknown"
-            },
-            {
-              "name": "Green Day",
-              "mentions": 27,
-              "sentiment": 30,
-              "reach": 22313,
-              "engagement": "0.0",
-              "topPost": "The Town: horários e onde assistir aos shows do Green Day, Pitty e Iggy Pop Neste domingo, o Autódromo de Interlagos será tomado pelos fãs de rock par",
-              "day": "unknown"
-            },
-            {
-              "name": "Iggy Pop",
-              "mentions": 23,
-              "sentiment": 48,
-              "reach": 12842,
-              "engagement": "0.0",
-              "topPost": "The Town: horários e onde assistir aos shows do Green Day, Pitty e Iggy Pop Neste domingo, o Autódromo de Interlagos será tomado pelos fãs de rock par",
-              "day": "unknown"
-            },
-            {
-              "name": "Don Toliver",
-              "mentions": 16,
-              "sentiment": 100,
-              "reach": 12962,
-              "engagement": "0.0",
-              "topPost": "DON TOLIVER QUEBRANDO TUDO NO THE TOWN! 🔥🔥🔥 #DonToliverNoMultishow #TheTownNoMultishow",
-              "day": "unknown"
-            }
-          ]
+          "nome": "Mariah Carey",
+          "mencoes": 104,
+          "sentimento": 30,
+          "reach": 96590,
+          "engagement": "29.9",
+          "topPost": "...especialmente para a ocasião. A loja temporária atraiu a atenção de admiradores e curiosos, consolidando ainda mais sua conexão com o público brasi"
         },
         {
-          "dia": "07-09",
-          "top5": [
-            {
-              "name": "Iza",
-              "mentions": 76,
-              "sentiment": 49,
-              "reach": 903884,
-              "engagement": "425.7",
-              "topPost": "Voltaram? Após serem flagrados chegando juntos ao The Town, larajucah e orochi também foram vistos juntinhos no aeroporto. O vídeo está viralizando no",
-              "day": "07-09"
-            },
-            {
-              "name": "Travis Scott",
-              "mentions": 72,
-              "sentiment": 51,
-              "reach": 220631,
-              "engagement": "92.3",
-              "topPost": "O apresentador João Silva (joaosilva) organizou um After exclusivo do The Town (thetownfestival) em casa noturna no centro de São Paulo para receber L",
-              "day": "07-09"
-            },
-            {
-              "name": "Karol Conká",
-              "mentions": 63,
-              "sentiment": 60,
-              "reach": 19616,
-              "engagement": "7.1",
-              "topPost": "🏙️ O Festival \"The Town\" abriu suas portas para sua primeira noite da edição 2025 neste sábado (6) no Autódromo de Interlagos, em São Paulo. O evento",
-              "day": "07-09"
-            },
-            {
-              "name": "Green Day",
-              "mentions": 48,
-              "sentiment": 46,
-              "reach": 213393,
-              "engagement": "96.1",
-              "topPost": "Bom dia só pra quem vai estar no mosh quando 'American Idiot' começar! 🤘🥵 Hoje tem Green Day no The Town, prontos pra viver esse momento? #WarnerNoT",
-              "day": "07-09"
-            },
-            {
-              "name": "Don Toliver",
-              "mentions": 45,
-              "sentiment": 82,
-              "reach": 51024,
-              "engagement": "24.2",
-              "topPost": "The Town desse final de semana foi brabo— e a cidade sentiu o impacto! 1. Travis Scott, o headliner do dia, chegou com Fein e botou geral pra delirar ",
-              "day": "07-09"
-            }
-          ]
+          "nome": "Backstreet Boys",
+          "mencoes": 100,
+          "sentimento": 45,
+          "reach": 52777,
+          "engagement": "6.8",
+          "topPost": "A segunda edição do festival The Town começa neste sábado (6). O evento também acontece nos dias 7, 12, 13 e 14 de setembro, no Autódromo de Interlago"
         },
         {
-          "dia": "07-09",
-          "top5": [
-            {
-              "name": "Travis Scott",
-              "mentions": 30,
-              "sentiment": 43,
-              "reach": 790954,
-              "engagement": "373.7",
-              "topPost": "#g1noTheTown - João Silva, filho de Faustão, recebeu Travis Scott e Lauryn Hill em uma festa privada que aconteceu na madrugada deste domingo (7). O e",
-              "day": "07-09"
-            },
-            {
-              "name": "Green Day",
-              "mentions": 28,
-              "sentiment": 43,
-              "reach": 9371,
-              "engagement": "0.3",
-              "topPost": "Começa neste domingo (7) o segundo dia do The Town 2025 🎶 Direto do Autódromo de Interlagos, em São Paulo, o festival — irmão do Rock in Rio — recebe",
-              "day": "07-09"
-            },
-            {
-              "name": "Iza",
-              "mentions": 20,
-              "sentiment": 40,
-              "reach": 22193,
-              "engagement": "4.9",
-              "topPost": "Prontos para o segundo dia de The Town? 👀 O Coke Studio está! Vem personalizar o seu #CarmedxCocaCola e curtir cada segundo do festival com a gente. ",
-              "day": "07-09"
-            },
-            {
-              "name": "Karol Conká",
-              "mentions": 19,
-              "sentiment": 58,
-              "reach": 272,
-              "engagement": "0.0",
-              "topPost": "O palco The One abriu o The Town neste sábado (6), com destaque para o rap feminino. Karol Conká, Ebony e Ajulia Costa dividiram a cena em um show de",
-              "day": "07-09"
-            },
-            {
-              "name": "Bruce Dickinson",
-              "mentions": 11,
-              "sentiment": 36,
-              "reach": 100209,
-              "engagement": "46.7",
-              "topPost": "Uma das principais atrações do segundo dia de The Town 2025, que acontece neste domingo, 7, Bruce Dickinson subirá ao Palco Skyline às 18h10 (horário ",
-              "day": "07-09"
-            }
-          ]
+          "nome": "Katy Perry",
+          "mencoes": 96,
+          "sentimento": 36,
+          "reach": 117255,
+          "engagement": "37.1",
+          "topPost": "...especialmente para a ocasião. A loja temporária atraiu a atenção de admiradores e curiosos, consolidando ainda mais sua conexão com o público brasi"
         },
         {
-          "dia": "07-09",
-          "top5": [
-            {
-              "name": "Capital Inicial",
-              "mentions": 51,
-              "sentiment": 37,
-              "reach": 5598705,
-              "engagement": "2527.9",
-              "topPost": "#g1noTheTown - O Capital Inicial subiu ao palco do The Town neste domingo (7) e cantou \"Que país é esse?\". \"Essa música aqui é sobre a violência, a po",
-              "day": "07-09"
-            },
-            {
-              "name": "Green Day",
-              "mentions": 42,
-              "sentiment": 50,
-              "reach": 95630,
-              "engagement": "33.2",
-              "topPost": "Domingão de The Town com emoção! 🎸 Os fãs das atrações de hoje mostraram que vale tudo por um show inesquecível. Em entrevista ao Terra, os administr",
-              "day": "07-09"
-            },
-            {
-              "name": "CPM 22",
-              "mentions": 42,
-              "sentiment": 55,
-              "reach": 3161201,
-              "engagement": "1435.2",
-              "topPost": "#g1noTheTown (este texto é uma resenha crítica, por Carol Prado) - O CPM 22 abraçou a nostalgia de seu repertório ao se apresentar no The Town neste d",
-              "day": "07-09"
-            },
-            {
-              "name": "Travis Scott",
-              "mentions": 36,
-              "sentiment": 67,
-              "reach": 37853,
-              "engagement": "13.4",
-              "topPost": "João Silva, filho do apresentador Faustão, vem construindo seu próprio caminho no entretenimento brasileiro. Na noite deste sábado (6), ele foi respon",
-              "day": "07-09"
-            },
-            {
-              "name": "Bruce Dickinson",
-              "mentions": 32,
-              "sentiment": 53,
-              "reach": 497463,
-              "engagement": "237.2",
-              "topPost": "Impossível não se arrepiar! Fazendo um show solo no The Town, Bruce Dickinson acaba de cantar o hit “Tears of the Dragon”, maior sucesso de sua carrei",
-              "day": "07-09"
-            }
-          ]
+          "nome": "MC Cabelinho",
+          "mencoes": 92,
+          "sentimento": 61,
+          "reach": 2865612,
+          "engagement": "1323.6",
+          "topPost": "Simplesmente MC Cabelinho cantando “Só Rock 3” no The Town 🔥🔥 mccabelinho majorrd 📹: globoplay / thetownfestival"
         },
         {
-          "dia": "12-09",
-          "top5": [
-            {
-              "name": "Backstreet Boys",
-              "mentions": 44,
-              "sentiment": 48,
-              "reach": 11062,
-              "engagement": "2.4",
-              "topPost": "Backstreet Boys no Brasil! 😍 A banda desembarcou ontem no Brasil, e amanhã serão atração principal no #TheTown2025! #Famosos Backstreet Boys interage",
-              "day": "12-09"
-            },
-            {
-              "name": "Mariah Carey",
-              "mentions": 43,
-              "sentiment": 47,
-              "reach": 48216,
-              "engagement": "18.9",
-              "topPost": "INGRESSO GRÁTIS PRO THE TOWN!! Amanhã dia 12/09/2025 vai rolar uma ação da riachuelo na Av Paulista que irá distribuir 50 ingressos para o thetownfest",
-              "day": "12-09"
-            },
-            {
-              "name": "Iza",
-              "mentions": 37,
-              "sentiment": 59,
-              "reach": 120005,
-              "engagement": "57.2",
-              "topPost": "Filipe Ret No palco do The Town, Filipe Ret entregou não apenas uma apresentação marcante, mas também um dos outfits mais luxuosos vistos no festival.",
-              "day": "12-09"
-            },
-            {
-              "name": "Katy Perry",
-              "mentions": 19,
-              "sentiment": 32,
-              "reach": 1904,
-              "engagement": "0.0",
-              "topPost": "No Palco The One, Luísa Sonza se apresenta nesta sexta-feira e Priscilla, no sábado No último dia do The Town, antes do pop de Camila Cabello e Katy P",
-              "day": "12-09"
-            },
-            {
-              "name": "Ivete Sangalo",
-              "mentions": 19,
-              "sentiment": 32,
-              "reach": 9566,
-              "engagement": "1.2",
-              "topPost": "...extraordinário”. O lendário Lionel Richie vai apresentar seus hits no palco The One, incluindo “All Night Long”, “Say You Say Me”, “We Are The Worl",
-              "day": "12-09"
-            }
-          ]
+          "nome": "Matuê",
+          "mencoes": 89,
+          "sentimento": 62,
+          "reach": 617990,
+          "engagement": "271.7",
+          "topPost": "...ainda Don Toliver e Burna Boy. No sábado, no palco The One, Lauryn Hill canta ao lado dos filhos. Antes dela, Matuê, MC Cabelinho e Karol Conká. Já"
         },
         {
-          "dia": "12-09",
-          "top5": [
-            {
-              "name": "Backstreet Boys",
-              "mentions": 34,
-              "sentiment": 62,
-              "reach": 32266,
-              "engagement": "0.1",
-              "topPost": "The Town: veja o line-up e horários dos shows desta sexta (12) The Town: veja o line-up e horários dos shows desta sexta (12) | CNN Brasil Backstreet ",
-              "day": "12-09"
-            },
-            {
-              "name": "Mariah Carey",
-              "mentions": 14,
-              "sentiment": 29,
-              "reach": 8174,
-              "engagement": "0.0",
-              "topPost": "...sexta-feira, o Autódromo de Interlagos será o cenário do The Town, um festival que traz grandes nomes da música como Backstreet Boys, Mariah Carey ",
-              "day": "12-09"
-            },
-            {
-              "name": "Jota Quest",
-              "mentions": 13,
-              "sentiment": 38,
-              "reach": 2805,
-              "engagement": "0.0",
-              "topPost": "...apresentações de Di Ferrero, Duda Beat e Pedro Sampaio. Programação do Dia Os horários dos shows desta sexta-feira são os seguintes: Palco Skyline ",
-              "day": "12-09"
-            },
-            {
-              "name": "Katy Perry",
-              "mentions": 11,
-              "sentiment": 36,
-              "reach": 6418,
-              "engagement": "0.8",
-              "topPost": "...a aguardavam no local. Antes de seguir para o hotel onde ficará hospedada, Camila recebeu presentes, distribuiu autógrafos e posou rapidamente com ",
-              "day": "12-09"
-            },
-            {
-              "name": "Iza",
-              "mentions": 11,
-              "sentiment": 45,
-              "reach": 8308,
-              "engagement": "0.8",
-              "topPost": "...a aguardavam no local. Antes de seguir para o hotel onde ficará hospedada, Camila recebeu presentes, distribuiu autógrafos e posou rapidamente com ",
-              "day": "12-09"
-            }
-          ]
+          "nome": "Don Toliver",
+          "mencoes": 83,
+          "sentimento": 59,
+          "reach": 948364,
+          "engagement": "424.8",
+          "topPost": "...ainda Don Toliver e Burna Boy. No sábado, no palco The One, Lauryn Hill canta ao lado dos filhos. Antes dela, Matuê, MC Cabelinho e Karol Conká. Já"
         },
         {
-          "dia": "12-09",
-          "top5": [
-            {
-              "name": "Backstreet Boys",
-              "mentions": 64,
-              "sentiment": 50,
-              "reach": 369737,
-              "engagement": "161.2",
-              "topPost": "#g1noTheTown - Pela primeira vez em quase 25 anos, uma boy band será headliner de um grande festival brasileiro. Os Backstreet Boys são a atração prin",
-              "day": "12-09"
-            },
-            {
-              "name": "Iza",
-              "mentions": 58,
-              "sentiment": 48,
-              "reach": 88847,
-              "engagement": "32.2",
-              "topPost": "Vem aí o #IZA3? A cantora IZA está rodeada de mistérios para o show que fará no festival The Town no próximo domingo, dia 14. Em um vídeo megaproduzid",
-              "day": "12-09"
-            },
-            {
-              "name": "Mariah Carey",
-              "mentions": 48,
-              "sentiment": 52,
-              "reach": 167403,
-              "engagement": "71.0",
-              "topPost": "Nossa diva acessível! Mariah Carey surgiu na porta do hotel em que está hospedada em São Paulo, na noite desta quinta-feira (11), e foi maravilhosa co",
-              "day": "12-09"
-            },
-            {
-              "name": "Jessie J",
-              "mentions": 39,
-              "sentiment": 54,
-              "reach": 460846,
-              "engagement": "218.8",
-              "topPost": "Elas chegaram! Jessie J e Camila Cabello movimentaram os fãs e a segurança do aeroporto de Guarulhos no início da manhã desta sexta-feira (12). As can",
-              "day": "12-09"
-            },
-            {
-              "name": "Jason Derulo",
-              "mentions": 29,
-              "sentiment": 38,
-              "reach": 10924,
-              "engagement": "0.7",
-              "topPost": "The Town 2025 abre 2º fim de semana com Backstreet Boys e pop de Luísa Sonza e Pedro Sampaio http://glo.bo/4plkLWI #g1 The Town 2025 abre 2º fim de se",
-              "day": "12-09"
-            }
-          ]
+          "nome": "Ivete Sangalo",
+          "mencoes": 44,
+          "sentimento": 27,
+          "reach": 55012,
+          "engagement": "21.8",
+          "topPost": "...especialmente para a ocasião. A loja temporária atraiu a atenção de admiradores e curiosos, consolidando ainda mais sua conexão com o público brasi"
         },
         {
-          "dia": "12-09",
-          "top5": [
-            {
-              "name": "Backstreet Boys",
-              "mentions": 83,
-              "sentiment": 42,
-              "reach": 1011760,
-              "engagement": "476.8",
-              "topPost": "post dedicado pra você que tem 30+ e sabia fazer essa dancinha quando tiktok era apenas o som do relógio… HOJE É DIA DE BACKSTREET BOYS NO THE TOWN #T",
-              "day": "12-09"
-            },
-            {
-              "name": "Iza",
-              "mentions": 68,
-              "sentiment": 46,
-              "reach": 368182,
-              "engagement": "168.6",
-              "topPost": "Pabllo Vittar marcou presença no The Town nesta sexta-feira (12) em São Paulo com um look inspirado nas divas do K-pop. O corset preto, short com corr",
-              "day": "12-09"
-            },
-            {
-              "name": "Mariah Carey",
-              "mentions": 65,
-              "sentiment": 48,
-              "reach": 26132,
-              "engagement": "0.8",
-              "topPost": "Atração do The Town no sábado (13), cantora norte-americana se divertiu com equipe em noitada e saboreou comidas típicas brasileiras Patrícia Poeta en",
-              "day": "12-09"
-            },
-            {
-              "name": "Luísa Sonza",
-              "mentions": 44,
-              "sentiment": 32,
-              "reach": 89826,
-              "engagement": "35.6",
-              "topPost": "O show de Luísa Sonza desta sexta (12) no The Town marca o retorno da cantora ao festival, agora como headliner. Na passagem de som, ela usou camiseta",
-              "day": "12-09"
-            },
-            {
-              "name": "Di Ferrero",
-              "mentions": 42,
-              "sentiment": 52,
-              "reach": 178453,
-              "engagement": "78.3",
-              "topPost": "DI FERRERO CANTA “RAZÕES E EMOÇÕES” EM SEU SHOW NO PALCO THE ONE DO THE TOWN! O evento tá rolando nos dias 6, 7, 12, 13 e 14 de setembro no Autódromo ",
-              "day": "12-09"
-            }
-          ]
+          "nome": "Lionel Richie",
+          "mencoes": 39,
+          "sentimento": 23,
+          "reach": 20191,
+          "engagement": "1.4",
+          "topPost": "Começa hoje o The Town 2025 em São Paulo! O Autódromo de Interlagos vira palco de um dos maiores festivais de música do país, com cinco dias de shows "
         },
         {
-          "dia": "12-09",
-          "top5": [
-            {
-              "name": "Backstreet Boys",
-              "mentions": 110,
-              "sentiment": 55,
-              "reach": 2619563,
-              "engagement": "1243.4",
-              "topPost": "Arrume-se comigo pra ver backstreet boys com dakotacalcados bora? Esse cabelo aqui que eu fiz, mirei num The Town e acertei em uma criança de 12 anos,",
-              "day": "12-09"
-            },
-            {
-              "name": "Iza",
-              "mentions": 69,
-              "sentiment": 46,
-              "reach": 629532,
-              "engagement": "286.0",
-              "topPost": "#g1noTheTown - (este texto é uma resenha crítica, por Braulio Lorentz) O Jota Quest abriu o segundo fim de semana do palco Skyline do The Town em um s",
-              "day": "12-09"
-            },
-            {
-              "name": "Jota Quest",
-              "mentions": 68,
-              "sentiment": 57,
-              "reach": 631056,
-              "engagement": "286.8",
-              "topPost": "#g1noTheTown - (este texto é uma resenha crítica, por Braulio Lorentz) O Jota Quest abriu o segundo fim de semana do palco Skyline do The Town em um s",
-              "day": "12-09"
-            },
-            {
-              "name": "Duda Beat",
-              "mentions": 62,
-              "sentiment": 69,
-              "reach": 1297644,
-              "engagement": "577.8",
-              "topPost": "#g1noTheTown (este texto é uma resenha crítica, por Marina Lourenço) - Duda Beat fez um show para um punhado de gente no The Town desta sexta-feira (1",
-              "day": "12-09"
-            },
-            {
-              "name": "Mariah Carey",
-              "mentions": 52,
-              "sentiment": 42,
-              "reach": 256484,
-              "engagement": "110.7",
-              "topPost": "..., Malukete e Levada da Breca , e tem muito mais vindo por aí. Versão ao vivo de “Maionese” celebra legado de Gilmelândia no axé #SextouMusical: Ed ",
-              "day": "12-09"
-            }
-          ]
+          "nome": "Iggy Pop",
+          "mencoes": 37,
+          "sentimento": 49,
+          "reach": 740433,
+          "engagement": "355.5",
+          "topPost": "...ainda Don Toliver e Burna Boy. No sábado, no palco The One, Lauryn Hill canta ao lado dos filhos. Antes dela, Matuê, MC Cabelinho e Karol Conká. Já"
         },
         {
-          "dia": "13-09",
-          "top5": [
-            {
-              "name": "Backstreet Boys",
-              "mentions": 80,
-              "sentiment": 63,
-              "reach": 482097,
-              "engagement": "212.9",
-              "topPost": "#g1noTheTown - Qual o integrante preferido dos fãs dos Backstreet Boys? O g1 perguntou para quem curte o quinteto que se apresenta nesta sexta-feira, ",
-              "day": "13-09"
-            },
-            {
-              "name": "Jason Derulo",
-              "mentions": 58,
-              "sentiment": 59,
-              "reach": 981592,
-              "engagement": "452.3",
-              "topPost": "Não parecia ser um bom sinal o fato de Jason Derulo ter deixado um DJ no seu lugar durante os 15 primeiros minutos de sua apresentação no palco Skylin",
-              "day": "13-09"
-            },
-            {
-              "name": "Luísa Sonza",
-              "mentions": 55,
-              "sentiment": 73,
-              "reach": 1845786,
-              "engagement": "747.3",
-              "topPost": "#g1noTheTown - Luísa Sonza é a última atração do Palco The One do The Town, nesta sexta-feira. Durante o show, ela tirou parte do figurino ao som de '",
-              "day": "13-09"
-            },
-            {
-              "name": "Iza",
-              "mentions": 41,
-              "sentiment": 39,
-              "reach": 212900,
-              "engagement": "84.7",
-              "topPost": "“Tudo que você sonhar, São Paulo, você vai conseguir! Abraça o seu amigo! Abraça quem está vivendo esse show do seu lado.” Essa foi uma das palavras d",
-              "day": "13-09"
-            },
-            {
-              "name": "Pedro Sampaio",
-              "mentions": 36,
-              "sentiment": 50,
-              "reach": 123123,
-              "engagement": "49.2",
-              "topPost": "Karina Karão fazendo a alegria do público no The Town foi o encontro que a gente pediu simmm! Com shows de Backstreet Boys, Jason Derulo, Luisa Sonza,",
-              "day": "13-09"
-            }
-          ]
+          "nome": "Pitty",
+          "mencoes": 36,
+          "sentimento": 25,
+          "reach": 556056,
+          "engagement": "267.0",
+          "topPost": "...ainda Don Toliver e Burna Boy. No sábado, no palco The One, Lauryn Hill canta ao lado dos filhos. Antes dela, Matuê, MC Cabelinho e Karol Conká. Já"
         },
         {
-          "dia": "13-09",
-          "top5": [
-            {
-              "name": "Mariah Carey",
-              "mentions": 47,
-              "sentiment": 53,
-              "reach": 22438,
-              "engagement": "0.2",
-              "topPost": "O primeiro final de semana já fez São Paulo tremer, mas agora o The Town vem com a força do pop e eu tô surtando só de pensar. 🎤 Tem Backstreet Boys ",
-              "day": "13-09"
-            },
-            {
-              "name": "Backstreet Boys",
-              "mentions": 39,
-              "sentiment": 51,
-              "reach": 947781,
-              "engagement": "443.6",
-              "topPost": "Eles prometeram e cumpriram! Na noite de sexta-feira (12/8), o grupo Backstreet Boys subiu ao palco do The Town e proporcionou momentos emocionantes a",
-              "day": "13-09"
-            },
-            {
-              "name": "Jessie J",
-              "mentions": 25,
-              "sentiment": 68,
-              "reach": 5019,
-              "engagement": "0.0",
-              "topPost": "...). Palco Skyline 15h50 – Priscilla 18h10 – Jessie J 20h30 – Ivete Sangalo 23h15 – Mariah Carey Confira a programação completa no aplicativo oficial",
-              "day": "13-09"
-            },
-            {
-              "name": "Luísa Sonza",
-              "mentions": 23,
-              "sentiment": 74,
-              "reach": 2382289,
-              "engagement": "1132.9",
-              "topPost": "O clima de romance tomou conta dos bastidores do festival The Town na noite de sexta-feira (12/9). Após embalar o público com seu show, Luísa Sonza fo",
-              "day": "13-09"
-            },
-            {
-              "name": "Ivete Sangalo",
-              "mentions": 21,
-              "sentiment": 57,
-              "reach": 3506,
-              "engagement": "0.0",
-              "topPost": "Programação The Town hoje (13): veja os shows, horários e onde assistir O The Town 2025 continua hoje no Autódromo de Interlagos, em São Paulo. Os sho",
-              "day": "13-09"
-            }
-          ]
+          "nome": "Ms. Lauryn Hill",
+          "mencoes": 34,
+          "sentimento": 50,
+          "reach": 457656,
+          "engagement": "218.5",
+          "topPost": "O rapper brasileiro Filipe Ret (filiperet) se apresentou na tarde deste sábado, 6, abrindo as atrações do Palco Skyline do The Town 2025 (thetownfesti"
         },
         {
-          "dia": "13-09",
-          "top5": [
-            {
-              "name": "Backstreet Boys",
-              "mentions": 88,
-              "sentiment": 81,
-              "reach": 3920504,
-              "engagement": "1919.7",
-              "topPost": "Simone Mendes e Simaria foram, nesta sexta-feira, ao The Town para curtir o show da boy band Backstreet Boys, principal atração da noite. As irmãs, qu",
-              "day": "13-09"
-            },
-            {
-              "name": "Mariah Carey",
-              "mentions": 85,
-              "sentiment": 51,
-              "reach": 406039,
-              "engagement": "177.7",
-              "topPost": "The Town vai ferver! Hoje é dia de Ivete no thetownfestival, que acontece no Autódromo de Interlagos, em São Paulo/SP. É a primeira vez que a cantora ",
-              "day": "13-09"
-            },
-            {
-              "name": "Iza",
-              "mentions": 57,
-              "sentiment": 58,
-              "reach": 78216,
-              "engagement": "30.8",
-              "topPost": "Eu amo uma amizade! 💅✨ Ivete Sangalo e Mariah Carey se apresentam no The Town, neste sábado (13). Veveta já está pronta para “retribuir a blusinha” q",
-              "day": "13-09"
-            },
-            {
-              "name": "Ivete Sangalo",
-              "mentions": 50,
-              "sentiment": 52,
-              "reach": 117797,
-              "engagement": "43.6",
-              "topPost": "✨ Hoje é dia de levantar poeira! Ivete Sangalo estreia no festival The Town às 20h30, direto do Palco Skyline. Transmissão ao vivo no Multishow e Glob",
-              "day": "13-09"
-            },
-            {
-              "name": "Jessie J",
-              "mentions": 45,
-              "sentiment": 67,
-              "reach": 150374,
-              "engagement": "60.9",
-              "topPost": "The Town vai ferver! Hoje é dia de Ivete no thetownfestival, que acontece no Autódromo de Interlagos, em São Paulo/SP. É a primeira vez que a cantora ",
-              "day": "13-09"
-            }
-          ]
+          "nome": "Bruce Dickinson",
+          "mencoes": 33,
+          "sentimento": 48,
+          "reach": 1156263,
+          "engagement": "560.2",
+          "topPost": "Bruce Dickinson garantiu que o Iron Maiden voltará ao Brasil no ano que vem. A revelação foi feita pelo vocalista em entrevista à Rede Globo (via jnfl"
         },
         {
-          "dia": "13-09",
-          "top5": [
-            {
-              "name": "Mariah Carey",
-              "mentions": 49,
-              "sentiment": 45,
-              "reach": 331116,
-              "engagement": "140.8",
-              "topPost": "O segundo final de semana do The Town tem um quê nostálgico. Nomes como Backstreet Boys, Mariah Carey e Natasha Bedingfeld nos levam para o pop dos an",
-              "day": "13-09"
-            },
-            {
-              "name": "Backstreet Boys",
-              "mentions": 32,
-              "sentiment": 69,
-              "reach": 784881,
-              "engagement": "379.3",
-              "topPost": "O ator e produtor de conteúdo Diego Cruz (diegocruz_) postou um vídeo em suas redes que surpreendeu os fãs. Ele apareceu cantando o hit mundial “I Wan",
-              "day": "13-09"
-            },
-            {
-              "name": "Jessie J",
-              "mentions": 31,
-              "sentiment": 65,
-              "reach": 74681,
-              "engagement": "23.3",
-              "topPost": "#g1noTheTown – Os portões para o quarto dia de shows do The Town foram abertos às 12h deste sábado (13), no Autódromo de Interlagos, em São Paulo. A p",
-              "day": "13-09"
-            },
-            {
-              "name": "Ivete Sangalo",
-              "mentions": 30,
-              "sentiment": 47,
-              "reach": 71906,
-              "engagement": "23.5",
-              "topPost": "#g1noTheTown – Os portões para o quarto dia de shows do The Town foram abertos às 12h deste sábado (13), no Autódromo de Interlagos, em São Paulo. A p",
-              "day": "13-09"
-            },
-            {
-              "name": "Iza",
-              "mentions": 23,
-              "sentiment": 22,
-              "reach": 42898,
-              "engagement": "16.7",
-              "topPost": "Não ia publicar porque são fotos do meu acervo intimo, mas o The town ta sendo incrível, encontrei até a Rose perdida por lá 🥹❤️ Amo todos vocês meus",
-              "day": "13-09"
-            }
-          ]
+          "nome": "Jessie J",
+          "mencoes": 27,
+          "sentimento": 19,
+          "reach": 453935,
+          "engagement": "214.2",
+          "topPost": "Jessie J contou que o show deste sábado (06) no “Radio 2 in the Park” teve um gostinho especial. Além de marcar sua volta aos palcos depois da cirurgi"
         },
         {
-          "dia": "unknown",
-          "top5": [
-            {
-              "name": "Jessie J",
-              "mentions": 66,
-              "sentiment": 73,
-              "reach": 3531664,
-              "engagement": "1722.6",
-              "topPost": "#THETOWN2025 🏙️ Jessie J faz um discurso lindo no Palco do The Town sobre o seu tratamento contra o câncer. Emocionante! #Shows",
-              "day": "unknown"
-            },
-            {
-              "name": "Mariah Carey",
-              "mentions": 60,
-              "sentiment": 43,
-              "reach": 1000684,
-              "engagement": "475.7",
-              "topPost": "No final de junho, Jessie passou por uma mastectomia e contou que fará mais uma cirurgia até o final do ano. Para manter sua passagem pelo The Town, e",
-              "day": "unknown"
-            },
-            {
-              "name": "Ivete Sangalo",
-              "mentions": 38,
-              "sentiment": 39,
-              "reach": 967038,
-              "engagement": "470.8",
-              "topPost": "No final de junho, Jessie passou por uma mastectomia e contou que fará mais uma cirurgia até o final do ano. Para manter sua passagem pelo The Town, e",
-              "day": "unknown"
-            },
-            {
-              "name": "Priscilla",
-              "mentions": 32,
-              "sentiment": 69,
-              "reach": 2061897,
-              "engagement": "944.9",
-              "topPost": "#g1noTheTown – A cantora Priscilla surpreendeu o público quando chamou ao palco do The Town as cantoras do Fat Family pra cantar e dançar 'com seu jei",
-              "day": "unknown"
-            },
-            {
-              "name": "Iza",
-              "mentions": 27,
-              "sentiment": 52,
-              "reach": 439929,
-              "engagement": "198.6",
-              "topPost": "#g1noTheTown - (este texto é uma resenha crítica, por Marina Lourenço) Priscilla fez um show contagiante no The Town deste sábado (13). A cantora levo",
-              "day": "unknown"
-            }
-          ]
+          "nome": "Os Garotin",
+          "mencoes": 23,
+          "sentimento": 17,
+          "reach": 8276,
+          "engagement": "0.9",
+          "topPost": "...consagrou o grupo com o Grammy Latino de Melhor Álbum Pop Contemporâneo em Língua Portuguesa. O reconhecimento internacional abriu portas e consoli"
         },
         {
-          "dia": "14-09",
-          "top5": [
-            {
-              "name": "Mariah Carey",
-              "mentions": 71,
-              "sentiment": 65,
-              "reach": 52820,
-              "engagement": "20.7",
-              "topPost": "Mais um dia especial no The Town 2025! 🎶✨ Hoje é dia de se emocionar com a diva Mariah Carey ao vivo, já estamos na maior expectativa! 💖 Muito obrig",
-              "day": "14-09"
-            },
-            {
-              "name": "Ivete Sangalo",
-              "mentions": 67,
-              "sentiment": 79,
-              "reach": 372474,
-              "engagement": "146.1",
-              "topPost": "Como superar esse show? Ivete Sangalo acaba de fazer uma apresentação cheia de grandes hits, sem tempo pra descanso! Mainha deu uma aula de simpatia, ",
-              "day": "14-09"
-            },
-            {
-              "name": "Jessie J",
-              "mentions": 53,
-              "sentiment": 74,
-              "reach": 29812,
-              "engagement": "7.0",
-              "topPost": "No palco do The Town, Jessie J emocionou ao falar sobre sua luta contra o câncer: “Se alguém aqui está passando por um tratamento ou conhece alguém qu",
-              "day": "14-09"
-            },
-            {
-              "name": "Iza",
-              "mentions": 43,
-              "sentiment": 49,
-              "reach": 797969,
-              "engagement": "373.2",
-              "topPost": "Não resisti! A vwbrasil me convidou para conhecer o Tera no The Town 2025 e eu saí completamente apaixonadaaaa… Você pode ganhar um desses também com ",
-              "day": "14-09"
-            },
-            {
-              "name": "Lionel Richie",
-              "mentions": 28,
-              "sentiment": 46,
-              "reach": 28712,
-              "engagement": "9.9",
-              "topPost": "Hoje é dia de celebrar uma grande referência da soul, do pop e do romantismo 🎶✨ Lionel Richie, 76 anos está no palco do The Town, em São Paulo— e est",
-              "day": "14-09"
-            }
-          ]
+          "nome": "Bad Religion",
+          "mencoes": 21,
+          "sentimento": 48,
+          "reach": 360228,
+          "engagement": "173.8",
+          "topPost": "O Green Day tá no jogo da NFL no Brasil que acontece na Neo Química Arena 🎸 O trio americano é o headliner do único dos cinco dias de The Town 2025 f"
         },
         {
-          "dia": "14-09",
-          "top5": [
-            {
-              "name": "Mariah Carey",
-              "mentions": 49,
-              "sentiment": 51,
-              "reach": 1249187,
-              "engagement": "581.1",
-              "topPost": "Dona de uma das vozes mais marcantes da música mundial, Mariah Carey não decepcionou ao exibir toda a sua potência no 4º dia de The Town. A headliner ",
-              "day": "14-09"
-            },
-            {
-              "name": "Katy Perry",
-              "mentions": 25,
-              "sentiment": 56,
-              "reach": 19929,
-              "engagement": "0.2",
-              "topPost": "Apaixonada pelo Brasil, Katy Perry já terminou casamento no país Katy Perry, atração principal do The Town neste domingo, é apaixonada pelos fãs brasi",
-              "day": "14-09"
-            },
-            {
-              "name": "Lionel Richie",
-              "mentions": 24,
-              "sentiment": 33,
-              "reach": 30559,
-              "engagement": "7.6",
-              "topPost": "Simplesmente ele aqui no THE TOWN - Lionel Richie lionelrichie Lionel Richie faz show apoteótico no The Town e enfileira hits Cantor emocionou fãs com",
-              "day": "14-09"
-            },
-            {
-              "name": "Iza",
-              "mentions": 22,
-              "sentiment": 50,
-              "reach": 198798,
-              "engagement": "74.8",
-              "topPost": "📍Durante sua apresentação no festival The Town, neste sábado (13), o cantor Junior Lima, da dupla Sandy & Junior, chamou atenção ao fazer um forte po",
-              "day": "14-09"
-            },
-            {
-              "name": "Jessie J",
-              "mentions": 18,
-              "sentiment": 83,
-              "reach": 13045,
-              "engagement": "0.0",
-              "topPost": "A britânica Jessie J, conhecida pela voz inconfundível e pela energia no palco, uniu em seu show no The Town 2025 sucessos como “Price Tag”, “Domino”,",
-              "day": "14-09"
-            }
-          ]
+          "nome": "Capital Inicial",
+          "mencoes": 20,
+          "sentimento": 45,
+          "reach": 333820,
+          "engagement": "155.2",
+          "topPost": "...ainda Don Toliver e Burna Boy. No sábado, no palco The One, Lauryn Hill canta ao lado dos filhos. Antes dela, Matuê, MC Cabelinho e Karol Conká. Já"
         },
         {
-          "dia": "14-09",
-          "top5": [
-            {
-              "name": "Mariah Carey",
-              "mentions": 92,
-              "sentiment": 67,
-              "reach": 133204,
-              "engagement": "54.2",
-              "topPost": "🎥 🇧🇷 MARIAH CAREY EXUBERANTE NO THE TOWN A cantora Mariah Carey subiu ao palco do The Town neste sábado (13), em São Paulo, marcando sua segunda ap",
-              "day": "14-09"
-            },
-            {
-              "name": "Ivete Sangalo",
-              "mentions": 47,
-              "sentiment": 60,
-              "reach": 57222,
-              "engagement": "23.3",
-              "topPost": "REENCONTRO! Ivete Sangalo e Mariah Carey se reencontraram ontem (13) no The Town 2025, em São Paulo. O momento marcou 26 anos desde o primeiro encontr",
-              "day": "14-09"
-            },
-            {
-              "name": "Iza",
-              "mentions": 38,
-              "sentiment": 55,
-              "reach": 106070,
-              "engagement": "40.2",
-              "topPost": "Neste domingo (14), iza vai levar sua energia contagiante ao festival The Town (thetownfestival), em São Paulo. Na Casa Tpm 2021, a cantora carioca mo",
-              "day": "14-09"
-            },
-            {
-              "name": "Katy Perry",
-              "mentions": 24,
-              "sentiment": 67,
-              "reach": 72532,
-              "engagement": "28.9",
-              "topPost": "É HOJE! 🔥 Faltam só algumas horas pra Katy Perry cantar esses sucessos AO VIVO no The Town 2025! 😍 E aí, qual música não pode faltar no setlist dess",
-              "day": "14-09"
-            },
-            {
-              "name": "Jessie J",
-              "mentions": 21,
-              "sentiment": 90,
-              "reach": 1964,
-              "engagement": "0.1",
-              "topPost": "‘Algumas pessoas usam medicamentos, outros meditam, esta é minha forma de cura’, declarou a cantora em apresentação deste sábado (13) no Autódromo de ",
-              "day": "14-09"
-            }
-          ]
+          "nome": "Ludmilla",
+          "mencoes": 19,
+          "sentimento": 32,
+          "reach": 8736,
+          "engagement": "1.8",
+          "topPost": "Começa hoje o The Town 2025 em São Paulo! O Autódromo de Interlagos vira palco de um dos maiores festivais de música do país, com cinco dias de shows "
         },
         {
-          "dia": "14-09",
-          "top5": [
-            {
-              "name": "Mariah Carey",
-              "mentions": 112,
-              "sentiment": 25,
-              "reach": 364885,
-              "engagement": "158.0",
-              "topPost": "Ivete Sangalo registrou um momento especial no último sábado (13/9), durante os bastidores do festival The Town, em São Paulo. A cantora baiana e o fi",
-              "day": "14-09"
-            },
-            {
-              "name": "Ivete Sangalo",
-              "mentions": 104,
-              "sentiment": 23,
-              "reach": 367814,
-              "engagement": "171.6",
-              "topPost": "Ivete Sangalo registrou um momento especial no último sábado (13/9), durante os bastidores do festival The Town, em São Paulo. A cantora baiana e o fi",
-              "day": "14-09"
-            },
-            {
-              "name": "Iza",
-              "mentions": 42,
-              "sentiment": 50,
-              "reach": 348646,
-              "engagement": "150.3",
-              "topPost": "Minha gente, ontem eu ativei a skin festival pra curtir ele, o ícone do The Town 2025: VW Tera. 🤩 Já imaginou ter um desses em casa? Então participa ",
-              "day": "14-09"
-            },
-            {
-              "name": "Katy Perry",
-              "mentions": 26,
-              "sentiment": 54,
-              "reach": 22531,
-              "engagement": "5.4",
-              "topPost": "FAMOSOS 💫 💔 Atração principal do The Town neste domingo (14), Katy Perry está em uma nova fase pessoal. Em junho deste ano, rumores davam conta de q",
-              "day": "14-09"
-            },
-            {
-              "name": "Camila Cabello",
-              "mentions": 17,
-              "sentiment": 47,
-              "reach": 11066,
-              "engagement": "0.1",
-              "topPost": "Show de Camila Cabello no The Town 2025: que horas começa e onde assistir Camila Cabello é uma das atrações na noite de hoje no The Town. A apresentaç",
-              "day": "14-09"
-            }
-          ]
+          "nome": "CPM 22",
+          "mencoes": 17,
+          "sentimento": 59,
+          "reach": 322972,
+          "engagement": "155.0",
+          "topPost": "...ainda Don Toliver e Burna Boy. No sábado, no palco The One, Lauryn Hill canta ao lado dos filhos. Antes dela, Matuê, MC Cabelinho e Karol Conká. Já"
         },
         {
-          "dia": "14-09",
-          "top5": [
-            {
-              "name": "Iza",
-              "mentions": 91,
-              "sentiment": 64,
-              "reach": 1841520,
-              "engagement": "783.3",
-              "topPost": "SKYLINE 🏙️ iza Trouxe esse momento histórico para a música brasileira no palco do The Town! ME ARREPIEI! 🤩😍🔥 #IZANoMultishow",
-              "day": "14-09"
-            },
-            {
-              "name": "Joelma",
-              "mentions": 45,
-              "sentiment": 60,
-              "reach": 5053863,
-              "engagement": "2416.3",
-              "topPost": "O FURACÃO PARAENSE CHEGOU: JOELMA QUEBRANDO TUDO NO PALCO DO THE TOWN 🔥 #TheTownNaGlô #TheTown2025",
-              "day": "14-09"
-            },
-            {
-              "name": "Katy Perry",
-              "mentions": 35,
-              "sentiment": 54,
-              "reach": 31411,
-              "engagement": "5.9",
-              "topPost": "...espaço é bem servido de banheiros. Chopes e drinques como penicilin e gim-tônica também são servidos nos dois andares e é no último piso que a maio",
-              "day": "14-09"
-            },
-            {
-              "name": "Mariah Carey",
-              "mentions": 32,
-              "sentiment": 41,
-              "reach": 96108,
-              "engagement": "35.2",
-              "topPost": "Direto do The Town para o POPline: Gaby Amarantos celebrou o protagonismo do Norte em um show histórico ao lado de Joelma, Zainara e Dona Onete, unind",
-              "day": "14-09"
-            },
-            {
-              "name": "Lionel Richie",
-              "mentions": 19,
-              "sentiment": 58,
-              "reach": 148680,
-              "engagement": "63.3",
-              "topPost": "Lionel Richie contagiou o público durante seu show no The Town, na noite desse sábado (13). O artista cantou seus grandes sucessos, entre eles, o clás",
-              "day": "14-09"
-            }
-          ]
+          "nome": "Gloria Groove",
+          "mencoes": 16,
+          "sentimento": 13,
+          "reach": 4811,
+          "engagement": "0.0",
+          "topPost": "...Flight 15h50 – Natasha Bedingfield 18h10 – Jessie J 20h30 – Ivete Sangalo 23h30 – Mariah Carey Palco The One 14h40 – Os Garotin convida Melly 17h00"
+        },
+        {
+          "nome": "Duda Beat",
+          "mencoes": 16,
+          "sentimento": 13,
+          "reach": 14984,
+          "engagement": "0.0",
+          "topPost": "...brindes. Baile dentro do The Town A iFood tem três espaços no The Town. Em um deles, o público pode virar um avatar dançarino e acompanhar uma prog"
+        },
+        {
+          "nome": "Luísa Sonza",
+          "mencoes": 15,
+          "sentimento": 40,
+          "reach": 9363,
+          "engagement": "1.4",
+          "topPost": "Começa hoje o The Town 2025 em São Paulo! O Autódromo de Interlagos vira palco de um dos maiores festivais de música do país, com cinco dias de shows "
+        },
+        {
+          "nome": "Pedro Sampaio",
+          "mencoes": 15,
+          "sentimento": 40,
+          "reach": 15445,
+          "engagement": "0.0",
+          "topPost": "..., enquanto Luísa Sonza e Pedro Sampaio agitam o The One. No dia 13, Mariah Carey e Ivete Sangalo dividem o protagonismo, com Lionel Richie e Gloria"
+        },
+        {
+          "nome": "Priscilla",
+          "mencoes": 15,
+          "sentimento": 60,
+          "reach": 382340,
+          "engagement": "184.6",
+          "topPost": "Olá, divos e divas! Oi, meninos e meninas também, tudo bom? Os apresentadores de vocês foram convocados pela dona cocacola_br para comandar mais uma t"
+        },
+        {
+          "nome": "Natasha Bedingfield",
+          "mencoes": 13,
+          "sentimento": 0,
+          "reach": 0,
+          "engagement": "0.0",
+          "topPost": "...Flight 15h50 – Natasha Bedingfield 18h10 – Jessie J 20h30 – Ivete Sangalo 23h30 – Mariah Carey Palco The One 14h40 – Os Garotin convida Melly 17h00"
+        },
+        {
+          "nome": "J Balvin",
+          "mencoes": 12,
+          "sentimento": 25,
+          "reach": 2777,
+          "engagement": "0.0",
+          "topPost": "Os merchs dos nossos artistas favoritos vão estar aqui no The Town 😍✅ Travis Scott, Green Day, Backstreet Boys, Mariah Carey, Katy Perry, Lionel Rich"
+        },
+        {
+          "nome": "Joelma",
+          "mencoes": 12,
+          "sentimento": 33,
+          "reach": 12945,
+          "engagement": "2.0",
+          "topPost": "A Amazônia desembarcou em São Paulo neste fim de semana no The Town, festival que acontece no Autódromo de Interlagos entre os dias 6, 7, 12, 13 e 14 "
+        },
+        {
+          "nome": "Jason Derulo",
+          "mencoes": 11,
+          "sentimento": 36,
+          "reach": 20192,
+          "engagement": "1.4",
+          "topPost": "Começa hoje o The Town 2025 em São Paulo! O Autódromo de Interlagos vira palco de um dos maiores festivais de música do país, com cinco dias de shows "
+        },
+        {
+          "nome": "Jota.Pê",
+          "mencoes": 10,
+          "sentimento": 0,
+          "reach": 10628,
+          "engagement": "0.0",
+          "topPost": "...brindes. Baile dentro do The Town A iFood tem três espaços no The Town. Em um deles, o público pode virar um avatar dançarino e acompanhar uma prog"
+        },
+        {
+          "nome": "Jota Quest",
+          "mencoes": 10,
+          "sentimento": 30,
+          "reach": 11544,
+          "engagement": "0.0",
+          "topPost": "...(Sexta-feira) Palco Skyline 15h40 – The Flight 15h50 – Jota Quest 18h10 – CeeLo Green 20h30 – Jason Derulo 23h15 – Backstreet Boys Palco The One 14"
+        },
+        {
+          "nome": "Camila Cabello",
+          "mencoes": 8,
+          "sentimento": 50,
+          "reach": 32003,
+          "engagement": "11.6",
+          "topPost": "Travis Scott, Katy Perry e Camila Cabello juntos 😮‍💨 quem aí vai no The Town?"
+        },
+        {
+          "nome": "CeeLo Green",
+          "mencoes": 8,
+          "sentimento": 25,
+          "reach": 11509,
+          "engagement": "0.0",
+          "topPost": "...(Sexta-feira) Palco Skyline 15h40 – The Flight 15h50 – Jota Quest 18h10 – CeeLo Green 20h30 – Jason Derulo 23h15 – Backstreet Boys Palco The One 14"
+        },
+        {
+          "nome": "Supla",
+          "mencoes": 7,
+          "sentimento": 43,
+          "reach": 888,
+          "engagement": "0.1",
+          "topPost": "É amanhã! Vai ter mais The Town em São Paulo, dia 07 de setembro de 2025, e não é dia de aquecimento, é dia de ROCK pesado que vai deixar todo mundo c"
+        },
+        {
+          "nome": "Di Ferrero",
+          "mencoes": 5,
+          "sentimento": 20,
+          "reach": 6052,
+          "engagement": "0.0",
+          "topPost": "...(Sexta-feira) Palco Skyline 15h40 – The Flight 15h50 – Jota Quest 18h10 – CeeLo Green 20h30 – Jason Derulo 23h15 – Backstreet Boys Palco The One 14"
+        },
+        {
+          "nome": "Karol Conka",
+          "mencoes": 2,
+          "sentimento": 100,
+          "reach": 36776,
+          "engagement": "16.8",
+          "topPost": "ORIGINAL SEM CÓPIA! Karol Conka subiu ao palco The One no primeiro dia da edição 2025 do The Town e mostrou por que construiu uma carreira bem linda a"
+        },
+        {
+          "nome": "Jota Pê",
+          "mencoes": 1,
+          "sentimento": 100,
+          "reach": 5,
+          "engagement": "0.0",
+          "topPost": "...Expectativa de ser uma segunda edição ainda melhor do que foi a primeira. Tem tudo pra ser um sucesso! O público não pode perder os shows do Burna "
+        },
+        {
+          "nome": "Luisa Sonza",
+          "mencoes": 1,
+          "sentimento": 100,
+          "reach": 0,
+          "engagement": "0.0",
+          "topPost": "..., Mariah Carey, Lionel Richie e Katy Perry também aparecem entre as atrações internacionais. Por sua vez, Ivete Sangalo, Luisa Sonza, CPM 22, Jota "
         }
       ]
     },
     "influenciadores": {
-      "top_global": [
-        {
-          "name": "portalg1",
-          "totalMencoes": 59,
-          "totalReach": 15514466,
-          "followers": 10622363
-        },
+      "top": [
         {
           "name": "tvglobo",
-          "totalMencoes": 13,
-          "totalReach": 6139427,
-          "followers": 16492403
+          "followers": 16492403,
+          "mentions": 14,
+          "reach": 5259047,
+          "sentiment": 64
         },
         {
-          "name": "leodias",
-          "totalMencoes": 9,
-          "totalReach": 6052218,
-          "followers": 18766254
-        },
-        {
-          "name": "centraldafama",
-          "totalMencoes": 6,
-          "totalReach": 5093824,
-          "followers": 5584479
-        },
-        {
-          "name": "portalpopline",
-          "totalMencoes": 36,
-          "totalReach": 4768347,
-          "followers": 1868375
-        },
-        {
-          "name": "larissagloor",
-          "totalMencoes": 1,
-          "totalReach": 4093334,
-          "followers": 2998895
-        },
-        {
-          "name": "beatrizreisbrasil",
-          "totalMencoes": 1,
-          "totalReach": 3194173,
-          "followers": 5120842
-        },
-        {
-          "name": "tettrem",
-          "totalMencoes": 1,
-          "totalReach": 3176017,
-          "followers": 12335762
+          "name": "rapnacionalofficial",
+          "followers": 1091349,
+          "mentions": 4,
+          "reach": 4452857,
+          "sentiment": 63
         },
         {
           "name": "larasantana",
-          "totalMencoes": 1,
-          "totalReach": 3062151,
-          "followers": 3766899
+          "followers": 3766899,
+          "mentions": 1,
+          "reach": 3063251,
+          "sentiment": 100
         },
         {
-          "name": "gshow",
-          "totalMencoes": 6,
-          "totalReach": 2862412,
-          "followers": 0
+          "name": "_letrasderap",
+          "followers": 822465,
+          "mentions": 1,
+          "reach": 1904955,
+          "sentiment": 0
+        },
+        {
+          "name": "portalg1",
+          "followers": 10622556,
+          "mentions": 10,
+          "reach": 1880937,
+          "sentiment": 45
+        },
+        {
+          "name": "canalraprj",
+          "followers": 555780,
+          "mentions": 2,
+          "reach": 1863626,
+          "sentiment": 100
         }
       ]
     },
@@ -2929,6 +887,164 @@
         "medium": 0,
         "low": 0
       }
+    },
+    "timeline": {
+      "por_hora": [
+        {
+          "hour": "00h",
+          "volume": 13152,
+          "positive": 6104,
+          "negative": 1685,
+          "neutral": 5363
+        },
+        {
+          "hour": "01h",
+          "volume": 48,
+          "positive": 22,
+          "negative": 3,
+          "neutral": 23
+        },
+        {
+          "hour": "02h",
+          "volume": 35,
+          "positive": 16,
+          "negative": 1,
+          "neutral": 18
+        },
+        {
+          "hour": "03h",
+          "volume": 55,
+          "positive": 19,
+          "negative": 3,
+          "neutral": 33
+        },
+        {
+          "hour": "04h",
+          "volume": 13,
+          "positive": 6,
+          "negative": 0,
+          "neutral": 7
+        },
+        {
+          "hour": "05h",
+          "volume": 8,
+          "positive": 1,
+          "negative": 0,
+          "neutral": 7
+        },
+        {
+          "hour": "06h",
+          "volume": 20,
+          "positive": 4,
+          "negative": 0,
+          "neutral": 16
+        },
+        {
+          "hour": "07h",
+          "volume": 25,
+          "positive": 6,
+          "negative": 1,
+          "neutral": 18
+        },
+        {
+          "hour": "08h",
+          "volume": 22,
+          "positive": 6,
+          "negative": 1,
+          "neutral": 15
+        },
+        {
+          "hour": "09h",
+          "volume": 24,
+          "positive": 12,
+          "negative": 1,
+          "neutral": 11
+        },
+        {
+          "hour": "10h",
+          "volume": 43,
+          "positive": 23,
+          "negative": 5,
+          "neutral": 15
+        },
+        {
+          "hour": "11h",
+          "volume": 51,
+          "positive": 25,
+          "negative": 5,
+          "neutral": 21
+        },
+        {
+          "hour": "12h",
+          "volume": 80,
+          "positive": 33,
+          "negative": 11,
+          "neutral": 36
+        },
+        {
+          "hour": "13h",
+          "volume": 94,
+          "positive": 45,
+          "negative": 9,
+          "neutral": 40
+        },
+        {
+          "hour": "14h",
+          "volume": 77,
+          "positive": 36,
+          "negative": 10,
+          "neutral": 31
+        },
+        {
+          "hour": "18h",
+          "volume": 95,
+          "positive": 38,
+          "negative": 3,
+          "neutral": 54
+        },
+        {
+          "hour": "19h",
+          "volume": 132,
+          "positive": 61,
+          "negative": 11,
+          "neutral": 60
+        },
+        {
+          "hour": "20h",
+          "volume": 178,
+          "positive": 84,
+          "negative": 24,
+          "neutral": 70
+        },
+        {
+          "hour": "21h",
+          "volume": 168,
+          "positive": 83,
+          "negative": 26,
+          "neutral": 59
+        },
+        {
+          "hour": "22h",
+          "volume": 125,
+          "positive": 57,
+          "negative": 24,
+          "neutral": 44
+        },
+        {
+          "hour": "23h",
+          "volume": 167,
+          "positive": 81,
+          "negative": 34,
+          "neutral": 52
+        }
+      ],
+      "picos": [
+        {
+          "horario": "00h",
+          "volume": 13152,
+          "percentualAcimaDaMedia": 1790
+        }
+      ]
     }
   }
 }
