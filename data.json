@@ -2,7 +2,7 @@
   "metadata": {
     "festival": "The Town 2025",
     "dia": "06-09",
-    "lastUpdate": "2025-11-12T12:39:37.206Z",
+    "lastUpdate": "2025-11-12T13:04:24.093Z",
     "totalMencoes": 14612,
     "blocosProcessados": 7,
     "periodoAnalise": {
@@ -28,150 +28,150 @@
     "por_hora": [
       {
         "hour": "00h",
-        "volume": 13152,
-        "positive": 6104,
-        "negative": 1685,
-        "neutral": 5363
-      },
-      {
-        "hour": "01h",
-        "volume": 48,
-        "positive": 22,
-        "negative": 3,
-        "neutral": 23
-      },
-      {
-        "hour": "02h",
-        "volume": 35,
-        "positive": 16,
-        "negative": 1,
-        "neutral": 18
-      },
-      {
-        "hour": "03h",
         "volume": 55,
         "positive": 19,
         "negative": 3,
         "neutral": 33
       },
       {
-        "hour": "04h",
+        "hour": "01h",
         "volume": 13,
         "positive": 6,
         "negative": 0,
         "neutral": 7
       },
       {
-        "hour": "05h",
+        "hour": "02h",
         "volume": 8,
         "positive": 1,
         "negative": 0,
         "neutral": 7
       },
       {
-        "hour": "06h",
+        "hour": "03h",
         "volume": 20,
         "positive": 4,
         "negative": 0,
         "neutral": 16
       },
       {
-        "hour": "07h",
+        "hour": "04h",
         "volume": 25,
         "positive": 6,
         "negative": 1,
         "neutral": 18
       },
       {
-        "hour": "08h",
+        "hour": "05h",
         "volume": 22,
         "positive": 6,
         "negative": 1,
         "neutral": 15
       },
       {
-        "hour": "09h",
+        "hour": "06h",
         "volume": 24,
         "positive": 12,
         "negative": 1,
         "neutral": 11
       },
       {
-        "hour": "10h",
+        "hour": "07h",
         "volume": 43,
         "positive": 23,
         "negative": 5,
         "neutral": 15
       },
       {
-        "hour": "11h",
+        "hour": "08h",
         "volume": 51,
         "positive": 25,
         "negative": 5,
         "neutral": 21
       },
       {
-        "hour": "12h",
+        "hour": "09h",
         "volume": 80,
         "positive": 33,
         "negative": 11,
         "neutral": 36
       },
       {
-        "hour": "13h",
+        "hour": "10h",
         "volume": 94,
         "positive": 45,
         "negative": 9,
         "neutral": 40
       },
       {
-        "hour": "14h",
+        "hour": "11h",
         "volume": 77,
         "positive": 36,
         "negative": 10,
         "neutral": 31
       },
       {
-        "hour": "18h",
+        "hour": "15h",
         "volume": 95,
         "positive": 38,
         "negative": 3,
         "neutral": 54
       },
       {
-        "hour": "19h",
+        "hour": "16h",
         "volume": 132,
         "positive": 61,
         "negative": 11,
         "neutral": 60
       },
       {
-        "hour": "20h",
+        "hour": "17h",
         "volume": 178,
         "positive": 84,
         "negative": 24,
         "neutral": 70
       },
       {
-        "hour": "21h",
+        "hour": "18h",
         "volume": 168,
         "positive": 83,
         "negative": 26,
         "neutral": 59
       },
       {
-        "hour": "22h",
+        "hour": "19h",
         "volume": 125,
         "positive": 57,
         "negative": 24,
         "neutral": 44
       },
       {
-        "hour": "23h",
+        "hour": "20h",
         "volume": 167,
         "positive": 81,
         "negative": 34,
         "neutral": 52
+      },
+      {
+        "hour": "21h",
+        "volume": 13152,
+        "positive": 6104,
+        "negative": 1685,
+        "neutral": 5363
+      },
+      {
+        "hour": "22h",
+        "volume": 48,
+        "positive": 22,
+        "negative": 3,
+        "neutral": 23
+      },
+      {
+        "hour": "23h",
+        "volume": 35,
+        "positive": 16,
+        "negative": 1,
+        "neutral": 18
       }
     ],
     "distribuicao_sentimento": {
@@ -182,198 +182,16 @@
   },
   "analise_ia": {
     "insights_executivos": [
-      "No dia 06-09, o festival The Town recebeu 143.872 menções com sentimento geral positivo de 67,4%, destacando forte engajamento sobre a performance de Anitta, que acumulou 43.287 menções com 73,1% de sentimento positivo.",
-      "Entre 15h e 18h, houve pico de menções negativas relacionadas à infraestrutura, principalmente longas filas e banheiros insuficientes, resultando em 312 menções negativas nesse período e sentimento reduzido para 42,8%.",
-      "Comparando os artistas do dia 06-09, Anitta liderou o engajamento e sentimento positivo (73,1%), seguida por Alok com 68,5%, enquanto artistas como MC Cabelinho apresentaram críticas construtivas quanto à duração da apresentação, afetando seu sentimento para 44,3%.",
-      "O público mostrou tendência de aumentar o volume de menções durante shows principais (18h-21h), com sentimentos positivos alcançando 75,6% nesse período, e queda no sentimento pós-show devido a reclamações de preços e segurança.",
-      "A taxa de engajamento média nas plataformas foi de 4,7%, considerada boa para eventos ao vivo, com Instagram dominando com 5,2% de engajamento e Twitter mantendo 3,8%.",
-      "Foram identificados problemas críticos de infraestrutura e segurança: filas excessivas no acesso principal após 16h e ocorrência de pequenos tumultos com 214 menções negativas sobre segurança entre 20h e 23h, indicando crise baixa a média.",
-      "Destaques positivos incluem organização da área VIP e qualidade sonora, relatados positivamente em 2.143 menções com sentimento de 81,4%, além de influenciadores micro e médios fortalecendo a experiência do público com relatos entusiásticos."
+      "Erro ao processar análise da IA"
     ],
-    "categorias_tematicas": {
-      "lineup": {
-        "mencoes": 56.782,
-        "sentimento": 68.2,
-        "principais_comentarios": [
-          "Anitta arrasou no palco principal",
-          "MC Cabelinho poderia cantar por mais tempo"
-        ]
-      },
-      "infraestrutura": {
-        "mencoes": 24.568,
-        "sentimento": 44.3,
-        "principais_comentarios": [
-          "Filas longas e demora para entrar",
-          "Banheiros com pouca manutenção"
-        ]
-      },
-      "experiencia_geral": {
-        "mencoes": 39.931,
-        "sentimento": 66.5,
-        "principais_comentarios": [
-          "Ambiente animado e público incrível",
-          "Clima ajudou a melhorar a festa"
-        ]
-      },
-      "precos": {
-        "mencoes": 12.584,
-        "sentimento": 41.2,
-        "principais_comentarios": [
-          "Preço da comida estava alto demais",
-          "Ingressos valeram a pena pela experiência"
-        ]
-      },
-      "seguranca": {
-        "mencoes": 10.007,
-        "sentimento": 47,
-        "principais_comentarios": [
-          "Policiamento eficiente, mas alguns tumultos",
-          "Sensação de insegurança em algumas áreas"
-        ]
-      }
-    },
-    "influenciadores_destaque": [
-      {
-        "nome": "LaraFit",
-        "alcance_estimado": 98500,
-        "mencoes": 128,
-        "sentimento": 78.5,
-        "impacto": "médio",
-        "principal_contribuicao": "Compartilhou vídeos mostrando organização e boa experiência VIP."
-      },
-      {
-        "nome": "DJ Marcos Brasil",
-        "alcance_estimado": 480000,
-        "mencoes": 312,
-        "sentimento": 70.2,
-        "impacto": "alto",
-        "principal_contribuicao": "Comentou ao vivo sobre performance de Alok e energia do público."
-      },
-      {
-        "nome": "GabiTech",
-        "alcance_estimado": 115000,
-        "mencoes": 97,
-        "sentimento": 65.7,
-        "impacto": "médio",
-        "principal_contribuicao": "Postou stories criticando filas, fomentando discussões construtivas."
-      }
-    ],
-    "momentos_virais": [
-      {
-        "momento": "Show surpresa de Anitta com participação especial",
-        "artista_relacionado": "Anitta",
-        "dia": "06-09",
-        "hashtags": [
-          "#AnittaNaTheTown",
-          "#TheTown2025"
-        ],
-        "estimativa_alcance": 456000,
-        "sentimento_predominante": "positive"
-      },
-      {
-        "momento": "Protesto dos fãs de MC Cabelinho pedindo apresentações mais longas",
-        "artista_relacionado": "MC Cabelinho",
-        "dia": "06-09",
-        "hashtags": [
-          "#MaisMCNaTheTown"
-        ],
-        "estimativa_alcance": 112000,
-        "sentimento_predominante": "neutral"
-      }
-    ],
-    "analise_sentimento_detalhada": {
-      "06-09": {
-        "emocoes_predominantes": [
-          "alegria",
-          "entusiasmo"
-        ],
-        "pontos_altos": [
-          "Performance de Anitta com sentimento positivo de 73,1%",
-          "Engajamento no Instagram com 5,2% de taxa"
-        ],
-        "pontos_baixos": [
-          "Infraestrutura precária às 16h-18h com sentimento caindo para 42,8%",
-          "Reclamações sobre preços elevados no início da noite"
-        ],
-        "nota_geral": 67.4
-      },
-      "07-09": {
-        "...": "..."
-      },
-      "12-09": {
-        "...": "..."
-      },
-      "13-09": {
-        "...": "..."
-      },
-      "14-09": {
-        "...": "..."
-      }
-    },
-    "alertas_criticos": [
-      {
-        "tipo": "Infraestrutura - Filas e Banheiros",
-        "severidade": "média",
-        "descricao": "Entre 15h e 18h, filas excessivas na entrada principal geraram 312 menções negativas, causando insatisfação generalizada.",
-        "dia": "06-09",
-        "volume_mencoes": 312,
-        "acao_sugerida": "Ampliação dos pontos de acesso e melhoria imediata da sinalização e administração das filas."
-      },
-      {
-        "tipo": "Segurança - Ocorrência de Tumultos",
-        "severidade": "baixa",
-        "descricao": "Pequenos tumultos foram relatados entre 20h e 23h, totalizando 214 menções negativas relacionadas à segurança.",
-        "dia": "06-09",
-        "volume_mencoes": 214,
-        "acao_sugerida": "Reforço do policiamento em áreas críticas e monitoramento proativo."
-      }
-    ],
-    "recomendacoes_futuras": [
-      "Aumentar o número de pontos de acesso para reduzir filas, principalmente no horário da tarde, garantindo agilidade e melhor experiência.",
-      "Ajustar preços da alimentação e bebidas para melhorar percepção de custo-benefício e evitar reclamações recorrentes.",
-      "Investir em comunicação visual clara e sinalização para orientar o público sobre infraestrutura e serviços disponíveis.",
-      "Fortalecer presença de micro e médio influenciadores para ampliar conteúdo positivo e relatos autênticos do evento.",
-      "Reforçar treinamento das equipes de segurança para gerenciar melhor aglomerações e evitar tumultos."
-    ],
-    "comparativo_artistas": {
-      "por_engajamento": [
-        {
-          "artista": "Anitta",
-          "score": 43287,
-          "destaque": "Maior número de mencões e interação social do dia"
-        }
-      ],
-      "por_sentimento_positivo": [
-        {
-          "artista": "Anitta",
-          "score": 73.1,
-          "destaque": "Recebeu o sentimento mais positivo de comentários entre artistas principais"
-        }
-      ],
-      "por_alcance": [
-        {
-          "artista": "Alok",
-          "score": 310000,
-          "destaque": "Terceiro maior alcance nas menções relacionadas ao festival"
-        }
-      ],
-      "controversias": [
-        {
-          "artista": "MC Cabelinho",
-          "problema": "Críticas à curta duração da apresentação impactaram negativamente o sentimento",
-          "impacto": "médio"
-        }
-      ]
-    },
-    "analise_temporal": {
-      "melhor_dia": "06-09",
-      "pior_dia": "N/A",
-      "horario_pico": "18:00",
-      "tendencias": [
-        "Crescimento do sentimento positivo durante os shows principais das 18h às 21h",
-        "Aumento de críticas sobre infraestrutura entre 15h e 18h, impactando percepção geral"
-      ]
-    }
+    "categorias_tematicas": {},
+    "influenciadores_destaque": [],
+    "momentos_virais": [],
+    "analise_sentimento_detalhada": {},
+    "alertas_criticos": [],
+    "recomendacoes_futuras": [],
+    "comparativo_artistas": {},
+    "analise_temporal": {}
   },
   "paineis": {
     "visao_executiva": {
@@ -892,155 +710,155 @@
       "por_hora": [
         {
           "hour": "00h",
-          "volume": 13152,
-          "positive": 6104,
-          "negative": 1685,
-          "neutral": 5363
-        },
-        {
-          "hour": "01h",
-          "volume": 48,
-          "positive": 22,
-          "negative": 3,
-          "neutral": 23
-        },
-        {
-          "hour": "02h",
-          "volume": 35,
-          "positive": 16,
-          "negative": 1,
-          "neutral": 18
-        },
-        {
-          "hour": "03h",
           "volume": 55,
           "positive": 19,
           "negative": 3,
           "neutral": 33
         },
         {
-          "hour": "04h",
+          "hour": "01h",
           "volume": 13,
           "positive": 6,
           "negative": 0,
           "neutral": 7
         },
         {
-          "hour": "05h",
+          "hour": "02h",
           "volume": 8,
           "positive": 1,
           "negative": 0,
           "neutral": 7
         },
         {
-          "hour": "06h",
+          "hour": "03h",
           "volume": 20,
           "positive": 4,
           "negative": 0,
           "neutral": 16
         },
         {
-          "hour": "07h",
+          "hour": "04h",
           "volume": 25,
           "positive": 6,
           "negative": 1,
           "neutral": 18
         },
         {
-          "hour": "08h",
+          "hour": "05h",
           "volume": 22,
           "positive": 6,
           "negative": 1,
           "neutral": 15
         },
         {
-          "hour": "09h",
+          "hour": "06h",
           "volume": 24,
           "positive": 12,
           "negative": 1,
           "neutral": 11
         },
         {
-          "hour": "10h",
+          "hour": "07h",
           "volume": 43,
           "positive": 23,
           "negative": 5,
           "neutral": 15
         },
         {
-          "hour": "11h",
+          "hour": "08h",
           "volume": 51,
           "positive": 25,
           "negative": 5,
           "neutral": 21
         },
         {
-          "hour": "12h",
+          "hour": "09h",
           "volume": 80,
           "positive": 33,
           "negative": 11,
           "neutral": 36
         },
         {
-          "hour": "13h",
+          "hour": "10h",
           "volume": 94,
           "positive": 45,
           "negative": 9,
           "neutral": 40
         },
         {
-          "hour": "14h",
+          "hour": "11h",
           "volume": 77,
           "positive": 36,
           "negative": 10,
           "neutral": 31
         },
         {
-          "hour": "18h",
+          "hour": "15h",
           "volume": 95,
           "positive": 38,
           "negative": 3,
           "neutral": 54
         },
         {
-          "hour": "19h",
+          "hour": "16h",
           "volume": 132,
           "positive": 61,
           "negative": 11,
           "neutral": 60
         },
         {
-          "hour": "20h",
+          "hour": "17h",
           "volume": 178,
           "positive": 84,
           "negative": 24,
           "neutral": 70
         },
         {
-          "hour": "21h",
+          "hour": "18h",
           "volume": 168,
           "positive": 83,
           "negative": 26,
           "neutral": 59
         },
         {
-          "hour": "22h",
+          "hour": "19h",
           "volume": 125,
           "positive": 57,
           "negative": 24,
           "neutral": 44
         },
         {
-          "hour": "23h",
+          "hour": "20h",
           "volume": 167,
           "positive": 81,
           "negative": 34,
           "neutral": 52
+        },
+        {
+          "hour": "21h",
+          "volume": 13152,
+          "positive": 6104,
+          "negative": 1685,
+          "neutral": 5363
+        },
+        {
+          "hour": "22h",
+          "volume": 48,
+          "positive": 22,
+          "negative": 3,
+          "neutral": 23
+        },
+        {
+          "hour": "23h",
+          "volume": 35,
+          "positive": 16,
+          "negative": 1,
+          "neutral": 18
         }
       ],
       "picos": [
         {
-          "horario": "00h",
+          "horario": "21h",
           "volume": 13152,
           "percentualAcimaDaMedia": 1790
         }
