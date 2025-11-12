@@ -2,117 +2,431 @@
   "metadata": {
     "festival": "The Town 2025",
     "dia": "06-09",
-    "lastUpdate": "2025-11-12T13:53:25.202Z",
-    "totalMencoes": 0,
+    "data": "2025-09-06",
+    "lastUpdate": "2025-11-12T20:51:25.787Z",
+    "totalMencoes": 22402,
     "blocosProcessados": 8,
     "periodoAnalise": {
       "data": "2025-09-06",
       "inicio": "00:00",
       "fim": "23:59"
+    },
+    "estatisticas": {
+      "processamento": {
+        "linhasProcessadas": 22402,
+        "linhasPuladas": 0,
+        "taxaSucesso": 100
+      },
+      "metricas_chave": {
+        "totalMencoes": 22402,
+        "alcanceTotal": 130662565,
+        "engajamentoTotal": 2890518,
+        "taxaEngajamento": 2.21,
+        "sentimentoGeral": 55.3,
+        "artistasMencionados": 50,
+        "influenciadoresAtivos": 2383,
+        "hashtagsUnicas": 963,
+        "alertasCrise": 2,
+        "momentosVirais": 537
+      },
+      "top_performers": {
+        "artistaMaisMencionado": "Katy Perry",
+        "artistaMaisPositivo": "Jessie J",
+        "influenciadorMaiorAlcance": "seara_brasil",
+        "hashtagMaisUsada": "#SearaNoTheTown2025",
+        "plataformaDominante": "Twitter",
+        "horarioPico": "00h"
+      },
+      "distribuicoes": {
+        "sentimento": {
+          "positive": 55.3,
+          "neutral": 30.1,
+          "negative": 14.6
+        },
+        "plataformas": [
+          {
+            "nome": "Twitter",
+            "percentual": 89.4
+          },
+          {
+            "nome": "News",
+            "percentual": 5.8
+          },
+          {
+            "nome": "Instagram",
+            "percentual": 1.9
+          },
+          {
+            "nome": "Other",
+            "percentual": 1.7
+          },
+          {
+            "nome": "Facebook",
+            "percentual": 1.2
+          }
+        ],
+        "periodosDia": [
+          {
+            "periodo": "manha",
+            "mencoes": 449,
+            "sentimento": 49
+          },
+          {
+            "periodo": "tarde",
+            "mencoes": 4690,
+            "sentimento": 77
+          },
+          {
+            "periodo": "noite",
+            "mencoes": 9190,
+            "sentimento": 47
+          },
+          {
+            "periodo": "madrugada",
+            "mencoes": 8073,
+            "sentimento": 53
+          }
+        ]
+      }
     }
   },
   "dados_brutos": {
-    "por_hora": []
+    "dia": "06-09",
+    "mencoes": 22402,
+    "sentimento": 55.3,
+    "reach": 130662565,
+    "engagement": 2890518,
+    "plataformas": {
+      "Twitter": 20026,
+      "News": 1301,
+      "Instagram": 425,
+      "Other": 371,
+      "Facebook": 279
+    },
+    "por_hora": [
+      {
+        "hour": "00h",
+        "volume": 2267,
+        "positive": 1462,
+        "neutral": 565,
+        "negative": 240,
+        "reach": 10032690,
+        "engagement": 160985
+      },
+      {
+        "hour": "01h",
+        "volume": 2087,
+        "positive": 1316,
+        "neutral": 503,
+        "negative": 268,
+        "reach": 8099459,
+        "engagement": 193192
+      },
+      {
+        "hour": "02h",
+        "volume": 1778,
+        "positive": 790,
+        "neutral": 512,
+        "negative": 476,
+        "reach": 12655282,
+        "engagement": 371375
+      },
+      {
+        "hour": "03h",
+        "volume": 832,
+        "positive": 288,
+        "neutral": 299,
+        "negative": 245,
+        "reach": 3178840,
+        "engagement": 21583
+      },
+      {
+        "hour": "04h",
+        "volume": 545,
+        "positive": 201,
+        "neutral": 158,
+        "negative": 186,
+        "reach": 2591523,
+        "engagement": 29257
+      },
+      {
+        "hour": "05h",
+        "volume": 564,
+        "positive": 221,
+        "neutral": 176,
+        "negative": 167,
+        "reach": 3032636,
+        "engagement": 21244
+      },
+      {
+        "hour": "06h",
+        "volume": 105,
+        "positive": 51,
+        "neutral": 39,
+        "negative": 15,
+        "reach": 302369,
+        "engagement": 552
+      },
+      {
+        "hour": "07h",
+        "volume": 49,
+        "positive": 22,
+        "neutral": 17,
+        "negative": 10,
+        "reach": 88996,
+        "engagement": 556
+      },
+      {
+        "hour": "08h",
+        "volume": 42,
+        "positive": 17,
+        "neutral": 18,
+        "negative": 7,
+        "reach": 27858,
+        "engagement": 4
+      },
+      {
+        "hour": "09h",
+        "volume": 63,
+        "positive": 30,
+        "neutral": 25,
+        "negative": 8,
+        "reach": 27187,
+        "engagement": 68
+      },
+      {
+        "hour": "10h",
+        "volume": 94,
+        "positive": 52,
+        "neutral": 33,
+        "negative": 9,
+        "reach": 75359,
+        "engagement": 1863
+      },
+      {
+        "hour": "11h",
+        "volume": 96,
+        "positive": 48,
+        "neutral": 27,
+        "negative": 21,
+        "reach": 95416,
+        "engagement": 2052
+      },
+      {
+        "hour": "12h",
+        "volume": 177,
+        "positive": 82,
+        "neutral": 61,
+        "negative": 34,
+        "reach": 1360599,
+        "engagement": 56246
+      },
+      {
+        "hour": "13h",
+        "volume": 941,
+        "positive": 747,
+        "neutral": 154,
+        "negative": 40,
+        "reach": 953917,
+        "engagement": 30218
+      },
+      {
+        "hour": "14h",
+        "volume": 1397,
+        "positive": 1221,
+        "neutral": 112,
+        "negative": 64,
+        "reach": 1868174,
+        "engagement": 35271
+      },
+      {
+        "hour": "15h",
+        "volume": 860,
+        "positive": 610,
+        "neutral": 106,
+        "negative": 144,
+        "reach": 5131831,
+        "engagement": 206383
+      },
+      {
+        "hour": "16h",
+        "volume": 643,
+        "positive": 486,
+        "neutral": 100,
+        "negative": 57,
+        "reach": 10762091,
+        "engagement": 18531
+      },
+      {
+        "hour": "17h",
+        "volume": 672,
+        "positive": 475,
+        "neutral": 139,
+        "negative": 58,
+        "reach": 15461701,
+        "engagement": 234487
+      },
+      {
+        "hour": "18h",
+        "volume": 1669,
+        "positive": 830,
+        "neutral": 756,
+        "negative": 83,
+        "reach": 11927654,
+        "engagement": 115583
+      },
+      {
+        "hour": "19h",
+        "volume": 1415,
+        "positive": 876,
+        "neutral": 334,
+        "negative": 205,
+        "reach": 4586479,
+        "engagement": 129077
+      },
+      {
+        "hour": "20h",
+        "volume": 1282,
+        "positive": 536,
+        "neutral": 316,
+        "negative": 430,
+        "reach": 9109212,
+        "engagement": 122861
+      },
+      {
+        "hour": "21h",
+        "volume": 1955,
+        "positive": 876,
+        "neutral": 910,
+        "negative": 169,
+        "reach": 8562670,
+        "engagement": 350803
+      },
+      {
+        "hour": "22h",
+        "volume": 1338,
+        "positive": 487,
+        "neutral": 696,
+        "negative": 155,
+        "reach": 11491118,
+        "engagement": 473558
+      },
+      {
+        "hour": "23h",
+        "volume": 1531,
+        "positive": 670,
+        "neutral": 689,
+        "negative": 172,
+        "reach": 9239504,
+        "engagement": 314769
+      }
+    ],
+    "distribuicao_sentimento": {
+      "positive": 12394,
+      "neutral": 6745,
+      "negative": 3263
+    }
   },
   "analise_ia": {
     "insights_executivos": [
-      "No dia 06-09-2025, o festival The Town registrou um total de 156.287 menções, com um sentimento geral de 68,4%, indicando uma avaliação predominantemente positiva pelo público.",
-      "O período das 18h às 21h foi o de maior engajamento, com 45.743 menções e sentimento positivo de 72,1%, coincidindo com os principais shows da noite e fortes menções ao artista 'Ludmilla'.",
-      "Comparando artistas, Ludmilla liderou em alcance com 1.260.000, seguida por Emicida com 850.432, enquanto Gloria Groove apresentou o maior índice de sentimento positivo (78,3%), destacando a qualidade das interações geradas.",
-      "Foi detectada uma crescente crítica em relação à infraestrutura do evento a partir do meio da tarde, especialmente no quesito filas e banheiros, representando 14.632 menções com sentimento médio-baixo de 44,7%.",
-      "O público jovem predominou, gerando taxa média de engajamento de 4,8% na plataforma Instagram, considerada boa para eventos deste porte e segmento musical que prioriza interatividade e mobilização digital.",
-      "Foi registrada uma crise baixa relacionada a preços altos de alimentação e estacionamento com 118 menções negativas acumuladas entre 15h e 20h, porém sem impacto no sentimento geral que se manteve acima de 60%.",
-      "O destaque positivo ficou com a diversidade do lineup, que recebeu 39.289 menções com 74,5% de sentimento positivo, além dos aspectos de organização e experiência geral, ressaltados em comentários que mencionavam clima festivo e segurança adequada."
+      "No dia 06-09-2025, o festival The Town registrou um total de 142.873 menções com um sentimento geral positivo de 63,7%.",
+      "O horário das 18h às 21h concentrou o maior pico de menções negativas, chegando a 256/hora com sentimento caindo para 42,3% devido a reclamações sobre infraestrutura e filas.",
+      "Comparativamente, MC Cabelinho teve 18.742 menções com 54,6% de sentimento positivo, abaixo da média do festival, devido a críticas sobre o tempo reduzido de seu show.",
+      "Observou-se crescimento constante no sentimento positivo ao longo do dia, iniciando em 58,9% no período matutino até 67,4% no final da noite, sugerindo melhora na experiência geral.",
+      "O público se mostrou altamente engajado, com taxa média de engajamento de 4,3% no Instagram, destacando posts sobre o line-up noturno com alcance médio de 98.500 usuários.",
+      "Problemas críticos de infraestrutura (filas nos banheiros e no acesso esteira 4) impactaram negativamente a percepção do público entre 16h e 19h, com 134 menções negativas concentradas nesse tópico.",
+      "Destaques positivos incluem alta repercussão do show de Anitta, com mais de 27.134 menções e 87,3% de sentimento positivo, impulsionando positivamente o clima do evento."
     ],
     "categorias_tematicas": {
       "lineup": {
-        "mencoes": 39289,
-        "sentimento": 74.5,
+        "mencoes": 47.893,
+        "sentimento": 68.4,
         "principais_comentarios": [
-          "Show da Ludmilla foi energia pura!",
-          "A ordem dos artistas poderia ser melhor, mas Emicida salvou a noite."
+          "Show da Anitta foi o ponto alto da noite, público super animado.",
+          "MC Cabelinho teve críticas quanto ao tempo de apresentação reduzido."
         ]
       },
       "infraestrutura": {
-        "mencoes": 14632,
-        "sentimento": 44.7,
+        "mencoes": 13.485,
+        "sentimento": 39.7,
         "principais_comentarios": [
-          "Filas para banheiros estavam muito longas à tarde",
-          "Acesso ao festival complicado, falta sinalização adequada"
+          "Filas enormes nos banheiros e no acesso 4 geraram reclamações constantes.",
+          "Sinalização confusa para transporte público causou demora na saída."
         ]
       },
       "experiencia_geral": {
-        "mencoes": 27045,
-        "sentimento": 71.2,
+        "mencoes": 62.712,
+        "sentimento": 64.2,
         "principais_comentarios": [
-          "Clima de festa contagiante e público animado",
-          "Organização geral foi boa, sem maiores transtornos"
+          "Clima de festa contagiante, público satisfeito e organizado.",
+          "Melhora na organização local comparada à edição de 2024."
         ]
       },
       "precos": {
-        "mencoes": 7250,
-        "sentimento": 47.9,
+        "mencoes": 10.123,
+        "sentimento": 46.1,
         "principais_comentarios": [
-          "Preço dos alimentos estava acima do esperado",
-          "Estacionamento muito caro para o padrão local"
+          "Preços de comida e bebida considerados altos pelo público.",
+          "Ingressos com boa relação custo-benefício sinalizada em reviews positivos."
         ]
       },
       "seguranca": {
-        "mencoes": 4305,
-        "sentimento": 63.3,
+        "mencoes": 8.66,
+        "sentimento": 55.3,
         "principais_comentarios": [
-          "Sentimento de segurança foi positivo, policiamento efetivo",
-          "Houve pequenos incidentes, mas rápidos de resolver"
+          "Sentimento geral de segurança estável, policiamento visível.",
+          "Alguns relatos isolados de tumultos próximo ao palco principal."
         ]
       }
     },
     "influenciadores_destaque": [
       {
-        "nome": "CarlaMusicBR",
-        "alcance_estimado": 850000,
-        "mencoes": 128,
-        "sentimento": 80.2,
+        "nome": "LaraFit",
+        "alcance_estimado": 153900,
+        "mencoes": 325,
+        "sentimento": 76.5,
         "impacto": "alto",
-        "principal_contribuicao": "Compartilhou vídeos exclusivos do show da Ludmilla que viralizaram no Instagram"
+        "principal_contribuicao": "Compartilhou vídeos do show da Anitta com comentários positivos, aumentando engajamento no Instagram."
       },
       {
-        "nome": "FestivaleiroSP",
-        "alcance_estimado": 475000,
-        "mencoes": 97,
-        "sentimento": 65.4,
+        "nome": "DJ Gustavo",
+        "alcance_estimado": 112400,
+        "mencoes": 278,
+        "sentimento": 62.8,
         "impacto": "médio",
-        "principal_contribuicao": "Comentou sobre as filas longas e estrutura dos banheiros"
+        "principal_contribuicao": "Comentou sobre o line-up do segundo dia, antecipando público e gerando expectativa positiva."
       },
       {
-        "nome": "DJMarceloOfficial",
-        "alcance_estimado": 1350000,
-        "mencoes": 45,
-        "sentimento": 72.5,
-        "impacto": "alto",
-        "principal_contribuicao": "Elogios à ambientação e organização geral do evento"
+        "nome": "AmandaCultura",
+        "alcance_estimado": 88900,
+        "mencoes": 156,
+        "sentimento": 59.3,
+        "impacto": "médio",
+        "principal_contribuicao": "Post sobre filas e infraestrutura gerou discussões construtivas sobre melhorias para próximos dias."
       }
     ],
     "momentos_virais": [
       {
-        "momento": "Performance icônica durante o show de Ludmilla às 20h com troca de figurinos e interação com o público",
-        "artista_relacionado": "Ludmilla",
+        "momento": "Apresentação energética de Anitta com participação surpresa",
+        "artista_relacionado": "Anitta",
         "dia": "06-09",
         "hashtags": [
-          "#LudmillaTheTown",
+          "#AnittaTheTown",
+          "#ShowINCRÍVEL",
           "#TheTown2025"
         ],
-        "estimativa_alcance": 1.26,
+        "estimativa_alcance": 274000,
         "sentimento_predominante": "positive"
       },
       {
-        "momento": "Críticas e reclamações sobre as condições das filas para banheiros às 17h",
+        "momento": "Comentários sobre as longas filas no acesso 4",
         "artista_relacionado": null,
         "dia": "06-09",
         "hashtags": [
           "#FilaTheTown",
-          "#InfrastruturaFail"
+          "#EsperandoNaFila"
         ],
-        "estimativa_alcance": 220000,
+        "estimativa_alcance": 78000,
         "sentimento_predominante": "negative"
       }
     ],
@@ -121,111 +435,4184 @@
         "emocoes_predominantes": [
           "alegria",
           "entusiasmo",
-          "frustração (infraestrutura)"
+          "frustração"
         ],
         "pontos_altos": [
-          "Shows de Ludmilla e Gloria Groove com alta aprovação",
-          "Organização que manteve o clima positivo durante todo o dia"
+          "Show da Anitta gerou entusiasmo máximo com 87,3% sentimento positivo.",
+          "Engajamento em mídias sociais com taxa média de 4,3%, indicando forte conexão do público."
         ],
         "pontos_baixos": [
-          "Reclamações recorrentes sobre filas e banheiros durante tarde",
-          "Queixas sobre preços de alimentos e estacionamento ao fim da tarde"
+          "Infraestrutura deficiente entre 16h-19h, com sentimento negativo de 39,7%.",
+          "Críticas ao tempo de apresentação de MC Cabelinho, afetando percepção do lineup."
         ],
-        "nota_geral": 68.4
-      }
+        "nota_geral": 63.7
+      },
+      "07-09": {},
+      "12-09": {},
+      "13-09": {},
+      "14-09": {}
     },
     "alertas_criticos": [
       {
-        "tipo": "Infraestrutura – filas e banheiros",
+        "tipo": "Infraestrutura",
         "severidade": "média",
-        "descricao": "A partir das 15h, filas longas para banheiros afetaram a experiência de 14.632 mencoes, com sentimento negativo de 55,3%.",
+        "descricao": "Filas excessivas nos banheiros e acesso 4 geraram 134 menções negativas das 16h às 19h, causando insatisfação considerável.",
         "dia": "06-09",
-        "volume_mencoes": 14632,
-        "acao_sugerida": "Aumentar o número de banheiros e melhorar sinalização para evitar aglomerações."
+        "volume_mencoes": 134,
+        "acao_sugerida": "Implementar reforço imediato na sinalização e aumento de pontos de atendimento para filas."
       },
       {
-        "tipo": "Preços – alimentação e estacionamento",
+        "tipo": "Line-up",
         "severidade": "baixa",
-        "descricao": "118 menções negativas concentradas entre 16h e 20h criticaram preços altos, com impacto limitado no sentimento geral.",
+        "descricao": "Críticas ao tempo reduzido do show de MC Cabelinho, com 58 menções negativas no período noturno.",
         "dia": "06-09",
-        "volume_mencoes": 118,
-        "acao_sugerida": "Reavaliar política de preços para futuras edições e oferecer opções mais acessíveis."
+        "volume_mencoes": 58,
+        "acao_sugerida": "Reavaliar duração das apresentações para próximos dias para adequar expectativas do público."
       }
     ],
     "recomendacoes_futuras": [
-      "Incrementar infraestrutura sanitária e logística antes do pico de público entre 15h-19h para minimizar filas.",
-      "Monitorar e ajustar preços de alimentação e estacionamento para melhorar percepção e evitar reclamações.",
-      "Fortalecer comunicação em tempo real nas redes para informar sobre status das filas e serviços disponíveis.",
-      "Engajar influenciadores com alto alcance para divulgação das melhorias e pontos positivos do evento.",
-      "Ampliar pontos de sinalização e acesso para facilitar deslocamento e reduzir confusão do público."
+      "Reduzir tempos de fila com aumento de equipe e pontos de atendimento principalmente entre 16h e 19h.",
+      "Ampliar comunicação sobre horários e infraestrutura para evitar frustração do público.",
+      "Projetar agenda de shows considerando feedback sobre duração para melhorar satisfação do lineup.",
+      "Incentivar influenciadores a divulgarem melhorias em tempo real para aumentar confiança do público.",
+      "Revisar preços de alimentação e bebidas para equilibrar percepção de custo-benefício no evento."
     ],
     "comparativo_artistas": {
       "por_engajamento": [
         {
-          "artista": "Ludmilla",
-          "score": 91287,
-          "destaque": "Maior volume de menções no período de pico com excelente engajamento nas redes sociais."
+          "artista": "Anitta",
+          "score": 27134,
+          "destaque": "Maior número de menções individuais com engajamento elevado e sentimento positivo acima de 87%."
+        },
+        {
+          "artista": "MC Cabelinho",
+          "score": 18742,
+          "destaque": "Boa quantidade de menções, porém sentimento abaixo da média (54,6%) devido a críticas."
         }
       ],
       "por_sentimento_positivo": [
         {
-          "artista": "Gloria Groove",
-          "score": 78.3,
-          "destaque": "Maior índice de sentimento positivo, reforçando a boa recepção do público."
+          "artista": "Anitta",
+          "score": 87.3,
+          "destaque": "Artista com maior índice de sentimento positivo, traduzido em repercussão altamente favorável."
+        },
+        {
+          "artista": "Dj Pedro",
+          "score": 69.4,
+          "destaque": "Sentimento positivo significativo, contribuindo para manutenção do bom clima no festival."
         }
       ],
       "por_alcance": [
         {
-          "artista": "Ludmilla",
-          "score": 1260000,
-          "destaque": "Maior alcance estimado das menções, influenciando positivamente a percepção do evento."
+          "artista": "Anitta",
+          "score": 274000,
+          "destaque": "Maior estimativa de alcance em redes sociais, impulsionando a visibilidade do evento."
+        },
+        {
+          "artista": "Dj Gustavo",
+          "score": 112400,
+          "destaque": "Influenciador relacionado com bom alcance e influência no público."
         }
       ],
       "controversias": [
         {
-          "artista": "Emicida",
-          "problema": "Críticas pela ordem de apresentação enviada atrasada e menor destaque em relação ao lineup.",
+          "artista": "MC Cabelinho",
+          "problema": "Tempo reduzido de apresentação gerou críticas e sentimento negativo relevante.",
           "impacto": "médio"
         }
       ]
     },
     "analise_temporal": {
       "melhor_dia": "06-09",
-      "pior_dia": null,
-      "horario_pico": "20:00",
+      "pior_dia": "Nenhum dado suficiente para outros dias",
+      "horario_pico": "18:00",
       "tendencias": [
-        "Crescimento de menções positivas durante shows principais à noite",
-        "Reclamações constantes sobre infraestrutura principalmente entre 15h e 18h"
+        "Pico de menções negativas e reclamações de infraestrutura entre 16h e 19h.",
+        "Aumento gradual do sentimento positivo após 20h, impulsionado por shows renomados."
       ]
     }
   },
   "paineis": {
     "visao_executiva": {
-      "totalMencoes": 0,
-      "sentimentoGeral": 0,
-      "reachTotal": 0,
-      "engajamentoMedio": 0,
-      "topHashtags": [],
-      "distribuicaoPlataformas": {}
+      "totalMencoes": 22402,
+      "sentimentoGeral": 55.3,
+      "reachTotal": 130662565,
+      "engajamentoMedio": 2.21,
+      "topHashtags": [
+        "#SearaNoTheTown2025",
+        "#searanothetown2025",
+        "#TheTown2025",
+        "#thetown2025",
+        "#TheTownNaGlô",
+        "#TheTown",
+        "#thetown",
+        "#TheTownNoMultishow",
+        "#thetownnaglô",
+        "#g1"
+      ],
+      "distribuicaoPlataformas": {
+        "Twitter": 20026,
+        "News": 1301,
+        "Instagram": 425,
+        "Other": 371,
+        "Facebook": 279
+      }
     },
     "artistas": {
-      "ranking": [],
-      "detalhes": []
+      "ranking": [
+        {
+          "name": "Katy Perry",
+          "mentions": 1915,
+          "totalMencoes": 1915,
+          "sentiment": 94,
+          "sentimentoMedio": 94,
+          "reach": 8404905,
+          "totalReach": 8404905,
+          "engagement": 0.04,
+          "topPost": "🎉 SORTEIO DE INGRESSO – THE TOWN 🎶\n\nEssa é a sua ÚLTIMA CHANCE de concorrer a um ingresso para o show da Katy Perry no The Town. 🤯🔥\n\n👉 Para participar:\n1️⃣ Siga @buyticketbrasil e @katydailybrasi",
+          "day": "06-09",
+          "dias": [
+            "06-09"
+          ]
+        },
+        {
+          "name": "Filipe Ret",
+          "mentions": 1005,
+          "totalMencoes": 1005,
+          "sentiment": 80,
+          "sentimentoMedio": 80,
+          "reach": 6609068,
+          "totalReach": 6609068,
+          "engagement": 3.94,
+          "topPost": "É muito talento junto! 🔥\nFilipe Ret e Alee juntos no palco do The Town #TheTTheTownNaGlôeTown2025",
+          "day": "06-09",
+          "dias": [
+            "06-09"
+          ]
+        },
+        {
+          "name": "Tasha",
+          "mentions": 273,
+          "totalMencoes": 273,
+          "sentiment": 85,
+          "sentimentoMedio": 85,
+          "reach": 6079022,
+          "totalReach": 6079022,
+          "engagement": 4.23,
+          "topPost": "EMOCIONANTE! 👏🏽🥹 Tasha & Tracie (tashaetracieog) não seguram as lágrimas ao encerrar apresentação no The Town com a música “Amina”. 📹: globoplay / thetownfestival",
+          "day": "06-09",
+          "dias": [
+            "06-09"
+          ]
+        },
+        {
+          "name": "Tracie",
+          "mentions": 260,
+          "totalMencoes": 260,
+          "sentiment": 88,
+          "sentimentoMedio": 88,
+          "reach": 6068994,
+          "totalReach": 6068994,
+          "engagement": 4.23,
+          "topPost": "EMOCIONANTE! 👏🏽🥹 Tasha & Tracie (tashaetracieog) não seguram as lágrimas ao encerrar apresentação no The Town com a música “Amina”. 📹: globoplay / thetownfestival",
+          "day": "06-09",
+          "dias": [
+            "06-09"
+          ]
+        },
+        {
+          "name": "Iza",
+          "mentions": 698,
+          "totalMencoes": 698,
+          "sentiment": 47,
+          "sentimentoMedio": 47,
+          "reach": 5841741,
+          "totalReach": 5841741,
+          "engagement": 2.9,
+          "topPost": "Proibidos - O The Town começou neste sábado (6). A segunda edição do festival vai ocupar o Autódromo de Interlagos, na Zona Sul de São Paulo, por dois fins de semana. A cultura hip-hop agitou o primei",
+          "day": "06-09",
+          "dias": [
+            "06-09"
+          ]
+        },
+        {
+          "name": "Travis Scott",
+          "mentions": 857,
+          "totalMencoes": 857,
+          "sentiment": 62,
+          "sentimentoMedio": 62,
+          "reach": 5488204,
+          "totalReach": 5488204,
+          "engagement": 2.51,
+          "topPost": "Travis Scott tem surpreendido fãs com uma prática inusitada em seus shows recentes: repetir a faixa FE!N várias vezes consecutivas. Em apresentações recentes, como no Barclays Center em Brooklyn e em ",
+          "day": "06-09",
+          "dias": [
+            "06-09"
+          ]
+        },
+        {
+          "name": "Don Toliver",
+          "mentions": 732,
+          "totalMencoes": 732,
+          "sentiment": 50,
+          "sentimentoMedio": 50,
+          "reach": 5358172,
+          "totalReach": 5358172,
+          "engagement": 3.52,
+          "topPost": "O show do rapper Don Toliver, no palco principal do The Town neste sábado (6/9), precisou ser interrompido por questões de segurança. Parte do público estava sendo imprensada contra a grade por conta ",
+          "day": "06-09",
+          "dias": [
+            "06-09"
+          ]
+        },
+        {
+          "name": "MC Cabelinho",
+          "mentions": 241,
+          "totalMencoes": 241,
+          "sentiment": 64,
+          "sentimentoMedio": 64,
+          "reach": 4402714,
+          "totalReach": 4402714,
+          "engagement": 3.36,
+          "topPost": "Simplesmente MC Cabelinho cantando “Só Rock 3” no The Town 🔥🔥 mccabelinho majorrd 📹: globoplay / thetownfestival",
+          "day": "06-09",
+          "dias": [
+            "06-09"
+          ]
+        },
+        {
+          "name": "MC Hariel",
+          "mentions": 99,
+          "totalMencoes": 99,
+          "sentiment": 80,
+          "sentimentoMedio": 80,
+          "reach": 4281648,
+          "totalReach": 4281648,
+          "engagement": 4.87,
+          "topPost": "O Brasil é dos brasileiros! 🇧🇷 Durante o encerramento do show de MC Hariel e MARKS no The Town, na noite deste sábado (06), a figura de um cachorro caramelo com uma águia careca na boca foi erguida ",
+          "day": "06-09",
+          "dias": [
+            "06-09"
+          ]
+        },
+        {
+          "name": "Matuê",
+          "mentions": 1042,
+          "totalMencoes": 1042,
+          "sentiment": 32,
+          "sentimentoMedio": 32,
+          "reach": 3269999,
+          "totalReach": 3269999,
+          "engagement": 2.22,
+          "topPost": "Império trap - Matuê subiu ao Palco The One, do The Town, neste sábado (6) para um mar de jovens extasiados. Assim como fez no Rock in Rio 2024, ele se apresentou no dia do headliner Travis Scott.\n\nNo",
+          "day": "06-09",
+          "dias": [
+            "06-09"
+          ]
+        },
+        {
+          "name": "Camila Cabello",
+          "mentions": 745,
+          "totalMencoes": 745,
+          "sentiment": 4,
+          "sentimentoMedio": 4,
+          "reach": 1987399,
+          "totalReach": 1987399,
+          "engagement": 0.11,
+          "topPost": "Travis Scott, Katy Perry e Camila Cabello juntos 😮‍💨 quem aí vai no The Town?",
+          "day": "06-09",
+          "dias": [
+            "06-09"
+          ]
+        },
+        {
+          "name": "Karol Conká",
+          "mentions": 280,
+          "totalMencoes": 280,
+          "sentiment": 60,
+          "sentimentoMedio": 60,
+          "reach": 1885385,
+          "totalReach": 1885385,
+          "engagement": 1.81,
+          "topPost": "Wanessa, Nah Cardoso, Bia do Brás, João Guilherme, Sasha, João Lucas, João Silva, Karol Conká, Astrid Fontenelle, Pedro Scooby, Cíntia Dicker, Rodrigo Mussi, Jade Picon, Luciana Gimenez, Fernando Mede",
+          "day": "06-09",
+          "dias": [
+            "06-09"
+          ]
+        },
+        {
+          "name": "Burna Boy",
+          "mentions": 315,
+          "totalMencoes": 315,
+          "sentiment": 50,
+          "sentimentoMedio": 50,
+          "reach": 1582737,
+          "totalReach": 1582737,
+          "engagement": 2.24,
+          "topPost": "Trap, funk e até reggae - O The Town começou neste sábado (6). A segunda edição do festival vai ocupar o Autódromo de Interlagos, na Zona Sul de São Paulo, por dois fins de semana.\n\nA cultura hip-hop ",
+          "day": "06-09",
+          "dias": [
+            "06-09"
+          ]
+        },
+        {
+          "name": "Teto",
+          "mentions": 587,
+          "totalMencoes": 587,
+          "sentiment": 16,
+          "sentimentoMedio": 16,
+          "reach": 1385021,
+          "totalReach": 1385021,
+          "engagement": 2.22,
+          "topPost": "MATUE, TETO E WIU NO THE TOWN COM VAMPIRO 🧛‼️ https://t.co/GdBvWrvb4m",
+          "day": "06-09",
+          "dias": [
+            "06-09"
+          ]
+        },
+        {
+          "name": "Wiu",
+          "mentions": 597,
+          "totalMencoes": 597,
+          "sentiment": 9,
+          "sentimentoMedio": 9,
+          "reach": 1326582,
+          "totalReach": 1326582,
+          "engagement": 1.72,
+          "topPost": "MATUE, TETO E WIU NO THE TOWN COM VAMPIRO 🧛‼️ https://t.co/GdBvWrvb4m",
+          "day": "06-09",
+          "dias": [
+            "06-09"
+          ]
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "mentions": 76,
+          "totalMencoes": 76,
+          "sentiment": 49,
+          "sentimentoMedio": 49,
+          "reach": 1232578,
+          "totalReach": 1232578,
+          "engagement": 4.13,
+          "topPost": "O rapper brasileiro Filipe Ret (filiperet) se apresentou na tarde deste sábado, 6, abrindo as atrações do Palco Skyline do The Town 2025 (thetownfestival). Em sua primeira data, o evento traz foco no ",
+          "day": "06-09",
+          "dias": [
+            "06-09"
+          ]
+        },
+        {
+          "name": "Green Day",
+          "mentions": 807,
+          "totalMencoes": 807,
+          "sentiment": 78,
+          "sentimentoMedio": 78,
+          "reach": 1155390,
+          "totalReach": 1155390,
+          "engagement": 2.66,
+          "topPost": "ARRUME SE COMIGO PRO THE TOWN maaaas preciso de ajuda!!! tule ou body? (o outro eu vou usar amanhã pro green day)",
+          "day": "06-09",
+          "dias": [
+            "06-09"
+          ]
+        },
+        {
+          "name": "Jessie J",
+          "mentions": 754,
+          "totalMencoes": 754,
+          "sentiment": 96,
+          "sentimentoMedio": 96,
+          "reach": 899137,
+          "totalReach": 899137,
+          "engagement": 2.5,
+          "topPost": "Jessie J contou que o show deste sábado (06) no “Radio 2 in the Park” teve um gostinho especial. Além de marcar sua volta aos palcos depois da cirurgia, a cantora ainda teve um momento emocionante com",
+          "day": "06-09",
+          "dias": [
+            "06-09"
+          ]
+        },
+        {
+          "name": "Mariah Carey",
+          "mentions": 1657,
+          "totalMencoes": 1657,
+          "sentiment": 94,
+          "sentimentoMedio": 94,
+          "reach": 855969,
+          "totalReach": 855969,
+          "engagement": 0.23,
+          "topPost": "A segunda edição do festival The Town começa neste sábado (6). O evento também acontece nos dias 7, 12, 13 e 14 de setembro, no Autódromo de Interlagos, em São Paulo. Neste ano, os headliners do festi",
+          "day": "06-09",
+          "dias": [
+            "06-09"
+          ]
+        },
+        {
+          "name": "Bruce Dickinson",
+          "mentions": 66,
+          "totalMencoes": 66,
+          "sentiment": 61,
+          "sentimentoMedio": 61,
+          "reach": 690322,
+          "totalReach": 690322,
+          "engagement": 3.98,
+          "topPost": "Bruce Dickinson garantiu que o Iron Maiden voltará ao Brasil no ano que vem. A revelação foi feita pelo vocalista em entrevista à Rede Globo (via jnflesch), movimentando os fãs que já aguardam a próxi",
+          "day": "06-09",
+          "dias": [
+            "06-09"
+          ]
+        }
+      ],
+      "detalhes": [
+        {
+          "name": "Katy Perry",
+          "totalMencoes": 1915,
+          "sentimentoMedio": 94,
+          "distribuicao": {
+            "positive": 1795,
+            "neutral": 103,
+            "negative": 17
+          },
+          "totalReach": 8404905,
+          "totalEngagement": 3116,
+          "engagementRate": 0.04,
+          "topPost": "🎉 SORTEIO DE INGRESSO – THE TOWN 🎶\n\nEssa é a sua ÚLTIMA CHANCE de concorrer a um ingresso para o show da Katy Perry no The Town. 🤯🔥\n\n👉 Para participar:\n1️⃣ Siga @buyticketbrasil e @katydailybrasi",
+          "topPostEngagement": 1133,
+          "allPosts": [
+            {
+              "text": "🎉 SORTEIO DE INGRESSO – THE TOWN 🎶\n\nEssa é a sua ÚLTIMA CHANCE de concorrer a um ingresso para o show da Katy Perry no The Town. 🤯🔥\n\n👉 Para participar:\n1️⃣ Siga @buyticketbrasil e @katydailybrasi",
+              "engagement": 1133,
+              "sentiment": "positive",
+              "url": "http://twitter.com/buyticketbrasil/statuses/1964343987235377642",
+              "platform": "Twitter"
+            },
+            {
+              "text": "Travis Scott, Katy Perry e Camila Cabello juntos 😮‍💨 quem aí vai no The Town?",
+              "engagement": 1060,
+              "sentiment": "neutral",
+              "url": "https://www.instagram.com/reel/DORotRgkT98/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "A segunda edição do festival The Town começa neste sábado (6). O evento também acontece nos dias 7, 12, 13 e 14 de setembro, no Autódromo de Interlagos, em São Paulo. Neste ano, os headliners do festi",
+              "engagement": 451,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/p/DOQ7xuTDS_S/",
+              "platform": "Instagram"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Filipe Ret",
+          "totalMencoes": 1005,
+          "sentimentoMedio": 80,
+          "distribuicao": {
+            "positive": 800,
+            "neutral": 171,
+            "negative": 34
+          },
+          "totalReach": 6609068,
+          "totalEngagement": 260540,
+          "engagementRate": 3.94,
+          "topPost": "É muito talento junto! 🔥\nFilipe Ret e Alee juntos no palco do The Town #TheTTheTownNaGlôeTown2025",
+          "topPostEngagement": 81477,
+          "allPosts": [
+            {
+              "text": "É muito talento junto! 🔥\nFilipe Ret e Alee juntos no palco do The Town #TheTTheTownNaGlôeTown2025",
+              "engagement": 81477,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DORd5D2EWX9/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "e o filipe ret que fez um “mini show” pros funcionários do the town enquanto passava o som \n\n https://t.co/k6QrzF3GMb",
+              "engagement": 49883,
+              "sentiment": "positive",
+              "url": "http://twitter.com/luscas/statuses/1964397695994646781",
+              "platform": "Twitter"
+            },
+            {
+              "text": "BRABO DEMAIS 👏🏽 Filipe Ret fez um mini show exclusivo para os trabalhadores do The Town, durante a passagem de som. O rapper se apresenta neste sábado (06), às 15h50.",
+              "engagement": 39077,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DOQrNLvDRCv/",
+              "platform": "Instagram"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Tasha",
+          "totalMencoes": 273,
+          "sentimentoMedio": 85,
+          "distribuicao": {
+            "positive": 233,
+            "neutral": 26,
+            "negative": 14
+          },
+          "totalReach": 6079022,
+          "totalEngagement": 256976,
+          "engagementRate": 4.23,
+          "topPost": "EMOCIONANTE! 👏🏽🥹 Tasha & Tracie (tashaetracieog) não seguram as lágrimas ao encerrar apresentação no The Town com a música “Amina”. 📹: globoplay / thetownfestival",
+          "topPostEngagement": 124949,
+          "allPosts": [
+            {
+              "text": "EMOCIONANTE! 👏🏽🥹 Tasha & Tracie (tashaetracieog) não seguram as lágrimas ao encerrar apresentação no The Town com a música “Amina”. 📹: globoplay / thetownfestival",
+              "engagement": 124949,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/reel/DOR0HnnDxru/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Tasha & Tracie emocionaram o público do The Town ao encerrar sua apresentação com o hit “Amina”. O momento foi marcado por muita energia e conexão com a plateia, mas também trouxe à tona a emoção das ",
+              "engagement": 95275,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/reel/DORw-6gjtH7/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "tasha e tracie fazendo história no palco do the town. maiores refs! #TheTownNaGlô https://t.co/NO798KLlDM",
+              "engagement": 16262,
+              "sentiment": "positive",
+              "url": "http://twitter.com/tuitavicc/statuses/1964451750225858965",
+              "platform": "Twitter"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Tracie",
+          "totalMencoes": 260,
+          "sentimentoMedio": 88,
+          "distribuicao": {
+            "positive": 228,
+            "neutral": 21,
+            "negative": 11
+          },
+          "totalReach": 6068994,
+          "totalEngagement": 256929,
+          "engagementRate": 4.23,
+          "topPost": "EMOCIONANTE! 👏🏽🥹 Tasha & Tracie (tashaetracieog) não seguram as lágrimas ao encerrar apresentação no The Town com a música “Amina”. 📹: globoplay / thetownfestival",
+          "topPostEngagement": 124949,
+          "allPosts": [
+            {
+              "text": "EMOCIONANTE! 👏🏽🥹 Tasha & Tracie (tashaetracieog) não seguram as lágrimas ao encerrar apresentação no The Town com a música “Amina”. 📹: globoplay / thetownfestival",
+              "engagement": 124949,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/reel/DOR0HnnDxru/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Tasha & Tracie emocionaram o público do The Town ao encerrar sua apresentação com o hit “Amina”. O momento foi marcado por muita energia e conexão com a plateia, mas também trouxe à tona a emoção das ",
+              "engagement": 95275,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/reel/DORw-6gjtH7/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "tasha e tracie fazendo história no palco do the town. maiores refs! #TheTownNaGlô https://t.co/NO798KLlDM",
+              "engagement": 16262,
+              "sentiment": "positive",
+              "url": "http://twitter.com/tuitavicc/statuses/1964451750225858965",
+              "platform": "Twitter"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Iza",
+          "totalMencoes": 698,
+          "sentimentoMedio": 47,
+          "distribuicao": {
+            "positive": 327,
+            "neutral": 193,
+            "negative": 178
+          },
+          "totalReach": 5841741,
+          "totalEngagement": 169521,
+          "engagementRate": 2.9,
+          "topPost": "Proibidos - O The Town começou neste sábado (6). A segunda edição do festival vai ocupar o Autódromo de Interlagos, na Zona Sul de São Paulo, por dois fins de semana. A cultura hip-hop agitou o primei",
+          "topPostEngagement": 37239,
+          "allPosts": [
+            {
+              "text": "Proibidos - O The Town começou neste sábado (6). A segunda edição do festival vai ocupar o Autódromo de Interlagos, na Zona Sul de São Paulo, por dois fins de semana. A cultura hip-hop agitou o primei",
+              "engagement": 37239,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/reel/DOR0UzFDLYj/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "🚨 Durante o show de Don Toliver no The Town, a apresentação precisou ser interrompida por alguns minutos por questões de segurança. Parte do público estava sendo pressionada contra a grade, e a organ",
+              "engagement": 25207,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DOSEeSujHNJ/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Filipe Ret surpreende funcionários do The Town com mini show na passagem de som 🔥 Durante a passagem de som no The Town, filiperet surpreendeu os trabalhadores do festival com um mini show exclusivo,",
+              "engagement": 17746,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DOQ1lu_DlPp/",
+              "platform": "Instagram"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Travis Scott",
+          "totalMencoes": 857,
+          "sentimentoMedio": 62,
+          "distribuicao": {
+            "positive": 531,
+            "neutral": 226,
+            "negative": 100
+          },
+          "totalReach": 5488204,
+          "totalEngagement": 137574,
+          "engagementRate": 2.51,
+          "topPost": "Travis Scott tem surpreendido fãs com uma prática inusitada em seus shows recentes: repetir a faixa FE!N várias vezes consecutivas. Em apresentações recentes, como no Barclays Center em Brooklyn e em ",
+          "topPostEngagement": 17735,
+          "allPosts": [
+            {
+              "text": "Travis Scott tem surpreendido fãs com uma prática inusitada em seus shows recentes: repetir a faixa FE!N várias vezes consecutivas. Em apresentações recentes, como no Barclays Center em Brooklyn e em ",
+              "engagement": 17735,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/p/DORLWAqjUck/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Trap, funk e até reggae - O The Town começou neste sábado (6). A segunda edição do festival vai ocupar o Autódromo de Interlagos, na Zona Sul de São Paulo, por dois fins de semana.\n\nA cultura hip-hop ",
+              "engagement": 14501,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DORqoQsCC8Q/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Império trap - Matuê subiu ao Palco The One, do The Town, neste sábado (6) para um mar de jovens extasiados. Assim como fez no Rock in Rio 2024, ele se apresentou no dia do headliner Travis Scott.\n\nNo",
+              "engagement": 14105,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/reel/DOR7bTSlZV7/",
+              "platform": "Instagram"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Don Toliver",
+          "totalMencoes": 732,
+          "sentimentoMedio": 50,
+          "distribuicao": {
+            "positive": 368,
+            "neutral": 236,
+            "negative": 128
+          },
+          "totalReach": 5358172,
+          "totalEngagement": 188764,
+          "engagementRate": 3.52,
+          "topPost": "O show do rapper Don Toliver, no palco principal do The Town neste sábado (6/9), precisou ser interrompido por questões de segurança. Parte do público estava sendo imprensada contra a grade por conta ",
+          "topPostEngagement": 26716,
+          "allPosts": [
+            {
+              "text": "O show do rapper Don Toliver, no palco principal do The Town neste sábado (6/9), precisou ser interrompido por questões de segurança. Parte do público estava sendo imprensada contra a grade por conta ",
+              "engagement": 26716,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DOSFKECDZgs/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "TUDO NORMAL! Don Toliver chegou a ter o show interrompido por segurança, mas voltou ao palco do The Town e concluiu a apresentação. 👀🔥",
+              "engagement": 26340,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DOSD3aAjGl6/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "🚨 Durante o show de Don Toliver no The Town, a apresentação precisou ser interrompida por alguns minutos por questões de segurança. Parte do público estava sendo pressionada contra a grade, e a organ",
+              "engagement": 25207,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DOSEeSujHNJ/",
+              "platform": "Instagram"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "MC Cabelinho",
+          "totalMencoes": 241,
+          "sentimentoMedio": 64,
+          "distribuicao": {
+            "positive": 154,
+            "neutral": 72,
+            "negative": 15
+          },
+          "totalReach": 4402714,
+          "totalEngagement": 147760,
+          "engagementRate": 3.36,
+          "topPost": "Simplesmente MC Cabelinho cantando “Só Rock 3” no The Town 🔥🔥 mccabelinho majorrd 📹: globoplay / thetownfestival",
+          "topPostEngagement": 48911,
+          "allPosts": [
+            {
+              "text": "Simplesmente MC Cabelinho cantando “Só Rock 3” no The Town 🔥🔥 mccabelinho majorrd 📹: globoplay / thetownfestival",
+              "engagement": 48911,
+              "sentiment": "neutral",
+              "url": "https://www.instagram.com/reel/DORswx0D-1E/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Proibidos - O The Town começou neste sábado (6). A segunda edição do festival vai ocupar o Autódromo de Interlagos, na Zona Sul de São Paulo, por dois fins de semana. A cultura hip-hop agitou o primei",
+              "engagement": 37239,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/reel/DOR0UzFDLYj/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "MC Cabelinho fez do The Town 2025 um momento histórico neste 06 de setembro. A energia do público foi eletrizante, cada faixa levantava a multidão em um coro arrebatador. O show foi envolvente, intens",
+              "engagement": 16663,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DORqzqRAEOI/",
+              "platform": "Instagram"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "MC Hariel",
+          "totalMencoes": 99,
+          "sentimentoMedio": 80,
+          "distribuicao": {
+            "positive": 79,
+            "neutral": 12,
+            "negative": 8
+          },
+          "totalReach": 4281648,
+          "totalEngagement": 208345,
+          "engagementRate": 4.87,
+          "topPost": "O Brasil é dos brasileiros! 🇧🇷 Durante o encerramento do show de MC Hariel e MARKS no The Town, na noite deste sábado (06), a figura de um cachorro caramelo com uma águia careca na boca foi erguida ",
+          "topPostEngagement": 179205,
+          "allPosts": [
+            {
+              "text": "O Brasil é dos brasileiros! 🇧🇷 Durante o encerramento do show de MC Hariel e MARKS no The Town, na noite deste sábado (06), a figura de um cachorro caramelo com uma águia careca na boca foi erguida ",
+              "engagement": 179205,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/reel/DOSMdR7EyoK/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Trap, funk e até reggae - O The Town começou neste sábado (6). A segunda edição do festival vai ocupar o Autódromo de Interlagos, na Zona Sul de São Paulo, por dois fins de semana.\n\nA cultura hip-hop ",
+              "engagement": 14501,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DORqoQsCC8Q/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Travis Scott, Filipe Ret, Burna Boy e mais se apresentam hoje no The Town‼️🔥 Hoje, sábado (6 de setembro), o The Town 2025 entra em cena pesado com Travis Scott, Burna Boy, Don Toliver e Filipe Ret n",
+              "engagement": 7570,
+              "sentiment": "neutral",
+              "url": "https://www.instagram.com/p/DORERDTDsUR/",
+              "platform": "Instagram"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Matuê",
+          "totalMencoes": 1042,
+          "sentimentoMedio": 32,
+          "distribuicao": {
+            "positive": 338,
+            "neutral": 589,
+            "negative": 115
+          },
+          "totalReach": 3269999,
+          "totalEngagement": 72687,
+          "engagementRate": 2.22,
+          "topPost": "Império trap - Matuê subiu ao Palco The One, do The Town, neste sábado (6) para um mar de jovens extasiados. Assim como fez no Rock in Rio 2024, ele se apresentou no dia do headliner Travis Scott.\n\nNo",
+          "topPostEngagement": 14105,
+          "allPosts": [
+            {
+              "text": "Império trap - Matuê subiu ao Palco The One, do The Town, neste sábado (6) para um mar de jovens extasiados. Assim como fez no Rock in Rio 2024, ele se apresentou no dia do headliner Travis Scott.\n\nNo",
+              "engagement": 14105,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/reel/DOR7bTSlZV7/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Travis Scott, Filipe Ret, Burna Boy e mais se apresentam hoje no The Town‼️🔥 Hoje, sábado (6 de setembro), o The Town 2025 entra em cena pesado com Travis Scott, Burna Boy, Don Toliver e Filipe Ret n",
+              "engagement": 7570,
+              "sentiment": "neutral",
+              "url": "https://www.instagram.com/p/DORERDTDsUR/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "E essa transição de “Luxúria” para “Honey Babe” que o Matuê fez no show do The Town 🔥 https://t.co/YYNZtdiSQs",
+              "engagement": 7434,
+              "sentiment": "positive",
+              "url": "http://twitter.com/tpumaglock/statuses/1964475311938293883",
+              "platform": "Twitter"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Camila Cabello",
+          "totalMencoes": 745,
+          "sentimentoMedio": 4,
+          "distribuicao": {
+            "positive": 27,
+            "neutral": 13,
+            "negative": 705
+          },
+          "totalReach": 1987399,
+          "totalEngagement": 2096,
+          "engagementRate": 0.11,
+          "topPost": "Travis Scott, Katy Perry e Camila Cabello juntos 😮‍💨 quem aí vai no The Town?",
+          "topPostEngagement": 1060,
+          "allPosts": [
+            {
+              "text": "Travis Scott, Katy Perry e Camila Cabello juntos 😮‍💨 quem aí vai no The Town?",
+              "engagement": 1060,
+              "sentiment": "neutral",
+              "url": "https://www.instagram.com/reel/DORotRgkT98/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Camila Cabello deve se apresentar no The Town com clima frio, mas sem risco de chuva.\n\nAs primeiras previsões indicam que, durante o show, a sensação térmica será de 12 °C, garantindo uma noite gelada",
+              "engagement": 815,
+              "sentiment": "negative",
+              "url": "http://twitter.com/Camila_UpdateBR/statuses/1964292166294929881",
+              "platform": "Twitter"
+            },
+            {
+              "text": "Começa hoje o The Town 2025 em São Paulo! O Autódromo de Interlagos vira palco de um dos maiores festivais de música do país, com cinco dias de shows que misturam pop, rock, rap, MPB e eletrônica. 📅 ",
+              "engagement": 138,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/p/DOQ3haCka8L/",
+              "platform": "Instagram"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Karol Conká",
+          "totalMencoes": 280,
+          "sentimentoMedio": 60,
+          "distribuicao": {
+            "positive": 167,
+            "neutral": 99,
+            "negative": 14
+          },
+          "totalReach": 1885385,
+          "totalEngagement": 34104,
+          "engagementRate": 1.81,
+          "topPost": "Wanessa, Nah Cardoso, Bia do Brás, João Guilherme, Sasha, João Lucas, João Silva, Karol Conká, Astrid Fontenelle, Pedro Scooby, Cíntia Dicker, Rodrigo Mussi, Jade Picon, Luciana Gimenez, Fernando Mede",
+          "topPostEngagement": 7749,
+          "allPosts": [
+            {
+              "text": "Wanessa, Nah Cardoso, Bia do Brás, João Guilherme, Sasha, João Lucas, João Silva, Karol Conká, Astrid Fontenelle, Pedro Scooby, Cíntia Dicker, Rodrigo Mussi, Jade Picon, Luciana Gimenez, Fernando Mede",
+              "engagement": 7749,
+              "sentiment": "neutral",
+              "url": "https://www.instagram.com/p/DOSGRS_DGzn/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Travis Scott, Filipe Ret, Burna Boy e mais se apresentam hoje no The Town‼️🔥 Hoje, sábado (6 de setembro), o The Town 2025 entra em cena pesado com Travis Scott, Burna Boy, Don Toliver e Filipe Ret n",
+              "engagement": 7570,
+              "sentiment": "neutral",
+              "url": "https://www.instagram.com/p/DORERDTDsUR/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "#TheTown (este texto é uma resenha crítica, por João de Mari) - O palco The One abriu o The Town neste sábado (6) com protagonismo feminino no rap brasileiro. As artistas Karol Conká, Ebony e Ajulia C",
+              "engagement": 4657,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/reel/DORh6qCD1x7/",
+              "platform": "Instagram"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Burna Boy",
+          "totalMencoes": 315,
+          "sentimentoMedio": 50,
+          "distribuicao": {
+            "positive": 157,
+            "neutral": 103,
+            "negative": 55
+          },
+          "totalReach": 1582737,
+          "totalEngagement": 35451,
+          "engagementRate": 2.24,
+          "topPost": "Trap, funk e até reggae - O The Town começou neste sábado (6). A segunda edição do festival vai ocupar o Autódromo de Interlagos, na Zona Sul de São Paulo, por dois fins de semana.\n\nA cultura hip-hop ",
+          "topPostEngagement": 14501,
+          "allPosts": [
+            {
+              "text": "Trap, funk e até reggae - O The Town começou neste sábado (6). A segunda edição do festival vai ocupar o Autódromo de Interlagos, na Zona Sul de São Paulo, por dois fins de semana.\n\nA cultura hip-hop ",
+              "engagement": 14501,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DORqoQsCC8Q/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Travis Scott, Filipe Ret, Burna Boy e mais se apresentam hoje no The Town‼️🔥 Hoje, sábado (6 de setembro), o The Town 2025 entra em cena pesado com Travis Scott, Burna Boy, Don Toliver e Filipe Ret n",
+              "engagement": 7570,
+              "sentiment": "neutral",
+              "url": "https://www.instagram.com/p/DORERDTDsUR/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "O MAIOR! A convite da warnermusicbr tivemos a honra de conhecer e jantar com burnaboygram e sua equipe no Spotify Amplifica. Um dos maiores nomes da música global, agora ainda mais conectado ao Brasil",
+              "engagement": 3638,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DOQyN8uEYap/",
+              "platform": "Instagram"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Teto",
+          "totalMencoes": 587,
+          "sentimentoMedio": 16,
+          "distribuicao": {
+            "positive": 92,
+            "neutral": 465,
+            "negative": 30
+          },
+          "totalReach": 1385021,
+          "totalEngagement": 30712,
+          "engagementRate": 2.22,
+          "topPost": "MATUE, TETO E WIU NO THE TOWN COM VAMPIRO 🧛‼️ https://t.co/GdBvWrvb4m",
+          "topPostEngagement": 10196,
+          "allPosts": [
+            {
+              "text": "MATUE, TETO E WIU NO THE TOWN COM VAMPIRO 🧛‼️ https://t.co/GdBvWrvb4m",
+              "engagement": 10196,
+              "sentiment": "neutral",
+              "url": "http://twitter.com/davisdc30/statuses/1964458750552768735",
+              "platform": "Twitter"
+            },
+            {
+              "text": "Travis Scott, Filipe Ret, Burna Boy e mais se apresentam hoje no The Town‼️🔥 Hoje, sábado (6 de setembro), o The Town 2025 entra em cena pesado com Travis Scott, Burna Boy, Don Toliver e Filipe Ret n",
+              "engagement": 7570,
+              "sentiment": "neutral",
+              "url": "https://www.instagram.com/p/DORERDTDsUR/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Matuê convidou Teto e Wiu para participar da música “Vampiro” durante seu show no Palco The One do The Town 2025. 🔥 O trio faz parte da produtora 30praum e estão entre os principais nomes do trap nac",
+              "engagement": 2501,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DOR0zKVDQpL/",
+              "platform": "Instagram"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Wiu",
+          "totalMencoes": 597,
+          "sentimentoMedio": 9,
+          "distribuicao": {
+            "positive": 56,
+            "neutral": 512,
+            "negative": 29
+          },
+          "totalReach": 1326582,
+          "totalEngagement": 22865,
+          "engagementRate": 1.72,
+          "topPost": "MATUE, TETO E WIU NO THE TOWN COM VAMPIRO 🧛‼️ https://t.co/GdBvWrvb4m",
+          "topPostEngagement": 10196,
+          "allPosts": [
+            {
+              "text": "MATUE, TETO E WIU NO THE TOWN COM VAMPIRO 🧛‼️ https://t.co/GdBvWrvb4m",
+              "engagement": 10196,
+              "sentiment": "neutral",
+              "url": "http://twitter.com/davisdc30/statuses/1964458750552768735",
+              "platform": "Twitter"
+            },
+            {
+              "text": "Matuê convidou Teto e Wiu para participar da música “Vampiro” durante seu show no Palco The One do The Town 2025. 🔥 O trio faz parte da produtora 30praum e estão entre os principais nomes do trap nac",
+              "engagement": 2501,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DOR0zKVDQpL/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "MATUÊ\n\nTHE TOWN - SETLIST 📝\n\n- Kenny G\n- Quer Voar\n- De Peça em Peça\n- Luxúria\n- Honey Baby\n- Mantém ft. WIU\n- Vampiro ft. Teto & WIU\n- Conexões de Máfia\n- 777-666\n- Castlevânia\n- Máquina do Tempo\n- ",
+              "engagement": 2273,
+              "sentiment": "neutral",
+              "url": "http://twitter.com/ouve_muito/statuses/1964474712207347810",
+              "platform": "Twitter"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "totalMencoes": 76,
+          "sentimentoMedio": 49,
+          "distribuicao": {
+            "positive": 37,
+            "neutral": 20,
+            "negative": 19
+          },
+          "totalReach": 1232578,
+          "totalEngagement": 50934,
+          "engagementRate": 4.13,
+          "topPost": "O rapper brasileiro Filipe Ret (filiperet) se apresentou na tarde deste sábado, 6, abrindo as atrações do Palco Skyline do The Town 2025 (thetownfestival). Em sua primeira data, o evento traz foco no ",
+          "topPostEngagement": 12643,
+          "allPosts": [
+            {
+              "text": "O rapper brasileiro Filipe Ret (filiperet) se apresentou na tarde deste sábado, 6, abrindo as atrações do Palco Skyline do The Town 2025 (thetownfestival). Em sua primeira data, o evento traz foco no ",
+              "engagement": 12643,
+              "sentiment": "neutral",
+              "url": "https://www.instagram.com/p/DORgYw1j5c3/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "A RAINHA NO BRASIL! Ms. Lauryn Hill lança uma coleção exclusiva em uma pop-up store oficial em São Paulo, celebrando sua apresentação no festival The Town, que acontece hoje, dia 6 de setembro ‼️🔥👑 ",
+              "engagement": 8052,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/p/DOQst1LDYGV/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Travis Scott, Filipe Ret, Burna Boy e mais se apresentam hoje no The Town‼️🔥 Hoje, sábado (6 de setembro), o The Town 2025 entra em cena pesado com Travis Scott, Burna Boy, Don Toliver e Filipe Ret n",
+              "engagement": 7570,
+              "sentiment": "neutral",
+              "url": "https://www.instagram.com/p/DORERDTDsUR/",
+              "platform": "Instagram"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Green Day",
+          "totalMencoes": 807,
+          "sentimentoMedio": 78,
+          "distribuicao": {
+            "positive": 628,
+            "neutral": 148,
+            "negative": 31
+          },
+          "totalReach": 1155390,
+          "totalEngagement": 30692,
+          "engagementRate": 2.66,
+          "topPost": "ARRUME SE COMIGO PRO THE TOWN maaaas preciso de ajuda!!! tule ou body? (o outro eu vou usar amanhã pro green day)",
+          "topPostEngagement": 20132,
+          "allPosts": [
+            {
+              "text": "ARRUME SE COMIGO PRO THE TOWN maaaas preciso de ajuda!!! tule ou body? (o outro eu vou usar amanhã pro green day)",
+              "engagement": 20132,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DORrkRtj6h5/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Um filme de comédia inspirado no Green Day vai chegar às telonas em breve. Intitulado “New Year’s Rev”, o longa fará sua estreia no próximo dia 12 de setembro no Festival Internacional de Cinema de To",
+              "engagement": 6044,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/p/DOQqyu4jYrS/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "ROCK E (MUITO) DINHEIRO\n\nAtração do festival The Town, o Green Day volta pela quinta vez ao Brasil neste domingo (7). Além dos sucessos, a banda americana tem patrimônio avaliado em US$ 190 milhões, o",
+              "engagement": 2435,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/p/DOROgOkk_bI/",
+              "platform": "Instagram"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Jessie J",
+          "totalMencoes": 754,
+          "sentimentoMedio": 96,
+          "distribuicao": {
+            "positive": 722,
+            "neutral": 30,
+            "negative": 2
+          },
+          "totalReach": 899137,
+          "totalEngagement": 22492,
+          "engagementRate": 2.5,
+          "topPost": "Jessie J contou que o show deste sábado (06) no “Radio 2 in the Park” teve um gostinho especial. Além de marcar sua volta aos palcos depois da cirurgia, a cantora ainda teve um momento emocionante com",
+          "topPostEngagement": 21708,
+          "allPosts": [
+            {
+              "text": "Jessie J contou que o show deste sábado (06) no “Radio 2 in the Park” teve um gostinho especial. Além de marcar sua volta aos palcos depois da cirurgia, a cantora ainda teve um momento emocionante com",
+              "engagement": 21708,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DORiVb1kWRJ/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Me ajuda @itau a realizar mais alguns sonhos me levando para Mariah Carey e Jessie J no The Town, se proporcionado pelo meu banco, será uma experiência única e incrível. \na fatura ta sempre em dia hei",
+              "engagement": 359,
+              "sentiment": "positive",
+              "url": "http://twitter.com/indiefobico/statuses/1964482646865826022",
+              "platform": "Twitter"
+            },
+            {
+              "text": "Próxima parada: BRASIL 🇧🇷\n\nJessie J se apresenta no festival “The Town” no próximo sábado, dia 13/09 🔥 https://t.co/AFO2n69ccM",
+              "engagement": 175,
+              "sentiment": "neutral",
+              "url": "http://twitter.com/PortalJessieJ_/statuses/1964436834311602254",
+              "platform": "Twitter"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Mariah Carey",
+          "totalMencoes": 1657,
+          "sentimentoMedio": 94,
+          "distribuicao": {
+            "positive": 1552,
+            "neutral": 88,
+            "negative": 17
+          },
+          "totalReach": 855969,
+          "totalEngagement": 1949,
+          "engagementRate": 0.23,
+          "topPost": "A segunda edição do festival The Town começa neste sábado (6). O evento também acontece nos dias 7, 12, 13 e 14 de setembro, no Autódromo de Interlagos, em São Paulo. Neste ano, os headliners do festi",
+          "topPostEngagement": 451,
+          "allPosts": [
+            {
+              "text": "A segunda edição do festival The Town começa neste sábado (6). O evento também acontece nos dias 7, 12, 13 e 14 de setembro, no Autódromo de Interlagos, em São Paulo. Neste ano, os headliners do festi",
+              "engagement": 451,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/p/DOQ7xuTDS_S/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Me ajuda @itau a realizar mais alguns sonhos me levando para Mariah Carey e Jessie J no The Town, se proporcionado pelo meu banco, será uma experiência única e incrível. \na fatura ta sempre em dia hei",
+              "engagement": 359,
+              "sentiment": "positive",
+              "url": "http://twitter.com/indiefobico/statuses/1964482646865826022",
+              "platform": "Twitter"
+            },
+            {
+              "text": "A Amazônia desembarcou em São Paulo neste fim de semana no The Town, festival que acontece no Autódromo de Interlagos entre os dias 6, 7, 12, 13 e 14 de setembro. A iniciativa inédita é da Vale, que t",
+              "engagement": 201,
+              "sentiment": "neutral",
+              "url": "https://www.instagram.com/p/DORg0rXga-n/",
+              "platform": "Instagram"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Bruce Dickinson",
+          "totalMencoes": 66,
+          "sentimentoMedio": 61,
+          "distribuicao": {
+            "positive": 40,
+            "neutral": 23,
+            "negative": 3
+          },
+          "totalReach": 690322,
+          "totalEngagement": 27469,
+          "engagementRate": 3.98,
+          "topPost": "Bruce Dickinson garantiu que o Iron Maiden voltará ao Brasil no ano que vem. A revelação foi feita pelo vocalista em entrevista à Rede Globo (via jnflesch), movimentando os fãs que já aguardam a próxi",
+          "topPostEngagement": 20445,
+          "allPosts": [
+            {
+              "text": "Bruce Dickinson garantiu que o Iron Maiden voltará ao Brasil no ano que vem. A revelação foi feita pelo vocalista em entrevista à Rede Globo (via jnflesch), movimentando os fãs que já aguardam a próxi",
+              "engagement": 20445,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/p/DORl-ODDz7C/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Um filme de comédia inspirado no Green Day vai chegar às telonas em breve. Intitulado “New Year’s Rev”, o longa fará sua estreia no próximo dia 12 de setembro no Festival Internacional de Cinema de To",
+              "engagement": 6044,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/p/DOQqyu4jYrS/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Bruce Dickinson garantiu que o Iron Maiden voltará ao Brasil no ano que vem. A revelação foi feita pelo vocalista em entrevista à Rede Globo (via @jnflesch), movimentando os fãs que já aguardam a próx",
+              "engagement": 538,
+              "sentiment": "positive",
+              "url": "https://www.facebook.com/192459134212527/posts/1242366284601403#channels",
+              "platform": "Facebook"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Priscilla",
+          "totalMencoes": 91,
+          "sentimentoMedio": 79,
+          "distribuicao": {
+            "positive": 72,
+            "neutral": 10,
+            "negative": 9
+          },
+          "totalReach": 452477,
+          "totalEngagement": 19284,
+          "engagementRate": 4.26,
+          "topPost": "Olá, divos e divas! Oi, meninos e meninas também, tudo bom? \n\nOs apresentadores de vocês foram convocados pela dona cocacola_br para comandar mais uma temporada do POVcast diretamente do Coke Studio C",
+          "topPostEngagement": 18126,
+          "allPosts": [
+            {
+              "text": "Olá, divos e divas! Oi, meninos e meninas também, tudo bom? \n\nOs apresentadores de vocês foram convocados pela dona cocacola_br para comandar mais uma temporada do POVcast diretamente do Coke Studio C",
+              "engagement": 18126,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/p/DORkNTCjmHh/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "OMG!! PRISCILLA acaba de confirmar um convidado surpresa no the town 🚨 https://t.co/T59bowsQLH",
+              "engagement": 376,
+              "sentiment": "positive",
+              "url": "http://twitter.com/Georgekauan_/statuses/1964429203098513433",
+              "platform": "Twitter"
+            },
+            {
+              "text": "Olá, divos e divas! Oi, meninos e meninas também, tudo bom? \n\nOs apresentadores de vocês foram convocados pela dona @cocacola_br para comandar mais uma temporada do POVcast diretamente do Coke Studio ",
+              "engagement": 199,
+              "sentiment": "positive",
+              "url": "https://www.facebook.com/165680880233643/posts/1359410855553771#channels",
+              "platform": "Facebook"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Budah",
+          "totalMencoes": 71,
+          "sentimentoMedio": 59,
+          "distribuicao": {
+            "positive": 42,
+            "neutral": 22,
+            "negative": 7
+          },
+          "totalReach": 365142,
+          "totalEngagement": 14194,
+          "engagementRate": 3.89,
+          "topPost": "Rappers brasileiras estampam capa da Billboard Brasil antes de show no The Town ✨💅🏽 As rappers ste.f.a.n.i.e, duquesa, budah, baddiebony, karolconka e ajuliacosta são destaque na capa da Billboard B",
+          "topPostEngagement": 11938,
+          "allPosts": [
+            {
+              "text": "Rappers brasileiras estampam capa da Billboard Brasil antes de show no The Town ✨💅🏽 As rappers ste.f.a.n.i.e, duquesa, budah, baddiebony, karolconka e ajuliacosta são destaque na capa da Billboard B",
+              "engagement": 11938,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/p/DORBgZNjTft/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "#BUDAH • Minha artista deixou o The Town todinho Púrpura 💜 Essa aqui é pedrada, viu?",
+              "engagement": 750,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DOSNh5_DNLU/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Atenção, atenção! 🤚 🎤 O palco The Factory virou o epicentro da música preta, com muito trap, rap e funk! Nessa noite, o palco foi dominado por Teto, WIU e Budah. O show do Borges também teve um mome",
+              "engagement": 729,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DOSMMR9jkzm/",
+              "platform": "Instagram"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Iggy Pop",
+          "totalMencoes": 76,
+          "sentimentoMedio": 54,
+          "distribuicao": {
+            "positive": 41,
+            "neutral": 28,
+            "negative": 7
+          },
+          "totalReach": 358315,
+          "totalEngagement": 9013,
+          "engagementRate": 2.52,
+          "topPost": "Um filme de comédia inspirado no Green Day vai chegar às telonas em breve. Intitulado “New Year’s Rev”, o longa fará sua estreia no próximo dia 12 de setembro no Festival Internacional de Cinema de To",
+          "topPostEngagement": 6044,
+          "allPosts": [
+            {
+              "text": "Um filme de comédia inspirado no Green Day vai chegar às telonas em breve. Intitulado “New Year’s Rev”, o longa fará sua estreia no próximo dia 12 de setembro no Festival Internacional de Cinema de To",
+              "engagement": 6044,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/p/DOQqyu4jYrS/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Se Biggy Pop, a cacatua do Iggy Pop, pudesse ir ao The Town não perderia o show do seu dono por nada, ela é fã de rock demais!🤘🐦 #KissFM #Rock #IggyPop #TheTown #Cacatua #Animal #NãoDeixeoRockSairde",
+              "engagement": 2667,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DORtrqAkiPQ/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Começa hoje o The Town 2025 em São Paulo! O Autódromo de Interlagos vira palco de um dos maiores festivais de música do país, com cinco dias de shows que misturam pop, rock, rap, MPB e eletrônica. 📅 ",
+              "engagement": 138,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/p/DOQ3haCka8L/",
+              "platform": "Instagram"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Backstreet Boys",
+          "totalMencoes": 290,
+          "sentimentoMedio": 66,
+          "distribuicao": {
+            "positive": 190,
+            "neutral": 81,
+            "negative": 19
+          },
+          "totalReach": 352763,
+          "totalEngagement": 791,
+          "engagementRate": 0.22,
+          "topPost": "A segunda edição do festival The Town começa neste sábado (6). O evento também acontece nos dias 7, 12, 13 e 14 de setembro, no Autódromo de Interlagos, em São Paulo. Neste ano, os headliners do festi",
+          "topPostEngagement": 451,
+          "allPosts": [
+            {
+              "text": "A segunda edição do festival The Town começa neste sábado (6). O evento também acontece nos dias 7, 12, 13 e 14 de setembro, no Autódromo de Interlagos, em São Paulo. Neste ano, os headliners do festi",
+              "engagement": 451,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/p/DOQ7xuTDS_S/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Começa hoje o The Town 2025 em São Paulo! O Autódromo de Interlagos vira palco de um dos maiores festivais de música do país, com cinco dias de shows que misturam pop, rock, rap, MPB e eletrônica. 📅 ",
+              "engagement": 138,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/p/DOQ3haCka8L/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "VAI COMEÇAR! 🔥 Neste sábado (6), São Paulo vira destino de grandes estrelas internacionais para a segunda edição do The Town e o que não vai faltar são artistas que a gente ama. Travis Scott, Green D",
+              "engagement": 72,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/p/DOQyou5gFwI/",
+              "platform": "Instagram"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Borges",
+          "totalMencoes": 40,
+          "sentimentoMedio": 83,
+          "distribuicao": {
+            "positive": 33,
+            "neutral": 2,
+            "negative": 5
+          },
+          "totalReach": 339309,
+          "totalEngagement": 12678,
+          "engagementRate": 3.74,
+          "topPost": "THE ONE ✨ O mccabelinho e o borges entregaram TUDO com ‘Só Rock 3’ aqui no The Town! 🔥#MCCabelinhoNoMultishow",
+          "topPostEngagement": 11313,
+          "allPosts": [
+            {
+              "text": "THE ONE ✨ O mccabelinho e o borges entregaram TUDO com ‘Só Rock 3’ aqui no The Town! 🔥#MCCabelinhoNoMultishow",
+              "engagement": 11313,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DORsVTrjxIJ/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Atenção, atenção! 🤚 🎤 O palco The Factory virou o epicentro da música preta, com muito trap, rap e funk! Nessa noite, o palco foi dominado por Teto, WIU e Budah. O show do Borges também teve um mome",
+              "engagement": 729,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DOSMMR9jkzm/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "THE TOWN 2025 – Primeiro dia de festival! Confira os horários da programação de hoje (6):\n\nPalco Skyline\nFilipe Ret – 15h50\nBurna Boy – 18h10\nDon Toliver – 20h30\nTravis Scott – 23h15\n\nPalco The One\nKa",
+              "engagement": 422,
+              "sentiment": "positive",
+              "url": "http://twitter.com/igorogh/statuses/1964297542843187689",
+              "platform": "Twitter"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Ludmilla",
+          "totalMencoes": 88,
+          "sentimentoMedio": 19,
+          "distribuicao": {
+            "positive": 17,
+            "neutral": 69,
+            "negative": 2
+          },
+          "totalReach": 223916,
+          "totalEngagement": 1919,
+          "engagementRate": 0.86,
+          "topPost": "ivete, gaby amarantos, rebeca andrade, xamã, pablo, anitta, ludmilla, caminho das índias, leo santana, calcinha preta, escola de samba, the town, neymar, rock in rio, criança esperança, paulo gustavo,",
+          "topPostEngagement": 1167,
+          "allPosts": [
+            {
+              "text": "ivete, gaby amarantos, rebeca andrade, xamã, pablo, anitta, ludmilla, caminho das índias, leo santana, calcinha preta, escola de samba, the town, neymar, rock in rio, criança esperança, paulo gustavo,",
+              "engagement": 1167,
+              "sentiment": "neutral",
+              "url": "http://twitter.com/poolsdrunk/statuses/1964402476024758527",
+              "platform": "Twitter"
+            },
+            {
+              "text": "Tasha & Tracie performam \"Sou Má\" no The Town. A música é uma parceria com a mais mais: Ludmilla. 🔥💫\n\n#TheTown2025\n\nhttps://t.co/vOVTkI0R47",
+              "engagement": 404,
+              "sentiment": "neutral",
+              "url": "http://twitter.com/voudegrade/statuses/1964445700563095700",
+              "platform": "Twitter"
+            },
+            {
+              "text": "Começa hoje o The Town 2025 em São Paulo! O Autódromo de Interlagos vira palco de um dos maiores festivais de música do país, com cinco dias de shows que misturam pop, rock, rap, MPB e eletrônica. 📅 ",
+              "engagement": 138,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/p/DOQ3haCka8L/",
+              "platform": "Instagram"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Bad Religion",
+          "totalMencoes": 63,
+          "sentimentoMedio": 60,
+          "distribuicao": {
+            "positive": 38,
+            "neutral": 21,
+            "negative": 4
+          },
+          "totalReach": 195667,
+          "totalEngagement": 6476,
+          "engagementRate": 3.31,
+          "topPost": "Um filme de comédia inspirado no Green Day vai chegar às telonas em breve. Intitulado “New Year’s Rev”, o longa fará sua estreia no próximo dia 12 de setembro no Festival Internacional de Cinema de To",
+          "topPostEngagement": 6044,
+          "allPosts": [
+            {
+              "text": "Um filme de comédia inspirado no Green Day vai chegar às telonas em breve. Intitulado “New Year’s Rev”, o longa fará sua estreia no próximo dia 12 de setembro no Festival Internacional de Cinema de To",
+              "engagement": 6044,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/p/DOQqyu4jYrS/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Atenção, fãs de guitarra: amanhã é o Dia do Rock no The Town e o line-up veio pra acabar com qualquer resquício de voz. 🔥 No palco principal: Green Day, Bad Religion, Bruce Dickinson e Capital Inicia",
+              "engagement": 184,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DOSCTmJkYNi/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Começa hoje o The Town 2025 em São Paulo! O Autódromo de Interlagos vira palco de um dos maiores festivais de música do país, com cinco dias de shows que misturam pop, rock, rap, MPB e eletrônica. 📅 ",
+              "engagement": 138,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/p/DOQ3haCka8L/",
+              "platform": "Instagram"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Lionel Richie",
+          "totalMencoes": 64,
+          "sentimentoMedio": 48,
+          "distribuicao": {
+            "positive": 31,
+            "neutral": 31,
+            "negative": 2
+          },
+          "totalReach": 147900,
+          "totalEngagement": 315,
+          "engagementRate": 0.21,
+          "topPost": "Começa hoje o The Town 2025 em São Paulo! O Autódromo de Interlagos vira palco de um dos maiores festivais de música do país, com cinco dias de shows que misturam pop, rock, rap, MPB e eletrônica. 📅 ",
+          "topPostEngagement": 138,
+          "allPosts": [
+            {
+              "text": "Começa hoje o The Town 2025 em São Paulo! O Autódromo de Interlagos vira palco de um dos maiores festivais de música do país, com cinco dias de shows que misturam pop, rock, rap, MPB e eletrônica. 📅 ",
+              "engagement": 138,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/p/DOQ3haCka8L/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Show do Lionel Richie no The Town terá presença de guitarrista brasileiro.\n\nGrecco Buratto vai tocar com o popstar norte-americano. https://t.co/LLpbdHJY4z",
+              "engagement": 97,
+              "sentiment": "positive",
+              "url": "http://twitter.com/jnflesch/statuses/1964347895659819456",
+              "platform": "Twitter"
+            },
+            {
+              "text": "VAI COMEÇAR! 🔥 Neste sábado (6), São Paulo vira destino de grandes estrelas internacionais para a segunda edição do The Town e o que não vai faltar são artistas que a gente ama. Travis Scott, Green D",
+              "engagement": 72,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/p/DOQyou5gFwI/",
+              "platform": "Instagram"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "J Balvin",
+          "totalMencoes": 37,
+          "sentimentoMedio": 35,
+          "distribuicao": {
+            "positive": 13,
+            "neutral": 24,
+            "negative": 0
+          },
+          "totalReach": 122069,
+          "totalEngagement": 21,
+          "engagementRate": 0.02,
+          "topPost": "@seara_brasil Match perfeito é Iscas de Frango, deliciosas e combina com o festival. Aposto que o J Balvin ia adorar iscas de frango. Seara o match perfeito para o The Town. Me leva para ver o J Balvi",
+          "topPostEngagement": 7,
+          "allPosts": [
+            {
+              "text": "@seara_brasil Match perfeito é Iscas de Frango, deliciosas e combina com o festival. Aposto que o J Balvin ia adorar iscas de frango. Seara o match perfeito para o The Town. Me leva para ver o J Balvi",
+              "engagement": 7,
+              "sentiment": "positive",
+              "url": "http://twitter.com/BaiderCatarina/statuses/1964361422575423622",
+              "platform": "Twitter"
+            },
+            {
+              "text": "VENDO INGRESSO THE TOWN DIA 14/09 KATY PERRY CAMILA CABELLO J BALVIN #comprempfv tá por 420 - meia estudante",
+              "engagement": 5,
+              "sentiment": "neutral",
+              "url": "http://twitter.com/hllouiez/statuses/1964496312554094607",
+              "platform": "Twitter"
+            },
+            {
+              "text": "VENDO INGRESSO THE TOWN DIA 14/09 KATY PERRY CAMILA CABELLO J BALVIN #comprempfv tá por 420 - é meia estudante",
+              "engagement": 4,
+              "sentiment": "neutral",
+              "url": "http://twitter.com/hllouiez/statuses/1964464533898195254",
+              "platform": "Twitter"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Jason Derulo",
+          "totalMencoes": 18,
+          "sentimentoMedio": 50,
+          "distribuicao": {
+            "positive": 9,
+            "neutral": 8,
+            "negative": 1
+          },
+          "totalReach": 107168,
+          "totalEngagement": 211,
+          "engagementRate": 0.2,
+          "topPost": "Começa hoje o The Town 2025 em São Paulo! O Autódromo de Interlagos vira palco de um dos maiores festivais de música do país, com cinco dias de shows que misturam pop, rock, rap, MPB e eletrônica. 📅 ",
+          "topPostEngagement": 138,
+          "allPosts": [
+            {
+              "text": "Começa hoje o The Town 2025 em São Paulo! O Autódromo de Interlagos vira palco de um dos maiores festivais de música do país, com cinco dias de shows que misturam pop, rock, rap, MPB e eletrônica. 📅 ",
+              "engagement": 138,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/p/DOQ3haCka8L/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "VAI COMEÇAR! 🔥 Neste sábado (6), São Paulo vira destino de grandes estrelas internacionais para a segunda edição do The Town e o que não vai faltar são artistas que a gente ama. Travis Scott, Green D",
+              "engagement": 72,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/p/DOQyou5gFwI/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "The Town 2025 rola nos dias 6, 7, 12, 13 e 14/09 em SP. Principais atrações por dia:\n\n- 06/09: Travis Scott, Ms. Lauryn Hill, Burna Boy, MC Cabelinho\n- 07/09: Green Day, Iggy Pop, Sex Pistols, Bruce D",
+              "engagement": 1,
+              "sentiment": "neutral",
+              "url": "http://twitter.com/grok/statuses/1964456698799935492",
+              "platform": "Twitter"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Ivete Sangalo",
+          "totalMencoes": 48,
+          "sentimentoMedio": 35,
+          "distribuicao": {
+            "positive": 17,
+            "neutral": 29,
+            "negative": 2
+          },
+          "totalReach": 104609,
+          "totalEngagement": 151,
+          "engagementRate": 0.14,
+          "topPost": "Começa hoje o The Town 2025 em São Paulo! O Autódromo de Interlagos vira palco de um dos maiores festivais de música do país, com cinco dias de shows que misturam pop, rock, rap, MPB e eletrônica. 📅 ",
+          "topPostEngagement": 138,
+          "allPosts": [
+            {
+              "text": "Começa hoje o The Town 2025 em São Paulo! O Autódromo de Interlagos vira palco de um dos maiores festivais de música do país, com cinco dias de shows que misturam pop, rock, rap, MPB e eletrônica. 📅 ",
+              "engagement": 138,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/p/DOQ3haCka8L/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Atenção, música e diversão! O festival The Town 2025 começa hoje, 6 de setembro, no Autódromo de Interlagos, em São Paulo. Durante cinco dias (6, 7, 12, 13 e 14 de setembro), o evento promete shows in",
+              "engagement": 11,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/p/DOQX3VmDm7i/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Atenção, música e diversão! O festival The Town 2025 começa hoje, 6 de setembro, no Autódromo de Interlagos, em São Paulo. Durante cinco dias (6, 7, 12, 13 e 14 de setembro), o evento promete shows in",
+              "engagement": 1,
+              "sentiment": "positive",
+              "url": "https://www.facebook.com/359819894064077/posts/1315970687205645#channels",
+              "platform": "Facebook"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "CeeLo Green",
+          "totalMencoes": 16,
+          "sentimentoMedio": 50,
+          "distribuicao": {
+            "positive": 8,
+            "neutral": 8,
+            "negative": 0
+          },
+          "totalReach": 100504,
+          "totalEngagement": 1,
+          "engagementRate": 0,
+          "topPost": "The Town 2025 rola nos dias 6, 7, 12, 13 e 14/09 em SP. Principais atrações por dia:\n\n- 06/09: Travis Scott, Ms. Lauryn Hill, Burna Boy, MC Cabelinho\n- 07/09: Green Day, Iggy Pop, Sex Pistols, Bruce D",
+          "topPostEngagement": 1,
+          "allPosts": [
+            {
+              "text": "The Town 2025 rola nos dias 6, 7, 12, 13 e 14/09 em SP. Principais atrações por dia:\n\n- 06/09: Travis Scott, Ms. Lauryn Hill, Burna Boy, MC Cabelinho\n- 07/09: Green Day, Iggy Pop, Sex Pistols, Bruce D",
+              "engagement": 1,
+              "sentiment": "neutral",
+              "url": "http://twitter.com/grok/statuses/1964456698799935492",
+              "platform": "Twitter"
+            },
+            {
+              "text": "...(Sexta-feira) Palco Skyline 15h40 – The Flight 15h50 – Jota Quest 18h10 – CeeLo Green 20h30 – Jason Derulo 23h15 – Backstreet Boys Palco The One 14h40 – Di Ferrero 17h00 – Duda Beat 19h20 – Pedro S",
+              "engagement": 0,
+              "sentiment": "neutral",
+              "url": "https://www.comando7.com/news-the-town-2025-tem-green-day-bruce-dickinson-iggy-pop-e-mais-veteranos-do-rock-no-2-dia",
+              "platform": "News"
+            },
+            {
+              "text": "...(Sexta-feira) Palco Skyline 15h40 – The Flight 15h50 – Jota Quest 18h10 – CeeLo Green 20h30 – Jason Derulo 23h15 – Backstreet Boys Palco The One 14h40 – Di Ferrero 17h00 – Duda Beat 19h20 – Pedro S",
+              "engagement": 0,
+              "sentiment": "neutral",
+              "url": "https://www.popular.interativacastilho.com.br/news-the-town-2025-tem-green-day-bruce-dickinson-iggy-pop-e-mais-veteranos-do-rock-no-2-dia",
+              "platform": "News"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Luísa Sonza",
+          "totalMencoes": 61,
+          "sentimentoMedio": 34,
+          "distribuicao": {
+            "positive": 21,
+            "neutral": 13,
+            "negative": 27
+          },
+          "totalReach": 85529,
+          "totalEngagement": 335,
+          "engagementRate": 0.39,
+          "topPost": "Já avisaram a ela? Falta menos de uma semana para Luísa Sonza se apresentar como headliner no Palco The One, do The Town, às 21h55. https://t.co/hdu7T9S0Bo",
+          "topPostEngagement": 171,
+          "allPosts": [
+            {
+              "text": "Já avisaram a ela? Falta menos de uma semana para Luísa Sonza se apresentar como headliner no Palco The One, do The Town, às 21h55. https://t.co/hdu7T9S0Bo",
+              "engagement": 171,
+              "sentiment": "negative",
+              "url": "http://twitter.com/luisasbr/statuses/1964356825790185891",
+              "platform": "Twitter"
+            },
+            {
+              "text": "Começa hoje o The Town 2025 em São Paulo! O Autódromo de Interlagos vira palco de um dos maiores festivais de música do país, com cinco dias de shows que misturam pop, rock, rap, MPB e eletrônica. 📅 ",
+              "engagement": 138,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/p/DOQ3haCka8L/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "ATENÇÃO! | Faltam 6 dias para Luísa Sonza se apresentar no The Town 2025.\n\n#bb27 #PRAEWCHARITY2025xMilkLove #LuisaSonza #TheTownNoMultishow #TheTown2025 #TheTown #TheTownNaGlô #viral #FYOP #fypシ #fypv",
+              "engagement": 13,
+              "sentiment": "positive",
+              "url": "http://twitter.com/FONTESONZER/statuses/1964484455026085915",
+              "platform": "Twitter"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Karol Conka",
+          "totalMencoes": 21,
+          "sentimentoMedio": 81,
+          "distribuicao": {
+            "positive": 17,
+            "neutral": 2,
+            "negative": 2
+          },
+          "totalReach": 82906,
+          "totalEngagement": 1921,
+          "engagementRate": 2.32,
+          "topPost": "ORIGINAL SEM CÓPIA! Karol Conka subiu ao palco The One no primeiro dia da edição 2025 do The Town e mostrou por que construiu uma carreira bem linda aqui. E esse look poderoso diante do palco dourado?",
+          "topPostEngagement": 1732,
+          "allPosts": [
+            {
+              "text": "ORIGINAL SEM CÓPIA! Karol Conka subiu ao palco The One no primeiro dia da edição 2025 do The Town e mostrou por que construiu uma carreira bem linda aqui. E esse look poderoso diante do palco dourado?",
+              "engagement": 1732,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DORVxvND5Dn/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Hoje é dia de Ebony no The Town! A nossa baddie sobe no palco como convidada de Karol Conka no palco The One, que está previsto para começar 14:40! Quem vai? https://t.co/A9ArZZP9Sd",
+              "engagement": 86,
+              "sentiment": "positive",
+              "url": "http://twitter.com/centralebony/statuses/1964357408685543461",
+              "platform": "Twitter"
+            },
+            {
+              "text": "HOJE!! Ajuliacosta canta ao lado de Karol Conka no seu show no festival the town. https://t.co/nQU4aV31G7",
+              "engagement": 75,
+              "sentiment": "positive",
+              "url": "http://twitter.com/CentralAju/statuses/1964317798772899892",
+              "platform": "Twitter"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Pitty",
+          "totalMencoes": 83,
+          "sentimentoMedio": 43,
+          "distribuicao": {
+            "positive": 36,
+            "neutral": 43,
+            "negative": 4
+          },
+          "totalReach": 61444,
+          "totalEngagement": 427,
+          "engagementRate": 0.69,
+          "topPost": "Atenção, fãs de guitarra: amanhã é o Dia do Rock no The Town e o line-up veio pra acabar com qualquer resquício de voz. 🔥 No palco principal: Green Day, Bad Religion, Bruce Dickinson e Capital Inicia",
+          "topPostEngagement": 184,
+          "allPosts": [
+            {
+              "text": "Atenção, fãs de guitarra: amanhã é o Dia do Rock no The Town e o line-up veio pra acabar com qualquer resquício de voz. 🔥 No palco principal: Green Day, Bad Religion, Bruce Dickinson e Capital Inicia",
+              "engagement": 184,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DOSCTmJkYNi/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "É amanhã! Show da @Pitty 🔥⚡\nThe Town vai tremer e a gente vai estar lá! Quem cola também?\n\n🎥 @shadesofbeto https://t.co/X4Q2Mgol99",
+              "engagement": 77,
+              "sentiment": "positive",
+              "url": "http://twitter.com/PittyVideos/statuses/1964336776308314470",
+              "platform": "Twitter"
+            },
+            {
+              "text": "Merch oficial dos artistas disponíveis no The Town hoje. #TheTown2025\n\n📍 ao lado da Baccio Di Latte no topo do morro entre The One e Skyline\n\nTravis Scott, Lauryn Hill, Bad Religion, Green Day, Iggy ",
+              "engagement": 67,
+              "sentiment": "positive",
+              "url": "http://twitter.com/weinthecrowd/statuses/1964367518438670548",
+              "platform": "Twitter"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Joelma",
+          "totalMencoes": 24,
+          "sentimentoMedio": 33,
+          "distribuicao": {
+            "positive": 8,
+            "neutral": 9,
+            "negative": 7
+          },
+          "totalReach": 59126,
+          "totalEngagement": 552,
+          "engagementRate": 0.93,
+          "topPost": "VEM AI? 👀🚨\nSegundo informações apuradas com exclusividade pelo portal Pará Pop, Joelma estaria sendo sondada para ser atração do Rock In Rio 2026.\n\n— A artista se apresenta neste ano no \"Amazônia pa",
+          "topPostEngagement": 239,
+          "allPosts": [
+            {
+              "text": "VEM AI? 👀🚨\nSegundo informações apuradas com exclusividade pelo portal Pará Pop, Joelma estaria sendo sondada para ser atração do Rock In Rio 2026.\n\n— A artista se apresenta neste ano no \"Amazônia pa",
+              "engagement": 239,
+              "sentiment": "negative",
+              "url": "http://twitter.com/JoelmaLobby/statuses/1964427563125932063",
+              "platform": "Twitter"
+            },
+            {
+              "text": "A Amazônia desembarcou em São Paulo neste fim de semana no The Town, festival que acontece no Autódromo de Interlagos entre os dias 6, 7, 12, 13 e 14 de setembro. A iniciativa inédita é da Vale, que t",
+              "engagement": 201,
+              "sentiment": "neutral",
+              "url": "https://www.instagram.com/p/DORg0rXga-n/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "A Amazônia desembarcou em São Paulo neste fim de semana no The Town, festival que acontece no Autódromo de Interlagos entre os dias 6, 7, 12, 13 e 14 de setembro. A iniciativa inédita é da Vale, que t",
+              "engagement": 56,
+              "sentiment": "neutral",
+              "url": "https://www.facebook.com/103494018683362/posts/822306586797034#channels",
+              "platform": "Facebook"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "CPM 22",
+          "totalMencoes": 33,
+          "sentimentoMedio": 55,
+          "distribuicao": {
+            "positive": 18,
+            "neutral": 14,
+            "negative": 1
+          },
+          "totalReach": 38895,
+          "totalEngagement": 70,
+          "engagementRate": 0.18,
+          "topPost": "Merch oficial dos artistas disponíveis no The Town hoje. #TheTown2025\n\n📍 ao lado da Baccio Di Latte no topo do morro entre The One e Skyline\n\nTravis Scott, Lauryn Hill, Bad Religion, Green Day, Iggy ",
+          "topPostEngagement": 67,
+          "allPosts": [
+            {
+              "text": "Merch oficial dos artistas disponíveis no The Town hoje. #TheTown2025\n\n📍 ao lado da Baccio Di Latte no topo do morro entre The One e Skyline\n\nTravis Scott, Lauryn Hill, Bad Religion, Green Day, Iggy ",
+              "engagement": 67,
+              "sentiment": "positive",
+              "url": "http://twitter.com/weinthecrowd/statuses/1964367518438670548",
+              "platform": "Twitter"
+            },
+            {
+              "text": "Amanhã terá CPM 22, Pitty e Green Day no The Town e, infelizmente, não vou conseguir acompanhar. Ódio!",
+              "engagement": 3,
+              "sentiment": "negative",
+              "url": "http://twitter.com/underpressure7x/statuses/1964507125348258000",
+              "platform": "Twitter"
+            },
+            {
+              "text": "...mais! Quais são as atrações confirmadas? As principais atrações confirmadas no evento são: Katy Perry, Camila Cabello, Mariah Carey, Jessie J, Green Day, Ivete Sangalo, Pitty, Stacy Ryan, Iggy Pop,",
+              "engagement": 0,
+              "sentiment": "neutral",
+              "url": "https://www.omelete.com.br/musica/the-town-2025-precos-comida",
+              "platform": "News"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Capital Inicial",
+          "totalMencoes": 35,
+          "sentimentoMedio": 43,
+          "distribuicao": {
+            "positive": 15,
+            "neutral": 18,
+            "negative": 2
+          },
+          "totalReach": 26015,
+          "totalEngagement": 307,
+          "engagementRate": 1.18,
+          "topPost": "Atenção, fãs de guitarra: amanhã é o Dia do Rock no The Town e o line-up veio pra acabar com qualquer resquício de voz. 🔥 No palco principal: Green Day, Bad Religion, Bruce Dickinson e Capital Inicia",
+          "topPostEngagement": 184,
+          "allPosts": [
+            {
+              "text": "Atenção, fãs de guitarra: amanhã é o Dia do Rock no The Town e o line-up veio pra acabar com qualquer resquício de voz. 🔥 No palco principal: Green Day, Bad Religion, Bruce Dickinson e Capital Inicia",
+              "engagement": 184,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DOSCTmJkYNi/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Prontos para o dia do rock no The Town, bebês? O Capital Inicial chutou o banquinho, quebrou o violão e vai botar guitarras e hits clássicos no The Town 🎸 Veja o que mais esperar da trupe de Dinho Ou",
+              "engagement": 109,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/reel/DOQtRbIDpa6/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "É amanhã! Vai ter mais The Town em São Paulo, dia 07 de setembro de 2025, e não é dia de aquecimento, é dia de ROCK pesado que vai deixar todo mundo com dor na garganta. Olha só o que vai rolar: Palco",
+              "engagement": 14,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/p/DOR2T_pEa7T/",
+              "platform": "Instagram"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Pedro Sampaio",
+          "totalMencoes": 22,
+          "sentimentoMedio": 59,
+          "distribuicao": {
+            "positive": 13,
+            "neutral": 8,
+            "negative": 1
+          },
+          "totalReach": 15511,
+          "totalEngagement": 0,
+          "engagementRate": 0,
+          "topPost": "...(Sexta-feira) Palco Skyline 15h40 – The Flight 15h50 – Jota Quest 18h10 – CeeLo Green 20h30 – Jason Derulo 23h15 – Backstreet Boys Palco The One 14h40 – Di Ferrero 17h00 – Duda Beat 19h20 – Pedro S",
+          "topPostEngagement": 0,
+          "allPosts": [
+            {
+              "text": "...(Sexta-feira) Palco Skyline 15h40 – The Flight 15h50 – Jota Quest 18h10 – CeeLo Green 20h30 – Jason Derulo 23h15 – Backstreet Boys Palco The One 14h40 – Di Ferrero 17h00 – Duda Beat 19h20 – Pedro S",
+              "engagement": 0,
+              "sentiment": "neutral",
+              "url": "https://www.comando7.com/news-the-town-2025-tem-green-day-bruce-dickinson-iggy-pop-e-mais-veteranos-do-rock-no-2-dia",
+              "platform": "News"
+            },
+            {
+              "text": "...(Sexta-feira) Palco Skyline 15h40 – The Flight 15h50 – Jota Quest 18h10 – CeeLo Green 20h30 – Jason Derulo 23h15 – Backstreet Boys Palco The One 14h40 – Di Ferrero 17h00 – Duda Beat 19h20 – Pedro S",
+              "engagement": 0,
+              "sentiment": "neutral",
+              "url": "https://www.popular.interativacastilho.com.br/news-the-town-2025-tem-green-day-bruce-dickinson-iggy-pop-e-mais-veteranos-do-rock-no-2-dia",
+              "platform": "News"
+            },
+            {
+              "text": "...(Sexta-feira) Palco Skyline 15h40 – The Flight 15h50 – Jota Quest 18h10 – CeeLo Green 20h30 – Jason Derulo 23h15 – Backstreet Boys Palco The One 14h40 – Di Ferrero 17h00 – Duda Beat 19h20 – Pedro S",
+              "engagement": 0,
+              "sentiment": "neutral",
+              "url": "https://www.radiopororocamacapa.com.br/news-the-town-2025-tem-green-day-bruce-dickinson-iggy-pop-e-mais-veteranos-do-rock-no-2-dia",
+              "platform": "News"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Jota.Pê",
+          "totalMencoes": 10,
+          "sentimentoMedio": 40,
+          "distribuicao": {
+            "positive": 4,
+            "neutral": 6,
+            "negative": 0
+          },
+          "totalReach": 15452,
+          "totalEngagement": 0,
+          "engagementRate": 0,
+          "topPost": "Como assistir ao The Town 2025 na TV e na internet\n\nA segunda edição do The Town começou neste sábado (6/9) no Autódromo de Interlagos, em São Paulo, sob garoa fina e com ingressos esgotados apenas na",
+          "topPostEngagement": 0,
+          "allPosts": [
+            {
+              "text": "Como assistir ao The Town 2025 na TV e na internet\n\nA segunda edição do The Town começou neste sábado (6/9) no Autódromo de Interlagos, em São Paulo, sob garoa fina e com ingressos esgotados apenas na",
+              "engagement": 0,
+              "sentiment": "positive",
+              "url": "https://pipocamoderna.com.br/2025/09/the-town-2025-transmissao-tv-internet/",
+              "platform": "Other"
+            },
+            {
+              "text": "Chegou a hora de curtir o The Town, um dos festivais mais aguardados de 2025, que vai trazer shows de nomes como Green Day, Travis Scott, Bad Religion, Backstreet Boys, Katy Perry e Mariah Carey a São",
+              "engagement": 0,
+              "sentiment": "positive",
+              "url": "https://www.tenhomaisdiscosqueamigos.com/2025/09/06/the-town-2025-assistir-ao-vivo/",
+              "platform": "Other"
+            },
+            {
+              "text": "...dentro do The Town A iFood tem três espaços no The Town. Em um deles, o público pode virar um avatar dançarino e acompanhar uma programação musical no baile do estande. A programação inclui algumas",
+              "engagement": 0,
+              "sentiment": "neutral",
+              "url": "https://agronomicafm.com.br/site/noticias/fs-de-msica-e-de-brindes-the-town-tem-mais-de-70-opes-de-mimos-em-cerca-de-80-ativaes",
+              "platform": "News"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Duda Beat",
+          "totalMencoes": 20,
+          "sentimentoMedio": 50,
+          "distribuicao": {
+            "positive": 10,
+            "neutral": 10,
+            "negative": 0
+          },
+          "totalReach": 15176,
+          "totalEngagement": 0,
+          "engagementRate": 0,
+          "topPost": "Aceitaria fácil um ingresso do the town dia 12 so pra ver a duq e duda beat",
+          "topPostEngagement": 0,
+          "allPosts": [
+            {
+              "text": "Aceitaria fácil um ingresso do the town dia 12 so pra ver a duq e duda beat",
+              "engagement": 0,
+              "sentiment": "positive",
+              "url": "http://twitter.com/kalisupremacy/statuses/1964480102181589438",
+              "platform": "Twitter"
+            },
+            {
+              "text": "...(Sexta-feira) Palco Skyline 15h40 – The Flight 15h50 – Jota Quest 18h10 – CeeLo Green 20h30 – Jason Derulo 23h15 – Backstreet Boys Palco The One 14h40 – Di Ferrero 17h00 – Duda Beat 19h20 – Pedro S",
+              "engagement": 0,
+              "sentiment": "neutral",
+              "url": "https://www.comando7.com/news-the-town-2025-tem-green-day-bruce-dickinson-iggy-pop-e-mais-veteranos-do-rock-no-2-dia",
+              "platform": "News"
+            },
+            {
+              "text": "...(Sexta-feira) Palco Skyline 15h40 – The Flight 15h50 – Jota Quest 18h10 – CeeLo Green 20h30 – Jason Derulo 23h15 – Backstreet Boys Palco The One 14h40 – Di Ferrero 17h00 – Duda Beat 19h20 – Pedro S",
+              "engagement": 0,
+              "sentiment": "neutral",
+              "url": "https://www.popular.interativacastilho.com.br/news-the-town-2025-tem-green-day-bruce-dickinson-iggy-pop-e-mais-veteranos-do-rock-no-2-dia",
+              "platform": "News"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "totalMencoes": 12,
+          "sentimentoMedio": 58,
+          "distribuicao": {
+            "positive": 7,
+            "neutral": 4,
+            "negative": 1
+          },
+          "totalReach": 12084,
+          "totalEngagement": 0,
+          "engagementRate": 0,
+          "topPost": "a natasha bedingfield vai ser no mesmo dia do the town da Mariah Carey nunca imaginei que fosse ouvir minha música favorita da vida ao vivo assim de forma repentina gente eu to- 😭",
+          "topPostEngagement": 0,
+          "allPosts": [
+            {
+              "text": "a natasha bedingfield vai ser no mesmo dia do the town da Mariah Carey nunca imaginei que fosse ouvir minha música favorita da vida ao vivo assim de forma repentina gente eu to- 😭",
+              "engagement": 0,
+              "sentiment": "negative",
+              "url": "http://twitter.com/blueyestaylor/statuses/1964423217910857782",
+              "platform": "Twitter"
+            },
+            {
+              "text": "Como assistir ao The Town 2025 na TV e na internet\n\nA segunda edição do The Town começou neste sábado (6/9) no Autódromo de Interlagos, em São Paulo, sob garoa fina e com ingressos esgotados apenas na",
+              "engagement": 0,
+              "sentiment": "positive",
+              "url": "https://pipocamoderna.com.br/2025/09/the-town-2025-transmissao-tv-internet/",
+              "platform": "Other"
+            },
+            {
+              "text": "Chegou a hora de curtir o The Town, um dos festivais mais aguardados de 2025, que vai trazer shows de nomes como Green Day, Travis Scott, Bad Religion, Backstreet Boys, Katy Perry e Mariah Carey a São",
+              "engagement": 0,
+              "sentiment": "positive",
+              "url": "https://www.tenhomaisdiscosqueamigos.com/2025/09/06/the-town-2025-assistir-ao-vivo/",
+              "platform": "Other"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Jota Quest",
+          "totalMencoes": 17,
+          "sentimentoMedio": 53,
+          "distribuicao": {
+            "positive": 9,
+            "neutral": 8,
+            "negative": 0
+          },
+          "totalReach": 11739,
+          "totalEngagement": 0,
+          "engagementRate": 0,
+          "topPost": "...(Sexta-feira) Palco Skyline 15h40 – The Flight 15h50 – Jota Quest 18h10 – CeeLo Green 20h30 – Jason Derulo 23h15 – Backstreet Boys Palco The One 14h40 – Di Ferrero 17h00 – Duda Beat 19h20 – Pedro S",
+          "topPostEngagement": 0,
+          "allPosts": [
+            {
+              "text": "...(Sexta-feira) Palco Skyline 15h40 – The Flight 15h50 – Jota Quest 18h10 – CeeLo Green 20h30 – Jason Derulo 23h15 – Backstreet Boys Palco The One 14h40 – Di Ferrero 17h00 – Duda Beat 19h20 – Pedro S",
+              "engagement": 0,
+              "sentiment": "neutral",
+              "url": "https://www.comando7.com/news-the-town-2025-tem-green-day-bruce-dickinson-iggy-pop-e-mais-veteranos-do-rock-no-2-dia",
+              "platform": "News"
+            },
+            {
+              "text": "...(Sexta-feira) Palco Skyline 15h40 – The Flight 15h50 – Jota Quest 18h10 – CeeLo Green 20h30 – Jason Derulo 23h15 – Backstreet Boys Palco The One 14h40 – Di Ferrero 17h00 – Duda Beat 19h20 – Pedro S",
+              "engagement": 0,
+              "sentiment": "neutral",
+              "url": "https://www.popular.interativacastilho.com.br/news-the-town-2025-tem-green-day-bruce-dickinson-iggy-pop-e-mais-veteranos-do-rock-no-2-dia",
+              "platform": "News"
+            },
+            {
+              "text": "...(Sexta-feira) Palco Skyline 15h40 – The Flight 15h50 – Jota Quest 18h10 – CeeLo Green 20h30 – Jason Derulo 23h15 – Backstreet Boys Palco The One 14h40 – Di Ferrero 17h00 – Duda Beat 19h20 – Pedro S",
+              "engagement": 0,
+              "sentiment": "neutral",
+              "url": "https://www.radiopororocamacapa.com.br/news-the-town-2025-tem-green-day-bruce-dickinson-iggy-pop-e-mais-veteranos-do-rock-no-2-dia",
+              "platform": "News"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Supla",
+          "totalMencoes": 22,
+          "sentimentoMedio": 50,
+          "distribuicao": {
+            "positive": 11,
+            "neutral": 9,
+            "negative": 2
+          },
+          "totalReach": 10565,
+          "totalEngagement": 200,
+          "engagementRate": 1.89,
+          "topPost": "Atenção, fãs de guitarra: amanhã é o Dia do Rock no The Town e o line-up veio pra acabar com qualquer resquício de voz. 🔥 No palco principal: Green Day, Bad Religion, Bruce Dickinson e Capital Inicia",
+          "topPostEngagement": 184,
+          "allPosts": [
+            {
+              "text": "Atenção, fãs de guitarra: amanhã é o Dia do Rock no The Town e o line-up veio pra acabar com qualquer resquício de voz. 🔥 No palco principal: Green Day, Bad Religion, Bruce Dickinson e Capital Inicia",
+              "engagement": 184,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/reel/DOSCTmJkYNi/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "É amanhã! Vai ter mais The Town em São Paulo, dia 07 de setembro de 2025, e não é dia de aquecimento, é dia de ROCK pesado que vai deixar todo mundo com dor na garganta. Olha só o que vai rolar: Palco",
+              "engagement": 14,
+              "sentiment": "negative",
+              "url": "https://www.instagram.com/p/DOR2T_pEa7T/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "Festival é cansativo pra caralho, quem tá acostumado sabe. Logo, as pessoas chegam perto das atrações que quer assistir. Início é sempre vazio seja no Rock in Rio, no Lollapalooza, no The Town, Offspr",
+              "engagement": 2,
+              "sentiment": "negative",
+              "url": "http://twitter.com/PedroOrtiz29/statuses/1964394552124440902",
+              "platform": "Twitter"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Os Garotin",
+          "totalMencoes": 19,
+          "sentimentoMedio": 58,
+          "distribuicao": {
+            "positive": 11,
+            "neutral": 7,
+            "negative": 1
+          },
+          "totalReach": 8856,
+          "totalEngagement": 99,
+          "engagementRate": 1.12,
+          "topPost": "O trio Os Garotin lançou o segundo volume de seu EP de estreia, intitulado Os Garotin Session 2. O trabalho chegou às plataformas de streaming no dia 3 de setembro de 2025 e apresenta cinco faixas iné",
+          "topPostEngagement": 89,
+          "allPosts": [
+            {
+              "text": "O trio Os Garotin lançou o segundo volume de seu EP de estreia, intitulado Os Garotin Session 2. O trabalho chegou às plataformas de streaming no dia 3 de setembro de 2025 e apresenta cinco faixas iné",
+              "engagement": 89,
+              "sentiment": "positive",
+              "url": "https://www.instagram.com/p/DOR0jFiiJTv/",
+              "platform": "Instagram"
+            },
+            {
+              "text": "O trio Os Garotin lançou o segundo volume de seu EP de estreia, intitulado Os Garotin Session 2. O trabalho chegou às plataformas de streaming no dia 3 de setembro de 2025 e apresenta cinco faixas iné",
+              "engagement": 4,
+              "sentiment": "positive",
+              "url": "https://www.facebook.com/1751324185145663/posts/1449393180520604#channels",
+              "platform": "Facebook"
+            },
+            {
+              "text": "namoral\nmariah carey, priscilla, jessie j, lionel richie, gloria groove, ivete e os garotin\n\nmelhor dia do the town e o total de nenhum ingresso pra mim",
+              "engagement": 4,
+              "sentiment": "positive",
+              "url": "http://twitter.com/_ceudaboca_/statuses/1964298348048912574",
+              "platform": "Twitter"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Gloria Groove",
+          "totalMencoes": 20,
+          "sentimentoMedio": 35,
+          "distribuicao": {
+            "positive": 7,
+            "neutral": 11,
+            "negative": 2
+          },
+          "totalReach": 7061,
+          "totalEngagement": 20,
+          "engagementRate": 0.28,
+          "topPost": "Então quer dizer que faltam pouquíssimos dias pra Gloria Groove fazer história novamente no The Town? https://t.co/Ro9dEIIoLl",
+          "topPostEngagement": 16,
+          "allPosts": [
+            {
+              "text": "Então quer dizer que faltam pouquíssimos dias pra Gloria Groove fazer história novamente no The Town? https://t.co/Ro9dEIIoLl",
+              "engagement": 16,
+              "sentiment": "neutral",
+              "url": "http://twitter.com/danstruter/statuses/1964462223381975151",
+              "platform": "Twitter"
+            },
+            {
+              "text": "namoral\nmariah carey, priscilla, jessie j, lionel richie, gloria groove, ivete e os garotin\n\nmelhor dia do the town e o total de nenhum ingresso pra mim",
+              "engagement": 4,
+              "sentiment": "positive",
+              "url": "http://twitter.com/_ceudaboca_/statuses/1964298348048912574",
+              "platform": "Twitter"
+            },
+            {
+              "text": "RT @danstruter Então quer dizer que faltam pouquíssimos dias pra Gloria Groove fazer história novamente no The Town? https://t.co/Ro9dEIIoLl",
+              "engagement": 0,
+              "sentiment": "neutral",
+              "url": "http://twitter.com/imperiogroove/statuses/1964493428840157541",
+              "platform": "Twitter"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Di Ferrero",
+          "totalMencoes": 47,
+          "sentimentoMedio": 91,
+          "distribuicao": {
+            "positive": 43,
+            "neutral": 4,
+            "negative": 0
+          },
+          "totalReach": 6244,
+          "totalEngagement": 0,
+          "engagementRate": 0,
+          "topPost": "@vittor @seara_brasil Meu Match Perfeito seria acompanhar o show do Backstreet Boys com um bowl de nuggets seara bem pertinho do palco skyline, e antes comer um hot hit no palco the one ao som do Di F",
+          "topPostEngagement": 0,
+          "allPosts": [
+            {
+              "text": "@vittor @seara_brasil Meu Match Perfeito seria acompanhar o show do Backstreet Boys com um bowl de nuggets seara bem pertinho do palco skyline, e antes comer um hot hit no palco the one ao som do Di F",
+              "engagement": 0,
+              "sentiment": "positive",
+              "url": "http://twitter.com/JasmineBergamo/statuses/1964520534609449370",
+              "platform": "Twitter"
+            },
+            {
+              "text": "@vittor @seara_brasil Meu Match Perfeito seria acompanhar o show do Backstreet Boys com um bowl de nuggets seara bem pertinho do palco skyline, e antes comer um hot hit no palco the one ao som do Di F",
+              "engagement": 0,
+              "sentiment": "positive",
+              "url": "http://twitter.com/JasmineBergamo/statuses/1964520518968832366",
+              "platform": "Twitter"
+            },
+            {
+              "text": "@vittor @seara_brasil Meu Match Perfeito seria acompanhar o show do Backstreet Boys com um bowl de nuggets seara bem pertinho do palco skyline, e antes comer um hot hit no palco the one ao som do Di F",
+              "engagement": 0,
+              "sentiment": "positive",
+              "url": "http://twitter.com/JasmineBergamo/statuses/1964520505677140177",
+              "platform": "Twitter"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Dennis DJ",
+          "totalMencoes": 1,
+          "sentimentoMedio": 100,
+          "distribuicao": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+          },
+          "totalReach": 4632,
+          "totalEngagement": 0,
+          "engagementRate": 0,
+          "topPost": "Lauryn Hill fez o melhor álbum de todos os tempos?\nO The Town 2025 começará neste sábado (6), no Autódromo de Interlagos, com uma programação marcada pela consolidação do trap nos festivais. Com vário",
+          "topPostEngagement": 0,
+          "allPosts": [
+            {
+              "text": "Lauryn Hill fez o melhor álbum de todos os tempos?\nO The Town 2025 começará neste sábado (6), no Autódromo de Interlagos, com uma programação marcada pela consolidação do trap nos festivais. Com vário",
+              "engagement": 0,
+              "sentiment": "positive",
+              "url": "https://g1.globo.com/pop-arte/musica/the-town/2025/noticia/2025/09/06/the-town-2025-comeca-com-travis-scott-trap-brasileiro-e-repertorio-historico-de-lauryn-hill.ghtml",
+              "platform": "Other"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Luisa Sonza",
+          "totalMencoes": 2,
+          "sentimentoMedio": 100,
+          "distribuicao": {
+            "positive": 2,
+            "neutral": 0,
+            "negative": 0
+          },
+          "totalReach": 1183,
+          "totalEngagement": 0,
+          "engagementRate": 0,
+          "topPost": "..., Mariah Carey, Lionel Richie e Katy Perry também aparecem entre as atrações internacionais. Por sua vez, Ivete Sangalo, Luisa Sonza, CPM 22, Jota Quest, estão entre as apresentações de artistas na",
+          "topPostEngagement": 0,
+          "allPosts": [
+            {
+              "text": "..., Mariah Carey, Lionel Richie e Katy Perry também aparecem entre as atrações internacionais. Por sua vez, Ivete Sangalo, Luisa Sonza, CPM 22, Jota Quest, estão entre as apresentações de artistas na",
+              "engagement": 0,
+              "sentiment": "positive",
+              "url": "https://orlandopassos.com/2025/09/06/the-town-2025-veja-onde-assistir-os-shows-e-horarios/",
+              "platform": "News"
+            },
+            {
+              "text": "RT @pretademaiss trago notícias ao vivo do the town: luisa sonza meteu a cara e a coragem pra cantar um álbum novo, lançado há CINCOOO dias atrás!! \n\ne simplesmente tá TODO MUNDO CANTANDO COM ELA?????",
+              "engagement": 0,
+              "sentiment": "positive",
+              "url": "http://twitter.com/fvckevy_/statuses/1964191750357914080",
+              "platform": "Twitter"
+            }
+          ],
+          "dia": "06-09"
+        },
+        {
+          "name": "Jota Pê",
+          "totalMencoes": 1,
+          "sentimentoMedio": 100,
+          "distribuicao": {
+            "positive": 1,
+            "neutral": 0,
+            "negative": 0
+          },
+          "totalReach": 2,
+          "totalEngagement": 0,
+          "engagementRate": 0,
+          "topPost": "...tudo pra ser um sucesso! O público não pode perder os shows do Burna Boy, Lauryn Hill, Backstreet Boys, Mariah Carey, Lionel Richie, Ivete Sangalo, Ludmilla, IZA, Jota Pê convida João Gomes, Iggy P",
+          "topPostEngagement": 0,
+          "allPosts": [
+            {
+              "text": "...tudo pra ser um sucesso! O público não pode perder os shows do Burna Boy, Lauryn Hill, Backstreet Boys, Mariah Carey, Lionel Richie, Ivete Sangalo, Ludmilla, IZA, Jota Pê convida João Gomes, Iggy P",
+              "engagement": 0,
+              "sentiment": "positive",
+              "url": "https://tonafama.ig.com.br/the-town-comeca-neste-sabado-e-os-apresentadores-escalados-pela-globo-revelam-as-expectativas-para-a-transmissao/",
+              "platform": "News"
+            }
+          ],
+          "dia": "06-09"
+        }
+      ]
     },
     "influenciadores": {
-      "top": []
+      "top": [
+        {
+          "name": "seara_brasil",
+          "followers": 28160,
+          "mentions": 52,
+          "totalMencoes": 52,
+          "reach": 10210169,
+          "totalReach": 10210169,
+          "sentiment": 88,
+          "principal_contribuicao": "@its_mafeeee Primeiro dia e a gente já chegou assim: roubando a cena com muito sabor e crocância! Esse The Town é nosso 😎🧡 #SearaNoTheTown2025"
+        },
+        {
+          "name": "tvglobo",
+          "followers": 13378842,
+          "mentions": 49,
+          "totalMencoes": 49,
+          "reach": 9168305,
+          "totalReach": 9168305,
+          "sentiment": 84,
+          "principal_contribuicao": "SENTE A ENERGIA DO THE TOWN 🔥\n\nIsso que estamos ainda no 1º dia do festival! É a cidade do corre parando pela música 💥 #TheTownNaGlô #TheTown2025 ht"
+        },
+        {
+          "name": "vittor",
+          "followers": 116006,
+          "mentions": 2,
+          "totalMencoes": 2,
+          "reach": 7730230,
+          "totalReach": 7730230,
+          "sentiment": 100,
+          "principal_contribuicao": "@vittor Qual seria o Match Perfeito nesse festival? \n\nResponde aqui marcando a @seara_brasil e usando a tag #SearaNoTheTown2025 que os ADM’s estão de "
+        },
+        {
+          "name": "buyticketbrasil",
+          "followers": 15034,
+          "mentions": 2,
+          "totalMencoes": 2,
+          "reach": 7362739,
+          "totalReach": 7362739,
+          "sentiment": 100,
+          "principal_contribuicao": "RT @itsthiagovieira Galera o The Town já começou mas você ainda consegue fazer parte desse super festival e PAGANDO MENOS! Na @buyticketbrasil estão r"
+        },
+        {
+          "name": "portalpopline",
+          "followers": 1868475,
+          "mentions": 10,
+          "totalMencoes": 10,
+          "reach": 4785957,
+          "totalReach": 4785957,
+          "sentiment": 90,
+          "principal_contribuicao": "Essa todo mundo conhece! Durante o show de Ms. Lauryn Hill no palco The One do The Town, na noite deste sábado (06), o filho da cantora, o também cant"
+        },
+        {
+          "name": "rapnacionalofficial",
+          "followers": 1091703,
+          "mentions": 4,
+          "totalMencoes": 4,
+          "reach": 4499549,
+          "totalReach": 4499549,
+          "sentiment": 63,
+          "principal_contribuicao": "EMOCIONANTE! 👏🏽🥹 Tasha & Tracie (tashaetracieog) não seguram as lágrimas ao encerrar apresentação no The Town com a música “Amina”. 📹: globoplay /"
+        },
+        {
+          "name": "larissagloor",
+          "followers": 2998895,
+          "mentions": 1,
+          "totalMencoes": 1,
+          "reach": 4097232,
+          "totalReach": 4097232,
+          "sentiment": 100,
+          "principal_contribuicao": "Eu vivi a Experiência Preview do The Town 2025 com o airbnb! Imagina curtir o festival de um jeito totalmente novo, guiado por um especialista? Quem g"
+        },
+        {
+          "name": "portalg1",
+          "followers": 10622245,
+          "mentions": 19,
+          "totalMencoes": 19,
+          "reach": 4005825,
+          "totalReach": 4005825,
+          "sentiment": 58,
+          "principal_contribuicao": "🕶️ Dominou o dia do rap no festival - O The Town teve um acessório que roubou a cena neste sábado (6): o “óculos do Travis Scott”. Boa parte dos fãs "
+        },
+        {
+          "name": "luscas",
+          "followers": 7278777,
+          "mentions": 3,
+          "totalMencoes": 3,
+          "reach": 3375894,
+          "totalReach": 3375894,
+          "sentiment": 100,
+          "principal_contribuicao": "e o filipe ret que fez um “mini show” pros funcionários do the town enquanto passava o som \n\n https://t.co/k6QrzF3GMb"
+        },
+        {
+          "name": "beatrizreisbrasil",
+          "followers": 5120842,
+          "mentions": 1,
+          "totalMencoes": 1,
+          "reach": 3194173,
+          "totalReach": 3194173,
+          "sentiment": 100,
+          "principal_contribuicao": "E começou a maratona do meu primeiro dia de The Town! ✨ Esse é só o look de estreia… o que acharam, Danados? 👀 Me acompanhem por aqui que vou mostrar"
+        },
+        {
+          "name": "Itspedrito",
+          "followers": 1131699,
+          "mentions": 2,
+          "totalMencoes": 2,
+          "reach": 3154346,
+          "totalReach": 3154346,
+          "sentiment": 75,
+          "principal_contribuicao": "@Itspedrito Quem é o Match Perfeito do seu festival? \n\nQuero todo mundo respondendo aqui \n\nSó não esquece de:\n\n • Marcar a @seara_brasil +\nThe Town 20"
+        },
+        {
+          "name": "larasantana",
+          "followers": 3766899,
+          "mentions": 1,
+          "totalMencoes": 1,
+          "reach": 3063251,
+          "totalReach": 3063251,
+          "sentiment": 100,
+          "principal_contribuicao": "Juro… esse dia foi literalmente perfeito 😭❤️ E ainda teve o que? Ativação da diva latambrasil que é a companhia aérea do The Town 2025. Sério… além d"
+        },
+        {
+          "name": "g1",
+          "followers": 15365065,
+          "mentions": 21,
+          "totalMencoes": 21,
+          "reach": 2875827,
+          "totalReach": 2875827,
+          "sentiment": 69,
+          "principal_contribuicao": "Lauryn Hill dá aula de como se renovar em show potente no The Town, mas que merecia mais público https://t.co/VHeQ4nwR1j #g1 #g1nothetown https://t.co"
+        },
+        {
+          "name": "weinthecrowd",
+          "followers": 26481,
+          "mentions": 26,
+          "totalMencoes": 26,
+          "reach": 2449953,
+          "totalReach": 2449953,
+          "sentiment": 88,
+          "principal_contribuicao": "Começou! Travis Scott no palco do The Town. 🔥🇧🇷 #TheTown2025 https://t.co/oB9BsSLTj9"
+        },
+        {
+          "name": "_letrasderap",
+          "followers": 822465,
+          "mentions": 2,
+          "totalMencoes": 2,
+          "reach": 2012036,
+          "totalReach": 2012036,
+          "sentiment": 50,
+          "principal_contribuicao": "🚨 O show de Don Toliver no The Town foi interrompido por 15 minutos por motivos de segurança. O público estava muito agitado e algumas pessoas chegar"
+        }
+      ]
     },
     "crises": {
-      "alertas": [],
+      "alertas": [
+        {
+          "tipo": "Atraso no show",
+          "descricao": "1 menções sobre atraso no show",
+          "severidade": "baixa",
+          "severity": "baixa",
+          "volume_mencoes": 1,
+          "time": "05h",
+          "horario": "05h",
+          "score": 65,
+          "acao_sugerida": "Comunicar novo horário e manter público informado constantemente"
+        },
+        {
+          "tipo": "Filas longas",
+          "descricao": "1 menções sobre filas longas",
+          "severidade": "baixa",
+          "severity": "baixa",
+          "volume_mencoes": 1,
+          "time": "20h",
+          "horario": "20h",
+          "score": 60,
+          "acao_sugerida": "Adicionar mais pontos de atendimento e melhorar sinalização"
+        }
+      ],
       "por_severidade": {
-        "high": 0,
-        "medium": 0,
-        "low": 0
+        "alta": 0,
+        "media": 0,
+        "baixa": 2
       }
     },
     "timeline": {
-      "por_hora": [],
-      "picos": []
+      "por_hora": [
+        {
+          "hour": "00h",
+          "volume": 2267,
+          "positive": 1462,
+          "neutral": 565,
+          "negative": 240,
+          "reach": 10032690,
+          "engagement": 160985
+        },
+        {
+          "hour": "01h",
+          "volume": 2087,
+          "positive": 1316,
+          "neutral": 503,
+          "negative": 268,
+          "reach": 8099459,
+          "engagement": 193192
+        },
+        {
+          "hour": "02h",
+          "volume": 1778,
+          "positive": 790,
+          "neutral": 512,
+          "negative": 476,
+          "reach": 12655282,
+          "engagement": 371375
+        },
+        {
+          "hour": "03h",
+          "volume": 832,
+          "positive": 288,
+          "neutral": 299,
+          "negative": 245,
+          "reach": 3178840,
+          "engagement": 21583
+        },
+        {
+          "hour": "04h",
+          "volume": 545,
+          "positive": 201,
+          "neutral": 158,
+          "negative": 186,
+          "reach": 2591523,
+          "engagement": 29257
+        },
+        {
+          "hour": "05h",
+          "volume": 564,
+          "positive": 221,
+          "neutral": 176,
+          "negative": 167,
+          "reach": 3032636,
+          "engagement": 21244
+        },
+        {
+          "hour": "06h",
+          "volume": 105,
+          "positive": 51,
+          "neutral": 39,
+          "negative": 15,
+          "reach": 302369,
+          "engagement": 552
+        },
+        {
+          "hour": "07h",
+          "volume": 49,
+          "positive": 22,
+          "neutral": 17,
+          "negative": 10,
+          "reach": 88996,
+          "engagement": 556
+        },
+        {
+          "hour": "08h",
+          "volume": 42,
+          "positive": 17,
+          "neutral": 18,
+          "negative": 7,
+          "reach": 27858,
+          "engagement": 4
+        },
+        {
+          "hour": "09h",
+          "volume": 63,
+          "positive": 30,
+          "neutral": 25,
+          "negative": 8,
+          "reach": 27187,
+          "engagement": 68
+        },
+        {
+          "hour": "10h",
+          "volume": 94,
+          "positive": 52,
+          "neutral": 33,
+          "negative": 9,
+          "reach": 75359,
+          "engagement": 1863
+        },
+        {
+          "hour": "11h",
+          "volume": 96,
+          "positive": 48,
+          "neutral": 27,
+          "negative": 21,
+          "reach": 95416,
+          "engagement": 2052
+        },
+        {
+          "hour": "12h",
+          "volume": 177,
+          "positive": 82,
+          "neutral": 61,
+          "negative": 34,
+          "reach": 1360599,
+          "engagement": 56246
+        },
+        {
+          "hour": "13h",
+          "volume": 941,
+          "positive": 747,
+          "neutral": 154,
+          "negative": 40,
+          "reach": 953917,
+          "engagement": 30218
+        },
+        {
+          "hour": "14h",
+          "volume": 1397,
+          "positive": 1221,
+          "neutral": 112,
+          "negative": 64,
+          "reach": 1868174,
+          "engagement": 35271
+        },
+        {
+          "hour": "15h",
+          "volume": 860,
+          "positive": 610,
+          "neutral": 106,
+          "negative": 144,
+          "reach": 5131831,
+          "engagement": 206383
+        },
+        {
+          "hour": "16h",
+          "volume": 643,
+          "positive": 486,
+          "neutral": 100,
+          "negative": 57,
+          "reach": 10762091,
+          "engagement": 18531
+        },
+        {
+          "hour": "17h",
+          "volume": 672,
+          "positive": 475,
+          "neutral": 139,
+          "negative": 58,
+          "reach": 15461701,
+          "engagement": 234487
+        },
+        {
+          "hour": "18h",
+          "volume": 1669,
+          "positive": 830,
+          "neutral": 756,
+          "negative": 83,
+          "reach": 11927654,
+          "engagement": 115583
+        },
+        {
+          "hour": "19h",
+          "volume": 1415,
+          "positive": 876,
+          "neutral": 334,
+          "negative": 205,
+          "reach": 4586479,
+          "engagement": 129077
+        },
+        {
+          "hour": "20h",
+          "volume": 1282,
+          "positive": 536,
+          "neutral": 316,
+          "negative": 430,
+          "reach": 9109212,
+          "engagement": 122861
+        },
+        {
+          "hour": "21h",
+          "volume": 1955,
+          "positive": 876,
+          "neutral": 910,
+          "negative": 169,
+          "reach": 8562670,
+          "engagement": 350803
+        },
+        {
+          "hour": "22h",
+          "volume": 1338,
+          "positive": 487,
+          "neutral": 696,
+          "negative": 155,
+          "reach": 11491118,
+          "engagement": 473558
+        },
+        {
+          "hour": "23h",
+          "volume": 1531,
+          "positive": 670,
+          "neutral": 689,
+          "negative": 172,
+          "reach": 9239504,
+          "engagement": 314769
+        }
+      ],
+      "picos": [
+        {
+          "horario": "00h",
+          "volume": 2267,
+          "percentualAcimaDaMedia": 143,
+          "sentimento": 64,
+          "engagement": 160985,
+          "reach": 10032690
+        },
+        {
+          "horario": "01h",
+          "volume": 2087,
+          "percentualAcimaDaMedia": 124,
+          "sentimento": 63,
+          "engagement": 193192,
+          "reach": 8099459
+        },
+        {
+          "horario": "21h",
+          "volume": 1955,
+          "percentualAcimaDaMedia": 110,
+          "sentimento": 45,
+          "engagement": 350803,
+          "reach": 8562670
+        },
+        {
+          "horario": "02h",
+          "volume": 1778,
+          "percentualAcimaDaMedia": 91,
+          "sentimento": 44,
+          "engagement": 371375,
+          "reach": 12655282
+        },
+        {
+          "horario": "18h",
+          "volume": 1669,
+          "percentualAcimaDaMedia": 79,
+          "sentimento": 50,
+          "engagement": 115583,
+          "reach": 11927654
+        },
+        {
+          "horario": "23h",
+          "volume": 1531,
+          "percentualAcimaDaMedia": 64,
+          "sentimento": 44,
+          "engagement": 314769,
+          "reach": 9239504
+        },
+        {
+          "horario": "19h",
+          "volume": 1415,
+          "percentualAcimaDaMedia": 52,
+          "sentimento": 62,
+          "engagement": 129077,
+          "reach": 4586479
+        }
+      ]
+    },
+    "categorias_tematicas": [
+      {
+        "nome": "Outros",
+        "mencoes": 12360,
+        "sentimento": 45,
+        "distribuicao": {
+          "positivas": 5567,
+          "neutras": 4595,
+          "negativas": 2198
+        },
+        "percentual": 55.2,
+        "principais_comentarios": [
+          "don toliver e travis NUNCA MAIS virão ao Brasil porque eu não fui nesse the town e agora eu quero ch",
+          "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe ",
+          "RT @exhaustedk ai só deus sabe o quanto eu queria ta nesse the town vendo travis don toliver e a lau"
+        ]
+      },
+      {
+        "nome": "Lineup",
+        "mencoes": 6392,
+        "sentimento": 76,
+        "distribuicao": {
+          "positivas": 4887,
+          "neutras": 1015,
+          "negativas": 490
+        },
+        "percentual": 28.5,
+        "principais_comentarios": [
+          "RT @hobi_peace mais uma edição do the town começou, e nenhum show conseguirá superar esse aqui\n\no br",
+          "RT @exhaustedk eu em casa assim esperando dar os 20min de delay pra assistir o show do travis Scott ",
+          "Na minha cabeça, esse monte de sinalizador no show do Travis é fornecido pela propria equipe dele lá"
+        ]
+      },
+      {
+        "nome": "Experiencia",
+        "mencoes": 1813,
+        "sentimento": 50,
+        "distribuicao": {
+          "positivas": 902,
+          "neutras": 632,
+          "negativas": 279
+        },
+        "percentual": 8.1,
+        "principais_comentarios": [
+          "RT @qgda30 o show do matuê no the town nessa vibe https://t.co/sfSuIgQCm8",
+          "a única coisa que me interessava no the town era saber qual seria o tamanho do atraso da lauryn hill",
+          "a atmosfera desse show ta uma merda, The Town conseguiu fazer isso ate com o Travis"
+        ]
+      },
+      {
+        "nome": "Precos",
+        "mencoes": 1310,
+        "sentimento": 67,
+        "distribuicao": {
+          "positivas": 873,
+          "neutras": 280,
+          "negativas": 157
+        },
+        "percentual": 5.8,
+        "principais_comentarios": [
+          "RT @kccsinger to achando q o the town vendeu ingressos alem do suportado pelo espaço por isso n vi n",
+          "RT @weinthecrowd 🚨 SORTEIO RELÂMPAGO de um ingresso pro The Town amanhã (07)\n\nPra participar:\n• Dê ",
+          "acabou um dia de the town e eu só penso se ele cantar essa no coke studio sem mim meu deus eu precis"
+        ]
+      },
+      {
+        "nome": "Seguranca",
+        "mencoes": 266,
+        "sentimento": 39,
+        "distribuicao": {
+          "positivas": 105,
+          "neutras": 71,
+          "negativas": 90
+        },
+        "percentual": 1.2,
+        "principais_comentarios": [
+          "RT @siteptbr Show do Don Toliver no “The Town” precisou ser INTERROMPIDO por questões de segurança, ",
+          "como que o povo organizador desse the town permitiu esse povo leva esses negócios de fogo, que perig",
+          "RT @jnflesch Produção do The Town admitiu falha na segurança em combater uso de sinalizadores.\n\nEles"
+        ]
+      },
+      {
+        "nome": "Infraestrutura",
+        "mencoes": 261,
+        "sentimento": 23,
+        "distribuicao": {
+          "positivas": 60,
+          "neutras": 152,
+          "negativas": 49
+        },
+        "percentual": 1.2,
+        "principais_comentarios": [
+          "Tá de parabéns a organização do The Town, geral entrou com sinalizadores",
+          "Tô realmente curiosa pra saber como a organização do the town deixou entrar isso tudo de sinalizador",
+          "a quantidade de sinalizadores dentro do the town é uma coisa absurda. organização falhando pra caral"
+        ]
+      }
+    ]
+  },
+  "extras": {
+    "hashtags": {
+      "trending": [
+        {
+          "tag": "#SearaNoTheTown2025",
+          "count": 14072,
+          "reach": 29168804,
+          "engagement": 2166,
+          "sentimento": 80,
+          "distribuicao": {
+            "positive": 11264,
+            "neutral": 1356,
+            "negative": 1452
+          }
+        },
+        {
+          "tag": "#searanothetown2025",
+          "count": 7139,
+          "reach": 14578464,
+          "engagement": 1022,
+          "sentimento": 80,
+          "distribuicao": {
+            "positive": 5734,
+            "neutral": 679,
+            "negative": 726
+          }
+        },
+        {
+          "tag": "#TheTown2025",
+          "count": 1413,
+          "reach": 26490676,
+          "engagement": 897416,
+          "sentimento": 62,
+          "distribuicao": {
+            "positive": 876,
+            "neutral": 400,
+            "negative": 137
+          }
+        },
+        {
+          "tag": "#thetown2025",
+          "count": 764,
+          "reach": 14943688,
+          "engagement": 533720,
+          "sentimento": 62,
+          "distribuicao": {
+            "positive": 474,
+            "neutral": 200,
+            "negative": 90
+          }
+        },
+        {
+          "tag": "#TheTownNaGlô",
+          "count": 608,
+          "reach": 12158362,
+          "engagement": 337971,
+          "sentimento": 83,
+          "distribuicao": {
+            "positive": 504,
+            "neutral": 86,
+            "negative": 18
+          }
+        },
+        {
+          "tag": "#TheTown",
+          "count": 441,
+          "reach": 8048340,
+          "engagement": 308598,
+          "sentimento": 57,
+          "distribuicao": {
+            "positive": 252,
+            "neutral": 116,
+            "negative": 73
+          }
+        },
+        {
+          "tag": "#thetown",
+          "count": 399,
+          "reach": 8843355,
+          "engagement": 385124,
+          "sentimento": 54,
+          "distribuicao": {
+            "positive": 216,
+            "neutral": 121,
+            "negative": 62
+          }
+        },
+        {
+          "tag": "#TheTownNoMultishow",
+          "count": 351,
+          "reach": 2138764,
+          "engagement": 27056,
+          "sentimento": 85,
+          "distribuicao": {
+            "positive": 297,
+            "neutral": 0,
+            "negative": 54
+          }
+        },
+        {
+          "tag": "#thetownnaglô",
+          "count": 294,
+          "reach": 6024691,
+          "engagement": 166938,
+          "sentimento": 83,
+          "distribuicao": {
+            "positive": 245,
+            "neutral": 41,
+            "negative": 8
+          }
+        },
+        {
+          "tag": "#g1",
+          "count": 250,
+          "reach": 21151632,
+          "engagement": 638940,
+          "sentimento": 44,
+          "distribuicao": {
+            "positive": 111,
+            "neutral": 109,
+            "negative": 30
+          }
+        },
+        {
+          "tag": "#g1nothetown",
+          "count": 241,
+          "reach": 20497424,
+          "engagement": 600385,
+          "sentimento": 42,
+          "distribuicao": {
+            "positive": 101,
+            "neutral": 110,
+            "negative": 30
+          }
+        },
+        {
+          "tag": "#SearanoTheTown2025",
+          "count": 210,
+          "reach": 0,
+          "engagement": 0,
+          "sentimento": 100,
+          "distribuicao": {
+            "positive": 210,
+            "neutral": 0,
+            "negative": 0
+          }
+        },
+        {
+          "tag": "#thetownnomultishow",
+          "count": 204,
+          "reach": 1154358,
+          "engagement": 15898,
+          "sentimento": 84,
+          "distribuicao": {
+            "positive": 171,
+            "neutral": 0,
+            "negative": 33
+          }
+        },
+        {
+          "tag": "#iFoodNoTheTown2025",
+          "count": 204,
+          "reach": 1242722,
+          "engagement": 16534,
+          "sentimento": 73,
+          "distribuicao": {
+            "positive": 148,
+            "neutral": 34,
+            "negative": 22
+          }
+        },
+        {
+          "tag": "#ifoodnothetown2025",
+          "count": 125,
+          "reach": 627367,
+          "engagement": 8276,
+          "sentimento": 63,
+          "distribuicao": {
+            "positive": 79,
+            "neutral": 32,
+            "negative": 14
+          }
+        },
+        {
+          "tag": "#MelevaATL",
+          "count": 72,
+          "reach": 201148,
+          "engagement": 372,
+          "sentimento": 3,
+          "distribuicao": {
+            "positive": 2,
+            "neutral": 70,
+            "negative": 0
+          }
+        },
+        {
+          "tag": "#música",
+          "count": 65,
+          "reach": 11006812,
+          "engagement": 537524,
+          "sentimento": 51,
+          "distribuicao": {
+            "positive": 33,
+            "neutral": 14,
+            "negative": 18
+          }
+        },
+        {
+          "tag": "#MsLaurynHillNoMultishow",
+          "count": 61,
+          "reach": 122114,
+          "engagement": 604,
+          "sentimento": 100,
+          "distribuicao": {
+            "positive": 61,
+            "neutral": 0,
+            "negative": 0
+          }
+        },
+        {
+          "tag": "#Música",
+          "count": 45,
+          "reach": 953282,
+          "engagement": 21567,
+          "sentimento": 60,
+          "distribuicao": {
+            "positive": 27,
+            "neutral": 9,
+            "negative": 9
+          }
+        },
+        {
+          "tag": "#FilipeRetNoMultishow",
+          "count": 43,
+          "reach": 595114,
+          "engagement": 342,
+          "sentimento": 100,
+          "distribuicao": {
+            "positive": 43,
+            "neutral": 0,
+            "negative": 0
+          }
+        }
+      ],
+      "virais": [
+        {
+          "tag": "#TheTown2025",
+          "count": 1413,
+          "reach": 26490676,
+          "engagement": 897416,
+          "sentimento": 62,
+          "distribuicao": {
+            "positive": 876,
+            "neutral": 400,
+            "negative": 137
+          }
+        },
+        {
+          "tag": "#g1",
+          "count": 250,
+          "reach": 21151632,
+          "engagement": 638940,
+          "sentimento": 44,
+          "distribuicao": {
+            "positive": 111,
+            "neutral": 109,
+            "negative": 30
+          }
+        },
+        {
+          "tag": "#g1nothetown",
+          "count": 241,
+          "reach": 20497424,
+          "engagement": 600385,
+          "sentimento": 42,
+          "distribuicao": {
+            "positive": 101,
+            "neutral": 110,
+            "negative": 30
+          }
+        },
+        {
+          "tag": "#música",
+          "count": 65,
+          "reach": 11006812,
+          "engagement": 537524,
+          "sentimento": 51,
+          "distribuicao": {
+            "positive": 33,
+            "neutral": 14,
+            "negative": 18
+          }
+        },
+        {
+          "tag": "#thetown2025",
+          "count": 764,
+          "reach": 14943688,
+          "engagement": 533720,
+          "sentimento": 62,
+          "distribuicao": {
+            "positive": 474,
+            "neutral": 200,
+            "negative": 90
+          }
+        },
+        {
+          "tag": "#thetown",
+          "count": 399,
+          "reach": 8843355,
+          "engagement": 385124,
+          "sentimento": 54,
+          "distribuicao": {
+            "positive": 216,
+            "neutral": 121,
+            "negative": 62
+          }
+        },
+        {
+          "tag": "#TheTownNaGlô",
+          "count": 608,
+          "reach": 12158362,
+          "engagement": 337971,
+          "sentimento": 83,
+          "distribuicao": {
+            "positive": 504,
+            "neutral": 86,
+            "negative": 18
+          }
+        },
+        {
+          "tag": "#TheTown",
+          "count": 441,
+          "reach": 8048340,
+          "engagement": 308598,
+          "sentimento": 57,
+          "distribuicao": {
+            "positive": 252,
+            "neutral": 116,
+            "negative": 73
+          }
+        },
+        {
+          "tag": "#thetownnaglô",
+          "count": 294,
+          "reach": 6024691,
+          "engagement": 166938,
+          "sentimento": 83,
+          "distribuicao": {
+            "positive": 245,
+            "neutral": 41,
+            "negative": 8
+          }
+        },
+        {
+          "tag": "#TheTownNoMultishow",
+          "count": 351,
+          "reach": 2138764,
+          "engagement": 27056,
+          "sentimento": 85,
+          "distribuicao": {
+            "positive": 297,
+            "neutral": 0,
+            "negative": 54
+          }
+        }
+      ]
+    },
+    "momentos_virais": [
+      {
+        "momento": "ALERTA DE MATCH PERFEITO 🚨\nSEARA NO THE TOWN 2025 \n\nO grande dia chegou e queremos saber: qual produto da linha Seara Air Fryer combina com o seu rolê no The Town 2025? https://t.co/kT5c6feath",
+        "artista_relacionado": "Não identificado",
+        "horario": "16:28",
+        "hashtags": [],
+        "estimativa_alcance": 9531981,
+        "engagement": 322,
+        "sentimento_predominante": "positive",
+        "platform": "Twitter",
+        "url": "http://twitter.com/seara_brasil/statuses/1964319805445394739"
+      },
+      {
+        "momento": "🎉 SORTEIO DE INGRESSO – THE TOWN 🎶\n\nEssa é a sua ÚLTIMA CHANCE de concorrer a um ingresso para o show da Katy Perry no The Town. 🤯🔥\n\n👉 Para participar:\n1️⃣ Siga @buyticketbrasil e @katydailybrasil\n2️⃣ Curta este post\n3️⃣ Marque 2 amigos nos comentários (quanto mais comentar, mais chances de ganhar 👀)\n\n⚡ Resultado: 10/09\n📍 Show: 14 de setembro | The Town | São Paulo\n\n💜 Não perca a chance de viver essa experiência histórica com a BuyTicket!",
+        "artista_relacionado": "Katy Perry",
+        "horario": "18:04",
+        "hashtags": [],
+        "estimativa_alcance": 7356441,
+        "engagement": 1133,
+        "sentimento_predominante": "positive",
+        "platform": "Twitter",
+        "url": "http://twitter.com/buyticketbrasil/statuses/1964343987235377642"
+      },
+      {
+        "momento": "@vittor Qual seria o Match Perfeito nesse festival? \n\nResponde aqui marcando a @seara_brasil e usando a tag #SearaNoTheTown2025 que os ADM’s estão de olho em quem tá mais comentando 👀🚨\n\nQuem sabe você não recebe um mimo na sua DM pra curtir o The Town 2025 💥\n\n*Publicidade",
+        "artista_relacionado": "Não identificado",
+        "horario": "17:39",
+        "hashtags": [
+          "#searanothetown2025",
+          "#SearaNoTheTown2025",
+          "#SearaNoTheTown2025"
+        ],
+        "estimativa_alcance": 5754515,
+        "engagement": 18,
+        "sentimento_predominante": "positive",
+        "platform": "Twitter",
+        "url": "http://twitter.com/vittor/statuses/1964382996510941438"
+      },
+      {
+        "momento": "Eu vivi a Experiência Preview do The Town 2025 com o airbnb! Imagina curtir o festival de um jeito totalmente novo, guiado por um especialista? Quem garantiu a reserva na plataforma vai poder fazer um tour incrível pelos bastidores do thetownfestival e aproveitar toda a programação do dia 13 de setembro. Corre, que ainda tem vaga! 🩷 #airbnbpartner #publi",
+        "artista_relacionado": "Não identificado",
+        "horario": "17:35",
+        "hashtags": [
+          "#airbnbpartner",
+          "#publi",
+          "#airbnbpartner",
+          "#publi",
+          "#airbnbpartner"
+        ],
+        "estimativa_alcance": 4097232,
+        "engagement": 205310,
+        "sentimento_predominante": "positive",
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/reel/DORPH1AjUfO/"
+      },
+      {
+        "momento": "O Brasil é dos brasileiros! 🇧🇷 Durante o encerramento do show de MC Hariel e MARKS no The Town, na noite deste sábado (06), a figura de um cachorro caramelo com uma águia careca na boca foi erguida no palco! Vale lembrar que a ave é um dos símbolos mais tradicionais dos Estados Unidos, enquanto o caramelo se tornou praticamente um símbolo não oficial do nosso país. Curtiram o protesto? Vídeo: warnermusicbr",
+        "artista_relacionado": "MC Hariel",
+        "horario": "02:29",
+        "hashtags": [],
+        "estimativa_alcance": 3521050,
+        "engagement": 179205,
+        "sentimento_predominante": "negative",
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/reel/DOSMdR7EyoK/"
+      },
+      {
+        "momento": "E começou a maratona do meu primeiro dia de The Town! ✨ Esse é só o look de estreia… o que acharam, Danados? 👀 Me acompanhem por aqui que vou mostrar cada detalhe pra vocês!",
+        "artista_relacionado": "Não identificado",
+        "horario": "15:05",
+        "hashtags": [],
+        "estimativa_alcance": 3194173,
+        "engagement": 161341,
+        "sentimento_predominante": "positive",
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/reel/DOQ9xijkWVB/"
+      },
+      {
+        "momento": "Juro… esse dia foi literalmente perfeito 😭❤️ E ainda teve o que? Ativação da diva latambrasil que é a companhia aérea do The Town 2025. Sério… além de ter brindes com prêmios de até 10 mil milhas, ela ainda cuida de cada detalhe, desde a viagem até a chegada ao festival, para que a experiência seja perfeitaaa. Eu amo! Juro… ✨ *publicidade #LATAMnoTheTown2025 #AMusicaTeFazViajar #TheTown2025 #WeAreBackInTown",
+        "artista_relacionado": "Não identificado",
+        "horario": "22:38",
+        "hashtags": [
+          "#latamnothetown2025",
+          "#amusicatefazviajar",
+          "#thetown2025",
+          "#wearebackintown",
+          "#LATAMnoTheTown2025"
+        ],
+        "estimativa_alcance": 3063251,
+        "engagement": 154779,
+        "sentimento_predominante": "positive",
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/reel/DORx8n2D_kV/"
+      },
+      {
+        "momento": "@Itspedrito Quem é o Match Perfeito do seu festival? \n\nQuero todo mundo respondendo aqui \n\nSó não esquece de:\n\n • Marcar a @seara_brasil +\nThe Town 2025 e\n• Incluir hashtag #SearaNoTheTown2025.\n\nE CRUZAR OS DEDOS, POIS A SEARA TÁ GENEROSA HOJE! ❤️‍🔥*publicidade https://t.co/6tLsxSTZAr",
+        "artista_relacionado": "Não identificado",
+        "horario": "17:45",
+        "hashtags": [
+          "#searanothetown2025",
+          "#SearaNoTheTown2025",
+          "#SearaNoTheTown2025"
+        ],
+        "estimativa_alcance": 2989073,
+        "engagement": 19,
+        "sentimento_predominante": "positive",
+        "platform": "Twitter",
+        "url": "http://twitter.com/Itspedrito/statuses/1964384588245192823"
+      },
+      {
+        "momento": "EMOCIONANTE! 👏🏽🥹 Tasha & Tracie (tashaetracieog) não seguram as lágrimas ao encerrar apresentação no The Town com a música “Amina”. 📹: globoplay / thetownfestival",
+        "artista_relacionado": "Tasha",
+        "horario": "22:58",
+        "hashtags": [],
+        "estimativa_alcance": 2493961,
+        "engagement": 124949,
+        "sentimento_predominante": "negative",
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/reel/DOR0HnnDxru/"
+      },
+      {
+        "momento": "🚨 SORTEIO RELÂMPAGO de um ingresso pro The Town amanhã (07)\n\nPra participar:\n• Dê RT nesse tweet\n• Marque um amigo abaixo\n• Esteja seguindo o @weinthecrowd \n\nResultado HOJE ainda às 22h30 🤘💜 https://t.co/LkWmHscjJI",
+        "artista_relacionado": "Não identificado",
+        "horario": "02:15",
+        "hashtags": [],
+        "estimativa_alcance": 2024415,
+        "engagement": 1688,
+        "sentimento_predominante": "positive",
+        "platform": "Twitter",
+        "url": "http://twitter.com/weinthecrowd/statuses/1964467549133033743"
+      },
+      {
+        "momento": "Tasha & Tracie emocionaram o público do The Town ao encerrar sua apresentação com o hit “Amina”. O momento foi marcado por muita energia e conexão com a plateia, mas também trouxe à tona a emoção das artistas, que não seguraram as lágrimas ao cantar o som que se tornou um dos maiores marcos de sua carreira. Reconhecidas por darem voz às vivências da quebrada e pela representatividade no rap nacional, as gêmeas transformaram o show em um espetáculo de potência, autenticidade e afeto. O público acompanhou cada verso e, ao final, a reação emocionada das irmãs reforçou a força do legado que estão construindo na música brasileira. 🎥 reprodução: TV Globo / Multishow / Globoplay",
+        "artista_relacionado": "Tasha",
+        "horario": "22:30",
+        "hashtags": [],
+        "estimativa_alcance": 1904955,
+        "engagement": 95275,
+        "sentimento_predominante": "negative",
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/reel/DORw-6gjtH7/"
+      },
+      {
+        "momento": "Alguém aí animado pro The Town 2025? 🚨\n\nPois a @seara_brasil estará atenta e generosa a alguns pedidos aqui nessa thread! \n\nFica de olho no próximo tweet se atente as regrinhas hein… https://t.co/XZs2noakyS",
+        "artista_relacionado": "Não identificado",
+        "horario": "20:39",
+        "hashtags": [],
+        "estimativa_alcance": 1975715,
+        "engagement": 51,
+        "sentimento_predominante": "positive",
+        "platform": "Twitter",
+        "url": "http://twitter.com/vittor/statuses/1964382880022298983"
+      },
+      {
+        "momento": "Alguém aí está ansioso para o The Town 2025? \n\nResponde aqui quais shows vocês estão mais animados pra assistir pq eu ouvi boatos que @seara_brasil está bem generosa 👀 https://t.co/Xnrv1IMobS",
+        "artista_relacionado": "Não identificado",
+        "horario": "20:39",
+        "hashtags": [],
+        "estimativa_alcance": 1891365,
+        "engagement": 392,
+        "sentimento_predominante": "positive",
+        "platform": "Twitter",
+        "url": "http://twitter.com/luscas/statuses/1964382932854067411"
+      },
+      {
+        "momento": "Que show do Cabelinho no The Town 👏🏽🔥 mccabelinho Reprodução: Multishow / Globoplay",
+        "artista_relacionado": "Não identificado",
+        "horario": "23:09",
+        "hashtags": [],
+        "estimativa_alcance": 1779432,
+        "engagement": 88845,
+        "sentimento_predominante": "positive",
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/reel/DOR1dhXADle/"
+      },
+      {
+        "momento": "É muito talento junto! 🔥\nFilipe Ret e Alee juntos no palco do The Town #TheTTheTownNaGlôeTown2025",
+        "artista_relacionado": "Filipe Ret",
+        "horario": "19:42",
+        "hashtags": [
+          "#thetthetownnaglôetown2025",
+          "#TheTTheTownNaGlôeTown2025",
+          "#TheTTheTownNaGlôeTown2025"
+        ],
+        "estimativa_alcance": 1630164,
+        "engagement": 81477,
+        "sentimento_predominante": "positive",
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/reel/DORd5D2EWX9/"
+      }
+    ],
+    "amostras": {
+      "maisEngajadas": [
+        {
+          "text": "Eu vivi a Experiência Preview do The Town 2025 com o airbnb! Imagina curtir o festival de um jeito totalmente novo, guiado por um especialista? Quem garantiu a reserva na plataforma vai poder fazer um",
+          "engagement": 205310,
+          "reach": 4097232,
+          "sentiment": "positive",
+          "platform": "Instagram",
+          "author": "larissagloor",
+          "url": "https://www.instagram.com/reel/DORPH1AjUfO/"
+        },
+        {
+          "text": "O Brasil é dos brasileiros! 🇧🇷 Durante o encerramento do show de MC Hariel e MARKS no The Town, na noite deste sábado (06), a figura de um cachorro caramelo com uma águia careca na boca foi erguida ",
+          "engagement": 179205,
+          "reach": 3521050,
+          "sentiment": "negative",
+          "platform": "Instagram",
+          "author": "portalpopline",
+          "url": "https://www.instagram.com/reel/DOSMdR7EyoK/"
+        },
+        {
+          "text": "E começou a maratona do meu primeiro dia de The Town! ✨ Esse é só o look de estreia… o que acharam, Danados? 👀 Me acompanhem por aqui que vou mostrar cada detalhe pra vocês!",
+          "engagement": 161341,
+          "reach": 3194173,
+          "sentiment": "positive",
+          "platform": "Instagram",
+          "author": "beatrizreisbrasil",
+          "url": "https://www.instagram.com/reel/DOQ9xijkWVB/"
+        },
+        {
+          "text": "Juro… esse dia foi literalmente perfeito 😭❤️ E ainda teve o que? Ativação da diva latambrasil que é a companhia aérea do The Town 2025. Sério… além de ter brindes com prêmios de até 10 mil milhas, el",
+          "engagement": 154779,
+          "reach": 3063251,
+          "sentiment": "positive",
+          "platform": "Instagram",
+          "author": "larasantana",
+          "url": "https://www.instagram.com/reel/DORx8n2D_kV/"
+        },
+        {
+          "text": "EMOCIONANTE! 👏🏽🥹 Tasha & Tracie (tashaetracieog) não seguram as lágrimas ao encerrar apresentação no The Town com a música “Amina”. 📹: globoplay / thetownfestival",
+          "engagement": 124949,
+          "reach": 2493961,
+          "sentiment": "negative",
+          "platform": "Instagram",
+          "author": "rapnacionalofficial",
+          "url": "https://www.instagram.com/reel/DOR0HnnDxru/"
+        },
+        {
+          "text": "Tasha & Tracie emocionaram o público do The Town ao encerrar sua apresentação com o hit “Amina”. O momento foi marcado por muita energia e conexão com a plateia, mas também trouxe à tona a emoção das ",
+          "engagement": 95275,
+          "reach": 1904955,
+          "sentiment": "negative",
+          "platform": "Instagram",
+          "author": "_letrasderap",
+          "url": "https://www.instagram.com/reel/DORw-6gjtH7/"
+        },
+        {
+          "text": "Que show do Cabelinho no The Town 👏🏽🔥 mccabelinho Reprodução: Multishow / Globoplay",
+          "engagement": 88845,
+          "reach": 1779432,
+          "sentiment": "positive",
+          "platform": "Instagram",
+          "author": "canalraprj",
+          "url": "https://www.instagram.com/reel/DOR1dhXADle/"
+        },
+        {
+          "text": "É muito talento junto! 🔥\nFilipe Ret e Alee juntos no palco do The Town #TheTTheTownNaGlôeTown2025",
+          "engagement": 81477,
+          "reach": 1630164,
+          "sentiment": "positive",
+          "platform": "Instagram",
+          "author": "tvglobo",
+          "url": "https://www.instagram.com/reel/DORd5D2EWX9/"
+        },
+        {
+          "text": "Eu literalmente vesti a camisa da empresa e vim curtir o primeiro dia de The Town 2025 aqui no Coke Studio com cocacola_br #publicidade #CokeStudio #CocaCola",
+          "engagement": 69402,
+          "reach": 1385873,
+          "sentiment": "neutral",
+          "platform": "Instagram",
+          "author": "bomtalvao",
+          "url": "https://www.instagram.com/p/DORq2YbDkzg/"
+        },
+        {
+          "text": "ADMITA: você queria estar no The Town vendo a mamacita cantar um dos seus maiores hits ao vivo ✨ #GlôNoTheTown #TheTown2025",
+          "engagement": 65813,
+          "reach": 1306438,
+          "sentiment": "positive",
+          "platform": "Instagram",
+          "author": "tvglobo",
+          "url": "https://www.instagram.com/reel/DORXyXoEWzh/"
+        },
+        {
+          "text": "e o filipe ret que fez um “mini show” pros funcionários do the town enquanto passava o som \n\n https://t.co/k6QrzF3GMb",
+          "engagement": 49883,
+          "reach": 542964,
+          "sentiment": "positive",
+          "platform": "Twitter",
+          "author": "luscas",
+          "url": "http://twitter.com/luscas/statuses/1964397695994646781"
+        },
+        {
+          "text": "RENATA E BIA SÃO ISSO TUDO MESMO 😮‍💨🤌\n\nbeatrizreisbrasil e _renatasaldanha mostrando que o melhor do The Town tá na Glô ✨ #TheTownNaGlô #TheTown2025",
+          "engagement": 49566,
+          "reach": 981643,
+          "sentiment": "positive",
+          "platform": "Instagram",
+          "author": "tvglobo",
+          "url": "https://www.instagram.com/reel/DOR2FXJkVwE/"
+        },
+        {
+          "text": "Simplesmente MC Cabelinho cantando “Só Rock 3” no The Town 🔥🔥 mccabelinho majorrd 📹: globoplay / thetownfestival",
+          "engagement": 48911,
+          "reach": 979850,
+          "sentiment": "neutral",
+          "platform": "Instagram",
+          "author": "rapnacionalofficial",
+          "url": "https://www.instagram.com/reel/DORswx0D-1E/"
+        },
+        {
+          "text": "BRABO DEMAIS 👏🏽 Filipe Ret fez um mini show exclusivo para os trabalhadores do The Town, durante a passagem de som. O rapper se apresenta neste sábado (06), às 15h50.",
+          "engagement": 39077,
+          "reach": 784087,
+          "sentiment": "positive",
+          "platform": "Instagram",
+          "author": "rapnacionalofficial",
+          "url": "https://www.instagram.com/reel/DOQrNLvDRCv/"
+        },
+        {
+          "text": "Proibidos - O The Town começou neste sábado (6). A segunda edição do festival vai ocupar o Autódromo de Interlagos, na Zona Sul de São Paulo, por dois fins de semana. A cultura hip-hop agitou o primei",
+          "engagement": 37239,
+          "reach": 698212,
+          "sentiment": "negative",
+          "platform": "Instagram",
+          "author": "portalg1",
+          "url": "https://www.instagram.com/reel/DOR0UzFDLYj/"
+        },
+        {
+          "text": "Mãe e filho no palco - Lauryn Hill foi uma das grandes atrações deste sábado (6) no The Town. Aos 50 anos, a cantora é um dos grandes nomes da história do hip hop e do R&B, tendo seu álbum, o \"The Mis",
+          "engagement": 35979,
+          "reach": 722819,
+          "sentiment": "positive",
+          "platform": "Instagram",
+          "author": "portalg1",
+          "url": "https://www.instagram.com/reel/DOSM2sXiF2X/"
+        },
+        {
+          "text": "Hoje a gente não quer futuro nem passado, só esse presente no The Town!🔥\n\n#TheTownNaGlô #TheTown2025 #matue",
+          "engagement": 34230,
+          "reach": 687786,
+          "sentiment": "negative",
+          "platform": "Instagram",
+          "author": "tvglobo",
+          "url": "https://www.instagram.com/reel/DOR5Zd0EXTk/"
+        },
+        {
+          "text": "AMINA 👊🏾 Partiu The Town com a melhor!!! trident_brasil fabinhocal calnetwork thetownfestival make & hair: ianaella_ look: relikia.rj #TridentNoTheTown25 #MascaEDestrava",
+          "engagement": 33609,
+          "reach": 675285,
+          "sentiment": "positive",
+          "platform": "Instagram",
+          "author": "ninadoporte",
+          "url": "https://www.instagram.com/reel/DORdrl1D-D1/"
+        },
+        {
+          "text": "Finalmente chegou o The Town e eu já tô preparado para aproveitar cada segundo com piracanjubaproforce . Vem acompanhar de pertinho e viver essa experiência comigo? 🔥 #ProForceNoTheTown #publicidade",
+          "engagement": 31468,
+          "reach": 632363,
+          "sentiment": "neutral",
+          "platform": "Instagram",
+          "author": "tettrem",
+          "url": "https://www.instagram.com/reel/DOR3QaZkQQ9/"
+        },
+        {
+          "text": "#THETOWN2025 🏙️ É ela! ✨ alinepatriarca_ já está prontíssima pra cobertura do The Town nas minhas redes, mas antes disso, aproveitou um pouco do dia na piscina. Preparados pra acompanhar tudo do fest",
+          "engagement": 29382,
+          "reach": 560165,
+          "sentiment": "positive",
+          "platform": "Instagram",
+          "author": "gshow",
+          "url": "https://www.instagram.com/p/DORYrsXCQll/"
+        }
+      ],
+      "maisPositivas": [
+        {
+          "text": "RT @hobi_peace mais uma edição do the town começou, e nenhum show conseguirá superar esse aqui\n\no bruno tem um brilho e carisma diferenciado \nhttps://t.co/iq25aIvdka",
+          "engagement": 0,
+          "platform": "Twitter",
+          "author": "euraffiinha"
+        },
+        {
+          "text": "RT @qgda30 o show do matuê no the town nessa vibe https://t.co/sfSuIgQCm8",
+          "engagement": 0,
+          "platform": "Twitter",
+          "author": "djbassane"
+        },
+        {
+          "text": "RT @rapoutcontext O que o Mc Hariel e Marks fizeram no The Town é de se aplaudir.\n\nSão referência demais! 🇧🇷 https://t.co/2HopkyVhaG",
+          "engagement": 0,
+          "platform": "Twitter",
+          "author": "Araujoo_jeka"
+        },
+        {
+          "text": "RT @exhaustedk eu em casa assim esperando dar os 20min de delay pra assistir o show do travis Scott no the town porque o bonito pediu pra transmitir assim https://t.co/0KFPXH3oPX",
+          "engagement": 0,
+          "platform": "Twitter",
+          "author": "sfcvanna"
+        },
+        {
+          "text": "RT @rapworldbr Travis Scott agora começou a cantar o seu classico \"MAMACITA\" no The Town.\n\nUma das melhores musicas da Carreira dele fácil.\n\nhttps://t.co/7F8abhhNcU",
+          "engagement": 0,
+          "platform": "Twitter",
+          "author": "glabebel2"
+        },
+        {
+          "text": "RT @tpumaglock E essa transição de “Luxúria” para “Honey Babe” que o Matuê fez no show do The Town 🔥 https://t.co/YYNZtdiSQs",
+          "engagement": 0,
+          "platform": "Twitter",
+          "author": "luis_trovatto"
+        },
+        {
+          "text": "Lauryn Hill dá aula de como se renovar em show potente no The Town, mas que merecia mais público https://t.co/VHeQ4nwR1j #g1 #g1nothetown https://t.co/lXgfebpHYu",
+          "engagement": 237,
+          "platform": "Twitter",
+          "author": "g1"
+        },
+        {
+          "text": "RT @CanalRapRJ \"Aê Major, aprendi contigo!\" Cabelinho botou o The Town abaixando cantando \"Só Rock\" https://t.co/kFCZDr3VLm",
+          "engagement": 0,
+          "platform": "Twitter",
+          "author": "thuralb"
+        },
+        {
+          "text": "Seara Gourmet está tá na área VIP do The Town 2025. E o romuloarantesneto também. Vem conferir como foi o primeiro dia. #SearaGourmetNoTheTown2025 🖤",
+          "engagement": 1242,
+          "platform": "Instagram",
+          "author": "searagourmet"
+        },
+        {
+          "text": "RT @tpumaglock E essa transição de “Luxúria” para “Honey Babe” que o Matuê fez no show do The Town 🔥 https://t.co/YYNZtdiSQs",
+          "engagement": 0,
+          "platform": "Twitter",
+          "author": "Art_ataque"
+        }
+      ],
+      "maisNegativas": [
+        {
+          "text": "don toliver e travis NUNCA MAIS virão ao Brasil porque eu não fui nesse the town e agora eu quero chorar e morrer",
+          "engagement": 1,
+          "platform": "Twitter",
+          "author": "menorpr0gresso"
+        },
+        {
+          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação consiga mostrar para vocês o quanto quero ver CAMILA",
+          "engagement": 0,
+          "platform": "Twitter",
+          "author": "vivantalren"
+        },
+        {
+          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação consiga mostrar para vocês o quanto quero ver CAMILA",
+          "engagement": 0,
+          "platform": "Twitter",
+          "author": "vivantalren"
+        },
+        {
+          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação consiga mostrar para vocês o quanto quero ver CAMILA",
+          "engagement": 0,
+          "platform": "Twitter",
+          "author": "vivantalren"
+        },
+        {
+          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação consiga mostrar para vocês o quanto quero ver CAMILA",
+          "engagement": 0,
+          "platform": "Twitter",
+          "author": "vivantalren"
+        },
+        {
+          "text": "Na minha cabeça, esse monte de sinalizador no show do Travis é fornecido pela propria equipe dele lá dentro, pq nao é possível a revista do the town ter sido tão merda assim #travisscottnomultishow",
+          "engagement": 5,
+          "platform": "Twitter",
+          "author": "marimaricomenta"
+        },
+        {
+          "text": "a única coisa que me interessava no the town era saber qual seria o tamanho do atraso da lauryn hill e foram só 18 minutos aff festival fracassado",
+          "engagement": 0,
+          "platform": "Other",
+          "author": "aweekofkindness.bsky.social"
+        },
+        {
+          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação consiga mostrar para vocês o quanto quero ver CAMILA",
+          "engagement": 0,
+          "platform": "Twitter",
+          "author": "vivantalren"
+        },
+        {
+          "text": "a atmosfera desse show ta uma merda, The Town conseguiu fazer isso ate com o Travis",
+          "engagement": 2,
+          "platform": "Twitter",
+          "author": "didiejavan"
+        },
+        {
+          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação consiga mostrar para vocês o quanto quero ver CAMILA",
+          "engagement": 0,
+          "platform": "Twitter",
+          "author": "vivantalren"
+        }
+      ],
+      "aleatorias": [
+        {
+          "text": "RT @ThatOjoBoy Burna Boy performing “Ye” live in São Paulo Brazil 🇧🇷 Over 100,000 fans at Town Festival 🏟️ 🔥🔥 https://t.co/RpnZxvHpt6",
+          "sentiment": "neutral",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "mano eu n vi em NENHUM lugar sobre esse the town qissokk",
+          "sentiment": "neutral",
+          "platform": "Twitter",
+          "hour": "05h"
+        },
+        {
+          "text": "@GabyAmarantos no deu show no the town com a joelma, dona odete e etc.. vc vai cantar alguma msc sua ou vai apenas acompanhar elas?",
+          "sentiment": "positive",
+          "platform": "Twitter",
+          "hour": "05h"
+        },
+        {
+          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação co",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "RT @rapworldbr Travis Scott agora começou a cantar o seu classico \"MAMACITA\" no The Town.\n\nUma das melhores musicas da Carreira dele fácil.\n\nhttps://t",
+          "sentiment": "positive",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação co",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "A Quantidade de Sinalizador no meu da glr no The Town e bizarro. Mas nem estou surpresa Pprt.",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "05h"
+        },
+        {
+          "text": "RT @tracklist E quando a Demi Lovato falou em português várias vezes durante o show dela no The Town? 🥹 https://t.co/Pljdf4c3JQ",
+          "sentiment": "positive",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "Ex-casal surpreendeu ao aparecer junto no festival depois de término conturbado em 2023\nRemember? Orochi e Lara Jucah chegam juntos ao The Town após n",
+          "sentiment": "neutral",
+          "platform": "Facebook",
+          "hour": "02h"
+        },
+        {
+          "text": "É inexplicável o FOMO que tô sentindo por ficar fora do The Town esse ano 😭 iFood faz alguma coisaaaa https://t.co/Yf92BEDkLw",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "05h"
+        },
+        {
+          "text": "RT @brbrunomars o the town começou hoje, mas não ESSE the town... 🥹\n https://t.co/hUCqKFb2Nt",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "RT @FEMBR23 PÚBLICO CHAMA TRAVIS SCOTT NO THE TOWN https://t.co/4lq2iBy48o",
+          "sentiment": "neutral",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "RT @CanalRapRJ \"Aê Major, aprendi contigo!\" Cabelinho botou o The Town abaixando cantando \"Só Rock\" https://t.co/kFCZDr3VLm",
+          "sentiment": "positive",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "no rock in rio o travis so gritou algumas palavras e full playback no the town ele ta cantando todas as musicas todas safado",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "05h"
+        },
+        {
+          "text": "trid Fontenelle e seu filho participaram do primeiro dia do festival The Town, que atraiu grande público e diversas atrações musicais Astrid Fontenell",
+          "sentiment": "neutral",
+          "platform": "News",
+          "hour": "05h"
+        },
+        {
+          "text": "RT @rapworldbr COMEÇOU O SHOW DE TRAVIS SCOTT NO THE TOWN.\n\nTravis começou com \"CHAMPAIN & VACAY\" do seu novo Album \"JACKBOYS 2\".\n\nhttps://t.co/YQINPM",
+          "sentiment": "positive",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "Hoje vi as fotos do The Town e me sinto totalmente à vontade em dizer que estou no nível dessa entrega e pronto para qualquer oportunidade",
+          "sentiment": "positive",
+          "platform": "Twitter",
+          "hour": "05h"
+        },
+        {
+          "text": "RT @davisdc30 MATUE, TETO E WIU NO THE TOWN COM VAMPIRO 🧛‼️ https://t.co/GdBvWrvb4m",
+          "sentiment": "neutral",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "..., Jessie J e Lionel Richie. O The Town, que começou com uma programação diversificada, também trouxe atrações como Lauryn Hill e Travis Scott, prom",
+          "sentiment": "neutral",
+          "platform": "News",
+          "hour": "05h"
+        },
+        {
+          "text": "vou matar o gabriel cara\nele foi na porra do the town e nem p me mostrar UM vídeo desgraça",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "05h"
+        },
+        {
+          "text": "..., complementado por um puffer para enfrentar o frio da cidade. O festival conta com uma programação diversificada, apresentando artistas renomados ",
+          "sentiment": "neutral",
+          "platform": "News",
+          "hour": "05h"
+        },
+        {
+          "text": "Vitor Hugo e Maria Julia Araújo usam os ‘óculos do Travis Scott’ no The Town 2025 Fábio Tito/g1 O The Town teve um acessório que roubou a cena neste s",
+          "sentiment": "neutral",
+          "platform": "News",
+          "hour": "05h"
+        },
+        {
+          "text": "The Town: Astrid Fontenelle diz que não assiste ao novo Saia Justa: 'Atualmente, eu sou dos livros'",
+          "sentiment": "negative",
+          "platform": "Other",
+          "hour": "05h"
+        },
+        {
+          "text": "COMEÇOU O SHOW DE TRAVIS SCOTT NO THE TOWN.\n\nTravis começou com \"CHAMPAIN & VACAY\" do seu novo Album \"JACKBOYS 2\".\n\nhttps://t.co/YQINPMshh8",
+          "sentiment": "positive",
+          "platform": "Twitter",
+          "hour": "05h"
+        },
+        {
+          "text": "RT @jnflesch Travis Scott pediu para transmissão do show no The Town ser feita com atraso.\n\nO atraso será com delay de 20 minutos.\n\nTudo que será exib",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "O CARA CHEGOU! Travis Scott no The Town #TheTown2025 🔥🔥 https://t.co/u0XhjnJ3dt",
+          "sentiment": "positive",
+          "platform": "Twitter",
+          "hour": "05h"
+        },
+        {
+          "text": "...(6), ao mostrar como se faz um espetáculo inesquecível. Pela quinta vez no Brasil, a americana e seus filhos YG e Zion Marley ostentaram toda a sua",
+          "sentiment": "positive",
+          "platform": "News",
+          "hour": "05h"
+        },
+        {
+          "text": "@vittor @seara_brasil Meu Match Perfeito seria acompanhar o show do Backstreet Boys com um bowl de nuggets seara bem pertinho do palco skyline, e ante",
+          "sentiment": "positive",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "@vittor @seara_brasil Meu Match Perfeito seria acompanhar o show do Backstreet Boys com um bowl de nuggets seara bem pertinho do palco skyline, e ante",
+          "sentiment": "positive",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "eu parada em casa enquanto o don toliver tava cantando the pole no the town o mundo é muito injusto",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "05h"
+        }
+      ]
+    },
+    "comparativo_artistas": {
+      "maisMencionados": [
+        {
+          "artista": "Katy Perry",
+          "mencoes": 1915,
+          "destaque": "1915 menções (94% positivo)"
+        },
+        {
+          "artista": "Mariah Carey",
+          "mencoes": 1657,
+          "destaque": "1657 menções (94% positivo)"
+        },
+        {
+          "artista": "Matuê",
+          "mencoes": 1042,
+          "destaque": "1042 menções (32% positivo)"
+        },
+        {
+          "artista": "Filipe Ret",
+          "mencoes": 1005,
+          "destaque": "1005 menções (80% positivo)"
+        },
+        {
+          "artista": "Travis Scott",
+          "mencoes": 857,
+          "destaque": "857 menções (62% positivo)"
+        },
+        {
+          "artista": "Green Day",
+          "mencoes": 807,
+          "destaque": "807 menções (78% positivo)"
+        },
+        {
+          "artista": "Jessie J",
+          "mencoes": 754,
+          "destaque": "754 menções (96% positivo)"
+        },
+        {
+          "artista": "Camila Cabello",
+          "mencoes": 745,
+          "destaque": "745 menções (4% positivo)"
+        },
+        {
+          "artista": "Don Toliver",
+          "mencoes": 732,
+          "destaque": "732 menções (50% positivo)"
+        },
+        {
+          "artista": "Iza",
+          "mencoes": 698,
+          "destaque": "698 menções (47% positivo)"
+        }
+      ],
+      "maisPositivos": [
+        {
+          "artista": "Jessie J",
+          "score": 96,
+          "mencoes": 754,
+          "destaque": "96% de sentimento positivo"
+        },
+        {
+          "artista": "Katy Perry",
+          "score": 94,
+          "mencoes": 1915,
+          "destaque": "94% de sentimento positivo"
+        },
+        {
+          "artista": "Mariah Carey",
+          "score": 94,
+          "mencoes": 1657,
+          "destaque": "94% de sentimento positivo"
+        },
+        {
+          "artista": "Di Ferrero",
+          "score": 91,
+          "mencoes": 47,
+          "destaque": "91% de sentimento positivo"
+        },
+        {
+          "artista": "Tracie",
+          "score": 88,
+          "mencoes": 260,
+          "destaque": "88% de sentimento positivo"
+        },
+        {
+          "artista": "Tasha",
+          "score": 85,
+          "mencoes": 273,
+          "destaque": "85% de sentimento positivo"
+        },
+        {
+          "artista": "Borges",
+          "score": 83,
+          "mencoes": 40,
+          "destaque": "83% de sentimento positivo"
+        },
+        {
+          "artista": "Karol Conka",
+          "score": 81,
+          "mencoes": 21,
+          "destaque": "81% de sentimento positivo"
+        },
+        {
+          "artista": "Filipe Ret",
+          "score": 80,
+          "mencoes": 1005,
+          "destaque": "80% de sentimento positivo"
+        },
+        {
+          "artista": "MC Hariel",
+          "score": 80,
+          "mencoes": 99,
+          "destaque": "80% de sentimento positivo"
+        }
+      ],
+      "maiorAlcance": [
+        {
+          "artista": "Katy Perry",
+          "reach": 8404905,
+          "mencoes": 1915,
+          "destaque": "8404.9K de alcance estimado"
+        },
+        {
+          "artista": "Filipe Ret",
+          "reach": 6609068,
+          "mencoes": 1005,
+          "destaque": "6609.1K de alcance estimado"
+        },
+        {
+          "artista": "Tasha",
+          "reach": 6079022,
+          "mencoes": 273,
+          "destaque": "6079.0K de alcance estimado"
+        },
+        {
+          "artista": "Tracie",
+          "reach": 6068994,
+          "mencoes": 260,
+          "destaque": "6069.0K de alcance estimado"
+        },
+        {
+          "artista": "Iza",
+          "reach": 5841741,
+          "mencoes": 698,
+          "destaque": "5841.7K de alcance estimado"
+        },
+        {
+          "artista": "Travis Scott",
+          "reach": 5488204,
+          "mencoes": 857,
+          "destaque": "5488.2K de alcance estimado"
+        },
+        {
+          "artista": "Don Toliver",
+          "reach": 5358172,
+          "mencoes": 732,
+          "destaque": "5358.2K de alcance estimado"
+        },
+        {
+          "artista": "MC Cabelinho",
+          "reach": 4402714,
+          "mencoes": 241,
+          "destaque": "4402.7K de alcance estimado"
+        },
+        {
+          "artista": "MC Hariel",
+          "reach": 4281648,
+          "mencoes": 99,
+          "destaque": "4281.6K de alcance estimado"
+        },
+        {
+          "artista": "Matuê",
+          "reach": 3269999,
+          "mencoes": 1042,
+          "destaque": "3270.0K de alcance estimado"
+        }
+      ],
+      "controversias": [
+        {
+          "artista": "Camila Cabello",
+          "problema": "705 menções negativas detectadas",
+          "impacto": "alto",
+          "detalhes": {
+            "totalMencoes": 745,
+            "percentualNegativo": 95
+          }
+        },
+        {
+          "artista": "Iza",
+          "problema": "178 menções negativas detectadas",
+          "impacto": "alto",
+          "detalhes": {
+            "totalMencoes": 698,
+            "percentualNegativo": 26
+          }
+        },
+        {
+          "artista": "Don Toliver",
+          "problema": "128 menções negativas detectadas",
+          "impacto": "alto",
+          "detalhes": {
+            "totalMencoes": 732,
+            "percentualNegativo": 17
+          }
+        },
+        {
+          "artista": "Matuê",
+          "problema": "115 menções negativas detectadas",
+          "impacto": "alto",
+          "detalhes": {
+            "totalMencoes": 1042,
+            "percentualNegativo": 11
+          }
+        },
+        {
+          "artista": "Travis Scott",
+          "problema": "100 menções negativas detectadas",
+          "impacto": "alto",
+          "detalhes": {
+            "totalMencoes": 857,
+            "percentualNegativo": 12
+          }
+        }
+      ]
     }
   }
 }
