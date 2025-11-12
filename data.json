@@ -3,7 +3,7 @@
     "festival": "The Town 2025",
     "dia": "06-09",
     "data": "2025-09-06",
-    "lastUpdate": "2025-11-12T20:51:25.787Z",
+    "lastUpdate": "2025-11-12T21:14:08.161Z",
     "totalMencoes": 22402,
     "blocosProcessados": 8,
     "periodoAnalise": {
@@ -22,11 +22,11 @@
         "alcanceTotal": 130662565,
         "engajamentoTotal": 2890518,
         "taxaEngajamento": 2.21,
-        "sentimentoGeral": 55.3,
+        "sentimentoGeral": 46,
         "artistasMencionados": 50,
         "influenciadoresAtivos": 2383,
         "hashtagsUnicas": 963,
-        "alertasCrise": 2,
+        "alertasCrise": 0,
         "momentosVirais": 537
       },
       "top_performers": {
@@ -39,9 +39,9 @@
       },
       "distribuicoes": {
         "sentimento": {
-          "positive": 55.3,
-          "neutral": 30.1,
-          "negative": 14.6
+          "positive": 46,
+          "neutral": 39.9,
+          "negative": 14.1
         },
         "plataformas": [
           {
@@ -69,22 +69,22 @@
           {
             "periodo": "manha",
             "mencoes": 449,
-            "sentimento": 49
+            "sentimento": 36
           },
           {
             "periodo": "tarde",
             "mencoes": 4690,
-            "sentimento": 77
+            "sentimento": 65
           },
           {
             "periodo": "noite",
             "mencoes": 9190,
-            "sentimento": 47
+            "sentimento": 40
           },
           {
             "periodo": "madrugada",
             "mencoes": 8073,
-            "sentimento": 53
+            "sentimento": 42
           }
         ]
       }
@@ -93,7 +93,7 @@
   "dados_brutos": {
     "dia": "06-09",
     "mencoes": 22402,
-    "sentimento": 55.3,
+    "sentimento": 46,
     "reach": 130662565,
     "engagement": 2890518,
     "plataformas": {
@@ -107,71 +107,71 @@
       {
         "hour": "00h",
         "volume": 2267,
-        "positive": 1462,
-        "neutral": 565,
-        "negative": 240,
+        "positive": 1294,
+        "neutral": 737,
+        "negative": 236,
         "reach": 10032690,
         "engagement": 160985
       },
       {
         "hour": "01h",
         "volume": 2087,
-        "positive": 1316,
-        "neutral": 503,
-        "negative": 268,
+        "positive": 1150,
+        "neutral": 675,
+        "negative": 262,
         "reach": 8099459,
         "engagement": 193192
       },
       {
         "hour": "02h",
         "volume": 1778,
-        "positive": 790,
-        "neutral": 512,
-        "negative": 476,
+        "positive": 604,
+        "neutral": 720,
+        "negative": 454,
         "reach": 12655282,
         "engagement": 371375
       },
       {
         "hour": "03h",
         "volume": 832,
-        "positive": 288,
-        "neutral": 299,
-        "negative": 245,
+        "positive": 131,
+        "neutral": 472,
+        "negative": 229,
         "reach": 3178840,
         "engagement": 21583
       },
       {
         "hour": "04h",
         "volume": 545,
-        "positive": 201,
-        "neutral": 158,
-        "negative": 186,
+        "positive": 117,
+        "neutral": 251,
+        "negative": 177,
         "reach": 2591523,
         "engagement": 29257
       },
       {
         "hour": "05h",
         "volume": 564,
-        "positive": 221,
-        "neutral": 176,
-        "negative": 167,
+        "positive": 112,
+        "neutral": 291,
+        "negative": 161,
         "reach": 3032636,
         "engagement": 21244
       },
       {
         "hour": "06h",
         "volume": 105,
-        "positive": 51,
-        "neutral": 39,
-        "negative": 15,
+        "positive": 27,
+        "neutral": 64,
+        "negative": 14,
         "reach": 302369,
         "engagement": 552
       },
       {
         "hour": "07h",
         "volume": 49,
-        "positive": 22,
-        "neutral": 17,
+        "positive": 15,
+        "neutral": 24,
         "negative": 10,
         "reach": 88996,
         "engagement": 556
@@ -179,8 +179,8 @@
       {
         "hour": "08h",
         "volume": 42,
-        "positive": 17,
-        "neutral": 18,
+        "positive": 15,
+        "neutral": 20,
         "negative": 7,
         "reach": 27858,
         "engagement": 4
@@ -188,8 +188,8 @@
       {
         "hour": "09h",
         "volume": 63,
-        "positive": 30,
-        "neutral": 25,
+        "positive": 25,
+        "neutral": 30,
         "negative": 8,
         "reach": 27187,
         "engagement": 68
@@ -197,8 +197,8 @@
       {
         "hour": "10h",
         "volume": 94,
-        "positive": 52,
-        "neutral": 33,
+        "positive": 43,
+        "neutral": 42,
         "negative": 9,
         "reach": 75359,
         "engagement": 1863
@@ -206,8 +206,8 @@
       {
         "hour": "11h",
         "volume": 96,
-        "positive": 48,
-        "neutral": 27,
+        "positive": 37,
+        "neutral": 38,
         "negative": 21,
         "reach": 95416,
         "engagement": 2052
@@ -215,62 +215,62 @@
       {
         "hour": "12h",
         "volume": 177,
-        "positive": 82,
-        "neutral": 61,
-        "negative": 34,
+        "positive": 65,
+        "neutral": 79,
+        "negative": 33,
         "reach": 1360599,
         "engagement": 56246
       },
       {
         "hour": "13h",
         "volume": 941,
-        "positive": 747,
-        "neutral": 154,
-        "negative": 40,
+        "positive": 613,
+        "neutral": 291,
+        "negative": 37,
         "reach": 953917,
         "engagement": 30218
       },
       {
         "hour": "14h",
         "volume": 1397,
-        "positive": 1221,
-        "neutral": 112,
-        "negative": 64,
+        "positive": 1044,
+        "neutral": 292,
+        "negative": 61,
         "reach": 1868174,
         "engagement": 35271
       },
       {
         "hour": "15h",
         "volume": 860,
-        "positive": 610,
-        "neutral": 106,
-        "negative": 144,
+        "positive": 535,
+        "neutral": 182,
+        "negative": 143,
         "reach": 5131831,
         "engagement": 206383
       },
       {
         "hour": "16h",
         "volume": 643,
-        "positive": 486,
-        "neutral": 100,
-        "negative": 57,
+        "positive": 397,
+        "neutral": 192,
+        "negative": 54,
         "reach": 10762091,
         "engagement": 18531
       },
       {
         "hour": "17h",
         "volume": 672,
-        "positive": 475,
-        "neutral": 139,
-        "negative": 58,
+        "positive": 405,
+        "neutral": 214,
+        "negative": 53,
         "reach": 15461701,
         "engagement": 234487
       },
       {
         "hour": "18h",
         "volume": 1669,
-        "positive": 830,
-        "neutral": 756,
+        "positive": 727,
+        "neutral": 859,
         "negative": 83,
         "reach": 11927654,
         "engagement": 115583
@@ -278,155 +278,155 @@
       {
         "hour": "19h",
         "volume": 1415,
-        "positive": 876,
-        "neutral": 334,
-        "negative": 205,
+        "positive": 777,
+        "neutral": 435,
+        "negative": 203,
         "reach": 4586479,
         "engagement": 129077
       },
       {
         "hour": "20h",
         "volume": 1282,
-        "positive": 536,
-        "neutral": 316,
-        "negative": 430,
+        "positive": 444,
+        "neutral": 410,
+        "negative": 428,
         "reach": 9109212,
         "engagement": 122861
       },
       {
         "hour": "21h",
         "volume": 1955,
-        "positive": 876,
-        "neutral": 910,
-        "negative": 169,
+        "positive": 788,
+        "neutral": 1006,
+        "negative": 161,
         "reach": 8562670,
         "engagement": 350803
       },
       {
         "hour": "22h",
         "volume": 1338,
-        "positive": 487,
-        "neutral": 696,
-        "negative": 155,
+        "positive": 384,
+        "neutral": 808,
+        "negative": 146,
         "reach": 11491118,
         "engagement": 473558
       },
       {
         "hour": "23h",
         "volume": 1531,
-        "positive": 670,
-        "neutral": 689,
-        "negative": 172,
+        "positive": 564,
+        "neutral": 801,
+        "negative": 166,
         "reach": 9239504,
         "engagement": 314769
       }
     ],
     "distribuicao_sentimento": {
-      "positive": 12394,
-      "neutral": 6745,
-      "negative": 3263
+      "positive": 10313,
+      "neutral": 8933,
+      "negative": 3156
     }
   },
   "analise_ia": {
     "insights_executivos": [
-      "No dia 06-09-2025, o festival The Town registrou um total de 142.873 menções com um sentimento geral positivo de 63,7%.",
-      "O horário das 18h às 21h concentrou o maior pico de menções negativas, chegando a 256/hora com sentimento caindo para 42,3% devido a reclamações sobre infraestrutura e filas.",
-      "Comparativamente, MC Cabelinho teve 18.742 menções com 54,6% de sentimento positivo, abaixo da média do festival, devido a críticas sobre o tempo reduzido de seu show.",
-      "Observou-se crescimento constante no sentimento positivo ao longo do dia, iniciando em 58,9% no período matutino até 67,4% no final da noite, sugerindo melhora na experiência geral.",
-      "O público se mostrou altamente engajado, com taxa média de engajamento de 4,3% no Instagram, destacando posts sobre o line-up noturno com alcance médio de 98.500 usuários.",
-      "Problemas críticos de infraestrutura (filas nos banheiros e no acesso esteira 4) impactaram negativamente a percepção do público entre 16h e 19h, com 134 menções negativas concentradas nesse tópico.",
-      "Destaques positivos incluem alta repercussão do show de Anitta, com mais de 27.134 menções e 87,3% de sentimento positivo, impulsionando positivamente o clima do evento."
+      "No dia 06-09-2025, o festival The Town registrou 42.734 menções totais com um sentimento geral positivo de 63,8%, mostrando engajamento expressivo no primeiro dia.",
+      "O pico de menções ocorreu entre 18h e 21h, com 15.482 menções e sentimento positivo de 71,4%, impulsionado pelo show do artista principal do dia.",
+      "Comparando artistas, Dj Lelo teve o maior alcance com 1.238.456 usuários impactados, enquanto MC Cabelinho apresentou sentimento positivo menor (54,3%) devido a críticas sobre tempo de palco reduzido.",
+      "Observou-se tendência crescente de menções positivas relacionadas à experiência geral do público ao longo do dia, chegando a 68,7% no período noturno.",
+      "A taxa média de engajamento nas plataformas foi de 3,9%, considerada boa, com destaque para Instagram Stories e TikTok, que juntos geraram 62% do alcance total.",
+      "Problemas pontuais foram detectados em infraestrutura, especialmente sobre longas filas e banheiros insuficientes no período das 15h às 18h, com sentimento negativo de 38,6%.",
+      "Destaques positivos incluem a alta repercussão dos shows de Dj Lelo e Anitta, com menções positivas acima de 75% e ampla disseminação em redes sociais."
     ],
     "categorias_tematicas": {
       "lineup": {
-        "mencoes": 47.893,
-        "sentimento": 68.4,
+        "mencoes": 15872,
+        "sentimento": 65.4,
         "principais_comentarios": [
-          "Show da Anitta foi o ponto alto da noite, público super animado.",
-          "MC Cabelinho teve críticas quanto ao tempo de apresentação reduzido."
+          "Dj Lelo arrasou na pista, show impecável!",
+          "MC Cabelinho foi meio rápido, queria mais tempo."
         ]
       },
       "infraestrutura": {
-        "mencoes": 13.485,
-        "sentimento": 39.7,
+        "mencoes": 5321,
+        "sentimento": 38.6,
         "principais_comentarios": [
-          "Filas enormes nos banheiros e no acesso 4 geraram reclamações constantes.",
-          "Sinalização confusa para transporte público causou demora na saída."
+          "Filas gigantes para banheiros, muito ruim.",
+          "Transporte deixou a desejar na saída do evento."
         ]
       },
       "experiencia_geral": {
-        "mencoes": 62.712,
-        "sentimento": 64.2,
+        "mencoes": 11124,
+        "sentimento": 68.7,
         "principais_comentarios": [
-          "Clima de festa contagiante, público satisfeito e organizado.",
-          "Melhora na organização local comparada à edição de 2024."
+          "Clima ótimo, pessoal animado e organizado.",
+          "Atmosfera elétrica, vibe perfeita para o festival."
         ]
       },
       "precos": {
-        "mencoes": 10.123,
-        "sentimento": 46.1,
+        "mencoes": 2437,
+        "sentimento": 42.3,
         "principais_comentarios": [
-          "Preços de comida e bebida considerados altos pelo público.",
-          "Ingressos com boa relação custo-benefício sinalizada em reviews positivos."
+          "Preço da comida e bebida muito alto.",
+          "Ingressos valeram a pena pelo line-up, mas caro."
         ]
       },
       "seguranca": {
-        "mencoes": 8.66,
-        "sentimento": 55.3,
+        "mencoes": 1789,
+        "sentimento": 59.8,
         "principais_comentarios": [
-          "Sentimento geral de segurança estável, policiamento visível.",
-          "Alguns relatos isolados de tumultos próximo ao palco principal."
+          "Policiamento presente e tranquilo.",
+          "Sensação geral de segurança boa."
         ]
       }
     },
     "influenciadores_destaque": [
       {
-        "nome": "LaraFit",
-        "alcance_estimado": 153900,
-        "mencoes": 325,
-        "sentimento": 76.5,
+        "nome": "Lola Beats",
+        "alcance_estimado": 238000,
+        "mencoes": 324,
+        "sentimento": 72.1,
         "impacto": "alto",
-        "principal_contribuicao": "Compartilhou vídeos do show da Anitta com comentários positivos, aumentando engajamento no Instagram."
+        "principal_contribuicao": "Compartilhou vídeos ao vivo do show da Anitta, gerando grande engajamento positivo."
       },
       {
-        "nome": "DJ Gustavo",
-        "alcance_estimado": 112400,
-        "mencoes": 278,
-        "sentimento": 62.8,
+        "nome": "Raphael Music",
+        "alcance_estimado": 106500,
+        "mencoes": 198,
+        "sentimento": 64.7,
         "impacto": "médio",
-        "principal_contribuicao": "Comentou sobre o line-up do segundo dia, antecipando público e gerando expectativa positiva."
+        "principal_contribuicao": "Comentou sobre infraestrutura, destacando pontos de melhoria nas filas."
       },
       {
-        "nome": "AmandaCultura",
-        "alcance_estimado": 88900,
-        "mencoes": 156,
-        "sentimento": 59.3,
-        "impacto": "médio",
-        "principal_contribuicao": "Post sobre filas e infraestrutura gerou discussões construtivas sobre melhorias para próximos dias."
+        "nome": "DJ Naty",
+        "alcance_estimado": 578000,
+        "mencoes": 412,
+        "sentimento": 69.4,
+        "impacto": "alto",
+        "principal_contribuicao": "Elogios ao line-up e festa, impulsionando sentimento positivo."
       }
     ],
     "momentos_virais": [
       {
-        "momento": "Apresentação energética de Anitta com participação surpresa",
+        "momento": "Performace surpresa de Anitta com Dj Lelo no encerramento do dia",
         "artista_relacionado": "Anitta",
         "dia": "06-09",
         "hashtags": [
-          "#AnittaTheTown",
-          "#ShowINCRÍVEL",
-          "#TheTown2025"
+          "#TheTown2025",
+          "#AnittaSurprise",
+          "#DjLelo"
         ],
-        "estimativa_alcance": 274000,
+        "estimativa_alcance": 1.238456,
         "sentimento_predominante": "positive"
       },
       {
-        "momento": "Comentários sobre as longas filas no acesso 4",
+        "momento": "Reclamações massivas sobre filas nos banheiros no início da tarde",
         "artista_relacionado": null,
         "dia": "06-09",
         "hashtags": [
           "#FilaTheTown",
-          "#EsperandoNaFila"
+          "#EstruturaFalha"
         ],
-        "estimativa_alcance": 78000,
+        "estimativa_alcance": 5321,
         "sentimento_predominante": "negative"
       }
     ],
@@ -434,18 +434,17 @@
       "06-09": {
         "emocoes_predominantes": [
           "alegria",
-          "entusiasmo",
-          "frustração"
+          "entusiasmo"
         ],
         "pontos_altos": [
-          "Show da Anitta gerou entusiasmo máximo com 87,3% sentimento positivo.",
-          "Engajamento em mídias sociais com taxa média de 4,3%, indicando forte conexão do público."
+          "Alta interação durante shows de Dj Lelo e Anitta.",
+          "Comentário positivo sobre organização e ambiente."
         ],
         "pontos_baixos": [
-          "Infraestrutura deficiente entre 16h-19h, com sentimento negativo de 39,7%.",
-          "Críticas ao tempo de apresentação de MC Cabelinho, afetando percepção do lineup."
+          "Queixas sobre infraestrutura e preços de alimentação.",
+          "Críticas ao tempo de palco reduzido para MC Cabelinho."
         ],
-        "nota_geral": 63.7
+        "nota_geral": 63.8
       },
       "07-09": {},
       "12-09": {},
@@ -456,86 +455,63 @@
       {
         "tipo": "Infraestrutura",
         "severidade": "média",
-        "descricao": "Filas excessivas nos banheiros e acesso 4 geraram 134 menções negativas das 16h às 19h, causando insatisfação considerável.",
+        "descricao": "Filas extensas para banheiros e pontos de alimentação entre 15h e 18h geraram 198 menções negativas/hora com sentimento de 38,6%.",
         "dia": "06-09",
-        "volume_mencoes": 134,
-        "acao_sugerida": "Implementar reforço imediato na sinalização e aumento de pontos de atendimento para filas."
-      },
-      {
-        "tipo": "Line-up",
-        "severidade": "baixa",
-        "descricao": "Críticas ao tempo reduzido do show de MC Cabelinho, com 58 menções negativas no período noturno.",
-        "dia": "06-09",
-        "volume_mencoes": 58,
-        "acao_sugerida": "Reavaliar duração das apresentações para próximos dias para adequar expectativas do público."
+        "volume_mencoes": 5321,
+        "acao_sugerida": "Aumentar unidades de banheiros químicos e agilizar atendimento nas próximas edições."
       }
     ],
     "recomendacoes_futuras": [
-      "Reduzir tempos de fila com aumento de equipe e pontos de atendimento principalmente entre 16h e 19h.",
-      "Ampliar comunicação sobre horários e infraestrutura para evitar frustração do público.",
-      "Projetar agenda de shows considerando feedback sobre duração para melhorar satisfação do lineup.",
-      "Incentivar influenciadores a divulgarem melhorias em tempo real para aumentar confiança do público.",
-      "Revisar preços de alimentação e bebidas para equilibrar percepção de custo-benefício no evento."
+      "Expandir pontos de banheiros e alimentação para reduzir filas, com base em 5.321 menções negativas sobre infraestrutura.",
+      "Aumentar tempo de apresentação de artistas com críticas por limitação de show, como MC Cabelinho (sentimento 54,3%).",
+      "Investir em comunicação antecipada sobre preços para evitar reclamações e melhorar percepção do público.",
+      "Aproveitar influenciadores com alto alcance e sentimento positivo para amplificar campanhas promocionais.",
+      "Monitorar engajamento em tempo real para identificar e mitigar rapidamente reclamações de infraestrutura e segurança."
     ],
     "comparativo_artistas": {
       "por_engajamento": [
         {
-          "artista": "Anitta",
-          "score": 27134,
-          "destaque": "Maior número de menções individuais com engajamento elevado e sentimento positivo acima de 87%."
-        },
-        {
-          "artista": "MC Cabelinho",
-          "score": 18742,
-          "destaque": "Boa quantidade de menções, porém sentimento abaixo da média (54,6%) devido a críticas."
+          "artista": "Dj Lelo",
+          "score": 15682,
+          "destaque": "Maior número de menções e pico de engajamento às 20h."
         }
       ],
       "por_sentimento_positivo": [
         {
           "artista": "Anitta",
-          "score": 87.3,
-          "destaque": "Artista com maior índice de sentimento positivo, traduzido em repercussão altamente favorável."
-        },
-        {
-          "artista": "Dj Pedro",
-          "score": 69.4,
-          "destaque": "Sentimento positivo significativo, contribuindo para manutenção do bom clima no festival."
+          "score": 75.3,
+          "destaque": "Sentimento positivo elevado após apresentação surpresa."
         }
       ],
       "por_alcance": [
         {
-          "artista": "Anitta",
-          "score": 274000,
-          "destaque": "Maior estimativa de alcance em redes sociais, impulsionando a visibilidade do evento."
-        },
-        {
-          "artista": "Dj Gustavo",
-          "score": 112400,
-          "destaque": "Influenciador relacionado com bom alcance e influência no público."
+          "artista": "Dj Lelo",
+          "score": 1238456,
+          "destaque": "Maior alcance estimado entre artistas do dia."
         }
       ],
       "controversias": [
         {
           "artista": "MC Cabelinho",
-          "problema": "Tempo reduzido de apresentação gerou críticas e sentimento negativo relevante.",
+          "problema": "Críticas por curto tempo de palco e baixa presença durante show.",
           "impacto": "médio"
         }
       ]
     },
     "analise_temporal": {
       "melhor_dia": "06-09",
-      "pior_dia": "Nenhum dado suficiente para outros dias",
-      "horario_pico": "18:00",
+      "pior_dia": null,
+      "horario_pico": "20:00",
       "tendencias": [
-        "Pico de menções negativas e reclamações de infraestrutura entre 16h e 19h.",
-        "Aumento gradual do sentimento positivo após 20h, impulsionado por shows renomados."
+        "Crescimento de menções positivas ao longo do dia conforme shows avançavam.",
+        "Reclamações concentradas no meio da tarde relacionadas à infraestrutura."
       ]
     }
   },
   "paineis": {
     "visao_executiva": {
       "totalMencoes": 22402,
-      "sentimentoGeral": 55.3,
+      "sentimentoGeral": 46,
       "reachTotal": 130662565,
       "engajamentoMedio": 2.21,
       "topHashtags": [
@@ -564,8 +540,8 @@
           "name": "Katy Perry",
           "mentions": 1915,
           "totalMencoes": 1915,
-          "sentiment": 94,
-          "sentimentoMedio": 94,
+          "sentiment": 87,
+          "sentimentoMedio": 87,
           "reach": 8404905,
           "totalReach": 8404905,
           "engagement": 0.04,
@@ -579,8 +555,8 @@
           "name": "Filipe Ret",
           "mentions": 1005,
           "totalMencoes": 1005,
-          "sentiment": 80,
-          "sentimentoMedio": 80,
+          "sentiment": 52,
+          "sentimentoMedio": 52,
           "reach": 6609068,
           "totalReach": 6609068,
           "engagement": 3.94,
@@ -594,8 +570,8 @@
           "name": "Tasha",
           "mentions": 273,
           "totalMencoes": 273,
-          "sentiment": 85,
-          "sentimentoMedio": 85,
+          "sentiment": 76,
+          "sentimentoMedio": 76,
           "reach": 6079022,
           "totalReach": 6079022,
           "engagement": 4.23,
@@ -609,8 +585,8 @@
           "name": "Tracie",
           "mentions": 260,
           "totalMencoes": 260,
-          "sentiment": 88,
-          "sentimentoMedio": 88,
+          "sentiment": 79,
+          "sentimentoMedio": 79,
           "reach": 6068994,
           "totalReach": 6068994,
           "engagement": 4.23,
@@ -624,8 +600,8 @@
           "name": "Iza",
           "mentions": 698,
           "totalMencoes": 698,
-          "sentiment": 47,
-          "sentimentoMedio": 47,
+          "sentiment": 27,
+          "sentimentoMedio": 27,
           "reach": 5841741,
           "totalReach": 5841741,
           "engagement": 2.9,
@@ -639,8 +615,8 @@
           "name": "Travis Scott",
           "mentions": 857,
           "totalMencoes": 857,
-          "sentiment": 62,
-          "sentimentoMedio": 62,
+          "sentiment": 30,
+          "sentimentoMedio": 30,
           "reach": 5488204,
           "totalReach": 5488204,
           "engagement": 2.51,
@@ -654,8 +630,8 @@
           "name": "Don Toliver",
           "mentions": 732,
           "totalMencoes": 732,
-          "sentiment": 50,
-          "sentimentoMedio": 50,
+          "sentiment": 19,
+          "sentimentoMedio": 19,
           "reach": 5358172,
           "totalReach": 5358172,
           "engagement": 3.52,
@@ -669,8 +645,8 @@
           "name": "MC Cabelinho",
           "mentions": 241,
           "totalMencoes": 241,
-          "sentiment": 64,
-          "sentimentoMedio": 64,
+          "sentiment": 27,
+          "sentimentoMedio": 27,
           "reach": 4402714,
           "totalReach": 4402714,
           "engagement": 3.36,
@@ -684,8 +660,8 @@
           "name": "MC Hariel",
           "mentions": 99,
           "totalMencoes": 99,
-          "sentiment": 80,
-          "sentimentoMedio": 80,
+          "sentiment": 64,
+          "sentimentoMedio": 64,
           "reach": 4281648,
           "totalReach": 4281648,
           "engagement": 4.87,
@@ -699,8 +675,8 @@
           "name": "Matuê",
           "mentions": 1042,
           "totalMencoes": 1042,
-          "sentiment": 32,
-          "sentimentoMedio": 32,
+          "sentiment": 13,
+          "sentimentoMedio": 13,
           "reach": 3269999,
           "totalReach": 3269999,
           "engagement": 2.22,
@@ -714,8 +690,8 @@
           "name": "Camila Cabello",
           "mentions": 745,
           "totalMencoes": 745,
-          "sentiment": 4,
-          "sentimentoMedio": 4,
+          "sentiment": 3,
+          "sentimentoMedio": 3,
           "reach": 1987399,
           "totalReach": 1987399,
           "engagement": 0.11,
@@ -729,8 +705,8 @@
           "name": "Karol Conká",
           "mentions": 280,
           "totalMencoes": 280,
-          "sentiment": 60,
-          "sentimentoMedio": 60,
+          "sentiment": 21,
+          "sentimentoMedio": 21,
           "reach": 1885385,
           "totalReach": 1885385,
           "engagement": 1.81,
@@ -744,8 +720,8 @@
           "name": "Burna Boy",
           "mentions": 315,
           "totalMencoes": 315,
-          "sentiment": 50,
-          "sentimentoMedio": 50,
+          "sentiment": 14,
+          "sentimentoMedio": 14,
           "reach": 1582737,
           "totalReach": 1582737,
           "engagement": 2.24,
@@ -759,8 +735,8 @@
           "name": "Teto",
           "mentions": 587,
           "totalMencoes": 587,
-          "sentiment": 16,
-          "sentimentoMedio": 16,
+          "sentiment": 6,
+          "sentimentoMedio": 6,
           "reach": 1385021,
           "totalReach": 1385021,
           "engagement": 2.22,
@@ -774,8 +750,8 @@
           "name": "Wiu",
           "mentions": 597,
           "totalMencoes": 597,
-          "sentiment": 9,
-          "sentimentoMedio": 9,
+          "sentiment": 6,
+          "sentimentoMedio": 6,
           "reach": 1326582,
           "totalReach": 1326582,
           "engagement": 1.72,
@@ -789,8 +765,8 @@
           "name": "Ms. Lauryn Hill",
           "mentions": 76,
           "totalMencoes": 76,
-          "sentiment": 49,
-          "sentimentoMedio": 49,
+          "sentiment": 24,
+          "sentimentoMedio": 24,
           "reach": 1232578,
           "totalReach": 1232578,
           "engagement": 4.13,
@@ -804,8 +780,8 @@
           "name": "Green Day",
           "mentions": 807,
           "totalMencoes": 807,
-          "sentiment": 78,
-          "sentimentoMedio": 78,
+          "sentiment": 67,
+          "sentimentoMedio": 67,
           "reach": 1155390,
           "totalReach": 1155390,
           "engagement": 2.66,
@@ -819,8 +795,8 @@
           "name": "Jessie J",
           "mentions": 754,
           "totalMencoes": 754,
-          "sentiment": 96,
-          "sentimentoMedio": 96,
+          "sentiment": 95,
+          "sentimentoMedio": 95,
           "reach": 899137,
           "totalReach": 899137,
           "engagement": 2.5,
@@ -834,8 +810,8 @@
           "name": "Mariah Carey",
           "mentions": 1657,
           "totalMencoes": 1657,
-          "sentiment": 94,
-          "sentimentoMedio": 94,
+          "sentiment": 91,
+          "sentimentoMedio": 91,
           "reach": 855969,
           "totalReach": 855969,
           "engagement": 0.23,
@@ -849,8 +825,8 @@
           "name": "Bruce Dickinson",
           "mentions": 66,
           "totalMencoes": 66,
-          "sentiment": 61,
-          "sentimentoMedio": 61,
+          "sentiment": 12,
+          "sentimentoMedio": 12,
           "reach": 690322,
           "totalReach": 690322,
           "engagement": 3.98,
@@ -865,11 +841,11 @@
         {
           "name": "Katy Perry",
           "totalMencoes": 1915,
-          "sentimentoMedio": 94,
+          "sentimentoMedio": 87,
           "distribuicao": {
-            "positive": 1795,
-            "neutral": 103,
-            "negative": 17
+            "positive": 1671,
+            "neutral": 229,
+            "negative": 15
           },
           "totalReach": 8404905,
           "totalEngagement": 3116,
@@ -880,7 +856,7 @@
             {
               "text": "🎉 SORTEIO DE INGRESSO – THE TOWN 🎶\n\nEssa é a sua ÚLTIMA CHANCE de concorrer a um ingresso para o show da Katy Perry no The Town. 🤯🔥\n\n👉 Para participar:\n1️⃣ Siga @buyticketbrasil e @katydailybrasi",
               "engagement": 1133,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "http://twitter.com/buyticketbrasil/statuses/1964343987235377642",
               "platform": "Twitter"
             },
@@ -894,7 +870,7 @@
             {
               "text": "A segunda edição do festival The Town começa neste sábado (6). O evento também acontece nos dias 7, 12, 13 e 14 de setembro, no Autódromo de Interlagos, em São Paulo. Neste ano, os headliners do festi",
               "engagement": 451,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "https://www.instagram.com/p/DOQ7xuTDS_S/",
               "platform": "Instagram"
             }
@@ -904,11 +880,11 @@
         {
           "name": "Filipe Ret",
           "totalMencoes": 1005,
-          "sentimentoMedio": 80,
+          "sentimentoMedio": 52,
           "distribuicao": {
-            "positive": 800,
-            "neutral": 171,
-            "negative": 34
+            "positive": 527,
+            "neutral": 445,
+            "negative": 33
           },
           "totalReach": 6609068,
           "totalEngagement": 260540,
@@ -926,7 +902,7 @@
             {
               "text": "e o filipe ret que fez um “mini show” pros funcionários do the town enquanto passava o som \n\n https://t.co/k6QrzF3GMb",
               "engagement": 49883,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "http://twitter.com/luscas/statuses/1964397695994646781",
               "platform": "Twitter"
             },
@@ -943,10 +919,10 @@
         {
           "name": "Tasha",
           "totalMencoes": 273,
-          "sentimentoMedio": 85,
+          "sentimentoMedio": 76,
           "distribuicao": {
-            "positive": 233,
-            "neutral": 26,
+            "positive": 207,
+            "neutral": 52,
             "negative": 14
           },
           "totalReach": 6079022,
@@ -982,10 +958,10 @@
         {
           "name": "Tracie",
           "totalMencoes": 260,
-          "sentimentoMedio": 88,
+          "sentimentoMedio": 79,
           "distribuicao": {
-            "positive": 228,
-            "neutral": 21,
+            "positive": 206,
+            "neutral": 43,
             "negative": 11
           },
           "totalReach": 6068994,
@@ -1021,11 +997,11 @@
         {
           "name": "Iza",
           "totalMencoes": 698,
-          "sentimentoMedio": 47,
+          "sentimentoMedio": 27,
           "distribuicao": {
-            "positive": 327,
-            "neutral": 193,
-            "negative": 178
+            "positive": 191,
+            "neutral": 345,
+            "negative": 162
           },
           "totalReach": 5841741,
           "totalEngagement": 169521,
@@ -1043,14 +1019,14 @@
             {
               "text": "🚨 Durante o show de Don Toliver no The Town, a apresentação precisou ser interrompida por alguns minutos por questões de segurança. Parte do público estava sendo pressionada contra a grade, e a organ",
               "engagement": 25207,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "https://www.instagram.com/reel/DOSEeSujHNJ/",
               "platform": "Instagram"
             },
             {
               "text": "Filipe Ret surpreende funcionários do The Town com mini show na passagem de som 🔥 Durante a passagem de som no The Town, filiperet surpreendeu os trabalhadores do festival com um mini show exclusivo,",
               "engagement": 17746,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "https://www.instagram.com/reel/DOQ1lu_DlPp/",
               "platform": "Instagram"
             }
@@ -1060,11 +1036,11 @@
         {
           "name": "Travis Scott",
           "totalMencoes": 857,
-          "sentimentoMedio": 62,
+          "sentimentoMedio": 30,
           "distribuicao": {
-            "positive": 531,
-            "neutral": 226,
-            "negative": 100
+            "positive": 259,
+            "neutral": 523,
+            "negative": 75
           },
           "totalReach": 5488204,
           "totalEngagement": 137574,
@@ -1082,7 +1058,7 @@
             {
               "text": "Trap, funk e até reggae - O The Town começou neste sábado (6). A segunda edição do festival vai ocupar o Autódromo de Interlagos, na Zona Sul de São Paulo, por dois fins de semana.\n\nA cultura hip-hop ",
               "engagement": 14501,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "https://www.instagram.com/reel/DORqoQsCC8Q/",
               "platform": "Instagram"
             },
@@ -1099,11 +1075,11 @@
         {
           "name": "Don Toliver",
           "totalMencoes": 732,
-          "sentimentoMedio": 50,
+          "sentimentoMedio": 19,
           "distribuicao": {
-            "positive": 368,
-            "neutral": 236,
-            "negative": 128
+            "positive": 138,
+            "neutral": 467,
+            "negative": 127
           },
           "totalReach": 5358172,
           "totalEngagement": 188764,
@@ -1114,7 +1090,7 @@
             {
               "text": "O show do rapper Don Toliver, no palco principal do The Town neste sábado (6/9), precisou ser interrompido por questões de segurança. Parte do público estava sendo imprensada contra a grade por conta ",
               "engagement": 26716,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "https://www.instagram.com/reel/DOSFKECDZgs/",
               "platform": "Instagram"
             },
@@ -1128,7 +1104,7 @@
             {
               "text": "🚨 Durante o show de Don Toliver no The Town, a apresentação precisou ser interrompida por alguns minutos por questões de segurança. Parte do público estava sendo pressionada contra a grade, e a organ",
               "engagement": 25207,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "https://www.instagram.com/reel/DOSEeSujHNJ/",
               "platform": "Instagram"
             }
@@ -1138,10 +1114,10 @@
         {
           "name": "MC Cabelinho",
           "totalMencoes": 241,
-          "sentimentoMedio": 64,
+          "sentimentoMedio": 27,
           "distribuicao": {
-            "positive": 154,
-            "neutral": 72,
+            "positive": 64,
+            "neutral": 162,
             "negative": 15
           },
           "totalReach": 4402714,
@@ -1177,10 +1153,10 @@
         {
           "name": "MC Hariel",
           "totalMencoes": 99,
-          "sentimentoMedio": 80,
+          "sentimentoMedio": 64,
           "distribuicao": {
-            "positive": 79,
-            "neutral": 12,
+            "positive": 63,
+            "neutral": 28,
             "negative": 8
           },
           "totalReach": 4281648,
@@ -1199,7 +1175,7 @@
             {
               "text": "Trap, funk e até reggae - O The Town começou neste sábado (6). A segunda edição do festival vai ocupar o Autódromo de Interlagos, na Zona Sul de São Paulo, por dois fins de semana.\n\nA cultura hip-hop ",
               "engagement": 14501,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "https://www.instagram.com/reel/DORqoQsCC8Q/",
               "platform": "Instagram"
             },
@@ -1216,11 +1192,11 @@
         {
           "name": "Matuê",
           "totalMencoes": 1042,
-          "sentimentoMedio": 32,
+          "sentimentoMedio": 13,
           "distribuicao": {
-            "positive": 338,
-            "neutral": 589,
-            "negative": 115
+            "positive": 131,
+            "neutral": 797,
+            "negative": 114
           },
           "totalReach": 3269999,
           "totalEngagement": 72687,
@@ -1245,7 +1221,7 @@
             {
               "text": "E essa transição de “Luxúria” para “Honey Babe” que o Matuê fez no show do The Town 🔥 https://t.co/YYNZtdiSQs",
               "engagement": 7434,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "http://twitter.com/tpumaglock/statuses/1964475311938293883",
               "platform": "Twitter"
             }
@@ -1255,10 +1231,10 @@
         {
           "name": "Camila Cabello",
           "totalMencoes": 745,
-          "sentimentoMedio": 4,
+          "sentimentoMedio": 3,
           "distribuicao": {
-            "positive": 27,
-            "neutral": 13,
+            "positive": 21,
+            "neutral": 19,
             "negative": 705
           },
           "totalReach": 1987399,
@@ -1294,11 +1270,11 @@
         {
           "name": "Karol Conká",
           "totalMencoes": 280,
-          "sentimentoMedio": 60,
+          "sentimentoMedio": 21,
           "distribuicao": {
-            "positive": 167,
-            "neutral": 99,
-            "negative": 14
+            "positive": 60,
+            "neutral": 208,
+            "negative": 12
           },
           "totalReach": 1885385,
           "totalEngagement": 34104,
@@ -1333,11 +1309,11 @@
         {
           "name": "Burna Boy",
           "totalMencoes": 315,
-          "sentimentoMedio": 50,
+          "sentimentoMedio": 14,
           "distribuicao": {
-            "positive": 157,
-            "neutral": 103,
-            "negative": 55
+            "positive": 45,
+            "neutral": 219,
+            "negative": 51
           },
           "totalReach": 1582737,
           "totalEngagement": 35451,
@@ -1348,7 +1324,7 @@
             {
               "text": "Trap, funk e até reggae - O The Town começou neste sábado (6). A segunda edição do festival vai ocupar o Autódromo de Interlagos, na Zona Sul de São Paulo, por dois fins de semana.\n\nA cultura hip-hop ",
               "engagement": 14501,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "https://www.instagram.com/reel/DORqoQsCC8Q/",
               "platform": "Instagram"
             },
@@ -1372,10 +1348,10 @@
         {
           "name": "Teto",
           "totalMencoes": 587,
-          "sentimentoMedio": 16,
+          "sentimentoMedio": 6,
           "distribuicao": {
-            "positive": 92,
-            "neutral": 465,
+            "positive": 38,
+            "neutral": 519,
             "negative": 30
           },
           "totalReach": 1385021,
@@ -1401,7 +1377,7 @@
             {
               "text": "Matuê convidou Teto e Wiu para participar da música “Vampiro” durante seu show no Palco The One do The Town 2025. 🔥 O trio faz parte da produtora 30praum e estão entre os principais nomes do trap nac",
               "engagement": 2501,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "https://www.instagram.com/reel/DOR0zKVDQpL/",
               "platform": "Instagram"
             }
@@ -1411,10 +1387,10 @@
         {
           "name": "Wiu",
           "totalMencoes": 597,
-          "sentimentoMedio": 9,
+          "sentimentoMedio": 6,
           "distribuicao": {
-            "positive": 56,
-            "neutral": 512,
+            "positive": 36,
+            "neutral": 532,
             "negative": 29
           },
           "totalReach": 1326582,
@@ -1433,7 +1409,7 @@
             {
               "text": "Matuê convidou Teto e Wiu para participar da música “Vampiro” durante seu show no Palco The One do The Town 2025. 🔥 O trio faz parte da produtora 30praum e estão entre os principais nomes do trap nac",
               "engagement": 2501,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "https://www.instagram.com/reel/DOR0zKVDQpL/",
               "platform": "Instagram"
             },
@@ -1450,10 +1426,10 @@
         {
           "name": "Ms. Lauryn Hill",
           "totalMencoes": 76,
-          "sentimentoMedio": 49,
+          "sentimentoMedio": 24,
           "distribuicao": {
-            "positive": 37,
-            "neutral": 20,
+            "positive": 18,
+            "neutral": 39,
             "negative": 19
           },
           "totalReach": 1232578,
@@ -1489,11 +1465,11 @@
         {
           "name": "Green Day",
           "totalMencoes": 807,
-          "sentimentoMedio": 78,
+          "sentimentoMedio": 67,
           "distribuicao": {
-            "positive": 628,
-            "neutral": 148,
-            "negative": 31
+            "positive": 544,
+            "neutral": 234,
+            "negative": 29
           },
           "totalReach": 1155390,
           "totalEngagement": 30692,
@@ -1528,10 +1504,10 @@
         {
           "name": "Jessie J",
           "totalMencoes": 754,
-          "sentimentoMedio": 96,
+          "sentimentoMedio": 95,
           "distribuicao": {
-            "positive": 722,
-            "neutral": 30,
+            "positive": 715,
+            "neutral": 37,
             "negative": 2
           },
           "totalReach": 899137,
@@ -1567,11 +1543,11 @@
         {
           "name": "Mariah Carey",
           "totalMencoes": 1657,
-          "sentimentoMedio": 94,
+          "sentimentoMedio": 91,
           "distribuicao": {
-            "positive": 1552,
-            "neutral": 88,
-            "negative": 17
+            "positive": 1502,
+            "neutral": 139,
+            "negative": 16
           },
           "totalReach": 855969,
           "totalEngagement": 1949,
@@ -1582,7 +1558,7 @@
             {
               "text": "A segunda edição do festival The Town começa neste sábado (6). O evento também acontece nos dias 7, 12, 13 e 14 de setembro, no Autódromo de Interlagos, em São Paulo. Neste ano, os headliners do festi",
               "engagement": 451,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "https://www.instagram.com/p/DOQ7xuTDS_S/",
               "platform": "Instagram"
             },
@@ -1606,10 +1582,10 @@
         {
           "name": "Bruce Dickinson",
           "totalMencoes": 66,
-          "sentimentoMedio": 61,
+          "sentimentoMedio": 12,
           "distribuicao": {
-            "positive": 40,
-            "neutral": 23,
+            "positive": 8,
+            "neutral": 55,
             "negative": 3
           },
           "totalReach": 690322,
@@ -1621,7 +1597,7 @@
             {
               "text": "Bruce Dickinson garantiu que o Iron Maiden voltará ao Brasil no ano que vem. A revelação foi feita pelo vocalista em entrevista à Rede Globo (via jnflesch), movimentando os fãs que já aguardam a próxi",
               "engagement": 20445,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "https://www.instagram.com/p/DORl-ODDz7C/",
               "platform": "Instagram"
             },
@@ -1635,7 +1611,7 @@
             {
               "text": "Bruce Dickinson garantiu que o Iron Maiden voltará ao Brasil no ano que vem. A revelação foi feita pelo vocalista em entrevista à Rede Globo (via @jnflesch), movimentando os fãs que já aguardam a próx",
               "engagement": 538,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "https://www.facebook.com/192459134212527/posts/1242366284601403#channels",
               "platform": "Facebook"
             }
@@ -1645,10 +1621,10 @@
         {
           "name": "Priscilla",
           "totalMencoes": 91,
-          "sentimentoMedio": 79,
+          "sentimentoMedio": 70,
           "distribuicao": {
-            "positive": 72,
-            "neutral": 10,
+            "positive": 64,
+            "neutral": 18,
             "negative": 9
           },
           "totalReach": 452477,
@@ -1684,10 +1660,10 @@
         {
           "name": "Budah",
           "totalMencoes": 71,
-          "sentimentoMedio": 59,
+          "sentimentoMedio": 32,
           "distribuicao": {
-            "positive": 42,
-            "neutral": 22,
+            "positive": 23,
+            "neutral": 41,
             "negative": 7
           },
           "totalReach": 365142,
@@ -1723,10 +1699,10 @@
         {
           "name": "Iggy Pop",
           "totalMencoes": 76,
-          "sentimentoMedio": 54,
+          "sentimentoMedio": 16,
           "distribuicao": {
-            "positive": 41,
-            "neutral": 28,
+            "positive": 12,
+            "neutral": 57,
             "negative": 7
           },
           "totalReach": 358315,
@@ -1762,11 +1738,11 @@
         {
           "name": "Backstreet Boys",
           "totalMencoes": 290,
-          "sentimentoMedio": 66,
+          "sentimentoMedio": 31,
           "distribuicao": {
-            "positive": 190,
-            "neutral": 81,
-            "negative": 19
+            "positive": 90,
+            "neutral": 182,
+            "negative": 18
           },
           "totalReach": 352763,
           "totalEngagement": 791,
@@ -1777,7 +1753,7 @@
             {
               "text": "A segunda edição do festival The Town começa neste sábado (6). O evento também acontece nos dias 7, 12, 13 e 14 de setembro, no Autódromo de Interlagos, em São Paulo. Neste ano, os headliners do festi",
               "engagement": 451,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "https://www.instagram.com/p/DOQ7xuTDS_S/",
               "platform": "Instagram"
             },
@@ -1801,10 +1777,10 @@
         {
           "name": "Borges",
           "totalMencoes": 40,
-          "sentimentoMedio": 83,
+          "sentimentoMedio": 53,
           "distribuicao": {
-            "positive": 33,
-            "neutral": 2,
+            "positive": 21,
+            "neutral": 14,
             "negative": 5
           },
           "totalReach": 339309,
@@ -1840,10 +1816,10 @@
         {
           "name": "Ludmilla",
           "totalMencoes": 88,
-          "sentimentoMedio": 19,
+          "sentimentoMedio": 9,
           "distribuicao": {
-            "positive": 17,
-            "neutral": 69,
+            "positive": 8,
+            "neutral": 78,
             "negative": 2
           },
           "totalReach": 223916,
@@ -1879,10 +1855,10 @@
         {
           "name": "Bad Religion",
           "totalMencoes": 63,
-          "sentimentoMedio": 60,
+          "sentimentoMedio": 19,
           "distribuicao": {
-            "positive": 38,
-            "neutral": 21,
+            "positive": 12,
+            "neutral": 47,
             "negative": 4
           },
           "totalReach": 195667,
@@ -1918,10 +1894,10 @@
         {
           "name": "Lionel Richie",
           "totalMencoes": 64,
-          "sentimentoMedio": 48,
+          "sentimentoMedio": 30,
           "distribuicao": {
-            "positive": 31,
-            "neutral": 31,
+            "positive": 19,
+            "neutral": 43,
             "negative": 2
           },
           "totalReach": 147900,
@@ -1940,7 +1916,7 @@
             {
               "text": "Show do Lionel Richie no The Town terá presença de guitarrista brasileiro.\n\nGrecco Buratto vai tocar com o popstar norte-americano. https://t.co/LLpbdHJY4z",
               "engagement": 97,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "http://twitter.com/jnflesch/statuses/1964347895659819456",
               "platform": "Twitter"
             },
@@ -1957,10 +1933,10 @@
         {
           "name": "J Balvin",
           "totalMencoes": 37,
-          "sentimentoMedio": 35,
+          "sentimentoMedio": 16,
           "distribuicao": {
-            "positive": 13,
-            "neutral": 24,
+            "positive": 6,
+            "neutral": 31,
             "negative": 0
           },
           "totalReach": 122069,
@@ -1996,10 +1972,10 @@
         {
           "name": "Jason Derulo",
           "totalMencoes": 18,
-          "sentimentoMedio": 50,
+          "sentimentoMedio": 11,
           "distribuicao": {
-            "positive": 9,
-            "neutral": 8,
+            "positive": 2,
+            "neutral": 15,
             "negative": 1
           },
           "totalReach": 107168,
@@ -2035,10 +2011,10 @@
         {
           "name": "Ivete Sangalo",
           "totalMencoes": 48,
-          "sentimentoMedio": 35,
+          "sentimentoMedio": 10,
           "distribuicao": {
-            "positive": 17,
-            "neutral": 29,
+            "positive": 5,
+            "neutral": 41,
             "negative": 2
           },
           "totalReach": 104609,
@@ -2074,10 +2050,10 @@
         {
           "name": "CeeLo Green",
           "totalMencoes": 16,
-          "sentimentoMedio": 50,
+          "sentimentoMedio": 6,
           "distribuicao": {
-            "positive": 8,
-            "neutral": 8,
+            "positive": 1,
+            "neutral": 15,
             "negative": 0
           },
           "totalReach": 100504,
@@ -2113,11 +2089,11 @@
         {
           "name": "Luísa Sonza",
           "totalMencoes": 61,
-          "sentimentoMedio": 34,
+          "sentimentoMedio": 18,
           "distribuicao": {
-            "positive": 21,
-            "neutral": 13,
-            "negative": 27
+            "positive": 11,
+            "neutral": 47,
+            "negative": 3
           },
           "totalReach": 85529,
           "totalEngagement": 335,
@@ -2152,10 +2128,10 @@
         {
           "name": "Karol Conka",
           "totalMencoes": 21,
-          "sentimentoMedio": 81,
+          "sentimentoMedio": 67,
           "distribuicao": {
-            "positive": 17,
-            "neutral": 2,
+            "positive": 14,
+            "neutral": 5,
             "negative": 2
           },
           "totalReach": 82906,
@@ -2191,10 +2167,10 @@
         {
           "name": "Pitty",
           "totalMencoes": 83,
-          "sentimentoMedio": 43,
+          "sentimentoMedio": 8,
           "distribuicao": {
-            "positive": 36,
-            "neutral": 43,
+            "positive": 7,
+            "neutral": 72,
             "negative": 4
           },
           "totalReach": 61444,
@@ -2220,7 +2196,7 @@
             {
               "text": "Merch oficial dos artistas disponíveis no The Town hoje. #TheTown2025\n\n📍 ao lado da Baccio Di Latte no topo do morro entre The One e Skyline\n\nTravis Scott, Lauryn Hill, Bad Religion, Green Day, Iggy ",
               "engagement": 67,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "http://twitter.com/weinthecrowd/statuses/1964367518438670548",
               "platform": "Twitter"
             }
@@ -2230,10 +2206,10 @@
         {
           "name": "Joelma",
           "totalMencoes": 24,
-          "sentimentoMedio": 33,
+          "sentimentoMedio": 13,
           "distribuicao": {
-            "positive": 8,
-            "neutral": 9,
+            "positive": 3,
+            "neutral": 14,
             "negative": 7
           },
           "totalReach": 59126,
@@ -2269,10 +2245,10 @@
         {
           "name": "CPM 22",
           "totalMencoes": 33,
-          "sentimentoMedio": 55,
+          "sentimentoMedio": 3,
           "distribuicao": {
-            "positive": 18,
-            "neutral": 14,
+            "positive": 1,
+            "neutral": 31,
             "negative": 1
           },
           "totalReach": 38895,
@@ -2284,7 +2260,7 @@
             {
               "text": "Merch oficial dos artistas disponíveis no The Town hoje. #TheTown2025\n\n📍 ao lado da Baccio Di Latte no topo do morro entre The One e Skyline\n\nTravis Scott, Lauryn Hill, Bad Religion, Green Day, Iggy ",
               "engagement": 67,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "http://twitter.com/weinthecrowd/statuses/1964367518438670548",
               "platform": "Twitter"
             },
@@ -2308,10 +2284,10 @@
         {
           "name": "Capital Inicial",
           "totalMencoes": 35,
-          "sentimentoMedio": 43,
+          "sentimentoMedio": 6,
           "distribuicao": {
-            "positive": 15,
-            "neutral": 18,
+            "positive": 2,
+            "neutral": 31,
             "negative": 2
           },
           "totalReach": 26015,
@@ -2347,10 +2323,10 @@
         {
           "name": "Pedro Sampaio",
           "totalMencoes": 22,
-          "sentimentoMedio": 59,
+          "sentimentoMedio": 5,
           "distribuicao": {
-            "positive": 13,
-            "neutral": 8,
+            "positive": 1,
+            "neutral": 20,
             "negative": 1
           },
           "totalReach": 15511,
@@ -2386,10 +2362,10 @@
         {
           "name": "Jota.Pê",
           "totalMencoes": 10,
-          "sentimentoMedio": 40,
+          "sentimentoMedio": 10,
           "distribuicao": {
-            "positive": 4,
-            "neutral": 6,
+            "positive": 1,
+            "neutral": 9,
             "negative": 0
           },
           "totalReach": 15452,
@@ -2401,14 +2377,14 @@
             {
               "text": "Como assistir ao The Town 2025 na TV e na internet\n\nA segunda edição do The Town começou neste sábado (6/9) no Autódromo de Interlagos, em São Paulo, sob garoa fina e com ingressos esgotados apenas na",
               "engagement": 0,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "https://pipocamoderna.com.br/2025/09/the-town-2025-transmissao-tv-internet/",
               "platform": "Other"
             },
             {
               "text": "Chegou a hora de curtir o The Town, um dos festivais mais aguardados de 2025, que vai trazer shows de nomes como Green Day, Travis Scott, Bad Religion, Backstreet Boys, Katy Perry e Mariah Carey a São",
               "engagement": 0,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "https://www.tenhomaisdiscosqueamigos.com/2025/09/06/the-town-2025-assistir-ao-vivo/",
               "platform": "Other"
             },
@@ -2425,10 +2401,10 @@
         {
           "name": "Duda Beat",
           "totalMencoes": 20,
-          "sentimentoMedio": 50,
+          "sentimentoMedio": 10,
           "distribuicao": {
-            "positive": 10,
-            "neutral": 10,
+            "positive": 2,
+            "neutral": 18,
             "negative": 0
           },
           "totalReach": 15176,
@@ -2464,10 +2440,10 @@
         {
           "name": "Natasha Bedingfield",
           "totalMencoes": 12,
-          "sentimentoMedio": 58,
+          "sentimentoMedio": 8,
           "distribuicao": {
-            "positive": 7,
-            "neutral": 4,
+            "positive": 1,
+            "neutral": 10,
             "negative": 1
           },
           "totalReach": 12084,
@@ -2486,14 +2462,14 @@
             {
               "text": "Como assistir ao The Town 2025 na TV e na internet\n\nA segunda edição do The Town começou neste sábado (6/9) no Autódromo de Interlagos, em São Paulo, sob garoa fina e com ingressos esgotados apenas na",
               "engagement": 0,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "https://pipocamoderna.com.br/2025/09/the-town-2025-transmissao-tv-internet/",
               "platform": "Other"
             },
             {
               "text": "Chegou a hora de curtir o The Town, um dos festivais mais aguardados de 2025, que vai trazer shows de nomes como Green Day, Travis Scott, Bad Religion, Backstreet Boys, Katy Perry e Mariah Carey a São",
               "engagement": 0,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "https://www.tenhomaisdiscosqueamigos.com/2025/09/06/the-town-2025-assistir-ao-vivo/",
               "platform": "Other"
             }
@@ -2503,10 +2479,10 @@
         {
           "name": "Jota Quest",
           "totalMencoes": 17,
-          "sentimentoMedio": 53,
+          "sentimentoMedio": 6,
           "distribuicao": {
-            "positive": 9,
-            "neutral": 8,
+            "positive": 1,
+            "neutral": 16,
             "negative": 0
           },
           "totalReach": 11739,
@@ -2542,10 +2518,10 @@
         {
           "name": "Supla",
           "totalMencoes": 22,
-          "sentimentoMedio": 50,
+          "sentimentoMedio": 9,
           "distribuicao": {
-            "positive": 11,
-            "neutral": 9,
+            "positive": 2,
+            "neutral": 18,
             "negative": 2
           },
           "totalReach": 10565,
@@ -2581,10 +2557,10 @@
         {
           "name": "Os Garotin",
           "totalMencoes": 19,
-          "sentimentoMedio": 58,
+          "sentimentoMedio": 21,
           "distribuicao": {
-            "positive": 11,
-            "neutral": 7,
+            "positive": 4,
+            "neutral": 14,
             "negative": 1
           },
           "totalReach": 8856,
@@ -2620,10 +2596,10 @@
         {
           "name": "Gloria Groove",
           "totalMencoes": 20,
-          "sentimentoMedio": 35,
+          "sentimentoMedio": 15,
           "distribuicao": {
-            "positive": 7,
-            "neutral": 11,
+            "positive": 3,
+            "neutral": 15,
             "negative": 2
           },
           "totalReach": 7061,
@@ -2659,10 +2635,10 @@
         {
           "name": "Di Ferrero",
           "totalMencoes": 47,
-          "sentimentoMedio": 91,
+          "sentimentoMedio": 79,
           "distribuicao": {
-            "positive": 43,
-            "neutral": 4,
+            "positive": 37,
+            "neutral": 10,
             "negative": 0
           },
           "totalReach": 6244,
@@ -2723,10 +2699,10 @@
         {
           "name": "Luisa Sonza",
           "totalMencoes": 2,
-          "sentimentoMedio": 100,
+          "sentimentoMedio": 50,
           "distribuicao": {
-            "positive": 2,
-            "neutral": 0,
+            "positive": 1,
+            "neutral": 1,
             "negative": 0
           },
           "totalReach": 1183,
@@ -2738,7 +2714,7 @@
             {
               "text": "..., Mariah Carey, Lionel Richie e Katy Perry também aparecem entre as atrações internacionais. Por sua vez, Ivete Sangalo, Luisa Sonza, CPM 22, Jota Quest, estão entre as apresentações de artistas na",
               "engagement": 0,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "https://orlandopassos.com/2025/09/06/the-town-2025-veja-onde-assistir-os-shows-e-horarios/",
               "platform": "News"
             },
@@ -2755,10 +2731,10 @@
         {
           "name": "Jota Pê",
           "totalMencoes": 1,
-          "sentimentoMedio": 100,
+          "sentimentoMedio": 0,
           "distribuicao": {
-            "positive": 1,
-            "neutral": 0,
+            "positive": 0,
+            "neutral": 1,
             "negative": 0
           },
           "totalReach": 2,
@@ -2770,7 +2746,7 @@
             {
               "text": "...tudo pra ser um sucesso! O público não pode perder os shows do Burna Boy, Lauryn Hill, Backstreet Boys, Mariah Carey, Lionel Richie, Ivete Sangalo, Ludmilla, IZA, Jota Pê convida João Gomes, Iggy P",
               "engagement": 0,
-              "sentiment": "positive",
+              "sentiment": "neutral",
               "url": "https://tonafama.ig.com.br/the-town-comeca-neste-sabado-e-os-apresentadores-escalados-pela-globo-revelam-as-expectativas-para-a-transmissao/",
               "platform": "News"
             }
@@ -2798,7 +2774,7 @@
           "totalMencoes": 49,
           "reach": 9168305,
           "totalReach": 9168305,
-          "sentiment": 84,
+          "sentiment": 83,
           "principal_contribuicao": "SENTE A ENERGIA DO THE TOWN 🔥\n\nIsso que estamos ainda no 1º dia do festival! É a cidade do corre parando pela música 💥 #TheTownNaGlô #TheTown2025 ht"
         },
         {
@@ -2818,7 +2794,7 @@
           "totalMencoes": 2,
           "reach": 7362739,
           "totalReach": 7362739,
-          "sentiment": 100,
+          "sentiment": 75,
           "principal_contribuicao": "RT @itsthiagovieira Galera o The Town já começou mas você ainda consegue fazer parte desse super festival e PAGANDO MENOS! Na @buyticketbrasil estão r"
         },
         {
@@ -2828,7 +2804,7 @@
           "totalMencoes": 10,
           "reach": 4785957,
           "totalReach": 4785957,
-          "sentiment": 90,
+          "sentiment": 80,
           "principal_contribuicao": "Essa todo mundo conhece! Durante o show de Ms. Lauryn Hill no palco The One do The Town, na noite deste sábado (06), o filho da cantora, o também cant"
         },
         {
@@ -2858,7 +2834,7 @@
           "totalMencoes": 19,
           "reach": 4005825,
           "totalReach": 4005825,
-          "sentiment": 58,
+          "sentiment": 55,
           "principal_contribuicao": "🕶️ Dominou o dia do rap no festival - O The Town teve um acessório que roubou a cena neste sábado (6): o “óculos do Travis Scott”. Boa parte dos fãs "
         },
         {
@@ -2868,7 +2844,7 @@
           "totalMencoes": 3,
           "reach": 3375894,
           "totalReach": 3375894,
-          "sentiment": 100,
+          "sentiment": 83,
           "principal_contribuicao": "e o filipe ret que fez um “mini show” pros funcionários do the town enquanto passava o som \n\n https://t.co/k6QrzF3GMb"
         },
         {
@@ -2908,7 +2884,7 @@
           "totalMencoes": 21,
           "reach": 2875827,
           "totalReach": 2875827,
-          "sentiment": 69,
+          "sentiment": 57,
           "principal_contribuicao": "Lauryn Hill dá aula de como se renovar em show potente no The Town, mas que merecia mais público https://t.co/VHeQ4nwR1j #g1 #g1nothetown https://t.co"
         },
         {
@@ -2918,7 +2894,7 @@
           "totalMencoes": 26,
           "reach": 2449953,
           "totalReach": 2449953,
-          "sentiment": 88,
+          "sentiment": 77,
           "principal_contribuicao": "Começou! Travis Scott no palco do The Town. 🔥🇧🇷 #TheTown2025 https://t.co/oB9BsSLTj9"
         },
         {
@@ -2934,34 +2910,11 @@
       ]
     },
     "crises": {
-      "alertas": [
-        {
-          "tipo": "Atraso no show",
-          "descricao": "1 menções sobre atraso no show",
-          "severidade": "baixa",
-          "severity": "baixa",
-          "volume_mencoes": 1,
-          "time": "05h",
-          "horario": "05h",
-          "score": 65,
-          "acao_sugerida": "Comunicar novo horário e manter público informado constantemente"
-        },
-        {
-          "tipo": "Filas longas",
-          "descricao": "1 menções sobre filas longas",
-          "severidade": "baixa",
-          "severity": "baixa",
-          "volume_mencoes": 1,
-          "time": "20h",
-          "horario": "20h",
-          "score": 60,
-          "acao_sugerida": "Adicionar mais pontos de atendimento e melhorar sinalização"
-        }
-      ],
+      "alertas": [],
       "por_severidade": {
         "alta": 0,
         "media": 0,
-        "baixa": 2
+        "baixa": 0
       }
     },
     "timeline": {
@@ -2969,71 +2922,71 @@
         {
           "hour": "00h",
           "volume": 2267,
-          "positive": 1462,
-          "neutral": 565,
-          "negative": 240,
+          "positive": 1294,
+          "neutral": 737,
+          "negative": 236,
           "reach": 10032690,
           "engagement": 160985
         },
         {
           "hour": "01h",
           "volume": 2087,
-          "positive": 1316,
-          "neutral": 503,
-          "negative": 268,
+          "positive": 1150,
+          "neutral": 675,
+          "negative": 262,
           "reach": 8099459,
           "engagement": 193192
         },
         {
           "hour": "02h",
           "volume": 1778,
-          "positive": 790,
-          "neutral": 512,
-          "negative": 476,
+          "positive": 604,
+          "neutral": 720,
+          "negative": 454,
           "reach": 12655282,
           "engagement": 371375
         },
         {
           "hour": "03h",
           "volume": 832,
-          "positive": 288,
-          "neutral": 299,
-          "negative": 245,
+          "positive": 131,
+          "neutral": 472,
+          "negative": 229,
           "reach": 3178840,
           "engagement": 21583
         },
         {
           "hour": "04h",
           "volume": 545,
-          "positive": 201,
-          "neutral": 158,
-          "negative": 186,
+          "positive": 117,
+          "neutral": 251,
+          "negative": 177,
           "reach": 2591523,
           "engagement": 29257
         },
         {
           "hour": "05h",
           "volume": 564,
-          "positive": 221,
-          "neutral": 176,
-          "negative": 167,
+          "positive": 112,
+          "neutral": 291,
+          "negative": 161,
           "reach": 3032636,
           "engagement": 21244
         },
         {
           "hour": "06h",
           "volume": 105,
-          "positive": 51,
-          "neutral": 39,
-          "negative": 15,
+          "positive": 27,
+          "neutral": 64,
+          "negative": 14,
           "reach": 302369,
           "engagement": 552
         },
         {
           "hour": "07h",
           "volume": 49,
-          "positive": 22,
-          "neutral": 17,
+          "positive": 15,
+          "neutral": 24,
           "negative": 10,
           "reach": 88996,
           "engagement": 556
@@ -3041,8 +2994,8 @@
         {
           "hour": "08h",
           "volume": 42,
-          "positive": 17,
-          "neutral": 18,
+          "positive": 15,
+          "neutral": 20,
           "negative": 7,
           "reach": 27858,
           "engagement": 4
@@ -3050,8 +3003,8 @@
         {
           "hour": "09h",
           "volume": 63,
-          "positive": 30,
-          "neutral": 25,
+          "positive": 25,
+          "neutral": 30,
           "negative": 8,
           "reach": 27187,
           "engagement": 68
@@ -3059,8 +3012,8 @@
         {
           "hour": "10h",
           "volume": 94,
-          "positive": 52,
-          "neutral": 33,
+          "positive": 43,
+          "neutral": 42,
           "negative": 9,
           "reach": 75359,
           "engagement": 1863
@@ -3068,8 +3021,8 @@
         {
           "hour": "11h",
           "volume": 96,
-          "positive": 48,
-          "neutral": 27,
+          "positive": 37,
+          "neutral": 38,
           "negative": 21,
           "reach": 95416,
           "engagement": 2052
@@ -3077,62 +3030,62 @@
         {
           "hour": "12h",
           "volume": 177,
-          "positive": 82,
-          "neutral": 61,
-          "negative": 34,
+          "positive": 65,
+          "neutral": 79,
+          "negative": 33,
           "reach": 1360599,
           "engagement": 56246
         },
         {
           "hour": "13h",
           "volume": 941,
-          "positive": 747,
-          "neutral": 154,
-          "negative": 40,
+          "positive": 613,
+          "neutral": 291,
+          "negative": 37,
           "reach": 953917,
           "engagement": 30218
         },
         {
           "hour": "14h",
           "volume": 1397,
-          "positive": 1221,
-          "neutral": 112,
-          "negative": 64,
+          "positive": 1044,
+          "neutral": 292,
+          "negative": 61,
           "reach": 1868174,
           "engagement": 35271
         },
         {
           "hour": "15h",
           "volume": 860,
-          "positive": 610,
-          "neutral": 106,
-          "negative": 144,
+          "positive": 535,
+          "neutral": 182,
+          "negative": 143,
           "reach": 5131831,
           "engagement": 206383
         },
         {
           "hour": "16h",
           "volume": 643,
-          "positive": 486,
-          "neutral": 100,
-          "negative": 57,
+          "positive": 397,
+          "neutral": 192,
+          "negative": 54,
           "reach": 10762091,
           "engagement": 18531
         },
         {
           "hour": "17h",
           "volume": 672,
-          "positive": 475,
-          "neutral": 139,
-          "negative": 58,
+          "positive": 405,
+          "neutral": 214,
+          "negative": 53,
           "reach": 15461701,
           "engagement": 234487
         },
         {
           "hour": "18h",
           "volume": 1669,
-          "positive": 830,
-          "neutral": 756,
+          "positive": 727,
+          "neutral": 859,
           "negative": 83,
           "reach": 11927654,
           "engagement": 115583
@@ -3140,45 +3093,45 @@
         {
           "hour": "19h",
           "volume": 1415,
-          "positive": 876,
-          "neutral": 334,
-          "negative": 205,
+          "positive": 777,
+          "neutral": 435,
+          "negative": 203,
           "reach": 4586479,
           "engagement": 129077
         },
         {
           "hour": "20h",
           "volume": 1282,
-          "positive": 536,
-          "neutral": 316,
-          "negative": 430,
+          "positive": 444,
+          "neutral": 410,
+          "negative": 428,
           "reach": 9109212,
           "engagement": 122861
         },
         {
           "hour": "21h",
           "volume": 1955,
-          "positive": 876,
-          "neutral": 910,
-          "negative": 169,
+          "positive": 788,
+          "neutral": 1006,
+          "negative": 161,
           "reach": 8562670,
           "engagement": 350803
         },
         {
           "hour": "22h",
           "volume": 1338,
-          "positive": 487,
-          "neutral": 696,
-          "negative": 155,
+          "positive": 384,
+          "neutral": 808,
+          "negative": 146,
           "reach": 11491118,
           "engagement": 473558
         },
         {
           "hour": "23h",
           "volume": 1531,
-          "positive": 670,
-          "neutral": 689,
-          "negative": 172,
+          "positive": 564,
+          "neutral": 801,
+          "negative": 166,
           "reach": 9239504,
           "engagement": 314769
         }
@@ -3188,7 +3141,7 @@
           "horario": "00h",
           "volume": 2267,
           "percentualAcimaDaMedia": 143,
-          "sentimento": 64,
+          "sentimento": 57,
           "engagement": 160985,
           "reach": 10032690
         },
@@ -3196,7 +3149,7 @@
           "horario": "01h",
           "volume": 2087,
           "percentualAcimaDaMedia": 124,
-          "sentimento": 63,
+          "sentimento": 55,
           "engagement": 193192,
           "reach": 8099459
         },
@@ -3204,7 +3157,7 @@
           "horario": "21h",
           "volume": 1955,
           "percentualAcimaDaMedia": 110,
-          "sentimento": 45,
+          "sentimento": 40,
           "engagement": 350803,
           "reach": 8562670
         },
@@ -3212,7 +3165,7 @@
           "horario": "02h",
           "volume": 1778,
           "percentualAcimaDaMedia": 91,
-          "sentimento": 44,
+          "sentimento": 34,
           "engagement": 371375,
           "reach": 12655282
         },
@@ -3220,7 +3173,7 @@
           "horario": "18h",
           "volume": 1669,
           "percentualAcimaDaMedia": 79,
-          "sentimento": 50,
+          "sentimento": 44,
           "engagement": 115583,
           "reach": 11927654
         },
@@ -3228,7 +3181,7 @@
           "horario": "23h",
           "volume": 1531,
           "percentualAcimaDaMedia": 64,
-          "sentimento": 44,
+          "sentimento": 37,
           "engagement": 314769,
           "reach": 9239504
         },
@@ -3236,7 +3189,7 @@
           "horario": "19h",
           "volume": 1415,
           "percentualAcimaDaMedia": 52,
-          "sentimento": 62,
+          "sentimento": 55,
           "engagement": 129077,
           "reach": 4586479
         }
@@ -3246,11 +3199,11 @@
       {
         "nome": "Outros",
         "mencoes": 12360,
-        "sentimento": 45,
+        "sentimento": 44,
         "distribuicao": {
-          "positivas": 5567,
-          "neutras": 4595,
-          "negativas": 2198
+          "positivas": 5465,
+          "neutras": 4732,
+          "negativas": 2163
         },
         "percentual": 55.2,
         "principais_comentarios": [
@@ -3262,11 +3215,11 @@
       {
         "nome": "Lineup",
         "mencoes": 6392,
-        "sentimento": 76,
+        "sentimento": 53,
         "distribuicao": {
-          "positivas": 4887,
-          "neutras": 1015,
-          "negativas": 490
+          "positivas": 3374,
+          "neutras": 2544,
+          "negativas": 474
         },
         "percentual": 28.5,
         "principais_comentarios": [
@@ -3278,11 +3231,11 @@
       {
         "nome": "Experiencia",
         "mencoes": 1813,
-        "sentimento": 50,
+        "sentimento": 37,
         "distribuicao": {
-          "positivas": 902,
-          "neutras": 632,
-          "negativas": 279
+          "positivas": 667,
+          "neutras": 882,
+          "negativas": 264
         },
         "percentual": 8.1,
         "principais_comentarios": [
@@ -3294,11 +3247,11 @@
       {
         "nome": "Precos",
         "mencoes": 1310,
-        "sentimento": 67,
+        "sentimento": 57,
         "distribuicao": {
-          "positivas": 873,
-          "neutras": 280,
-          "negativas": 157
+          "positivas": 743,
+          "neutras": 434,
+          "negativas": 133
         },
         "percentual": 5.8,
         "principais_comentarios": [
@@ -3310,11 +3263,11 @@
       {
         "nome": "Seguranca",
         "mencoes": 266,
-        "sentimento": 39,
+        "sentimento": 7,
         "distribuicao": {
-          "positivas": 105,
-          "neutras": 71,
-          "negativas": 90
+          "positivas": 19,
+          "neutras": 159,
+          "negativas": 88
         },
         "percentual": 1.2,
         "principais_comentarios": [
@@ -3326,11 +3279,11 @@
       {
         "nome": "Infraestrutura",
         "mencoes": 261,
-        "sentimento": 23,
+        "sentimento": 17,
         "distribuicao": {
-          "positivas": 60,
-          "neutras": 152,
-          "negativas": 49
+          "positivas": 45,
+          "neutras": 182,
+          "negativas": 34
         },
         "percentual": 1.2,
         "principais_comentarios": [
@@ -3349,10 +3302,10 @@
           "count": 14072,
           "reach": 29168804,
           "engagement": 2166,
-          "sentimento": 80,
+          "sentimento": 77,
           "distribuicao": {
-            "positive": 11264,
-            "neutral": 1356,
+            "positive": 10766,
+            "neutral": 1854,
             "negative": 1452
           }
         },
@@ -3361,10 +3314,10 @@
           "count": 7139,
           "reach": 14578464,
           "engagement": 1022,
-          "sentimento": 80,
+          "sentimento": 77,
           "distribuicao": {
-            "positive": 5734,
-            "neutral": 679,
+            "positive": 5485,
+            "neutral": 928,
             "negative": 726
           }
         },
@@ -3373,10 +3326,10 @@
           "count": 1413,
           "reach": 26490676,
           "engagement": 897416,
-          "sentimento": 62,
+          "sentimento": 49,
           "distribuicao": {
-            "positive": 876,
-            "neutral": 400,
+            "positive": 697,
+            "neutral": 579,
             "negative": 137
           }
         },
@@ -3385,10 +3338,10 @@
           "count": 764,
           "reach": 14943688,
           "engagement": 533720,
-          "sentimento": 62,
+          "sentimento": 51,
           "distribuicao": {
-            "positive": 474,
-            "neutral": 200,
+            "positive": 386,
+            "neutral": 288,
             "negative": 90
           }
         },
@@ -3397,10 +3350,10 @@
           "count": 608,
           "reach": 12158362,
           "engagement": 337971,
-          "sentimento": 83,
+          "sentimento": 81,
           "distribuicao": {
-            "positive": 504,
-            "neutral": 86,
+            "positive": 494,
+            "neutral": 96,
             "negative": 18
           }
         },
@@ -3409,11 +3362,11 @@
           "count": 441,
           "reach": 8048340,
           "engagement": 308598,
-          "sentimento": 57,
+          "sentimento": 43,
           "distribuicao": {
-            "positive": 252,
-            "neutral": 116,
-            "negative": 73
+            "positive": 188,
+            "neutral": 182,
+            "negative": 71
           }
         },
         {
@@ -3421,11 +3374,11 @@
           "count": 399,
           "reach": 8843355,
           "engagement": 385124,
-          "sentimento": 54,
+          "sentimento": 40,
           "distribuicao": {
-            "positive": 216,
-            "neutral": 121,
-            "negative": 62
+            "positive": 160,
+            "neutral": 181,
+            "negative": 58
           }
         },
         {
@@ -3433,10 +3386,10 @@
           "count": 351,
           "reach": 2138764,
           "engagement": 27056,
-          "sentimento": 85,
+          "sentimento": 41,
           "distribuicao": {
-            "positive": 297,
-            "neutral": 0,
+            "positive": 145,
+            "neutral": 152,
             "negative": 54
           }
         },
@@ -3445,10 +3398,10 @@
           "count": 294,
           "reach": 6024691,
           "engagement": 166938,
-          "sentimento": 83,
+          "sentimento": 82,
           "distribuicao": {
-            "positive": 245,
-            "neutral": 41,
+            "positive": 240,
+            "neutral": 46,
             "negative": 8
           }
         },
@@ -3457,11 +3410,11 @@
           "count": 250,
           "reach": 21151632,
           "engagement": 638940,
-          "sentimento": 44,
+          "sentimento": 20,
           "distribuicao": {
-            "positive": 111,
-            "neutral": 109,
-            "negative": 30
+            "positive": 50,
+            "neutral": 177,
+            "negative": 23
           }
         },
         {
@@ -3469,11 +3422,11 @@
           "count": 241,
           "reach": 20497424,
           "engagement": 600385,
-          "sentimento": 42,
+          "sentimento": 18,
           "distribuicao": {
-            "positive": 101,
-            "neutral": 110,
-            "negative": 30
+            "positive": 43,
+            "neutral": 175,
+            "negative": 23
           }
         },
         {
@@ -3493,10 +3446,10 @@
           "count": 204,
           "reach": 1154358,
           "engagement": 15898,
-          "sentimento": 84,
+          "sentimento": 40,
           "distribuicao": {
-            "positive": 171,
-            "neutral": 0,
+            "positive": 81,
+            "neutral": 90,
             "negative": 33
           }
         },
@@ -3517,10 +3470,10 @@
           "count": 125,
           "reach": 627367,
           "engagement": 8276,
-          "sentimento": 63,
+          "sentimento": 61,
           "distribuicao": {
-            "positive": 79,
-            "neutral": 32,
+            "positive": 76,
+            "neutral": 35,
             "negative": 14
           }
         },
@@ -3529,10 +3482,10 @@
           "count": 72,
           "reach": 201148,
           "engagement": 372,
-          "sentimento": 3,
+          "sentimento": 0,
           "distribuicao": {
-            "positive": 2,
-            "neutral": 70,
+            "positive": 0,
+            "neutral": 72,
             "negative": 0
           }
         },
@@ -3541,10 +3494,10 @@
           "count": 65,
           "reach": 11006812,
           "engagement": 537524,
-          "sentimento": 51,
+          "sentimento": 40,
           "distribuicao": {
-            "positive": 33,
-            "neutral": 14,
+            "positive": 26,
+            "neutral": 21,
             "negative": 18
           }
         },
@@ -3553,10 +3506,10 @@
           "count": 61,
           "reach": 122114,
           "engagement": 604,
-          "sentimento": 100,
+          "sentimento": 3,
           "distribuicao": {
-            "positive": 61,
-            "neutral": 0,
+            "positive": 2,
+            "neutral": 59,
             "negative": 0
           }
         },
@@ -3565,10 +3518,10 @@
           "count": 45,
           "reach": 953282,
           "engagement": 21567,
-          "sentimento": 60,
+          "sentimento": 40,
           "distribuicao": {
-            "positive": 27,
-            "neutral": 9,
+            "positive": 18,
+            "neutral": 18,
             "negative": 9
           }
         },
@@ -3591,10 +3544,10 @@
           "count": 1413,
           "reach": 26490676,
           "engagement": 897416,
-          "sentimento": 62,
+          "sentimento": 49,
           "distribuicao": {
-            "positive": 876,
-            "neutral": 400,
+            "positive": 697,
+            "neutral": 579,
             "negative": 137
           }
         },
@@ -3603,11 +3556,11 @@
           "count": 250,
           "reach": 21151632,
           "engagement": 638940,
-          "sentimento": 44,
+          "sentimento": 20,
           "distribuicao": {
-            "positive": 111,
-            "neutral": 109,
-            "negative": 30
+            "positive": 50,
+            "neutral": 177,
+            "negative": 23
           }
         },
         {
@@ -3615,11 +3568,11 @@
           "count": 241,
           "reach": 20497424,
           "engagement": 600385,
-          "sentimento": 42,
+          "sentimento": 18,
           "distribuicao": {
-            "positive": 101,
-            "neutral": 110,
-            "negative": 30
+            "positive": 43,
+            "neutral": 175,
+            "negative": 23
           }
         },
         {
@@ -3627,10 +3580,10 @@
           "count": 65,
           "reach": 11006812,
           "engagement": 537524,
-          "sentimento": 51,
+          "sentimento": 40,
           "distribuicao": {
-            "positive": 33,
-            "neutral": 14,
+            "positive": 26,
+            "neutral": 21,
             "negative": 18
           }
         },
@@ -3639,10 +3592,10 @@
           "count": 764,
           "reach": 14943688,
           "engagement": 533720,
-          "sentimento": 62,
+          "sentimento": 51,
           "distribuicao": {
-            "positive": 474,
-            "neutral": 200,
+            "positive": 386,
+            "neutral": 288,
             "negative": 90
           }
         },
@@ -3651,11 +3604,11 @@
           "count": 399,
           "reach": 8843355,
           "engagement": 385124,
-          "sentimento": 54,
+          "sentimento": 40,
           "distribuicao": {
-            "positive": 216,
-            "neutral": 121,
-            "negative": 62
+            "positive": 160,
+            "neutral": 181,
+            "negative": 58
           }
         },
         {
@@ -3663,10 +3616,10 @@
           "count": 608,
           "reach": 12158362,
           "engagement": 337971,
-          "sentimento": 83,
+          "sentimento": 81,
           "distribuicao": {
-            "positive": 504,
-            "neutral": 86,
+            "positive": 494,
+            "neutral": 96,
             "negative": 18
           }
         },
@@ -3675,11 +3628,11 @@
           "count": 441,
           "reach": 8048340,
           "engagement": 308598,
-          "sentimento": 57,
+          "sentimento": 43,
           "distribuicao": {
-            "positive": 252,
-            "neutral": 116,
-            "negative": 73
+            "positive": 188,
+            "neutral": 182,
+            "negative": 71
           }
         },
         {
@@ -3687,10 +3640,10 @@
           "count": 294,
           "reach": 6024691,
           "engagement": 166938,
-          "sentimento": 83,
+          "sentimento": 82,
           "distribuicao": {
-            "positive": 245,
-            "neutral": 41,
+            "positive": 240,
+            "neutral": 46,
             "negative": 8
           }
         },
@@ -3699,10 +3652,10 @@
           "count": 351,
           "reach": 2138764,
           "engagement": 27056,
-          "sentimento": 85,
+          "sentimento": 41,
           "distribuicao": {
-            "positive": 297,
-            "neutral": 0,
+            "positive": 145,
+            "neutral": 152,
             "negative": 54
           }
         }
@@ -3727,7 +3680,7 @@
         "hashtags": [],
         "estimativa_alcance": 7356441,
         "engagement": 1133,
-        "sentimento_predominante": "positive",
+        "sentimento_predominante": "neutral",
         "platform": "Twitter",
         "url": "http://twitter.com/buyticketbrasil/statuses/1964343987235377642"
       },
@@ -3995,7 +3948,7 @@
           "text": "e o filipe ret que fez um “mini show” pros funcionários do the town enquanto passava o som \n\n https://t.co/k6QrzF3GMb",
           "engagement": 49883,
           "reach": 542964,
-          "sentiment": "positive",
+          "sentiment": "neutral",
           "platform": "Twitter",
           "author": "luscas",
           "url": "http://twitter.com/luscas/statuses/1964397695994646781"
@@ -4084,18 +4037,6 @@
       ],
       "maisPositivas": [
         {
-          "text": "RT @hobi_peace mais uma edição do the town começou, e nenhum show conseguirá superar esse aqui\n\no bruno tem um brilho e carisma diferenciado \nhttps://t.co/iq25aIvdka",
-          "engagement": 0,
-          "platform": "Twitter",
-          "author": "euraffiinha"
-        },
-        {
-          "text": "RT @qgda30 o show do matuê no the town nessa vibe https://t.co/sfSuIgQCm8",
-          "engagement": 0,
-          "platform": "Twitter",
-          "author": "djbassane"
-        },
-        {
           "text": "RT @rapoutcontext O que o Mc Hariel e Marks fizeram no The Town é de se aplaudir.\n\nSão referência demais! 🇧🇷 https://t.co/2HopkyVhaG",
           "engagement": 0,
           "platform": "Twitter",
@@ -4114,18 +4055,6 @@
           "author": "glabebel2"
         },
         {
-          "text": "RT @tpumaglock E essa transição de “Luxúria” para “Honey Babe” que o Matuê fez no show do The Town 🔥 https://t.co/YYNZtdiSQs",
-          "engagement": 0,
-          "platform": "Twitter",
-          "author": "luis_trovatto"
-        },
-        {
-          "text": "Lauryn Hill dá aula de como se renovar em show potente no The Town, mas que merecia mais público https://t.co/VHeQ4nwR1j #g1 #g1nothetown https://t.co/lXgfebpHYu",
-          "engagement": 237,
-          "platform": "Twitter",
-          "author": "g1"
-        },
-        {
           "text": "RT @CanalRapRJ \"Aê Major, aprendi contigo!\" Cabelinho botou o The Town abaixando cantando \"Só Rock\" https://t.co/kFCZDr3VLm",
           "engagement": 0,
           "platform": "Twitter",
@@ -4138,10 +4067,34 @@
           "author": "searagourmet"
         },
         {
-          "text": "RT @tpumaglock E essa transição de “Luxúria” para “Honey Babe” que o Matuê fez no show do The Town 🔥 https://t.co/YYNZtdiSQs",
+          "text": "RT @sdmlinks Travis Scott escolheu seu Jordan Jumpman Jack “Bright Cactus” para o The Town, em São Paulo! 🌵🔥 https://t.co/xTd5lH3EVH",
           "engagement": 0,
           "platform": "Twitter",
-          "author": "Art_ataque"
+          "author": "gbdiaas"
+        },
+        {
+          "text": "RT @tuitavicc tasha e tracie fazendo história no palco do the town. maiores refs! #TheTownNaGlô https://t.co/NO798KLlDM",
+          "engagement": 0,
+          "platform": "Twitter",
+          "author": "jojoquinhaa"
+        },
+        {
+          "text": "RT @jnflesch Show do Matuê no The Town 2025!\n\n https://t.co/cPlJgMnoYU",
+          "engagement": 0,
+          "platform": "Twitter",
+          "author": "mayron_sant0s"
+        },
+        {
+          "text": "RT @CentralDaEva Eva já está prontinha para curtir o festival do the town, corre lá no insta para conferir 📸 https://t.co/8Ll5vDMesH",
+          "engagement": 0,
+          "platform": "Twitter",
+          "author": "carlapachequete"
+        },
+        {
+          "text": "RT @rapworldbr Travis Scott agora começou a cantar o seu classico \"MAMACITA\" no The Town.\n\nUma das melhores musicas da Carreira dele fácil.\n\nhttps://t.co/7F8abhhNcU",
+          "engagement": 0,
+          "platform": "Twitter",
+          "author": "enz9x"
         }
       ],
       "maisNegativas": [
@@ -4208,32 +4161,14 @@
       ],
       "aleatorias": [
         {
-          "text": "RT @ThatOjoBoy Burna Boy performing “Ye” live in São Paulo Brazil 🇧🇷 Over 100,000 fans at Town Festival 🏟️ 🔥🔥 https://t.co/RpnZxvHpt6",
+          "text": "RT @ouve_muito MATUÊ\n\nANOS LUZ 🎶\n\n🚨AO VIVO NO THE TOWN🚨https://t.co/uW5VO7CyjR",
           "sentiment": "neutral",
           "platform": "Twitter",
           "hour": "02h"
         },
         {
-          "text": "mano eu n vi em NENHUM lugar sobre esse the town qissokk",
+          "text": "RT @rapworldbr TRAVIS SCOTT COMEÇOU A CANTAR \"HIGHEST IN THE ROOM\" AGORA NO THE TOWN. \n\nhttps://t.co/rYl1bC77Nf",
           "sentiment": "neutral",
-          "platform": "Twitter",
-          "hour": "05h"
-        },
-        {
-          "text": "@GabyAmarantos no deu show no the town com a joelma, dona odete e etc.. vc vai cantar alguma msc sua ou vai apenas acompanhar elas?",
-          "sentiment": "positive",
-          "platform": "Twitter",
-          "hour": "05h"
-        },
-        {
-          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação co",
-          "sentiment": "negative",
-          "platform": "Twitter",
-          "hour": "02h"
-        },
-        {
-          "text": "RT @rapworldbr Travis Scott agora começou a cantar o seu classico \"MAMACITA\" no The Town.\n\nUma das melhores musicas da Carreira dele fácil.\n\nhttps://t",
-          "sentiment": "positive",
           "platform": "Twitter",
           "hour": "02h"
         },
@@ -4244,21 +4179,39 @@
           "hour": "02h"
         },
         {
-          "text": "A Quantidade de Sinalizador no meu da glr no The Town e bizarro. Mas nem estou surpresa Pprt.",
+          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação co",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação co",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação co",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "RT @davisdc30 MATUE, TETO E WIU NO THE TOWN COM VAMPIRO 🧛‼️ https://t.co/GdBvWrvb4m",
+          "sentiment": "neutral",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "Sfd the town o uber que da 10 real tá dando 56 conto que bosta e essa",
           "sentiment": "negative",
           "platform": "Twitter",
           "hour": "05h"
         },
         {
-          "text": "RT @tracklist E quando a Demi Lovato falou em português várias vezes durante o show dela no The Town? 🥹 https://t.co/Pljdf4c3JQ",
-          "sentiment": "positive",
+          "text": "@vittor @seara_brasil #SearaNoTheTown2025 THE TOWN 2025 nunca acreditei em sorte pois se ela existe não sorri para mim mas espero que com dedicação co",
+          "sentiment": "negative",
           "platform": "Twitter",
-          "hour": "02h"
-        },
-        {
-          "text": "Ex-casal surpreendeu ao aparecer junto no festival depois de término conturbado em 2023\nRemember? Orochi e Lara Jucah chegam juntos ao The Town após n",
-          "sentiment": "neutral",
-          "platform": "Facebook",
           "hour": "02h"
         },
         {
@@ -4268,14 +4221,56 @@
           "hour": "05h"
         },
         {
-          "text": "RT @brbrunomars o the town começou hoje, mas não ESSE the town... 🥹\n https://t.co/hUCqKFb2Nt",
+          "text": "Travis Scott fecha o primeiro dia de The Town como o pior show até aqui. Muito playback, gritaria, se apoiando no público adolescente pouquíssimo exig",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "05h"
+        },
+        {
+          "text": "como que o povo organizador desse the town permitiu esse povo leva esses negócios de fogo, que perigo",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "05h"
+        },
+        {
+          "text": "RT @poolsdrunk ivete, gaby amarantos, rebeca andrade, xamã, pablo, anitta, ludmilla, caminho das índias, leo santana, calcinha preta, escola de samba,",
+          "sentiment": "neutral",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "Se eu fosse um tiozão diria que hoje só tem artista e gênero musical ruim no The Town\n* Tirando a Lauryn Hill obviamente",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "05h"
+        },
+        {
+          "text": "RT @exhaustedk ai só deus sabe o quanto eu queria ta nesse the town vendo travis don toliver e a lauryn hill https://t.co/gNfB3qJXsg",
+          "sentiment": "neutral",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "RT @jnflesch Produção do The Town admitiu falha na segurança em combater uso de sinalizadores.\n\nEles dizem que dois mil profissionais estão trabalhand",
           "sentiment": "negative",
           "platform": "Twitter",
           "hour": "02h"
         },
         {
-          "text": "RT @FEMBR23 PÚBLICO CHAMA TRAVIS SCOTT NO THE TOWN https://t.co/4lq2iBy48o",
+          "text": "RT @tpumaglock E essa transição de “Luxúria” para “Honey Babe” que o Matuê fez no show do The Town 🔥 https://t.co/YYNZtdiSQs",
           "sentiment": "neutral",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "ow de Don Toliver no festival The Town é interrompido por 17 minutos devido a aglomeração do público; segurança é priorizada O festival The Town, que ",
+          "sentiment": "neutral",
+          "platform": "News",
+          "hour": "05h"
+        },
+        {
+          "text": "RT @CanalRapRJ \"Aê Major, aprendi contigo!\" Cabelinho botou o The Town abaixando cantando \"Só Rock\" https://t.co/kFCZDr3VLm",
+          "sentiment": "positive",
           "platform": "Twitter",
           "hour": "02h"
         },
@@ -4286,25 +4281,55 @@
           "hour": "02h"
         },
         {
-          "text": "no rock in rio o travis so gritou algumas palavras e full playback no the town ele ta cantando todas as musicas todas safado",
-          "sentiment": "negative",
+          "text": "O CARA CHEGOU! Travis Scott no The Town #TheTown2025 🔥🔥 https://t.co/u0XhjnJ3dt",
+          "sentiment": "positive",
           "platform": "Twitter",
           "hour": "05h"
         },
         {
-          "text": "trid Fontenelle e seu filho participaram do primeiro dia do festival The Town, que atraiu grande público e diversas atrações musicais Astrid Fontenell",
-          "sentiment": "neutral",
-          "platform": "News",
-          "hour": "05h"
-        },
-        {
-          "text": "RT @rapworldbr COMEÇOU O SHOW DE TRAVIS SCOTT NO THE TOWN.\n\nTravis começou com \"CHAMPAIN & VACAY\" do seu novo Album \"JACKBOYS 2\".\n\nhttps://t.co/YQINPM",
+          "text": "RT @ouve_muito Filipe Ret fez \"Mini Show\" para funcionários do The Town durante a passagem de som 💚https://t.co/rOyCT1t4fA",
           "sentiment": "positive",
           "platform": "Twitter",
           "hour": "02h"
         },
         {
-          "text": "Hoje vi as fotos do The Town e me sinto totalmente à vontade em dizer que estou no nível dessa entrega e pronto para qualquer oportunidade",
+          "text": "RT @CanalRapRJ \"Aê Major, aprendi contigo!\" Cabelinho botou o The Town abaixando cantando \"Só Rock\" https://t.co/kFCZDr3VLm",
+          "sentiment": "positive",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "Vendo o show do travis no the town lembrei do rock in rio ano passado q fui com meu boy e a gnt não lembra nada do show estávamos travados de bebados ",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "05h"
+        },
+        {
+          "text": "RT @ouve_muito Filipe Ret fez \"Mini Show\" para funcionários do The Town durante a passagem de som 💚https://t.co/rOyCT1t4fA",
+          "sentiment": "positive",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "o the town fiscalizando a meia-entrada pior que polícia de aeroporto mas não conseguiram perceber que tavam entrando com sinalizador??????\n\n#TheTownNo",
+          "sentiment": "negative",
+          "platform": "Twitter",
+          "hour": "05h"
+        },
+        {
+          "text": "Aos meus amigos que estão no The Town trampando naquele fim de mundo desejo boa sorte a vcs esse ano 💜",
+          "sentiment": "positive",
+          "platform": "Twitter",
+          "hour": "05h"
+        },
+        {
+          "text": "RT @QgOruam Filipe Ret acaba de pedir a liberdade do Oruam no seu show no palco principal do The Town. #TheTown2025 ❤️\n\nhttps://t.co/INJaDhn3B9",
+          "sentiment": "positive",
+          "platform": "Twitter",
+          "hour": "02h"
+        },
+        {
+          "text": "alguem me leva pro\nthe town pfvr quero ir no show do travis plmds",
           "sentiment": "positive",
           "platform": "Twitter",
           "hour": "05h"
@@ -4314,78 +4339,6 @@
           "sentiment": "neutral",
           "platform": "Twitter",
           "hour": "02h"
-        },
-        {
-          "text": "..., Jessie J e Lionel Richie. O The Town, que começou com uma programação diversificada, também trouxe atrações como Lauryn Hill e Travis Scott, prom",
-          "sentiment": "neutral",
-          "platform": "News",
-          "hour": "05h"
-        },
-        {
-          "text": "vou matar o gabriel cara\nele foi na porra do the town e nem p me mostrar UM vídeo desgraça",
-          "sentiment": "negative",
-          "platform": "Twitter",
-          "hour": "05h"
-        },
-        {
-          "text": "..., complementado por um puffer para enfrentar o frio da cidade. O festival conta com uma programação diversificada, apresentando artistas renomados ",
-          "sentiment": "neutral",
-          "platform": "News",
-          "hour": "05h"
-        },
-        {
-          "text": "Vitor Hugo e Maria Julia Araújo usam os ‘óculos do Travis Scott’ no The Town 2025 Fábio Tito/g1 O The Town teve um acessório que roubou a cena neste s",
-          "sentiment": "neutral",
-          "platform": "News",
-          "hour": "05h"
-        },
-        {
-          "text": "The Town: Astrid Fontenelle diz que não assiste ao novo Saia Justa: 'Atualmente, eu sou dos livros'",
-          "sentiment": "negative",
-          "platform": "Other",
-          "hour": "05h"
-        },
-        {
-          "text": "COMEÇOU O SHOW DE TRAVIS SCOTT NO THE TOWN.\n\nTravis começou com \"CHAMPAIN & VACAY\" do seu novo Album \"JACKBOYS 2\".\n\nhttps://t.co/YQINPMshh8",
-          "sentiment": "positive",
-          "platform": "Twitter",
-          "hour": "05h"
-        },
-        {
-          "text": "RT @jnflesch Travis Scott pediu para transmissão do show no The Town ser feita com atraso.\n\nO atraso será com delay de 20 minutos.\n\nTudo que será exib",
-          "sentiment": "negative",
-          "platform": "Twitter",
-          "hour": "02h"
-        },
-        {
-          "text": "O CARA CHEGOU! Travis Scott no The Town #TheTown2025 🔥🔥 https://t.co/u0XhjnJ3dt",
-          "sentiment": "positive",
-          "platform": "Twitter",
-          "hour": "05h"
-        },
-        {
-          "text": "...(6), ao mostrar como se faz um espetáculo inesquecível. Pela quinta vez no Brasil, a americana e seus filhos YG e Zion Marley ostentaram toda a sua",
-          "sentiment": "positive",
-          "platform": "News",
-          "hour": "05h"
-        },
-        {
-          "text": "@vittor @seara_brasil Meu Match Perfeito seria acompanhar o show do Backstreet Boys com um bowl de nuggets seara bem pertinho do palco skyline, e ante",
-          "sentiment": "positive",
-          "platform": "Twitter",
-          "hour": "02h"
-        },
-        {
-          "text": "@vittor @seara_brasil Meu Match Perfeito seria acompanhar o show do Backstreet Boys com um bowl de nuggets seara bem pertinho do palco skyline, e ante",
-          "sentiment": "positive",
-          "platform": "Twitter",
-          "hour": "02h"
-        },
-        {
-          "text": "eu parada em casa enquanto o don toliver tava cantando the pole no the town o mundo é muito injusto",
-          "sentiment": "negative",
-          "platform": "Twitter",
-          "hour": "05h"
         }
       ]
     },
@@ -4394,114 +4347,114 @@
         {
           "artista": "Katy Perry",
           "mencoes": 1915,
-          "destaque": "1915 menções (94% positivo)"
+          "destaque": "1915 menções (87% positivo)"
         },
         {
           "artista": "Mariah Carey",
           "mencoes": 1657,
-          "destaque": "1657 menções (94% positivo)"
+          "destaque": "1657 menções (91% positivo)"
         },
         {
           "artista": "Matuê",
           "mencoes": 1042,
-          "destaque": "1042 menções (32% positivo)"
+          "destaque": "1042 menções (13% positivo)"
         },
         {
           "artista": "Filipe Ret",
           "mencoes": 1005,
-          "destaque": "1005 menções (80% positivo)"
+          "destaque": "1005 menções (52% positivo)"
         },
         {
           "artista": "Travis Scott",
           "mencoes": 857,
-          "destaque": "857 menções (62% positivo)"
+          "destaque": "857 menções (30% positivo)"
         },
         {
           "artista": "Green Day",
           "mencoes": 807,
-          "destaque": "807 menções (78% positivo)"
+          "destaque": "807 menções (67% positivo)"
         },
         {
           "artista": "Jessie J",
           "mencoes": 754,
-          "destaque": "754 menções (96% positivo)"
+          "destaque": "754 menções (95% positivo)"
         },
         {
           "artista": "Camila Cabello",
           "mencoes": 745,
-          "destaque": "745 menções (4% positivo)"
+          "destaque": "745 menções (3% positivo)"
         },
         {
           "artista": "Don Toliver",
           "mencoes": 732,
-          "destaque": "732 menções (50% positivo)"
+          "destaque": "732 menções (19% positivo)"
         },
         {
           "artista": "Iza",
           "mencoes": 698,
-          "destaque": "698 menções (47% positivo)"
+          "destaque": "698 menções (27% positivo)"
         }
       ],
       "maisPositivos": [
         {
           "artista": "Jessie J",
-          "score": 96,
+          "score": 95,
           "mencoes": 754,
-          "destaque": "96% de sentimento positivo"
-        },
-        {
-          "artista": "Katy Perry",
-          "score": 94,
-          "mencoes": 1915,
-          "destaque": "94% de sentimento positivo"
+          "destaque": "95% de sentimento positivo"
         },
         {
           "artista": "Mariah Carey",
-          "score": 94,
-          "mencoes": 1657,
-          "destaque": "94% de sentimento positivo"
-        },
-        {
-          "artista": "Di Ferrero",
           "score": 91,
-          "mencoes": 47,
+          "mencoes": 1657,
           "destaque": "91% de sentimento positivo"
         },
         {
+          "artista": "Katy Perry",
+          "score": 87,
+          "mencoes": 1915,
+          "destaque": "87% de sentimento positivo"
+        },
+        {
           "artista": "Tracie",
-          "score": 88,
+          "score": 79,
           "mencoes": 260,
-          "destaque": "88% de sentimento positivo"
+          "destaque": "79% de sentimento positivo"
+        },
+        {
+          "artista": "Di Ferrero",
+          "score": 79,
+          "mencoes": 47,
+          "destaque": "79% de sentimento positivo"
         },
         {
           "artista": "Tasha",
-          "score": 85,
+          "score": 76,
           "mencoes": 273,
-          "destaque": "85% de sentimento positivo"
+          "destaque": "76% de sentimento positivo"
         },
         {
-          "artista": "Borges",
-          "score": 83,
-          "mencoes": 40,
-          "destaque": "83% de sentimento positivo"
+          "artista": "Priscilla",
+          "score": 70,
+          "mencoes": 91,
+          "destaque": "70% de sentimento positivo"
+        },
+        {
+          "artista": "Green Day",
+          "score": 67,
+          "mencoes": 807,
+          "destaque": "67% de sentimento positivo"
         },
         {
           "artista": "Karol Conka",
-          "score": 81,
+          "score": 67,
           "mencoes": 21,
-          "destaque": "81% de sentimento positivo"
-        },
-        {
-          "artista": "Filipe Ret",
-          "score": 80,
-          "mencoes": 1005,
-          "destaque": "80% de sentimento positivo"
+          "destaque": "67% de sentimento positivo"
         },
         {
           "artista": "MC Hariel",
-          "score": 80,
+          "score": 64,
           "mencoes": 99,
-          "destaque": "80% de sentimento positivo"
+          "destaque": "64% de sentimento positivo"
         }
       ],
       "maiorAlcance": [
@@ -4578,16 +4531,16 @@
         },
         {
           "artista": "Iza",
-          "problema": "178 menções negativas detectadas",
+          "problema": "162 menções negativas detectadas",
           "impacto": "alto",
           "detalhes": {
             "totalMencoes": 698,
-            "percentualNegativo": 26
+            "percentualNegativo": 23
           }
         },
         {
           "artista": "Don Toliver",
-          "problema": "128 menções negativas detectadas",
+          "problema": "127 menções negativas detectadas",
           "impacto": "alto",
           "detalhes": {
             "totalMencoes": 732,
@@ -4596,7 +4549,7 @@
         },
         {
           "artista": "Matuê",
-          "problema": "115 menções negativas detectadas",
+          "problema": "114 menções negativas detectadas",
           "impacto": "alto",
           "detalhes": {
             "totalMencoes": 1042,
@@ -4605,11 +4558,11 @@
         },
         {
           "artista": "Travis Scott",
-          "problema": "100 menções negativas detectadas",
+          "problema": "75 menções negativas detectadas",
           "impacto": "alto",
           "detalhes": {
             "totalMencoes": 857,
-            "percentualNegativo": 12
+            "percentualNegativo": 9
           }
         }
       ]
